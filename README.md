@@ -1,5 +1,7 @@
 # 睡前消息编辑部 马前卒工作室 视频节目文稿
 
+## 在线阅读 - [bedtime.blog](https://bedtime.blog)
+
 ## 目录
 
 ### [睡前消息](contents/ShuiQianXiaoXi/INDEX.md)

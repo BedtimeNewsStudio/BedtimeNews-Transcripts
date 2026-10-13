@@ -78,8 +78,8 @@ A股一半的企业在投资房子，一共花了1.1万亿。理财产品1.3万�
 
 ### 已核对
 
-- 确有出入：公开披露显示中央汇金资产总计为5万亿元以上量级（其债券募集文件披露的资产总计序列约5.8万-6.5万亿元，2026年主体长期信用评级报告披露资产总额9.79万亿元），口播「1.5万亿到2万亿之间」远低于汇金实际总资产，疑为把「国家队」某类稳定资金规模误记为汇金总资产。口播概数按惯例保留，不作正文改动。（来源 [chinamoney.com.cn](https://www.chinamoney.com.cn/dqs/cm-s-notice-query/fileDownLoad.do?contentId=3378758&priority=0&mode=save)）
-- 与官方数据基本吻合：西城区政府统计公报显示2018年末常住人口117.9万人、全年一般公共预算收入438.0亿元（2017年约455亿元），口播「120万人口、年财政收入400亿」作为概数成立。（来源 [中国政府网](https://www.bjxch.gov.cn/xcsj/xxxq/pnidpv815017.html)）
+- 确有出入：公开披露显示中央汇金资产总计为5万亿元以上量级（其债券募集文件披露的资产总计序列约5.8万-6.5万亿元，2026年主体长期信用评级报告披露资产总额9.79万亿元），口播「1.5万亿到2万亿之间」远低于汇金实际总资产，疑为把「国家队」某类稳定资金规模误记为汇金总资产。口播概数按惯例保留，不作正文改动。（来源：[chinamoney.com.cn](https://www.chinamoney.com.cn/dqs/cm-s-notice-query/fileDownLoad.do?contentId=3378758&priority=0&mode=save)）
+- 与官方数据基本吻合：西城区政府统计公报显示2018年末常住人口117.9万人、全年一般公共预算收入438.0亿元（2017年约455亿元），口播「120万人口、年财政收入400亿」作为概数成立。（来源：[中国政府网](https://www.bjxch.gov.cn/xcsj/xxxq/pnidpv815017.html)）
 
 [^ref1]: [jiemian.com（已失效）](https://www.jiemian.com/article/2687673.html**)
 [^ref2]: [百度](https://baijiahao.baidu.com/s?id=1619155735918730002&wfr=spider&for=pc**)

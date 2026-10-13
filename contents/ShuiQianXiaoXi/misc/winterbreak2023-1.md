@@ -36,9 +36,5 @@
 
 ### 已核对
 
-- 经 Tavily extract 抓取公众号原文核对（mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw），刊出原文确作「辽宁䦹是去年的两倍」（U+49B9），「䦹」为刊出原文固有笔误属实；但存档稿正文实际脱「䦹」字（作「辽宁是」），与附录说明自相矛盾，应补回（见 corrections）。（来源 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw)）
-- 公众号原文确作「然而，从全国乃至来看」，与存档稿一致，系刊出原文固有笔误，按存档惯例保留原文用字，不改。（来源 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw)）
-
-### 待核对
-
-- 「然而，从全国**乃至**来看」：公众号原文同样如此（「乃至」后缺少「全球」之类的宾语），疑为原文笔误。 无视频版本，B站/YouTube 占位符不适用。
+- 经 Tavily extract 抓取公众号原文核对（mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw），刊出原文确作「辽宁䦹是去年的两倍」（U+49B9），「䦹」为刊出原文固有笔误属实；但存档稿正文实际脱「䦹」字（作「辽宁是」），与附录说明自相矛盾，应补回（见 corrections）。（来源：[mp.weixin.qq.com](https://mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw)）
+- 公众号原文确作「然而，从全国乃至来看」，与存档稿一致，系刊出原文固有笔误，按存档惯例保留原文用字，不改。（来源：[mp.weixin.qq.com](https://mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw)）

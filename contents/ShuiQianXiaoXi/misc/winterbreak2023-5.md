@@ -44,9 +44,5 @@
 
 ### 已核对
 
-- 库内比对确认：公众号存档副本（main/winterbreak2023/5.md）原句即作「对法律的惩罚的严厉性缺乏认识」「几千年前刚刚进入文明社会的的古人」，重复用字系原文自有，干净稿照录正确，无需修改。（来源 [mp.weixin.qq.com](https://mp.weixin.qq.com/s/vEQMi978BGA-q07bvcKXRg)）
-- 汉谟拉比法典第22/23/24条与文中描述一致：第22条拦路抢劫者处死，第23条强盗未获则失主神前宣誓列清单、由城/区长赔偿，第24条若人命丧失则城/区长向死者亲属赔「一弥那白银」（one mina of silver，Johns英译），「160两」确系原文对一弥那的折算说法。按老秤16两=1斤（约500克）恰合一弥那，「160两」疑为「16两」之误，但公众号存档原文即作「160两」，照录不改（如改需音频佐证）。另：库内比对确认上游B站 iframe 确为注释状态（bvid 系占位符）、YouTube iframe（HEmm9O9S2zk）在文、配图恰为8张（wiinterbreak-5-1至5-8），该条末尾语句在本条目中截断，非正文问题。（来源 [oll.libertyfund.org](https://oll.libertyfund.org/pages/1750-the-code-of-hammurabi-johns-translation)）
-
-### 待核对
-
-- 「不进行法制教育」：「法制」「法治」为完全同音词，音频无法判别究竟是哪个字，保留原文。
+- 库内比对确认：公众号存档副本（main/winterbreak2023/5.md）原句即作「对法律的惩罚的严厉性缺乏认识」「几千年前刚刚进入文明社会的的古人」，重复用字系原文自有，干净稿照录正确，无需修改。（来源：[mp.weixin.qq.com](https://mp.weixin.qq.com/s/vEQMi978BGA-q07bvcKXRg)）
+- 汉谟拉比法典第22/23/24条与文中描述一致：第22条拦路抢劫者处死，第23条强盗未获则失主神前宣誓列清单、由城/区长赔偿，第24条若人命丧失则城/区长向死者亲属赔「一弥那白银」（one mina of silver，Johns英译），「160两」确系原文对一弥那的折算说法。按老秤16两=1斤（约500克）恰合一弥那，「160两」疑为「16两」之误，但公众号存档原文即作「160两」，照录不改（如改需音频佐证）。另：库内比对确认上游B站 iframe 确为注释状态（bvid 系占位符）、YouTube iframe（HEmm9O9S2zk）在文、配图恰为8张（wiinterbreak-5-1至5-8），该条末尾语句在本条目中截断，非正文问题。（来源：[oll.libertyfund.org](https://oll.libertyfund.org/pages/1750-the-code-of-hammurabi-johns-translation)）

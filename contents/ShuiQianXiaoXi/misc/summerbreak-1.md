@@ -77,12 +77,11 @@
 
 ### 已核对
 
-- 巴育2010年10月至2014年10月任泰国皇家陆军总司令，2014年5月以该职发动政变；「政军司令」为ASR误转，正文已作「陆军司令」，职务属实。（来源 [维基百科](https://zh.wikipedia.org/zh-hans/%E5%B7%B4%E8%82%B2%C2%B7%E5%8D%A0%E5%A5%A5%E5%B7%AE)）
-- 确系节目口径：IMF当年估算口径下泰国2022年人均GDP约7600-7800美元、排名88上下可对上；但IMF/世界银行最终现价美元口径为约6910美元（世界银行），不同时点与机构差异明显，无法锁定第88名的唯一出处，照录。（来源 [data.worldbank.org.cn](https://data.worldbank.org.cn/indicator/NY.GDP.PCAP.CD?locations=TH)）
+- 巴育2010年10月至2014年10月任泰国皇家陆军总司令，2014年5月以该职发动政变；「政军司令」为ASR误转，正文已作「陆军司令」，职务属实。（来源：[维基百科](https://zh.wikipedia.org/zh-hans/%E5%B7%B4%E8%82%B2%C2%B7%E5%8D%A0%E5%A5%A5%E5%B7%AE)）
+- 确系节目口径：IMF当年估算口径下泰国2022年人均GDP约7600-7800美元、排名88上下可对上；但IMF/世界银行最终现价美元口径为约6910美元（世界银行），不同时点与机构差异明显，无法锁定第88名的唯一出处，照录。（来源：[data.worldbank.org.cn](https://data.worldbank.org.cn/indicator/NY.GDP.PCAP.CD?locations=TH)）
 
 ### 待核对
 
-- 「给认为产业层次落差发展模式起了一个名字」：「认为」疑为串音赘词，无法确认原话
 - 「但苏联对其他国家的政策就没你这么客气了」：「你」指代不明，疑为口播或转写问题
 
 [^ref1]: [转载要求](https://mp.weixin.qq.com/s/lAykTTrSjDxadBYtOaseOw)

@@ -1,4 +1,5 @@
 .localonly/
+.firecrawl/
 .claude/
 __pycache__/
 .DS_Store

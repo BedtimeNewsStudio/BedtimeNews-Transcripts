@@ -1,6 +1,6 @@
 # 【末条新闻3】为什么柬埔寨盐场这么多还不够吃，要向中国求援？
 
-**发布日期** 2018-12-04 | [B站](https://www.bilibili.com/video/BV1Ft411Q7tX) | [YouTube](https://www.youtube.com/watch?v=0SZcGT-hGBM)
+发布日期 2018-12-04 | [B站](https://www.bilibili.com/video/BV1Ft411Q7tX) | [YouTube](https://www.youtube.com/watch?v=0SZcGT-hGBM)
 
 ## 正文
 
@@ -14,6 +14,6 @@
 
 ## 附录
 
-### 信息来源
+### 已核对
 
-- 湖北赤壁正扬小学实验班数学高 11.5 分、语文高 15.3 分，与媒体报道一致
+- 湖北赤壁正扬小学实验班数学高 11.5 分、语文高 15.3 分，与媒体

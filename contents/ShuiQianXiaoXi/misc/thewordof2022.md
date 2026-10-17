@@ -1,8 +1,9 @@
 # 睡前消息年度汉字：噩
 
-**发布日期** 2022-12-31 | [B站](https://www.bilibili.com/video/BV1Lv4y1B7Qj) | [YouTube](https://www.youtube.com/watch?v=NjkXemHfKhM)
+发布日期 2022-12-31 | [B站](https://www.bilibili.com/video/BV1Lv4y1B7Qj) | [YouTube](https://www.youtube.com/watch?v=NjkXemHfKhM)
 
 ## 正文
+
 
 <br/>
 
@@ -22,9 +23,4 @@
 
 ### 已核对
 
-- 前轮已按音频确认为「平缓地收缩到十亿、七亿」两个数字，顿号补充无误（见附录后条记录）；音频核对项，无需联网。（来源：（前轮音频逐段比对，非联网项））
-- 史实成立：1981年中国大陆人口达10亿（国家统计局/维基），马前卒（任冲昊）生于1981年9月，表述无误。（来源：[维基百科](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BA%BA%E5%8F%A3)）
-- B站API核实：BV1Lv4y1B7Qj 标题《睡前消息年度汉字：噩》，发布时间 2022-12-31 17:22:09（UTC+8），与文中一致；YouTube oembed 核实 NjkXemHfKhM 为同名视频（频道：睡前消息），非占位符。（来源：[哔哩哔哩](https://www.bilibili.com/video/BV1Lv4y1B7Qj)）
-- 与音频一致，且史实经联网核实成立（1981年中国人口达10亿，马前卒生于1981年）。（来源：[维基百科](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%89%8D%E5%8D%92_(%E5%AA%92%E4%BD%93%E4%BA%BA))）
-- 前轮音频逐段比对确认，无需联网。（来源：（前轮音频逐段比对，非联网项））
-- 前轮音频逐段比对结论，维持。（来源：（前轮音频逐段比对，非联网项））
+- 国家统计局资料记载，1981年中国人口达到10亿。[国家统计局：控制人口增长成绩巨大](https://www.stats.gov.cn/zt_18555/ztfx/xzg50nxlfxbg/202303/t20230301_1920453.html)

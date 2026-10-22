@@ -23,7 +23,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD
 ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （日期为 UTC 换算的北京日期；同日不同 BV 依次加 -b、-c 小写后缀——2026-09-21 用户裁定）
 ```
 
-通则覆盖 1670 篇；产经日期命名 220 篇；例外 22 篇；合计 1912 篇（= 全库文稿数，脚本已校验无遗漏）。
+通则覆盖 1670 篇；产经日期命名 221 篇；例外 22 篇；合计 1913 篇（= 全库文稿数，脚本已校验无遗漏）。
 
 **文稿互链 href 规则**：正文中引用其它文稿时，链接文字保留原文措辞
 （如「第274期」「睡前消息第二期」），href 用从当前文稿目录出发的相对路径，例：
@@ -1769,7 +1769,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | JiangDianHeiHua/0001-0100/0070.md | 讲点黑话70 |
 | JiangDianHeiHua/0001-0100/0071.md | 讲点黑话71 |
 
-## 产经破壁机（220 篇）
+## 产经破壁机（221 篇）
 
 | URI | 标准化标题 |
 | --- | --- |
@@ -1993,4 +1993,5 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | ChanJingPoBiJi/2026-10-12.md | 产经破壁机2026-10-12 |
 | ChanJingPoBiJi/2026-10-15.md | 产经破壁机2026-10-15 |
 | ChanJingPoBiJi/2026-10-19.md | 产经破壁机2026-10-19 |
+| ChanJingPoBiJi/2026-10-22.md | 产经破壁机2026-10-22 |
 

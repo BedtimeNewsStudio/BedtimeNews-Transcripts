@@ -23,7 +23,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD
 ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （日期为 UTC 换算的北京日期；同日不同 BV 依次加 -b、-c 小写后缀——2026-09-21 用户裁定）
 ```
 
-通则覆盖 1672 篇；产经日期命名 221 篇；例外 22 篇；合计 1915 篇（= 全库文稿数，脚本已校验无遗漏）。
+通则覆盖 1673 篇；产经日期命名 221 篇；例外 22 篇；合计 1916 篇（= 全库文稿数，脚本已校验无遗漏）。
 
 **文稿互链 href 规则**：正文中引用其它文稿时，链接文字保留原文措辞
 （如「第274期」「睡前消息第二期」），href 用从当前文稿目录出发的相对路径，例：
@@ -57,7 +57,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | ShuiQianXiaoXi/misc/winterbreak2023-essay.md | 寒假版随笔 | 特辑/番外（misc/） |
 | CanKaoXinXi/0301-0400/0396-1.md | 参考信息396-1（下架版） | 同号 0396 的下架原版（B站已删），正文题名带「（下架版）」 |
 
-## 睡前消息（889 篇）
+## 睡前消息（890 篇）
 
 | URI | 标准化标题 |
 | --- | --- |
@@ -929,6 +929,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | ShuiQianXiaoXi/1001-1100/1073.md | 睡前消息1073 |
 | ShuiQianXiaoXi/1001-1100/1074.md | 睡前消息1074 |
 | ShuiQianXiaoXi/1001-1100/1075.md | 睡前消息1075 |
+| ShuiQianXiaoXi/1101-1200/1122.md | 睡前消息1122 |
 | ShuiQianXiaoXi/misc/2025interview-1.md | 全嘻嘻采访1 |
 | ShuiQianXiaoXi/misc/2025interview-2.md | 全嘻嘻采访2 |
 | ShuiQianXiaoXi/misc/motiaonews1.md | 末条新闻1 |

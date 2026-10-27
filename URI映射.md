@@ -23,7 +23,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD
 ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （日期为 UTC 换算的北京日期；同日不同 BV 依次加 -b、-c 小写后缀——2026-09-21 用户裁定）
 ```
 
-通则覆盖 1673 篇；产经日期命名 223 篇；例外 22 篇；合计 1918 篇（= 全库文稿数，脚本已校验无遗漏）。
+通则覆盖 1675 篇；产经日期命名 222 篇；例外 22 篇；合计 1919 篇（= 全库文稿数，脚本已校验无遗漏）。
 
 **文稿互链 href 规则**：正文中引用其它文稿时，链接文字保留原文措辞
 （如「第274期」「睡前消息第二期」），href 用从当前文稿目录出发的相对路径，例：
@@ -57,7 +57,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | ShuiQianXiaoXi/misc/winterbreak2023-essay.md | 寒假版随笔 | 特辑/番外（misc/） |
 | CanKaoXinXi/0301-0400/0396-1.md | 参考信息396-1（下架版） | 同号 0396 的下架原版（B站已删），正文题名带「（下架版）」 |
 
-## 睡前消息（890 篇）
+## 睡前消息（891 篇）
 
 | URI | 标准化标题 |
 | --- | --- |
@@ -930,6 +930,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | ShuiQianXiaoXi/1001-1100/1074.md | 睡前消息1074 |
 | ShuiQianXiaoXi/1001-1100/1075.md | 睡前消息1075 |
 | ShuiQianXiaoXi/1101-1200/1122.md | 睡前消息1122 |
+| ShuiQianXiaoXi/1101-1200/1123.md | 睡前消息1123 |
 | ShuiQianXiaoXi/misc/2025interview-1.md | 全嘻嘻采访1 |
 | ShuiQianXiaoXi/misc/2025interview-2.md | 全嘻嘻采访2 |
 | ShuiQianXiaoXi/misc/motiaonews1.md | 末条新闻1 |
@@ -952,7 +953,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | ShuiQianXiaoXi/misc/winterbreak2023-6.md | 寒假版6 |
 | ShuiQianXiaoXi/misc/winterbreak2023-essay.md | 寒假版随笔 |
 
-## 参考信息（667 篇）
+## 参考信息（668 篇）
 
 | URI | 标准化标题 |
 | --- | --- |
@@ -1622,6 +1623,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | CanKaoXinXi/0601-0700/0662.md | 参考信息662 |
 | CanKaoXinXi/0601-0700/0663.md | 参考信息663 |
 | CanKaoXinXi/0601-0700/0664.md | 参考信息664 |
+| CanKaoXinXi/0601-0700/0665.md | 参考信息665 |
 | CanKaoXinXi/0301-0400/0396-1.md | 参考信息396-1（下架版） |
 
 ## 高见（66 篇）
@@ -1772,7 +1774,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | JiangDianHeiHua/0001-0100/0070.md | 讲点黑话70 |
 | JiangDianHeiHua/0001-0100/0071.md | 讲点黑话71 |
 
-## 产经破壁机（223 篇）
+## 产经破壁机（222 篇）
 
 | URI | 标准化标题 |
 | --- | --- |
@@ -1997,6 +1999,5 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | ChanJingPoBiJi/2026-10-15.md | 产经破壁机2026-10-15 |
 | ChanJingPoBiJi/2026-10-19.md | 产经破壁机2026-10-19 |
 | ChanJingPoBiJi/2026-10-22.md | 产经破壁机2026-10-22 |
-| ChanJingPoBiJi/2026-10-26.md | 产经破壁机2026-10-26 |
 | ChanJingPoBiJi/2026-10-26-b.md | 产经破壁机2026-10-26-b |
 

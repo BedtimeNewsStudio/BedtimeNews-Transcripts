@@ -1999,5 +1999,5 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | ChanJingPoBiJi/2026-10-15.md | 产经破壁机2026-10-15 |
 | ChanJingPoBiJi/2026-10-19.md | 产经破壁机2026-10-19 |
 | ChanJingPoBiJi/2026-10-22.md | 产经破壁机2026-10-22 |
-| ChanJingPoBiJi/2026-10-26-b.md | 产经破壁机2026-10-26-b |
+| ChanJingPoBiJi/2026-10-26.md | 产经破壁机2026-10-26 |
 

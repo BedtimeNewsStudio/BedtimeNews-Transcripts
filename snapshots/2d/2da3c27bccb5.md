@@ -1,0 +1,156 @@
+---
+source_url: "https://civics.supremecourthistory.org/article/standard-oil-company-v-united-states"
+captured_at: 2026-11-08T14:04:53Z
+title: "Standard Oil Company v. United States | Supreme Court Historical Society"
+tool: firecrawl
+---
+
+> **网页快照**：2026-11-08 14:04 UTC 抓取自 [原始页面](https://civics.supremecourthistory.org/article/standard-oil-company-v-united-states)（工具：firecrawl）。
+
+# Standard Oil Company v. United States | Supreme Court Historical Society
+
+[Skip navigation links](#main-content)
+
+# _Standard Oil Company v. United States_(1911)
+
+## Significant Case
+
+The Supreme Court decision that established the “rule of reason” in antitrust law and demonstrated the government’s power to regulate monopolies and increase competition.
+
+[Overview](https://civics.supremecourthistory.org/wp-content/uploads/2025/11/Standard-Oil-v.-United-States-1911-1.pdf)
+
+![](https://civics.supremecourthistory.org/wp-content/uploads/2025/11/Next-Thomas-Nast-LOC-e1763055473675.jpg)
+
+[Jump To](#)
+
+- [Overview](#overview)
+- [Decision](#court-opinions)
+- [Discussion Questions](#discussion-questions)
+- [Sources](#sources)
+
+* * *
+
+## **Background**
+
+![Three-quarter length portrait of John D. Rockefeller, wearing a suit, seated and facing front.](https://civics.supremecourthistory.org/wp-content/uploads/2025/11/john-d-rockefeller-loc-1-e1763055751187-243x300.jpg)Portrait of John D. Rockefeller, 1903.
+
+In 1870, at the start of the Gilded Age, John D. Rockefeller founded Standard Oil Company in Cleveland, Ohio. During this period of mass industrialization, unprecedented economic growth, and technological advancements, entrepreneurs like Rockefeller used new business strategies to grow their companies rapidly. Standard Oil squeezed out its competitors by purchasing all of the means of production and driving smaller oil refineries with less money out of business. Rockefeller also negotiated private deals with railroads, resulting in low shipping rates and kickbacks exclusive to Standard Oil. As small oil refineries approached bankruptcy, Standard Oil bought them out and consolidated the stocks into trusts **.** This strategy gave Standard Oil a monopoly over the oil industry and led to a massive concentration of wealth. Rockefeller was worth $1.5 billion when he died in 1937, becoming the world’s first billionaire.
+
+In 1890, Congress attempted to limitmonopolies’ power and promote fair competition by passing the Sherman Antitrust Act. The act was initially applied to labor unions, however, as courts ruled that boycotts and strikes restrained trade. It was rarely enforced against industrial monopolies. In 1895, the Supreme Court’s decision in _EC Knight Company v. United States_ narrowed the scope of the act’s power by exempting manufacturing companies. As a result, the antitrust act had limited reach and big businesses continued to dominate the economy.
+
+In the early 1900s, a growing number of reformers fought to reclaim economic power from Rockefeller and other so-called “robber barons.” Ida Tarbell, for example, became one of several “muckraker” journalists whose research and writing exposed the harm caused by some American capitalists. Her 1904 book, _The History of the Standard Oil Company_, revealed the business’s corrupt tactics and generated public outrage. Even President Theodore Roosevelt (1901-1909) joined the Progressive Movement **,** leading acrusade against what he called the “bad trusts”—trusts that grew their wealth through exploiting consumers and destroying small businesses. Under Roosevelt’s direction, the Department of Justice brought a number of cases against large corporations under the Sherman Antitrust Act. In 1905, he ordered an investigation of the Standard Oil Trust.
+
+* * *
+
+## **Facts**
+
+The United States Department of Justice sued Standard Oil Company in 1906 for violating the Sherman Antitrust Act. The government filed a massive report—about 12,000 pages—detailing 40 years of nefarious business dealings that purposefully and illegally excluded competitors from the market. These findings, the government argued, proved that the trust was “in restraint of trade and amounted to the creation of an unlawful monopoly.”A federal circuit courtagreed in 1909, holding that Standard Oil violated the Sherman Antitrust Act. The court ordered that the company be dissolved. Standard Oil appealed the decision to the Supreme Court of the United States.
+
+* * *
+
+## **Issues**
+
+1. Did Standard Oil Company violate the Sherman Antitrust Act?
+2. Did the Sherman Antitrust Act prohibit all restraints on trade or only “unreasonable” restraints on trade?
+
+* * *
+
+## **Summary**
+
+![](https://civics.supremecourthistory.org/wp-content/uploads/2025/11/standard-oil-photo-loc-300x157.jpg)Standard Oil Works in Cleveland, Ohio. (Library of Congress)
+
+In _Standard Oil Co. of New Jersey v. United States_ (1911), the Supreme Court unanimously upheld the lower court’s decision to dissolve Standard Oil. Writing for the majority, Chief Justice Edward D. White reasoned that the company’s monopoly was “ _the inevitable result_” of combining the stocks of so many corporations. He said that Standard Oil intended to dominate the oil industry “ _not as a result of normal methods of industrial development, but by new means of combination… with the purpose of excluding others from the trade_.”
+
+The Justices then weighed a company’sright to contract against the potential harm caused by its monopolistic behavior. They reviewed the scope of the Sherman Antitrust Act, which broadly outlawed “every contract, combination…or conspiracy in restraint of trade or commerce.” According to the Court, a company had “ _unduly_” restrained trade only if its actions resulted in one of three outcomes:  higher prices, reduced output or reduced quality. Therefore, the antitrust law needed to be viewed “ _in light of reason,_” and not necessarily applied to every large corporation with a monopoly. The Court ruled that the Sherman Antitrust Act barred only monopolies that placed _unreasonable_ restraints on trade—a qualification that applied to Standard Oil. As a result, the decision dissolved the trust into 34 independent companies, split geographically, that would compete with each other.
+
+* * *
+
+## **Precedent Set**
+
+_Standard Oil_ created a framework for evaluating whether a corporation violates the Sherman Antitrust Act. This principle, known as the “rule of reason,” continues to be used in antitrust cases.
+
+* * *
+
+## **Additional Context**
+
+In his retirement, John D. Rockefeller became a philanthropistand used his fortune to create foundations to advance public health, education, and medical research. Though the Court dissolved Standard Oil in 1911, some of the spun-off companies have recombined. ExxonMobil and Chevron, two of the top three largest oil companies in the world, are direct descendants of Standard Oil.
+
+Progressive reformers and politicians continued to advocate for limits on corporate power. In 1914, theClayton Antitrust Actand the Federal Trade Commission (FTC) strengthened the Sherman Antitrust Act. The FTC provided an expert agency to enforce the antitrust laws, while the Clayton Act outlawed  practices that reduced competition. Not everyone, however, supported these reforms. Many disagreed over the government’s role in the economy. Business owners, especially, argued that laissez-faire policies with minimal government intervention were best for the economy as they would allow companies to achieve economies of scale and be competitive on the world market.
+
+_Tags_
+
+- [Landmark Case](https://civics.supremecourthistory.org/listing/?tag=Landmark%20Case)
+
+_Themes_
+
+- [Checks and Balances](https://civics.supremecourthistory.org/listing/?theme=Checks%20and%20Balances)
+- [Commerce](https://civics.supremecourthistory.org/listing/?theme=Commerce)
+
+## Decision
+
+- Majority
+- Concurring
+- Dissenting
+- Recusal
+
+- ![Justice](https://civics.supremecourthistory.org/wp-content/uploads/2025/01/Justice-White-Edward-Douglass-1910-1921-e1769530109290.jpg)
+_White_
+- ![Justice](https://civics.supremecourthistory.org/wp-content/uploads/2025/01/Justice-Harlan-John-Marshall-1877-1911-e1736967561423.jpg)
+_Harlan_
+- ![Justice](https://civics.supremecourthistory.org/wp-content/uploads/2025/01/Justice-McKenna-Joseph-1898-1925-e1736967975398.jpg)
+_McKenna_
+- ![Justice](https://civics.supremecourthistory.org/wp-content/uploads/2025/01/Justice-Holmes-Jr-Oliver-Wendell-1902-1932-e1736968049995-1.jpg)
+_Holmes Jr._
+- ![Justice](https://civics.supremecourthistory.org/wp-content/uploads/2025/01/Justice-Day-William-R-1903-1922-e1736968105384.jpg)
+_Day_
+- ![Justice](https://civics.supremecourthistory.org/wp-content/uploads/2025/01/Justice-Lurton-Horace-H-1910-1914-e1736968243843.jpg)
+_Lurton_
+- ![Justice](https://civics.supremecourthistory.org/wp-content/uploads/2025/11/Justice-Hughes-Charles-Evans-1910-1916-1930-1941-e1763056311236.jpg)
+_Hughes_
+- ![Justice](https://civics.supremecourthistory.org/wp-content/uploads/2025/01/Justice-Van-Devanter-Willis-1911-1937-e1736968375585.jpg)
+_Van Devanter_
+- ![Justice](https://civics.supremecourthistory.org/wp-content/uploads/2025/01/Justice-Lamar-Joseph-Rucker-1911-1916-e1736968313917.jpg)
+_Lamar_
+
+- ### Majority Opinion
+
+_Edward Douglass White Jr._
+
+“…The unification of power and control over petroleum and its products which was the inevitable result of the combining in the New Jersey corporation by the increase of its stock and the transfer to it of the stocks of so many other corporations, aggregating so vast a capital, gives rise…to the…presumption of intent and purpose to maintain the dominancy over the oil industry, not as a result of normal methods of industrial development, but by new means of combination which were resorted to in order that greater power might be added than would otherwise have arisen had normal methods been followed, the whole with the purpose of excluding others from the trade…”
+
+[Read MoreClose](#)
+
+## Discussion Questions
+
+- How did John D. Rockefeller build a monopoly over the oil industry?
+- How do monopolies impact consumers?
+- Did Standard Oil violate the Sherman Antitrust Act? Explain.
+- The Supreme Court held that the Sherman Antitrust Act needed to be reviewed “ _in light of reason._” What do you think this means?
+- Why do you think business owners preferred laissez-faire policies to Progressive reforms?
+
+## Sources
+
+- **Special thanks to scholar and law professor Dan Crane for his review, feedback, and additional information.**
+
+**Featured image:**“Next!” by Udo J. Keppler. New York: Ottmann Lith. Co., Puck Bldg, 7 September 1907. [https://www.loc.gov/pictures/item/2001695241/](https://www.loc.gov/pictures/item/2001695241/)
+
+Burclaff, Natalie. “Research Guides: This Month in Business History: Standard Oil Established.” Standard Oil Established – This Month in Business History – Research Guides at Library of Congress, January 14, 2020. https://guides.loc.gov/this-month-in-business-history/january/standard-oil-established#:~:text=In%201911%2C%20the%20Supreme%20Court,the%20market%2C%20such%20as%20ExxonMobil.
+
+Lamoreaux, Naomi R. “The Problem of Big Business: From Standard Oil to Google.” _Journal of Economic Perspectives_ 33, no. 3 (2019). 94-117.
+
+Lowrie, Arthur L. “Brief Biography and Bibliography: Ida Tarbell: Allegheny College.” Allegheny.edu. Accessed July 9, 2025. https://sites.allegheny.edu/ida-tarbell/briefbio/.
+
+“Standard Oil Company Must Dissolve in 6 Months; Only Unreasonable Restraint of Trade Forbidden; and of Such Unreasonable Restraint the Supreme Court Finds the Standard Guilty. – The New York Times.” The New York Times. Accessed July 9, 2025. https://www.nytimes.com/1911/05/16/archives/standard-oil-company-must-dissolve-in-6-months-only-unreasonable.html.
+
+“Standard Oil Co. of New Jersey v. United States, 221 U.S. 1 (1911).” Justia Law. Accessed July 9, 2025. https://supreme.justia.com/cases/federal/us/221/1/.
+
+“Standard Oil Company of New Jersey v. United States.” Oyez. Accessed July 9, 2025. https://www.oyez.org/cases/1900-1940/221us1.
+
+“The Rockefeller Legacy: Philanthropy and Conservation.” National Park Service U.S. Department of the Interior . Accessed July 11, 2025. https://www.nps.gov/grte/planyourvisit/upload/Rockefeller\_17-access.pdf.
+
+## Continue Exploring
+
+- [![](https://civics.supremecourthistory.org/wp-content/uploads/2025/11/ec-knight-image-loc-e1763063923659.jpg)\\
+**United States v. E.C. Knight Company**](https://civics.supremecourthistory.org/article/united-states-v-e-c-knight-company/)
+- [![](https://civics.supremecourthistory.org/wp-content/uploads/2025/03/Lochners-Bakery.jpg)\\
+**Lochner v. New York**](https://civics.supremecourthistory.org/article/lochner-v-new-york/)

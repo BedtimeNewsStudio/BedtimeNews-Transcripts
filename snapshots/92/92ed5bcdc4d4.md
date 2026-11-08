@@ -1,0 +1,144 @@
+---
+source_url: "http://www.ce.cn/xwzx/gnsz/gdxw/202102/02/t20210202_36283820.shtml"
+captured_at: 2026-11-08T13:42:35Z
+title: "2020年烟草行业工商税利总额达12803亿元\n_中国经济网——国家经济门户"
+tool: firecrawl
+---
+
+> **网页快照**：2026-11-08 13:42 UTC 抓取自 [原始页面](http://www.ce.cn/xwzx/gnsz/gdxw/202102/02/t20210202_36283820.shtml)（工具：firecrawl）。
+
+# 2020年烟草行业工商税利总额达12803亿元
+_中国经济网——国家经济门户
+
+[![](http://www.ce.cn/img4/cewx.jpg)手机看中经](http://m.ce.cn/?pc) ![](http://i1.ce.cn/ce/img4/jrwx.jpg)经济日报微信![](http://i1.ce.cn/ce/img4/cenetwx.jpg)中经网微信
+
+[![](http://www.ce.cn/images/08mdy_logo.gif)](http://www.ce.cn/)
+
+[人物库](http://district.ce.cn/zt/rwk/index.shtml)
+
+[![](http://www.ce.cn/images/cewap.jpg)](http://m.ce.cn/index.shtml?pc)
+
+[网站首页](http://www.ce.cn/) [金融证券](http://finance.ce.cn/) [产业市场](http://www.ce.cn/cysc/) [国际经济](http://intl.ce.cn/) [时政社会](http://www.ce.cn/xwzx/) [评论理论](http://views.ce.cn/) [地方经济](http://district.ce.cn/) [城市频道](http://city.ce.cn/) [食品安全网](http://foodsafety.ce.cn/) [乡村振兴](http://tuopin.ce.cn/) [生态文明](http://www.ce.cn/cysc/stwm/)
+
+[股市](http://finance.ce.cn/stock/) [银行](http://finance.ce.cn/bank/) [基金](http://finance.ce.cn/jjpd/) [期货](http://finance.ce.cn/futures/index.shtml) [理财](http://finance.ce.cn/money/) [保险](http://finance.ce.cn/insurance/) [IT业](http://www.ce.cn/cysc/tech/) [食品](http://www.ce.cn/cysc/sp/index.shtml) [汽车](http://auto.ce.cn/) [商车](http://cv.ce.cn/) [能源](http://www.ce.cn/cysc/ny/index.shtml) [房产](http://www.ce.cn/cysc/fdc/) [医药](http://www.ce.cn/cysc/yy/index.shtml) [文化](http://www.ce.cn/culture/) [会展](http://expo.ce.cn/) [旅游](http://travel.ce.cn/) [生活](http://fashion.ce.cn/) [科技](http://tech.ce.cn/) [健康](http://health.ce.cn/) [VR](http://vr.ce.cn/)
+
+ads.ce.cn
+
+# ads.ce.cn is blocked
+
+This page has been blocked by an extension
+
+- Try disabling your extensions.
+
+ERR\_BLOCKED\_BY\_CLIENT
+
+Reload
+
+This page has been blocked by an extension
+
+· [中国经济新亮点](http://www.ce.cn/ztpd/xwzt/guonei/2023/zgjjxld/)
+· [高质量发展产业调研](http://www.ce.cn/cysc/ztpd/2022/cydy/)
+· [经济论坛](http://www.ce.cn/ztpd/xwzt/guonei/2020/jjlt/)
+· [金视角](http://www.ce.cn/ztpd/xwzt/guonei/2021/jsj/)
+
+|  |  |
+| --- | --- |
+| **当前位置** | [首页](http://www.ce.cn/ "首页") > [新闻](http://www.ce.cn/xwzx/ "新闻") > [国内时政更多新闻](http://www.ce.cn/xwzx/gnsz/gdxw/ "国内时政更多新闻") > 正文 |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| ![](http://www.ce.cn/images/mdy_sou.gif) | **中经搜索** |  |  |  |
+
+# 2020年烟草行业工商税利总额达12803亿元
+
+2021年02月02日 16:24来源：经济日报-中国经济网
+
+\[ [手机看新闻](http://wap.ce.cn/index.html?pc)\]
+
+\[字号 大中小\]
+
+\[打印本稿\]
+
+2020年，全国烟草行业实现工商税利总额12803亿元，同比增长6.2%，上缴财政总额12037亿元，增长2.3%，税利总额和上缴财政总额均创历史新高，为国家和地方财政增收、经济发展作出积极贡献。（经济日报记者 李芃达）
+
+（责任编辑：何欣）
+
+分享到：
+
+|  |
+| --- |
+| 延伸阅读 |
+|  |
+
+|  |
+| --- |
+| **中国经济网版权及免责声明：**<br> 1、凡本网注明“来源：中国经济网” 或“来源：经济日报-中国经济网”的所有作品，版权均属于<br> 　 <br> 中国经济网（本网另有声明的除外）；未经本网授权，任何单位及个人不得转载、摘编或以其它<br> 　 <br> 方式使用上述作品；已经与本网签署相关授权使用协议的单位及个人，应注意该等作品中是否有<br> 　 <br> 相应的授权使用限制声明，不得违反该等限制声明，且在授权范围内使用时应注明“来源：中国<br> 　 <br> 经济网”或“来源：经济日报-中国经济网”。违反前述声明者，本网将追究其相关法律责任。<br> 2、本网所有的图片作品中，即使注明“来源：中国经济网”及/或标有“中国经济网(www.ce.cn)”<br>　 <br> 水印，但并不代表本网对该等图片作品享有许可他人使用的权利；已经与本网签署相关授权使用<br>　 <br> 协议的单位及个人，仅有权在授权范围内使用该等图片中明确注明“中国经济网记者XXX摄”或<br>　 <br> “经济日报社-中国经济网记者XXX摄”的图片作品，否则，一切不利后果自行承担。<br> 3、凡本网注明 “来源：XXX（非中国经济网）” 的作品，均转载自其它媒体，转载目的在于传递更<br>　 <br> 多信息，并不代表本网赞同其观点和对其真实性负责。 <br> 4、如因作品内容、版权和其它问题需要同本网联系的，请在30日内进行。 <br>※ 网站总机：010-81025111 有关作品版权事宜请联系：010-81025135 邮箱：![](http://www.ce.cn/img4/bd2019.jpg) |
+
+精彩图片
+
+[![](http://i.ce.cn/ce/360tj/hezuo/202504/28/W020250428270341566603.png)](http://www.ce.cn/xwzx/gnsz/gdxw/202504/28/t20250428_39351235.shtml)
+
+[潮涌平潭](http://www.ce.cn/xwzx/gnsz/gdxw/202504/28/t20250428_39351235.shtml)
+
+[![](http://i.ce.cn/ce/360tj/hezuo/202504/27/W020250427278563890970.jpg)](http://www.ce.cn/xwzx/gnsz/gdxw/202504/27/t20250427_39350685.shtml)
+
+[触摸未来](http://www.ce.cn/xwzx/gnsz/gdxw/202504/27/t20250427_39350685.shtml)
+
+[![](http://i.ce.cn/ce/360tj/hezuo/202504/21/W020250421278960277874.png)](http://www.ce.cn/xwzx/gnsz/gdxw/202504/21/t20250421_39347049.shtml)
+
+[“民生为大”写新篇](http://www.ce.cn/xwzx/gnsz/gdxw/202504/21/t20250421_39347049.shtml)
+
+[![](http://i.ce.cn/ce/360tj/hezuo/202504/14/W020250414274227330676.jpg)](http://www.ce.cn/xwzx/gnsz/gdxw/202504/14/t20250414_39343173.shtml)
+
+[奋进浦东](http://www.ce.cn/xwzx/gnsz/gdxw/202504/14/t20250414_39343173.shtml)
+
+[热点新闻](http://www.ce.cn/xwzx/xinwen/bwzg/index.shtml)
+
+· [【图解】扩商店、增商品、优服务 优化离境退...](http://www.ce.cn/xwzx/gnsz/gdxw/202504/28/t20250428_39351742.shtml)
+· [深谈\|张晓晶：股市繁荣逻辑是什么？](http://www.ce.cn/xwzx/gnsz/gdxw/202504/27/t20250427_39351044.shtml)
+· [从“空心村”到共富样本：石柱桥头镇“万企...](http://www.ce.cn/xwzx/gnsz/gdxw/202504/27/t20250427_39351032.shtml)
+· [【图解】从一季度外汇市场三大亮点看我国对...](http://www.ce.cn/xwzx/gnsz/gdxw/202504/23/t20250423_39348889.shtml)
+· [数说湾区丨一组数据看创新广东](http://www.ce.cn/xwzx/gnsz/gdxw/202504/23/t20250423_39348884.shtml)
+· [刹住短视频恶意营销歪风丨头条热评](http://www.ce.cn/xwzx/gnsz/gdxw/202504/22/t20250422_39348024.shtml)
+· [伟大的企业都是在风雨中成长起来的](http://m.ce.cn/bwzg/202504/17/t20250417_39345853.shtml)
+· [商务部：欢迎更多海内外客商到广交会“打卡...](http://www.ce.cn/xwzx/gnsz/gdxw/202504/17/t20250417_39345834.shtml)
+
+新闻排行
+
+· [微视频｜总书记殷殷关怀让民营企业暖心安心](http://www.ce.cn/xwzx/gnsz/szyw/202504/27/t20250427_39351187.shtml)
+· [【海报】中央重磅定调！“四稳”是什么？](http://www.ce.cn/xwzx/gnsz/gdxw/202504/27/t20250427_39351163.shtml)
+· [上海对赵亮、关也彤、汪明、金俊峰进行任职...](http://district.ce.cn/newarea/sddy/202504/28/t20250428_39351527.shtml)
+· [2025上海车展：中国汽车品牌引关注](http://www.ce.cn/xwzx/photo/gaoqing/202504/27/t20250427_39350764.shtml)
+· [金观平：统筹国内经济工作和国际经贸斗争](http://www.ce.cn/xwzx/gnsz/gdxw/202504/27/t20250427_39350656.shtml)
+· [深谈\|张晓晶：股市繁荣逻辑是什么？](http://www.ce.cn/xwzx/gnsz/gdxw/202504/27/t20250427_39351044.shtml)
+· [沙溪镇：茶马古道千年古镇的“新生密码”](http://www.ce.cn/xwzx/gnsz/gdxw/202504/27/t20250427_39351077.shtml)
+· [四川对冯伟良、刘强、刘建华、张勋图等进行...](http://district.ce.cn/newarea/sddy/202504/28/t20250428_39351546.shtml)
+
+[关于经济日报社](http://www.ce.cn/about/jjrb/gk/201911/26/t20191126_33703674.shtml) － [关于中国经济网](http://www.ce.cn/about/jjw/one/202506/t20250617_2329772.shtml) － [网站大事记](http://www.ce.cn/about/jjw/one/201406/27/t20140627_3056235.shtml) － [网站诚聘](http://www.ce.cn/about/jjw/one/202604/t20260408_2889140.shtml) － [版权声明](http://www.ce.cn/about/jjw/content/201911/26/t20191126_33703317.shtml) － [互联网视听节目服务自律公约](http://www.ce.cn/xwzx/gnsz/gdxw/200803/11/t20080311_14791942.shtml) － [广告服务](http://www.ce.cn/about/jjw/content/201701/03/t20170103_19343167.shtml) － [友情链接](http://www.ce.cn/about/friend-link/) － [纠错邮箱](http://www.ce.cn/about/jjw/one/201905/21/t20190521_32140997.shtml)
+
+经济日报报业集团法律顾问： [北京市鑫诺律师事务所](http://www.sino-law.cn/CN/01.aspx)    中国经济网法律顾问：北京刚平律师事务所
+
+中国经济网 ![](http://www.ce.cn/images/hd315.gif) 版权所有  [互联网新闻信息服务许可证(10120170008)](http://www.ce.cn/about/jjw/one/202609/t20260930_3245178.shtml) [网络传播视听节目许可证(0107190)](http://vr.ce.cn/vr2017/news/202209/02/t20220902_38080192.shtml) [京ICP备18036557号](http://beian.miit.gov.cn/)
+
+[![](http://www.ce.cn/img4/police2021.png)\\
+京公网安备 11010202009785号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202009785)
+
+![](http://i.ce.cn/district/images/cecn-icon.jpg)
+
+## 2020年烟草行业工商税利总额达12803亿元
+
+2021-02-02 16:24来源：经济日报-中国经济网
+
+2020年，全国烟草行业实现工商税利总额12803亿元，同比增长6.2%，上缴财政总额12037亿元，增长2.3%，税利总额和上缴财政总额均创历史新高，为国家和地方财政增收、经济发展作出积极贡献。（经济日报记者 李芃达）
+
+（责任编辑：何欣）
+
+查看余下全文
+
+分享到微信X
+
+![](http://www.ce.cn/xwzx/gnsz/gdxw/202102/02/t20210202_36283820.shtml)
+
+打开微信，点击底部的"发现"，使用 "扫一扫" 即可将网页分享到我的朋友圈。
+
+![](http://www.ce.cn/xwzx/gnsz/gdxw/202102/site49/share_weixin1.png)

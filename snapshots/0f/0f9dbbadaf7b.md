@@ -1,0 +1,84 @@
+---
+source_url: "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=B86592BE40CD4694294CC5B254ACF651"
+captured_at: 2026-11-08T14:01:32Z
+title: "国家标准|GB 44721-2026"
+tool: tavily
+---
+
+> **网页快照**：2026-11-08 14:01 UTC 抓取自 [原始页面](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=B86592BE40CD4694294CC5B254ACF651)（工具：tavily）。
+
+# 国家标准|GB 44721-2026
+
+![](/bzgk//images/bgrep.gif) ![](/bzgk//images/logonew.png)
+
+[![](/bzgk//images/shareLogo.png) 全国标准信息公共服务平台](https://std.samr.gov.cn/)
+
+* [首页](https://std.samr.gov.cn/)
+* [国家标准](/bzgk//std/)
+* [强制性国家标准](/bzgk/std/std_list_type?p.p1=1&p.p90=circulation_date&p.p91=desc)
+* [推荐性国家标准](/bzgk/std/std_list_type?p.p1=2&p.p90=circulation_date&p.p91=desc)
+* [指导性技术文件](/bzgk/std/std_list_type?p.p1=3&p.p90=circulation_date&p.p91=desc)
+* [国家标准外文版(National standards in foreign language version)](/bzgk/std/std_list_type?p.p1=6&p.p90=circulation_date&p.p91=desc)
+
+|  |
+| --- |
+| 标准号：GB 44721-2026 |
+
+|  |  |
+| --- | --- |
+| 中文标准名称：**智能网联汽车 自动驾驶系统安全要求** |  |
+| 英文标准名称：Intelligent and connected vehicle—Safety requirements for automated driving system |  |
+| 标准状态：  即将实施 |  |
+|  |  |
+
+中国标准分类号（CCS）
+
+T 40
+
+国际标准分类号（ICS）
+
+43.020
+
+发布日期
+
+2026-07-30
+
+实施日期
+
+2027-07-01
+
+主管部门
+
+工业和信息化部
+
+归口部门
+
+工业和信息化部
+
+发布单位
+
+国家市场监督管理总局、国家标准化管理委员会
+
+备注
+
+#### 在线预览提示
+
+当前浏览器暂不支持标准全文在线预览服务，请使用现代浏览器（Chrome、Firefox、Opera、Microsoft Edge、360安全浏览器、搜狗浏览器、猎豹浏览器、傲游浏览器等）重新打开当前页面继续进行标准全文预览。
+
+* ###### 版权所有 侵权必究
+* 主管：国家市场监督管理总局 国家标准化管理委员会
+* 主办：国家市场监督管理总局国家标准技术审评中心
+* 技术支持：北京中标赛宇科技有限公司
+* 支持电话：010-82261056
+* 备案号：[京ICP备18022388号-1](https://beian.miit.gov.cn/)
+
+* ###### 重要网站链接
+* [国家市场监督管理总局](http://www.samr.gov.cn/)
+* [国家标准化管理委员会](http://www.sac.gov.cn/)
+* [国家市场监督管理总局国家标准技术审评中心](http://ncse.ac.cn/)
+
+[![](/bzgk//images/jiucuo.png)](javascript:return void(0);)
+
+[![](/bzgk//images/dzjg.png)](https://bszs.conac.cn/sitename?method=show&id=A1B86006AA736CD2E05310291AAC4CC7)
+
+![](/bzgk//images/ewm.jpg)

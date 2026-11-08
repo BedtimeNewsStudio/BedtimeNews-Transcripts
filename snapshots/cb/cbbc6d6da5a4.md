@@ -1,0 +1,133 @@
+---
+source_url: "https://about.fb.com/news/2016/11/an-update-on-metrics-and-reporting"
+captured_at: 2026-11-08T13:39:11Z
+title: "An Update on Metrics and Reporting"
+tool: firecrawl
+---
+
+> **网页快照**：2026-11-08 13:39 UTC 抓取自 [原始页面](https://about.fb.com/news/2016/11/an-update-on-metrics-and-reporting)（工具：firecrawl）。
+
+# An Update on Metrics and Reporting
+
+[Skip to content](#content)
+
+[Back to Newsroom](https://about.fb.com/news)
+
+[Meta](https://about.fb.com/news/category/technologies/meta/)
+
+November 16, 2016November 7, 2019
+
+Listen to Article 10Pause 10
+
+0.25×0.5×1×1.25×1.5×2×
+
+Todaywe’reupdatingourmetricstogiveourpartnersandtheindustrymoreclarityandconfidenceabouttheinsightsweprovide.
+
+Weknowthathavingaccesstoreliablemetricsisimportanttothemillionsofpartnerswhouseourservicestogrowtheirbusinesses.Asourproductsevolvetomeettheneedsofthepeopleandbusinessesthatusethem,ourmetricswillalsoevolve.
+
+Ourgoalgoingforwardistocommunicatemoreregularlyaboutourmetrics,sothatourpartnerscanfocusondoingwhattheydobest—servingtheircustomers—withthebestinsightspossible.
+
+* * *
+
+**IncreasedThird-PartyVerification**
+
+Webelievestronglyinthird-partyverificationtoprovethebusinessvaluewe’redrivingforourpartners,andwehavealonghistoryofworkingwithglobalindustryleaderslikecomScore,Moat,NielsenandIntegralAdScience(IAS).We’renowexploringadditionalthird-partyreviewstovalidatethereportingweofferpartners.We’realsolaunchingtheabilitytoverifydisplayimpressiondatathroughourthird-partyviewabilityverificationpartners,includingMoat,IASandcomScore.Thisintegrationaddressesrequestswe’vereceivedfrompartnersforindependentmeasurementoftheamountoftimeadsareviewedon-screen.
+
+Forpublishers,we’repartneringwithNielsentoincludeFacebookvideoandFacebookLiveviewershipinNielsen’sDigitalContentRatings(DCR).Thiswillgivepublishersaccesstothird-partyverificationforvideometricsandallowforcomparabledigitalandTVmetricsinNielsen’sTotalAudienceMeasurement.
+
+**BuildingMoreMeasurementSolutionsWithOurClients**
+
+OurglobalClientCouncilhashelpedshapethedirectionofourproductsandhowweapproachmeasurement.InnovationssuchasconversionliftandmobilepollingcameoutofdirectconversationswithourClientCouncilmembers.GiventheCouncil’svaluableinsightsandthegrowingneedformeasurementstandardstiedtobusinessoutcomes,we’renowworkingwithitsmembersandotherbusinessandmeasurementexecutivestoformaMeasurementCouncil.We’llannouncemoredetailsinthecomingweeks.
+
+**RegularandClearerCommunicationOnMetrics**
+
+We’vecreatedanewinternalreviewprocesstoensureourmetricsareclearanduptodateasourproductofferingscontinuetoevolve.Aspartofthisprocess,we’llbecommunicatingmoreregularlyaboutupdateswemake.Communicationwilloccurinafewways,someofwhicharealreadyhappening:
+
+**1) _In-productdefinitions._** Aswe’veroutinelydoneinthepast,we’llcontinuetoincludeupdatesin-productwherepartnersbuyadsoraccessourreporting.Whenwemakemeaningfulupdatesgoingforward,we’llcontinuesurfacingthemin-product.
+
+**2) _Throughourclientteams._** We’llcontinuetocommunicateimportantupdatestometricsthatimpactourpartnersdirectlythroughourpartnerteams.
+
+**3) _MetricsFYIblog_**.Weknowhowimportantitistobeopenaboutmeaningfulupdateswemaketoourmetrics,sowe’recreatinganewchannelforregularinformationonmetricsenhancements.(Thisblogwillbesimilartoour [NewsFeedFYIblog](http://newsroom.fb.com/news/category/news-feed-fyi/).)
+
+Belowisthefirstpostinour [MetricsFYIblogseries](http://newsroom.fb.com/metricsFYI),outliningthefirstsetofupdateswe’remaking.Pleasenotethatwedonotbillclientsonthepotentialunder-reporting/over-reportingmetricissuesmentionedbelow.
+
+_MetricsFYI_
+
+PageInsights–OrganicReach
+
+We’veuncoveredabuginPageInsights.OnoneofourPagesdashboards,onesummarynumbershowing7-dayor28-dayorganicpagereachwasmiscalculatedasasimplesumofdailyreachinsteadofde-duplicatingrepeatvisitorsoverthoseperiods(seeredcircleinscreenshotbelow).However,thevastmajorityofreachdatainthePageInsightsdashboard(markedgreeninscreenshotsbelow)wasunaffected,includingallthegraphs,dailyandhistoricalreach,per-postreach,exportedandAPIreachdata,andalldataontheReachtab.Thede-duplicated7-daysummaryintheoverviewdashboardwillbe33%loweronaverageand28-daywillbe55%lower;datainotherfieldsisunaffected.ThisbughasbeenlivesinceMay;wewillbefixingthisinthenextfewweeks.Itdoesnotaffectpaidreach.
+
+![pages-organic-reach-overview-tab-annotated](https://about.fb.com/wp-content/uploads/2016/11/pages-organic-reach-overview-tab-annotated-1.png?resize=960%2C928)![](https://about.fb.com/wp-content/plugins/post-media-zip/assets/downloadicon_arrowimg.png)Download image
+
+![pages-organic-reach-reach-tab-annotated](https://about.fb.com/wp-content/uploads/2016/11/pages-organic-reach-reach-tab-annotated-1.png?resize=960%2C889)![](https://about.fb.com/wp-content/plugins/post-media-zip/assets/downloadicon_arrowimg.png)Download image
+
+Additionally,we’remakinganimprovementtoPageorganicreachtomatchwhatwe’vedoneforpaidreach.Reachcountswillnowbebasedonviewableimpressions.OnPages,we’vehistoricallydefinedreachasapersonrefreshingtheirNewsFeedandthepostbeingplacedintheirfeed.Forpaidadsreports,we’vemovedtoastricterdefinitionthatonlycountsreachoncethepostenterstheperson’sscreen(“viewableimpressions”).Withthestricterdefinition,weestimatethatreportedorganicreachwillbe20%loweronaverage **.** We’llprovideanupdatetoallPagesin-productandviatheMetricsFYIblogwhenwemakethischange,whichwillhappeninthecomingmonths.
+
+Video–MeasuringCompletions
+
+WhenpartnersuploadtheirvideostoFacebook,thefullvideolengthisrecorded,butwhenthevideodeliverstopeople’sdevices,thelengthofthevideocansometimesbeafractionofasecondshorterorlonger.Thisoccasionallyhappenswhentheaudioandvideotrackdon’tlineup,owingtodifferencesbetweenvideoplayersanddevices.Whilesomeonemaywatchavideotocompletionontheirdevice,theaudiomaycontinuetoplayforabitlonger.Thisparticularissuecausedustoundercountthemetric“videowatchesat100%”(previouslynamed“videoviewsto100%”).Moatfoundthisandreportedittous.Wearenowupdatinghowwereadthevideolengthtoaddressthisissue.Thismayresultinroughlya35%increaseinthecountof“videowatchesat100%.”Forexample,if“videowatchesat100%”were1%,theywouldnowbe1.35%.
+
+InstantArticles–TimeSpent
+
+InstantArticlesisawayforanypublishertocreatefast,interactivemobilecontentonFacebook.Wealsoprovidepublisherswithinsightstohelpthemunderstandhowtheircontentisconsumed.We’vedeterminedthattheaveragetimespentperarticlehadbeenover-reportedby7-8%onaveragesinceAugustoflastyear.Thiswascausedbyacalculationerror:wewerecalculatingtheaverageacrossahistogramoftimespent,insteadofreflectingthetotaltimespentreadinganarticledividedbyitstotalviews.Wehavenowfixedthisissue.
+
+AnalyticsforApps–Referrals
+
+InourFacebookAnalyticsforAppsdashboard,onemetriccalled“Referrals”ismiscalculated.Thismetricevaluatesallpostsproducedbypeopleviaanapporwebsite.Wemeanttocountclicksthatwentdirectlytoanapporwebsite;however,we’vealsocountedotherclicksonthosepostsviatheapporwebsite,includingclickstoviewphotosorvideo.Weareworkingtofixthis.Outofthereferralswecurrentlyreport,onaverageabout30%areactuallyclickstoconsumecontentonFacebook.Forpowerusersofthismetric(topappsthatlookatthisdatainthedashboardmostfrequently),wefoundthatreferralshavebeenoverstatedbyapproximately6%onaverage.Othermeasurementsofreferrals,suchasthoseappearinginFacebook’sadsreportingtools,areunaffected.
+
+InterestLists–FollowerCounts
+
+InterestlistsareawaytoorganizeandviewcontentonFacebook.Givenlowconsumerusageofinterestlists,wehavedecidedtoretirethisfeature,whichwillresultinadropinthetotalnumberoffollowersforprofilesthatcreatedinterestlistsorwerefeaturedinlists.Therearetworeasonsforthis:1)Forpeoplethatcreatedorwerefeaturedinaninterestlist,profilefollowercountsincludethefollowersoftheinterestlist;2)Peoplecanfollowsomeonefromaprofile _and_ throughaninterestlist,whichmeansaprofile’sfollowernumbercoulddoublecountthatperson.ThisupdatedoesnotimpactNewsFeeddistributionorPageInsights.Theimpacttoprofilefollowercountswillvary,dependingonthenumberofinterestliststheprofilecreatedandwasfeaturedin.Mostprofileswillseeadropinfollowersoflessthan5%.
+
+ClarifyingMetrics
+
+We’vebeenworkingforseveralmonthstoimprovereporting,andtodaywe’reannouncing [severalupdates](https://www.facebook.com/business/help/1682741318706658) intendedtomakeinformationclearerandeasiertounderstand.Someoftheupdateswe’remakingaredescribedbelow;forallwe’llbeupdatingourin-productdefinitions.
+
+- _Moredescriptivenames:_ We’llmakeupdatesnowandinthecomingmonthstoensureourmetricsareclearlynamed(forexample“viewcontent”→“websiteviewofcontent,”and“videoviews”→“3-secondvideoviews”).
+- _Clarifiedcalculations:_ We’llclarifysomecalculationstomakesuretheyreflecthowourproductsarebeingusedbyadvertisers.Forexample,withthelaunchofCanvasinFebruary,wegaveadvertiserstheabilitytocreateanimmersivenativeexperienceonFacebook.WithinCanvas,theycanalsolinktooffsitecontentonFacebook’sin-appbrowser.Whilethisexperienceisvaluabletoadvertisers,theoriginalintentionoftheCanvasViewDurationmetricwastocapturetimespentinCanvas.Sowe’reclarifyingthemetriccalculationtoreflectthatitexcludestimespentoutsideCanvas(linkingtooffsitecontent).
+- _Moreconsistentdefinitions:_ We’llalsoupdateourtipssectionandglossariesacrossallofouradstoolstomakesureweareexplainingourmetricsinconsistentways(includingnotingwhichinsightsareestimates).Forexample,aswehaverolledoutnewimmersiveexperiencesonFacebooklikeCanvasandleadforms,thelinkclicksmetrichasevolvedovertimetoincludeclickstothoseon-Facebookdestinations,inadditiontoclickstoawebsiteoffofFacebook.Wehadupdatedthedefinitionoflinksclicksinouradcreationtools,andwearenowupdatingitacrossallofouradstools.We’realsoclarifyingthedescriptionofourvideoviewsmetrics(3,10and30seconds)toincludetheterm“aggregate,”soastomoreclearlyexplainit’sbasedonaggregateviewtimeofatleastthespecifiednumberofseconds.
+- _Bettercategorization:_ We’remakingiteasierformarketerstoselectcertainmetricstoincludeintheirreports.Todothis,we’recreatingawaytocustomizethecolumnsinreportstoreflecthowmarketerssetuptheirads.Thiswillletadvertisershaveaspecificadvertisingobjectivemapdirectlytothemetricsweshow,likecheckouts,leadsorregistrations.
+
+![page-likes](https://about.fb.com/wp-content/uploads/2016/11/page-likes-1.png?resize=944%2C700)![](https://about.fb.com/wp-content/plugins/post-media-zip/assets/downloadicon_arrowimg.png)Download image
+
+![customize](https://about.fb.com/wp-content/uploads/2016/11/customize-1.png?resize=843%2C598)![](https://about.fb.com/wp-content/plugins/post-media-zip/assets/downloadicon_arrowimg.png)Download image
+
+Theseeffortsarelong-terminvestments,andwe’llcontinuetoshareupdatesontheMetricsFYIblogat [newsroom.fb.com/metricsFYI](http://newsroom.fb.com/metricsFYI).
+
+* * *
+
+Categories
+
+:
+
+[Measurement FYI](https://about.fb.com/news/category/measurement-fyi/)[Meta](https://about.fb.com/news/category/technologies/meta/)
+
+[![](https://about.fb.com/wp-content/plugins/post-media-zip/assets/downloadicon_arrowimg.png)DOWNLOAD ALL IMAGES](https://about.fb.com/wp-admin/admin-post.php?action=pmz_download&post_id=6819&pmz_nonce=8a44e82271)
+
+Share this article
+
+![Share on Threads](https://about.fb.com/wp-content/themes/fbcorp/assets/images/article_threads.png)![Share on Facebook](https://about.fb.com/wp-content/themes/fbcorp/assets/images/article_fb.png)![Share on X](https://about.fb.com/wp-content/themes/fbcorp/assets/images/article_x.png)
+
+* * *
+
+## Related News
+
+## Follow Meta Newsroom
+
+[![Threads](https://about.fb.com/wp-content/themes/fbcorp/assets/images/sf-threads.png)](https://www.threads.net/@MetaNewsroom)
+
+[![Instagram](https://about.fb.com/wp-content/themes/fbcorp/assets/images/sf-instagram.png)](https://www.instagram.com/MetaNewsroom/)
+
+[![Facebook](https://about.fb.com/wp-content/themes/fbcorp/assets/images/sf-facebook.png)](https://www.facebook.com/MetaNewsroom)
+
+[![X](https://about.fb.com/wp-content/themes/fbcorp/assets/images/sf-x.png)](https://x.com/MetaNewsroom)
+
+## Press Resources
+
+[press@meta.com](mailto:press@meta.com)
+
+[Media Gallery](https://about.facebook.com/media-gallery/)
+
+To help personalize content, tailor and measure ads, and provide a safer experience, we use cookies. By clicking or navigating the site, you agree to allow our collection of information on and off Facebook through cookies. Learn more, including about available controls: [Cookie Policy](https://www.facebook.com/policies/cookies)
+
+I Agree

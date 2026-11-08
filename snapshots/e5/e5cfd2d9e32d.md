@@ -9,7 +9,7 @@ tool: firecrawl
 
 # Transnational Criminal Organizations Designations; Issuance of TCO-related General License | Office of Foreign Assets Control
 
-[Skip to main content](https://ofac.treasury.gov/recent-actions/20251014#main-content)
+[Skip to main content](#main-content)
 
 ![Dot gov](https://ofac.treasury.gov/libraries/uswds/dist/img/icon-dot-gov.svg)
 
@@ -377,6 +377,6 @@ Find any service
 
 [AddToAny](https://www.addtoany.com/ "Share Buttons")
 
-[More…](https://ofac.treasury.gov/recent-actions/20251014#addtoany "Show all")
+[More…](#addtoany "Show all")
 
 A2A

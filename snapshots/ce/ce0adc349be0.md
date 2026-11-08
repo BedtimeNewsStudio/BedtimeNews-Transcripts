@@ -1,0 +1,52 @@
+---
+source_url: "https://www.cls.cn/detail/1842340"
+captured_at: 2026-11-08T08:22:34Z
+title: "刘世锦回应10万亿：刺激是有代价的"
+tool: tavily
+---
+
+> **网页快照**：2026-11-08 08:22 UTC 抓取自 [原始页面](https://www.cls.cn/detail/1842340)（工具：tavily）。
+
+# 
+
+## 首页
+
+## 电报
+
+## 话题
+
+## 盯盘
+
+## VIP
+
+## FM
+
+## 投研
+
+## 下载
+
+### [全部](/telegraph)
+
+### [加红](/telegraph?type=red&topic=0)
+
+### [公司](/telegraph?type=announcement&topic=0)
+
+### [看盘](/telegraph?type=watch&topic=0)
+
+### [港美股](/telegraph?type=hk_us&topic=0)
+
+### [基金](/telegraph?type=fund&topic=0)
+
+### [提醒](/telegraph?type=remind&topic=0)
+
+![logo](https://cdnjs.cls.cn/www/20200601/image/telegraph-logo.png)
+![](https://cdnjs.cls.cn/images/site/cailianWeb/kefu.png)
+![](https://cdnjs.cls.cn/www/20180717/images/rightSide/kfCodeSlider.png)
+![](https://cdnjs.cls.cn/images/site/cailianWeb/xlCode.png)
+![](https://cdnjs.cls.cn/www/20180717/images/rightSide/xlCodeSlider.png)
+![](https://cdnjs.cls.cn/images/site/cailianWeb/wxCode.png)
+![](https://cdnjs.cls.cn/www/20180717/images/rightSide/wxCodeSlider.png)
+![](https://cdnjs.cls.cn/images/site/cailianWeb/appLogo.png)
+![](https://cdnjs.cls.cn/www/20180717/images/rightSide/downloadCodeSlider.png)
+![](https://cdnjs.cls.cn/images/site/cailianWeb/toTop.png)
+![财联社举报](https://cdnjs.cls.cn/images/site/cailianWeb/jubaologo1.png)

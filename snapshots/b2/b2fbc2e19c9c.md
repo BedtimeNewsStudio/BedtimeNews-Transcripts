@@ -16,7 +16,7 @@ tool: firecrawl
 - [EMAIL](https://mail.nsd.pku.edu.cn/ "EMAIL")
 - [ENGLISH](http://en.nsd.pku.edu.cn/ "ENGLISH")
 
-[Toggle topbar](https://nsd.pku.edu.cn/xzyj/cbw/jjxjk/qkml/c0c152dc66b648d1bdb72f881ba0e3c7.htm# "Toggle topbar")
+[Toggle topbar](# "Toggle topbar")
 
 - ##### [首页](http://www.nsd.pku.edu.cn/)
 
@@ -2402,7 +2402,7 @@ tool: firecrawl
 
 - [首页](https://nsd.pku.edu.cn/index.htm "首页")
 - [出版物](https://nsd.pku.edu.cn/xzyj/cbw/index.htm "$curChannel.parent.paret.title")
-- [《经济学》（季刊）](https://nsd.pku.edu.cn/xzyj/cbw/jjxjk/qkml/c0c152dc66b648d1bdb72f881ba0e3c7.htm# "《经济学》（季刊）")
+- [《经济学》（季刊）](# "《经济学》（季刊）")
 - 期刊目录
 
 出版物

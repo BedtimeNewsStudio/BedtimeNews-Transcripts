@@ -1,0 +1,696 @@
+---
+source_url: "https://www.guancha.cn/ChengShi/2025_05_30_777671.shtml"
+captured_at: 2026-11-08T08:30:50Z
+title: "阚全程被查，曾任亚洲最大医院院长"
+tool: firecrawl
+---
+
+> **网页快照**：2026-11-08 08:30 UTC 抓取自 [原始页面](https://www.guancha.cn/ChengShi/2025_05_30_777671.shtml)（工具：firecrawl）。
+
+# 阚全程被查，曾任亚洲最大医院院长
+
+[![](https://www.guancha.cn/images/mian-logo.png)](https://www.guancha.cn/)
+
+[首页](https://www.guancha.cn/?s=dhshouye "首页") [风闻](https://user.guancha.cn/?s=dhfengwen "风闻") [财经](https://www.guancha.cn/column/CaiJing?s=dhcaijing "财经") [国际](https://www.guancha.cn/column/GuoJi%C2%B7ZhanLue?s=dhguojizhanlue "国际") [军事](https://www.guancha.cn/column/JunShi?s=dhjunshi "军事") [观出行](https://www.guancha.cn/column/qiche?s=dhqiche "观出行") [观金融](https://www.guancha.cn/column/GuanJinRong?s=dhguanjinrong "观金融") [产经](https://www.guancha.cn/column/ChanJing?s=dhchanjing "产经") [科技](https://www.guancha.cn/column/GongYe%C2%B7KeJi?s=dhgongyekeji "科技") [城事](https://www.guancha.cn/column/ChengShi?s=dhchengshi "城事") [滚动](https://www.guancha.cn/mainnews-gd/ "滚动") [观察员](https://member.guancha.cn/ "观察员") [视频](https://www.guancha.cn/video/gczvideo/list.html "视频")
+
+登录/注册
+
+APP下载
+
+![](https://i.guancha.cn/app-erweima.png?20190610)
+
+扫一扫
+
+下载观察者APP
+
+- ### 阚全程被查，曾长期执掌“医疗航母”郑大一附院
+
+  - [![](https://i.guancha.cn/users/20241122091053150.png?imageMogr2/thumbnail/100x100)](https://www.guancha.cn/ChengShi/2025_05_30_777671.shtml)
+
+    [胡致](https://www.guancha.cn/ChengShi/2025_05_30_777671.shtml)
+
+2025-05-30 08:48:03
+字号：A-AA+来源：观察者网阅读 74890
+
+最后更新: 2025-05-30 08:48:05
+
+据河南省纪委监委5月29日消息，河南省政协人口资源环境委员会主任阚全程涉嫌严重违纪违法，目前正接受河南省纪委监委纪律审查和监察调查。
+
+![](https://i.guancha.cn/news/mainland/2025/05/30/20250530082559601.jpeg)
+
+公开信息显示，阚全程出生于1963年9月，河南光山人，中共党员，教授，主任药师。他长期在郑州大学第一附属医院工作，2008年任郑大一附院院长、党委副书记，2010年任郑州大学副校长，继续兼任郑大一附院院长、党委副书记，2017年任河南省卫生和计划生育委员会主任、党组书记。2018年机构改革后，阚全程继续任河南省卫生健康委员会主任、党组书记。2020年9月至2021年12月，他曾短暂兼任郑大一附院党委书记。
+
+正因这份工作履历，阚全程被视为是河南省医疗系统的标志性人物。阚全程曾主导全省医疗改革，推动改制医院收回公立、分级诊疗等政策。
+
+与阚全程的履历深度绑定的郑州大学第一附属医院则被称为 **“亚洲最大医院”**，拥有95个临床科室、4300张开放床位，年门诊量突破1000万人次，2021年营收达218亿元。由于郑大一附院的运营资金规模相极为庞大，这为权力寻租提供了巨大空间。
+
+2023年1月，阚全程不再担任河南省卫健委主任，转岗省政协，直至此番被查。在此之前，郑大一附院已有多名高层落马。2022年该院原副院长王家祥因受贿3.5亿元被查，该院放射科、呼吸科等科室主任也相继曝出千万级回扣案件。
+
+除此之外，阚全程落马前正值中央第五巡视组进驻河南省，开展为期2个半月左右的巡视。据公开信息，中央第五巡视组的工作重点恰恰是核查省级领导班子及重点岗位干部违纪问题。
+
+**本文系观察者网独家稿件，未经授权，不得转载。**
+
+  - [![加入观察员](https://i.guancha.cn/member/news_content_image.png?r=1789457163;)](https://member.guancha.cn/gcyquanyi/member.html)
+
+标签
+
+  - 责任编辑:
+    胡致
+
+### 热门评论 1条
+
+  - ![](https://i.guancha.cn/bbs/avatar/2026/11/08/20261108155402921.jpg?imageMogr2/cut/1080x1080x0x0/thumbnail/90x90/format/jpg)
+
+    [昭晔起超](https://user.guancha.cn/user/personal-homepage?uid=10956) 正道歪理的边角料散修
+
+    郑州大学第一附属医院则被称为“亚洲最大医院”，拥有95个临床科室、4300张开放床位， **年门诊量突破1000万人次，2021年营收达218亿元。**
+
+    纽约长老会医院由纽约医院和长老会医院1998年合并而成，纽约医院建立于1771年，是康奈尔大学医学院的附属医院；长老会医院建立于1868年，是哥伦比亚大学医学院的附属医院。
+
+    https://user.guancha.cn/main/content?id=1449004
+
+    该医院现在共拥有8个院区，超过4000张床位， **每年接待就诊量超过200万人次，该院2023年总收入达103亿美元。**
+
+    大美的医疗复合体真是恐怖：1000万人次-218亿元，2180元/人次，200万人次-103亿美元（740亿元），37000元/人次，约17倍。
+
+     2025-05-30 10:45   来自贵州省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞15收藏
+
+### 我要评论
+
+![](https://i.guancha.cn/static/imgs/default_user_pic.png?imageMogr2/thumbnail/38x38)
+
+请自觉遵守互联网相关的政策法规，共同营造“阳光、理性、平和、友善”的跟评互动环境。
+
+表情加粗图片发表
+
+[观察者网用户管理制度](https://www.guancha.cn/broken-news/2017_03_28_400912.shtml) [逛社区](https://user.guancha.cn/) [有料？来写文章](https://user.guancha.cn/post/publish.html)
+
+### 全部评论 14条   最热最早最新
+
+  - ![](https://i.guancha.cn/bbs/avatar/201712/1/1512559079.png?imageMogr2/thumbnail/90x90)
+
+    [天之前](https://user.guancha.cn/user/personal-homepage?uid=191962)
+
+    全部楼层
+
+    [阿鲁兹沃伦](https://user.guancha.cn/user/personal-homepage?uid=185144)
+
+    普通CT100万，128排螺旋CT1300万，还有更高排的3000万。
+
+    2025-05-30 12:51   来自广西壮族自治区
+
+    [查看回复 2](https://user.guancha.cn/main/child-comments?id=56376267)举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞5收藏
+
+    上个被抓的院长三千万的CT机，一多半是院长的回扣。
+
+     2025-05-30 22:24   来自江西省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞1收藏
+
+  - ![](https://i.guancha.cn/static/imgs/default_user_pic.png?imageMogr2/thumbnail/90x90)
+
+    [guan\_二三间](https://user.guancha.cn/user/personal-homepage?uid=1062524)
+
+    又一个
+
+     2025-05-30 14:52   来自北京市
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞2收藏
+
+  - ![](https://i.guancha.cn/bbs/avatar/2021/05/03/20210503164835351.jpg?imageMogr2/thumbnail/90x90)
+
+    [快乐的小白兔](https://user.guancha.cn/user/personal-homepage?uid=1022876)
+
+    全部楼层
+
+    [阿鲁兹沃伦](https://user.guancha.cn/user/personal-homepage?uid=185144)
+
+    普通CT100万，128排螺旋CT1300万，还有更高排的3000万。
+
+    2025-05-30 12:51   来自广西壮族自治区
+
+    [查看回复 2](https://user.guancha.cn/main/child-comments?id=56376267)举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞5收藏
+
+    一切尽在不言中啊
+
+     2025-05-30 14:37   来自北京市
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞5收藏
+
+  - ![](https://i.guancha.cn/bbs/avatar/2022/09/23/20220923125156463.png?imageMogr2/cut/196x196x0x0/thumbnail/90x90/format/png)
+
+    [阿鲁兹沃伦](https://user.guancha.cn/user/personal-homepage?uid=185144)
+
+    [快乐的小白兔](https://user.guancha.cn/user/personal-homepage?uid=1022876)
+
+    医院贪腐总有放射科 这很奇怪
+
+    2025-05-30 10:43   来自北京市
+
+    [查看回复 2](https://user.guancha.cn/main/child-comments?id=56374126)举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞0收藏
+
+    普通CT100万，128排螺旋CT1300万，还有更高排的3000万。
+
+     2025-05-30 12:51   来自广西壮族自治区
+
+    [查看回复 2](https://user.guancha.cn/main/child-comments?id=56376267)举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞5收藏
+
+  - ![](https://i.guancha.cn/static/imgs/default_user_pic.png?imageMogr2/thumbnail/90x90)
+
+    [山水人家](https://user.guancha.cn/user/personal-homepage?uid=38047)
+
+    最大医院不是蒲田系？
+
+     2025-05-30 12:42   来自浙江省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞0收藏
+
+  - ![](https://i.guancha.cn/bbs/avatar/third/2021/07/21/20210721622196124.jpg?imageMogr2/thumbnail/90x90)
+
+    [LSQlsq0908](https://user.guancha.cn/user/personal-homepage?uid=56798)
+
+    [快乐的小白兔](https://user.guancha.cn/user/personal-homepage?uid=1022876)
+
+    医院贪腐总有放射科 这很奇怪
+
+    2025-05-30 10:43   来自北京市
+
+    [查看回复 2](https://user.guancha.cn/main/child-comments?id=56374126)举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞0收藏
+
+    可能是因为放射科设备最多、最大、最贵、耗材最多。
+
+     2025-05-30 11:33   来自北京市
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞9收藏
+
+  - ![](https://i.guancha.cn/static/imgs/default_user_pic.png?imageMogr2/thumbnail/90x90)
+
+    [guan\_16857848162853](https://user.guancha.cn/user/personal-homepage?uid=1321246)
+
+    当治病救人变成一种商业模式…
+
+     2025-05-30 10:55   来自山东省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞3收藏
+
+  - ![](https://i.guancha.cn/bbs/avatar/2026/11/08/20261108155402921.jpg?imageMogr2/cut/1080x1080x0x0/thumbnail/90x90/format/jpg)
+
+    [昭晔起超](https://user.guancha.cn/user/personal-homepage?uid=10956) 正道歪理的边角料散修
+
+    郑州大学第一附属医院则被称为“亚洲最大医院”，拥有95个临床科室、4300张开放床位， **年门诊量突破1000万人次，2021年营收达218亿元。**
+
+    纽约长老会医院由纽约医院和长老会医院1998年合并而成，纽约医院建立于1771年，是康奈尔大学医学院的附属医院；长老会医院建立于1868年，是哥伦比亚大学医学院的附属医院。
+
+    https://user.guancha.cn/main/content?id=1449004
+
+    该医院现在共拥有8个院区，超过4000张床位， **每年接待就诊量超过200万人次，该院2023年总收入达103亿美元。**
+
+    大美的医疗复合体真是恐怖：1000万人次-218亿元，2180元/人次，200万人次-103亿美元（740亿元），37000元/人次，约17倍。
+
+     2025-05-30 10:45   来自贵州省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞15收藏
+
+  - ![](https://i.guancha.cn/bbs/avatar/2021/05/03/20210503164835351.jpg?imageMogr2/thumbnail/90x90)
+
+    [快乐的小白兔](https://user.guancha.cn/user/personal-homepage?uid=1022876)
+
+    医院贪腐总有放射科 这很奇怪
+
+     2025-05-30 10:43   来自北京市
+
+    [查看回复 2](https://user.guancha.cn/main/child-comments?id=56374126)举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞0收藏
+
+  - ![](https://i.guancha.cn/bbs/avatar/2024/02/19/20240219150759913.png?imageMogr2/cut/277x277x72x0/thumbnail/90x90/format/png)
+
+    [飞豹突击队](https://user.guancha.cn/user/personal-homepage?uid=45536)
+
+    继续深挖。
+
+     2025-05-30 10:32   来自福建省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞2收藏
+
+  - ![](https://i.guancha.cn/static/imgs/default_user_pic.png?imageMogr2/thumbnail/90x90)
+
+    [天下](https://user.guancha.cn/user/personal-homepage?uid=3383)
+
+    强烈推荐许昌市魏都区人民法院审理此案！
+
+     2025-05-30 09:57   来自广东省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞0收藏
+
+  - ![](https://i.guancha.cn/static/imgs/default_user_pic.png?imageMogr2/thumbnail/90x90)
+
+    [优视](https://user.guancha.cn/user/personal-homepage?uid=87994)
+
+    在各级行政原则之下，对地方各省市的中央巡视组非常非常重要。
+
+     2025-05-30 09:19   来自四川省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞5收藏
+
+  - ![](https://i.guancha.cn/static/imgs/default_user_pic.png?imageMogr2/thumbnail/90x90)
+
+    [喝粥吃瓜](https://user.guancha.cn/user/personal-homepage?uid=1278962)
+
+    冰山一角，见怪不怪。
+
+     2025-05-30 09:10   来自河南省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞7收藏
+
+  - ![](https://i.guancha.cn/bbs/avatar/2020/07/25/20200725221030386.jpg?imageMogr2/cut/973x973x51x43/thumbnail/90x90/format/jpg)
+
+    [一日就是一天](https://user.guancha.cn/user/personal-homepage?uid=130528) 浮名本是身外物，不著方寸也风流！
+
+    这下真是走完全程了
+
+     2025-05-30 09:07   来自江西省
+
+    举报
+
+    分享
+
+    新浪微博微信QQ空间
+
+    回复踩0赞1收藏
+
+相关推荐
+
+  - [![](https://i.guancha.cn/news/2026/11/06/97a91996450b44879322d3df8f3c4cd1.png)](https://www.guancha.cn/ChengShi/2026_11_06_907315.shtml?s=zwyxgtjdt)
+
+    #### [“80年来，战胜12次花园口站超1万立方米/秒大洪水”](https://www.guancha.cn/ChengShi/2026_11_06_907315.shtml?s=zwyxgtjbt)
+
+    2026-11-06 14:35
+
+  - [![](https://i.guancha.cn/news/2026/11/06/d3705adafc1343a981caeba7c47a05ac.png)](https://www.guancha.cn/ChengShi/2026_11_06_907317.shtml?s=zwyxgtjdt)
+
+    #### [进博会观察\|是进口博览会，也是中国研发博览会](https://www.guancha.cn/ChengShi/2026_11_06_907317.shtml?s=zwyxgtjbt)
+
+    2026-11-06 14:33 [观察者头条](https://www.guancha.cn/special/GuanChaZheTouTiao?s=zwyxgtjzt) [进博大观](https://www.guancha.cn/special/ZhongGuoJinBoHui?s=zwyxgtjzt)
+
+  - [![](https://i.guancha.cn/news/2026/11/06/fcc26f14b71744aebca141c013fdf68a.jpg)](https://www.guancha.cn/ChengShi/2026_11_06_907312.shtml?s=zwyxgtjdt)
+
+    #### [襄城县要划给平顶山？许昌网信办：网民臆测](https://www.guancha.cn/ChengShi/2026_11_06_907312.shtml?s=zwyxgtjbt)
+
+    2026-11-06 14:16
+
+  - [![](https://i.guancha.cn/news/2026/11/06/97cf65798b454cdd8d5b502067fa8ee8.jpg)](https://www.guancha.cn/ChengShi/2026_11_06_907301.shtml?s=zwyxgtjdt)
+
+    #### [北京中小学将全部取消外送餐](https://www.guancha.cn/ChengShi/2026_11_06_907301.shtml?s=zwyxgtjbt)
+
+    2026-11-06 12:03
+
+  - [![](https://i.guancha.cn/news/2026/11/06/3ef8c229a1bb45e39a775b4ba0fa8c33.jpg)](https://www.guancha.cn/ChengShi/2026_11_06_907265.shtml?s=zwyxgtjdt)
+
+    #### [第二艘国产大型邮轮‌“爱达·花城号”交付](https://www.guancha.cn/ChengShi/2026_11_06_907265.shtml?s=zwyxgtjbt)
+
+    2026-11-06 09:38
+
+  - [![](https://i.guancha.cn/news/2026/11/04/0a58085df19d425ea325648b46312baf.png)](https://www.guancha.cn/ChengShi/2026_11_04_907065.shtml?s=zwyxgtjdt)
+
+    #### [四川正式消除血吸虫病](https://www.guancha.cn/ChengShi/2026_11_04_907065.shtml?s=zwyxgtjbt)
+
+    2026-11-04 18:23
+
+  - [![](https://i.guancha.cn/news/2026/11/2/118e99c0eb3245b3bc751bcc81ebb429.png!cmspm?watermark/2/text/MDA6MDA6MjM=/fill/I0ZGRkZGRg==/fontsize/20/dx/10/dy/10)](https://www.guancha.cn/ChengShi/2026_11_02_906765.shtml?s=zwyxgtjdt)
+
+    #### [山东烟台马拉松海鲜补给遭哄抢，组委会：每年都这样，管不了大姨](https://www.guancha.cn/ChengShi/2026_11_02_906765.shtml?s=zwyxgtjbt)
+
+    2026-11-02 17:21
+
+  - [![](https://i.guancha.cn/news/2026/11/1/93f32599ae634956a2183ecfc60dbd9d.png!cmspm?watermark/2/text/MDA6MDA6MTQ=/fill/I0ZGRkZGRg==/fontsize/20/dx/10/dy/10)](https://www.guancha.cn/ChengShi/2026_11_01_906624.shtml?s=zwyxgtjdt)
+
+    #### [谢霆锋演唱会上被扔荧光棒，涉事男子：发自内心喜欢才扔](https://www.guancha.cn/ChengShi/2026_11_01_906624.shtml?s=zwyxgtjbt)
+
+    2026-11-01 15:28
+
+  - [![](https://i.guancha.cn/news/2026/10/31/95397c7fd56a45e39a71cb180ef4cdbb.png)](https://www.guancha.cn/ChengShi/2026_10_31_906537.shtml?s=zwyxgtjdt)
+
+    #### [自然资源部：实现“呆矿”变“活矿”、小矿变大矿、一矿变多矿](https://www.guancha.cn/ChengShi/2026_10_31_906537.shtml?s=zwyxgtjbt)
+
+    2026-10-31 13:09
+
+  - [![](https://i.guancha.cn/news/2026/10/31/81ae636010fb4554be966f9bf2a9e4da.jpg)](https://www.guancha.cn/ChengShi/2026_10_31_906520.shtml?s=zwyxgtjdt)
+
+    #### [“观光车变身校车载学生”？警方通报](https://www.guancha.cn/ChengShi/2026_10_31_906520.shtml?s=zwyxgtjbt)
+
+    2026-10-31 10:45
+
+  - [![](https://i.guancha.cn/news/2026/10/31/1dc1d718b32844a7a50362282492b9d5.jpg)](https://www.guancha.cn/ChengShi/2026_10_31_906495.shtml?s=zwyxgtjdt)
+
+    #### [通辽12345公布最新一期不受理工单：有市民希望国道禁止货车通行](https://www.guancha.cn/ChengShi/2026_10_31_906495.shtml?s=zwyxgtjbt)
+
+    2026-10-31 06:43
+
+  - [![](https://i.guancha.cn/news/2026/10/30/a6ed0081ede04e11a3f773c95d474026.jpg)](https://www.guancha.cn/ChengShi/2026_10_30_906370.shtml?s=zwyxgtjdt)
+
+    #### [“科漂”缘何扎了根](https://www.guancha.cn/ChengShi/2026_10_30_906370.shtml?s=zwyxgtjbt)
+
+    2026-10-30 11:26
+
+  - [![](https://i.guancha.cn/news/2026/10/28/53dcd1414de34cce8f35822adaeaf348.jpg)](https://www.guancha.cn/ChengShi/2026_10_28_906144.shtml?s=zwyxgtjdt)
+
+    #### [15名市监干部“卧底”送外卖，以骑手身份“揪出”后厨食安隐患](https://www.guancha.cn/ChengShi/2026_10_28_906144.shtml?s=zwyxgtjbt)
+
+    2026-10-28 16:46
+
+  - [![](https://i.guancha.cn/news/2026/10/25/a97f816aaee84742b6a36dbd318241b8.jpg)](https://www.guancha.cn/ChengShi/2026_10_25_905712.shtml?s=zwyxgtjdt)
+
+    #### [“未来之城”举办，王毅出席这场重要论坛，释放重磅信号](https://www.guancha.cn/ChengShi/2026_10_25_905712.shtml?s=zwyxgtjbt)
+
+    2026-10-25 15:08
+
+  - [![](https://i.guancha.cn/news/2026/10/25/601712664f934d12b71d0641a908951d.jpg)](https://www.guancha.cn/ChengShi/2026_10_25_905710.shtml?s=zwyxgtjdt)
+
+    #### [广西区委书记调研督导桂林旅游乱象整治情况](https://www.guancha.cn/ChengShi/2026_10_25_905710.shtml?s=zwyxgtjbt)
+
+    2026-10-25 14:53
+
+  - [![](https://i.guancha.cn/news/2026/10/22/200aa49d29c74739aca8bf3b35f4d06d.jpg)](https://www.guancha.cn/ChengShi/2026_10_22_905359.shtml?s=zwyxgtjdt)
+
+    #### [对话马克·力文：90年后，长征精神何以跨越国界与时间](https://www.guancha.cn/ChengShi/2026_10_22_905359.shtml?s=zwyxgtjbt)
+
+    2026-10-22 16:58 [观察者头条](https://www.guancha.cn/special/GuanChaZheTouTiao?s=zwyxgtjzt)
+
+  - [![](https://i.guancha.cn/news/2026/10/21/2af1815e28ee4ed697c360c9c938278c.jpg!cmspm?watermark/2/text/MDA6MTA6MzU=/fill/I0ZGRkZGRg==/fontsize/20/dx/10/dy/10)](https://www.guancha.cn/ChengShi/2026_10_21_905081.shtml?s=zwyxgtjdt)
+
+    #### [“大拆大建”退场，武汉如何重算城市更新的三本账？](https://www.guancha.cn/ChengShi/2026_10_21_905081.shtml?s=zwyxgtjbt)
+
+    2026-10-21 15:52
+
+  - [![](https://i.guancha.cn/news/2026/10/18/0781affa9e2543f29c740d072fe99212.jpg)](https://www.guancha.cn/ChengShi/2026_10_18_904839.shtml?s=zwyxgtjdt)
+
+    #### [香港要把商场摄像头接进警方系统，下一步是人脸识别](https://www.guancha.cn/ChengShi/2026_10_18_904839.shtml?s=zwyxgtjbt)
+
+    2026-10-18 16:56
+
+  - [![](https://i.guancha.cn/news/2026/10/16/7578aa5c92d64d1299ca17bd94f4a47b.jpg)](https://www.guancha.cn/ChengShi/2026_10_16_904648.shtml?s=zwyxgtjdt)
+
+    #### [“人生尽头是考编”？衡水约谈全市机构：禁止此类话术制造焦虑](https://www.guancha.cn/ChengShi/2026_10_16_904648.shtml?s=zwyxgtjbt)
+
+    2026-10-16 17:58
+
+  - [![](https://i.guancha.cn/news/2026/10/14/2a5665bb03434ef4ade48939f85cf468.jpg)](https://www.guancha.cn/ChengShi/2026_10_14_904370.shtml?s=zwyxgtjdt)
+
+    #### [“成都街头女子用U型锁打人”，警方通报](https://www.guancha.cn/ChengShi/2026_10_14_904370.shtml?s=zwyxgtjbt)
+
+    2026-10-14 22:32
+- 搜索
+
+[观察者头条](https://www.guancha.cn/special/GuanChaZheTouTiao) [查看全部](https://www.guancha.cn/GuanChaZheTouTiao)
+
+[![美国民主党大胜，泽连斯基不愁了：期待！](https://i.guancha.cn/news/2026/11/8/54237d5383b64c54bdc59a5a66fe7b1c.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907505.shtml?s=zwytt)
+
+[美国民主党大胜，泽连斯基不愁了：期待！](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907505.shtml?s=zwytt) 评论 46
+
+[![“当门砰一声关上时，特朗普仍在咆哮…”](https://i.guancha.cn/news/2026/11/08/d95d976530d646ab8a59334934621e84.png)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907499.shtml?s=zwytt)
+
+[“当门砰一声关上时，特朗普仍在咆哮…”](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907499.shtml?s=zwytt) 评论 100
+
+[![“共和党惨败后，万斯开始与特朗普保持距离”](https://i.guancha.cn/news/2026/11/8/4c1dfb6da8c24c85915291cb4c767e1f.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907478.shtml?s=zwytt)
+
+[“共和党惨败后，万斯开始与特朗普保持距离”](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907478.shtml?s=zwytt) 评论 54
+
+[![“过去两周，万斯一直在幕后推动美伊谈判”](https://i.guancha.cn/news/2026/11/07/f1e9e6eb731e417490ddc2b1d2c3e38b.png)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_07_907465.shtml?s=zwytt)
+
+[“过去两周，万斯一直在幕后推动美伊谈判”](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_07_907465.shtml?s=zwytt) 评论 42
+
+[![“美国AI数据中心或将面临清算”](https://i.guancha.cn/news/2026/11/07/988cbc0928004b8bb05db15baa6d1d37.png)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_07_907453.shtml?s=zwytt)
+
+[“美国AI数据中心或将面临清算”](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_07_907453.shtml?s=zwytt) 评论 96
+
+[风闻 · 24小时最热](https://user.guancha.cn/?s=zwyessckqb) [查看全部](https://user.guancha.cn/?s=zwyessckqb)
+
+[![](https://i.guancha.cn/bbs/2026/11/07/20261107235304i387ec371.png?imageMogr2/crop/!80x80)\\
+1](https://user.guancha.cn/main/content?id=1767799&s=zwyess)
+
+[晴天霹雳的断言：印度已被锁死，崛起没有可能](https://user.guancha.cn/main/content?id=1767799&s=zwyess) 评论 198   赞 11
+
+[![](https://i.guancha.cn/bbs/2026/11/08/20261108074204ic2978123.jpg?imageMogr2/crop/!80x80)\\
+2](https://user.guancha.cn/main/content?id=1767836&s=zwyess)
+
+[不能让外国老人抢占中国年轻人的科研机会](https://user.guancha.cn/main/content?id=1767836&s=zwyess) 评论 77   赞 61
+
+[![](https://i.guancha.cn/24fengwen_default.jpg?imageMogr2/crop/!80x80&20211011)\\
+3](https://user.guancha.cn/main/content?id=1767745&s=zwyess)
+
+[为什么有人要洗AI短剧呢？](https://user.guancha.cn/main/content?id=1767745&s=zwyess) 评论 48   赞 3
+
+[![](https://i.guancha.cn/bbs/2026/11/07/20261107191529i605e84d0.png?imageMogr2/crop/!80x80)\\
+4](https://user.guancha.cn/main/content?id=1767734&s=zwyess)
+
+[年薪30万！中国某企业招800退伍兵去非洲，是执行什么任务？](https://user.guancha.cn/main/content?id=1767734&s=zwyess) 评论 44   赞 8
+
+[![](https://i.guancha.cn/bbs/2026/11/07/20261107213636i78f5a781.jpg?imageMogr2/crop/!80x80)\\
+5](https://user.guancha.cn/main/content?id=1767764&s=zwyess)
+
+[摸着老马的石头过河？长征九号重型运载火箭正式立项，为何选择了星舰构型？](https://user.guancha.cn/main/content?id=1767764&s=zwyess) 评论 43   赞 6
+
+[![](https://i.guancha.cn/bbs/2026/11/08/20261108000205i86617d4e.png?imageMogr2/crop/!80x80)\\
+6](https://user.guancha.cn/main/content?id=1767803&s=zwyess)
+
+[日韩曾经面临的挑战，我们也避不开](https://user.guancha.cn/main/content?id=1767803&s=zwyess) 评论 33   赞 9
+
+[![](https://i.guancha.cn/bbs/2026/11/08/20261108082642616.png?imageMogr2/crop/!80x80)\\
+7](https://user.guancha.cn/main/content?id=1767865&s=zwyess)
+
+[教师AI全覆盖培训铺开，不少老师却说越用AI越累，问题出在哪？](https://user.guancha.cn/main/content?id=1767865&s=zwyess) 评论 24   赞 0
+
+[![](https://i.guancha.cn/bbs/2026/11/02/20261102220544389.jpeg?imageMogr2/crop/!80x80)\\
+8](https://user.guancha.cn/main/content?id=1764376&s=zwyess)
+
+[想象055+](https://user.guancha.cn/main/content?id=1764376&s=zwyess) 评论 21   赞 7
+
+[![](https://i.guancha.cn/24fengwen_default.jpg?imageMogr2/crop/!80x80&20211011)\\
+9](https://user.guancha.cn/main/content?id=1767940&s=zwyess)
+
+[作为70后，我当年也担心过80后、90后难当大梁，但现实却非如此](https://user.guancha.cn/main/content?id=1767940&s=zwyess) 评论 16   赞 6
+
+[![](https://i.guancha.cn/bbs/2026/11/07/20261107192111i4026f412.jpg?imageMogr2/crop/!80x80)\\
+10](https://user.guancha.cn/main/content?id=1767736&s=zwyess)
+
+[【海外军情】伊朗在新一轮战斗前的军事准备情况](https://user.guancha.cn/main/content?id=1767736&s=zwyess) 评论 16   赞 5
+
+[最新视频](https://www.guancha.cn/GuanWangKanPian) [查看全部](https://www.guancha.cn/GuanWangKanPian)
+
+[![](https://i.guancha.cn/video/cover/2026/11/08/1794125941574290.jpg!videobauto?watermark/2/text/MDA6MDA6MDY=/fill/I0ZGRkZGRg==/fontsize/32/dx/10/dy/10)现场烈焰裹挟浓烟！印度特快列车途中起火，疑因车厢风扇短路所致，四节车厢被波及，车上1500多名乘客安全撤离](https://www.guancha.cn/video/gczvideo/content.html?id=60779&s=zwyzxsp)
+
+[![](https://i.guancha.cn/video/cover/2026/11/08/1794124081724098.jpg!videobauto?watermark/2/text/MDA6MDA6MDg=/fill/I0ZGRkZGRg==/fontsize/32/dx/10/dy/10)内塔尼亚胡：新政府“将从内部摧毁以色列”；埃森科特：内塔尼亚胡是“分裂以色列社会的人”](https://www.guancha.cn/video/gczvideo/content.html?id=60778&s=zwyzxsp)
+
+[![](https://i.guancha.cn/video/cover/2026/11/08/1794121957836142.jpg!videobauto?watermark/2/text/MDA6MDA6MTY=/fill/I0ZGRkZGRg==/fontsize/32/dx/10/dy/10)数百盏灯点亮墨尔本街头，在澳华人悼念47岁遇害外卖骑手，墨尔本唐人街商会已为遇难者家属筹集100多万](https://www.guancha.cn/video/gczvideo/content.html?id=60777&s=zwyzxsp)
+
+[![](https://i.guancha.cn/video/cover/2026/11/08/1794119369354713.jpg!videobauto?watermark/2/text/MDA6MDA6MTg=/fill/I0ZGRkZGRg==/fontsize/32/dx/10/dy/10)陕西商南3死2伤命案：有邻居称曾见过嫌犯与一女性死者，未察觉异常，当地成立9个工作组开展善后等工作](https://www.guancha.cn/video/gczvideo/content.html?id=60776&s=zwyzxsp)
+
+最新闻 Hot
+
+  - [![美国民主党大胜，泽连斯基不愁了：期待！](https://i.guancha.cn/news/2026/11/8/b6978f9125e14cdaad96f75113ce3aed.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907505.shtml?s=zwyzxw)
+
+    #### [美国民主党大胜，泽连斯基不愁了：期待！](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907505.shtml?s=zwyzxw)
+
+  - [![“当门砰一声关上时，特朗普仍在咆哮…”](https://i.guancha.cn/news/2026/11/08/2e4ba71008d840a8a732e7bea9e04906.png)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907499.shtml?s=zwyzxw)
+
+    #### [“当门砰一声关上时，特朗普仍在咆哮…”](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907499.shtml?s=zwyzxw)
+
+  - [![“李在明不再是总统，必须弹劾”](https://i.guancha.cn/news/2026/11/8/473ef6141585419abc7a1f078de7ba2d.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907489.shtml?s=zwyzxw)
+
+    #### [“李在明不再是总统，必须弹劾”](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907489.shtml?s=zwyzxw)
+
+  - [![被邀请担任白宫新闻秘书，怀特：会和特朗普讨论](https://i.guancha.cn/news/2026/11/08/f1280aacb01948cdb7e669da75fab0d5.png!cmspn?watermark/2/text/MDA6MDA6MTI=/fill/I0ZGRkZGRg==/fontsize/30/dx/15/dy/15)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907522.shtml?s=zwyzxw)
+
+    #### [被邀请担任白宫新闻秘书，怀特：会和特朗普讨论](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907522.shtml?s=zwyzxw)
+
+  - [![“美国利益优先”，今年也不去](https://i.guancha.cn/news/2026/11/08/12dcd415ae424094bc93dddd5e8880de.png)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907491.shtml?s=zwyzxw)
+
+    #### [“美国利益优先”，今年也不去](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907491.shtml?s=zwyzxw)
+
+  - [![特朗普下令：立即调查民主党](https://i.guancha.cn/news/2026/11/08/1547240cc13d4b79abf252a1a4ee2835.png)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907500.shtml?s=zwyzxw)
+
+    #### [特朗普下令：立即调查民主党](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907500.shtml?s=zwyzxw)
+
+  - [![鲁比奥整顿国务院：违规就走人](https://i.guancha.cn/news/2026/11/8/d87ff34d500e4c0c8c088100956688af.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907516.shtml?s=zwyzxw)
+
+    #### [鲁比奥整顿国务院：违规就走人](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907516.shtml?s=zwyzxw)
+
+  - [![日本自民党考虑处分石破茂](https://i.guancha.cn/news/2026/11/8/5595413eecb74de2b44209abd19ad06a.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907517.shtml?s=zwyzxw)
+
+    #### [日本自民党考虑处分石破茂](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907517.shtml?s=zwyzxw)
+
+  - [![辞职+1！白宫人事地震开始了](https://i.guancha.cn/news/2026/11/08/71b1eddbf59f44e7b3ca460f49320211.png)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907521.shtml?s=zwyzxw)
+
+    #### [辞职+1！白宫人事地震开始了](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907521.shtml?s=zwyzxw)
+
+  - [![以色列总统没有选择内塔尼亚胡](https://i.guancha.cn/news/2026/11/8/14f7288adfc94cd0a9fabffb0abeae27.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907479.shtml?s=zwyzxw)
+
+    #### [以色列总统没有选择内塔尼亚胡](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907479.shtml?s=zwyzxw)
+
+  - [![“共和党惨败后，万斯开始与特朗普保持距离”](https://i.guancha.cn/news/2026/11/8/8b0354822276441f8b5f978530ccc234.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907478.shtml?s=zwyzxw)
+
+    #### [“共和党惨败后，万斯开始与特朗普保持距离”](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907478.shtml?s=zwyzxw)
+
+  - [![特朗普邀请UFC总裁担任白宫新闻秘书](https://i.guancha.cn/news/2026/11/08/5ec50f6b283d48109bcd18fe15282ead.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907480.shtml?s=zwyzxw)
+
+    #### [特朗普邀请UFC总裁担任白宫新闻秘书](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907480.shtml?s=zwyzxw)
+
+  - [![波兰枪手穿防弹衣、持自动步枪扫射人群，致6死15伤](https://i.guancha.cn/news/2026/11/8/7b2a14b94448420484c25f00afd32bc0.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907481.shtml?s=zwyzxw)
+
+    #### [波兰枪手穿防弹衣、持自动步枪扫射人群，致6死15伤](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907481.shtml?s=zwyzxw)
+
+  - [![小博索纳罗：怎么到美国的，这个秘密会带进坟墓](https://i.guancha.cn/news/2026/11/8/4b16d05b90be4feaad75faa6359893a1.jpg)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907484.shtml?s=zwyzxw)
+
+    #### [小博索纳罗：怎么到美国的，这个秘密会带进坟墓](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_08_907484.shtml?s=zwyzxw)
+
+  - [![“过去两周，万斯一直在幕后推动美伊谈判”](https://i.guancha.cn/news/2026/11/7/03c944d553bb4b51a71ce2547335cc65.png)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_07_907465.shtml?s=zwyzxw)
+
+    #### [“过去两周，万斯一直在幕后推动美伊谈判”](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_07_907465.shtml?s=zwyzxw)
+
+  - [![“美国AI数据中心或将面临清算”](https://i.guancha.cn/news/2026/11/7/c709f769da90416f9b243dfba0fa84fb.png)](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_07_907453.shtml?s=zwyzxw)
+
+    #### [“美国AI数据中心或将面临清算”](https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_07_907453.shtml?s=zwyzxw)
+
+快讯
+
+  - [进博观察｜这一次，跨国制药巨头把中国研发摆上自己展台](https://www.guancha.cn/CaiJing/2026_11_08_907467.shtml "进博观察｜这一次，跨国制药巨头把中国研发摆上自己展台")
+  - [MiniMax创始人罕见访谈：美国暴力投入算力，正被中国工程效率追赶](https://www.guancha.cn/CaiJing/2026_11_08_907470.shtml "MiniMax创始人罕见访谈：美国暴力投入算力，正被中国工程效率追赶")
+  - [“推不倒”的智能指环引争议，企业称将请院士级科学家说明](https://www.guancha.cn/CaiJing/2026_11_08_907473.shtml "“推不倒”的智能指环引争议，企业称将请院士级科学家说明")
+  - [仰望鼎曜阿布扎比首发：中国超豪华车亮出文化底色](https://www.guancha.cn/qiche/2026_11_08_907477.shtml "仰望鼎曜阿布扎比首发：中国超豪华车亮出文化底色")
+  - [硬科技早报\|上微光刻机亮相进博；中移动千亿投算力；苹果在宇树上做验证](https://www.guancha.cn/CaiJing/2026_11_08_907492.shtml "硬科技早报|上微光刻机亮相进博；中移动千亿投算力；苹果在宇树上做验证")
+  - [对标星链，千帆星座闯商业化：上海各区错位布局织密卫星互联网产业链](https://www.guancha.cn/ZhengZhi/2026_11_08_907513.shtml "对标星链，千帆星座闯商业化：上海各区错位布局织密卫星互联网产业链")
+  - [进博之问｜全球创新成果，如何抵达具体的人？](https://www.guancha.cn/ZhengZhi/2026_11_08_907508.shtml "进博之问｜全球创新成果，如何抵达具体的人？")
+  - [科植乐土丨“在中国我才能做得这么好！”科学家杰睿把上海当作“第二故乡”](https://www.guancha.cn/ZhengZhi/2026_11_08_907514.shtml "科植乐土丨“在中国我才能做得这么好！”科学家杰睿把上海当作“第二故乡”")
+
+[![评论](https://static.guancha.cn/news/www/images/chat_icon.png)](#comment)![返回顶部](https://static.guancha.cn/news/www/images/gotop.png)
+
+安全验证
+
+拖动下方拼图完成验证
+
+AI生成背景
+
+您的速度已超过 99% 的用户
+
+验证错误,请重试
+
+确定
+
+安全验证
+
+刷新验证码
+
+反馈
+
+切换无障碍验证
+
+切换常规验证

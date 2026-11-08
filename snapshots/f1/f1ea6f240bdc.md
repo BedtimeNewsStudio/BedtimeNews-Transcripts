@@ -1,0 +1,2298 @@
+---
+source_url: "https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml"
+captured_at: 2026-11-08T08:08:45Z
+title: "《焦点访谈》 20260714 种在纸上的水稻"
+tool: firecrawl
+---
+
+> **网页快照**：2026-11-08 08:08 UTC 抓取自 [原始页面](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)（工具：firecrawl）。
+
+# 《焦点访谈》 20260714 种在纸上的水稻
+
+[首页](https://www.cctv.com/)
+
+时政
+
+[新闻](https://news.cctv.com/ "")
+
+[评论](https://opinion.cctv.com/ "")
+
+[视频](https://v.cctv.com/ "")
+
+[财经](https://finance.cctv.com/index.shtml "")
+
+[体育](https://sports.cctv.com/ "")
+
+[教育](https://edu.cctv.com/ "")
+
+[熊猫](https://www.ipanda.com/ "")
+
+[直播中国](https://livechina.cctv.com/ "")
+
+[4K](https://tv.cctv.com/4K/index.shtml "")
+
+[CCTV.直播](https://tv.cctv.com/index.shtml "")
+
+[中](https://www.cctv.com/index.shtml "")
+
+[AIGC](https://aigc.cctv.com/index.shtml "AIGC")
+
+- [人民领袖习近平](https://news.cctv.com/rmlx/index.shtml)
+- [联播+](https://news.cctv.com/lbj/index.shtml)
+- [中国领导人](https://leaders.cctv.com/)
+- [央视快评](https://news.cctv.com/yskp/index.shtml)
+- [习式妙语](https://v.cctv.com/shizheng/xsmy/index.shtml)
+- [热解读](https://news.cctv.com/rjd/)
+- [天天学习](https://news.cctv.com/tiantianxuexi/index.shtml)
+
+- [直播](https://tv.cctv.com/live/index.shtml)
+- [片库](https://tv.cctv.com/yxg/index.shtml)
+- [栏目大全](https://tv.cctv.com/lm/index.shtml)
+- [节目单](https://tv.cctv.com/epg/index.shtml)
+- [听音](https://tv.cctv.com/ty/m/index.shtml)
+- [微视频](https://tv.cctv.com/wsp/m/index.shtml)
+- [主持人](https://tv.cctv.com/zhuchiren/index.shtml)
+- [下载央视影音](https://app.cctv.com/index.shtml#page5)
+
+- [海外频道](https://global.cctv.com/)
+- [iPanda](https://en.ipanda.com/)
+- [English](https://english.cctv.com/)
+- [Монгол](https://mn.cctv.com/)
+- [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652856235095_854.png)![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652856239393_131.png)](https://mongol.cctv.com/)
+- [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/5/1691224953149_874.png)![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/5/1691224956116_551.png)](http://www.tibetcnr.com/)
+- [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/5/1691224981945_575.png)![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/5/1691224983459_899.png)](http://www.uycnr.com/)
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/5/1691225001997_335.png)![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/5/1691225003416_711.png)](http://www.kazakcnr.com/)
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/5/1691225018456_630.png)![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2023/8/5/1691225020349_640.png)](http://www.krcnr.cn/)
+
+- [地方](https://local.cctv.com/index.shtml)
+- [乡村振兴](https://xczx.cctv.com/index.shtml)
+- [生态](https://eco.cctv.com/)
+- [一带一路](https://ydyl.cctv.com/)
+- [央博](https://yangbo.cctv.com/)
+- [文化](https://www.cctv.com/culture/index.shtml)
+- [旅游](https://culture-travel.cctv.com/)
+- [科普](https://kepu.cctv.cn/)
+- [健康](https://jiankang.cctv.com/)
+- [乐龄](https://laoling.cctv.com/index.shtml)
+- [阅读](https://book.cctv.com/)
+- [艺术](https://arts.cctv.com/)
+- [数智](https://5gai.cctv.com/)
+- [5G](https://5g.cctv.com/)
+- [产业+](https://business.cctv.com/)
+- [央央好物](https://www.cctvmall.com/)
+
+网页
+
+网页视频
+
+[热搜榜](https://tv.cctv.com/top/)
+
+|  |
+| --- |
+|  |
+|  |
+|  |
+|  |
+|  |
+
+|  |  |  |
+| --- | --- | --- |
+|  | 下次自动登录 | [忘记密码](http://reg.cntv.cn/forgetPassword/findPassword.jsp) |
+|  |  |  |
+
+|  |  |  |
+| --- | --- | --- |
+| 登录 |  | [立即注册](http://reg.cctv.com/regist.html?from=http://www.cctv.com) |
+|  |  |  |
+
+使用合作网站账号登录![微信](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/cooper_wx_141230.png)![QQ](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/cooper_qq_10886_140506.png)![新浪网](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1441519391707376/cooper_wb_13730_151019.png)![支付宝](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1456645307521846/zfb_14686_160513.png)
+
+![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1652643499621200/mapLogo.png)
+
+[总台春晚](https://chunwan.cctv.com/) [网络春晚](https://wlchunwan.cctv.com/) [共产党员网](https://www.12371.cn/) [秧纪录](http://jishi.cntv.cn/special/zgjlyx/index.shtml) [纪录片网](http://www.docuchina.cn/) [国家大剧院](http://ncpa-classic.cntv.cn/index.shtml) [大型活动](https://gongyi.cctv.com/events/)
+
+[新闻](https://news.cctv.com/) [国内](https://news.cctv.com/china/) [国际](https://news.cctv.com/world/) [评论](https://opinion.cctv.com/) [经济](https://jingji.cctv.com/) [军事](https://military.cctv.com/index.shtml) [科技](https://news.cctv.com/tech/index.shtml) [法治](https://news.cctv.com/law/) [文娱](https://news.cctv.com/ent/) [人物](https://people.cctv.com/) [公益](https://gongyi.cctv.com/) [图片](https://photo.cctv.com/)
+
+[人民领袖习近平](https://news.cctv.com/rmlx/index.shtml) [联播+](https://news.cctv.com/lbj/index.shtml) [热解读](https://news.cctv.com/rjd/) [天天学习](https://news.cctv.com/tiantianxuexi/index.shtml) [习式妙语](https://v.cctv.com/shizheng/xsmy/index.shtml) [央视快评](https://news.cctv.com/yskp/index.shtml) [央视网评](https://opinion.cctv.com/yswp/index.shtml) [光华锐评](https://ghrp.cctv.com/index.shtml) [锋面](https://news.cctv.com/fengmian/index.shtml) [小央画话](https://opinion.cctv.com/xyhh/index.shtml) [8点见](https://news.cctv.com/8dianjian/index.shtml)
+
+[视频](https://v.cctv.com/) [小央视频](https://v.cctv.com/xysp/index.shtml) [小央直播](https://v.cctv.com/zhangbo/index.shtml) [直播中国](https://livechina.cctv.com/) [熊猫频道](https://www.ipanda.com/) [VR/AR](https://v.cctv.com/VR/index.shtml) [4K专区](https://tv.cctv.com/4K/index.shtml) [全景新闻](http://news.cctv.com/yuanchuang/VR/index.shtml)
+
+[现场](https://v.cctv.com/zixun/xc/index.shtml) [前线](https://v.cctv.com/zixun/qx/index.shtml) [比划](https://v.cctv.com/reping/bh/index.shtml) [快看](https://news.cctv.com/kuaikan/index.shtml) [蓝海中国](https://v.cctv.com/jishi/lhzglhzg/index.shtml) [新兵请入列](https://v.cctv.com/jishi/jsxbqrl/index.shtml) [人生第一次](https://v.cctv.com/jishi/rsdyc/index.shtml) [人生第二次](https://v.cctv.com/jishi/jsrsdec/)
+
+[体育](https://sports.cctv.com/) [直播](https://tv.cctv.com/live/cctv5/) [竞猜](https://cbs.sports.cctv.com/) [2026年亚运会](https://yayun.cctv.com/2026/index.shtml) [2026年世界杯](https://worldcup.cctv.com/2026/index.shtml) [2026年冬奥会](https://sports.cctv.com/Milano2026/) [CBA](https://sports.cctv.com/cba/) [NBA](https://sports.cctv.com/nba/) [中超](https://sports.cctv.com/csl/) [国足](https://sports.cctv.com/football/china/) [国际足球](https://sports.cctv.com/football/international/index.shtml) [网球](https://sports.cctv.com/tennis/) [综合体育](https://sports.cctv.com/zong/index.shtml)
+
+[VIP会员](https://vip.sports.cctv.com/) [CCTV奥林匹克频道](https://sports.cctv.com/olympicportal/index.shtml) [生活体育大会](https://sports.cctv.com/special/clsc/index.shtml) [体育江湖](https://sports.cctv.com/special/Jianghu/index.shtml) [文化体育](https://sports.cctv.com/wlty/index.shtml) [冰雪道路](https://sports.cctv.com/special/footprintsinthesnow/index.shtml) [足球道路](http://worldcup.cctv.com/2018/lm/footballroadmap/)
+
+[财经](https://finance.cctv.com/index.shtml) [教育](https://edu.cctv.com/) [乡村振兴](https://xczx.cctv.com/index.shtml) [生态环境](https://eco.cctv.com/) [一带一路](http://ydyl.cctv.com/) [央博](https://yangbo.cctv.com/) [非遗](https://china-feiyi.cctv.cn/) [文化](https://www.cctv.com/culture/index.shtml) [旅游](https://culture-travel.cctv.com/) [科普](https://kepu.cctv.cn/) [健康](https://jiankang.cctv.com/) [乐龄](https://laoling.cctv.com/index.shtml) [阅读](https://book.cctv.com/) [艺术](https://arts.cctv.com/index.shtml) [汽车](https://auto.cctv.com/) [数智](https://5gai.cctv.com/) [5G](https://5g.cctv.com/) [产业+](https://business.cctv.com/)
+
+[大国智造](https://jingji.cctv.com/special/dgzz/home/index.shtml) [大国展会](https://v.cctv.com/live_zb/LIVE3386.html?pageid=3386&tag=MicroLiveType) [大国保险](https://finance.cctv.com/special/daguobaoxian/home/index.shtml) [云顶对话](https://finance.cctv.com/special/yunding/index.shtml) [云起](https://local.cctv.com/zt/yunqi/) [超级工厂](https://business.cctv.com/special/cjgc/index.html) [智敬中国](https://5gai.cctv.com/ZJZG/index.shtml) [全民健康](https://edu.cctv.com/2022/08/24/VIDA9GgWzG2ywQ4nu0h078fv220824.shtml) [颜选攻略](https://edu.cctv.com/2021/06/01/VIDAEeKQjpGs6E8CrdT0uPf9210601.shtml) [海洋](https://ocean.cctv.com/) [时尚](https://style.cctv.com/) [天气](http://weather.cctv.com/index.shtml) [才艺](https://caiyi.cctv.com/cy/1/index.shtml) [网展](https://wangzhan.cctv.com/) [央央好物](https://www.cctvmall.com/)
+
+[![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857455273_78.png)](https://local.cctv.com/index.shtml)[![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857468382_741.png)](https://sh.cctv.com/)[![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857487408_417.png)](http://dbzx.cctv.com/index.shtml)
+
+[CCTV.节目官网](https://tv.cctv.com/) [直播](https://tv.cctv.com/live/index.shtml) [节目单](https://tv.cctv.com/epg/index.shtml) [栏目](https://tv.cctv.com/lm/) [片库](https://tv.cctv.com/yxg/) [热播榜](https://tv.cctv.com/top/) [总台企业白名单](https://tv.cctv.com/special/qybmd/index.shtml)
+
+- [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857919170_116.png)](https://tv.cctv.com/cctv1/)
+- [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857908565_283.png)](https://tv.cctv.com/cctv2/)
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857899758_226.png)](https://tv.cctv.com/cctv3/)
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857890508_970.png)](https://tv.cctv.com/cctv4asia/)
+- [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857880669_439.png)](https://tv.cctv.com/cctv5/)
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857870022_568.png)](http://tv.cctv.com/cctv5plus/)
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857866003_622.png)](https://tv.cctv.com/cctv6/)
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857849889_559.png)](https://tv.cctv.com/cctv7/)
+- [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857845477_430.png)](https://tv.cctv.com/cctv8/)
+- [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857796382_346.png)](https://tv.cctv.com/cctv9/)
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857791503_238.png)](https://tv.cctv.com/cctv10/)
+- [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857775917_66.png)](https://tv.cctv.com/cctv11/)
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857764456_492.png)](https://tv.cctv.com/cctv12/)
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857760604_164.png)](https://tv.cctv.com/cctv13/)
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857722814_387.png)](https://tv.cctv.com/cctv14/)
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857703226_327.png)](https://tv.cctv.com/cctv15/)
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857684625_15.png)](http://tv.cctv.com/cctv16/)
+- [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/18/1652857654002_764.png)](https://tv.cctv.com/cctv17/)
+
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/5/23/1653307509334_306.png)](https://news.cctv.com/special/zhgqsh/tgdzh/index.shtml)
+- [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2022/7/1/1656653912700_622.png)](https://tvtech.cctv.com/)
+
+短信登录账号登录
+
++86 \|
+手机号
+
+手机号格式错误
+
+图形验证码
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+图形验证码错误
+
+短信验证码
+_获取验证码_
+
+短信验证码错误
+
+验证码已发送，可能会有延后请耐心等待
+
+登 录
+
+请阅读并勾选下列协议
+
+同意 [《央视网用户服务协议》](https://www.cctv.com/special/guanyunew/fuwuxieyi/index.shtml) [《央视网隐私政策》](https://www.cctv.com/special/guanyunew/PAGE1381887126760260/index.shtml) [《儿童隐私保护指引》](https://www.cctv.com/special/guanyunew/20200605/index.shtml)
+
+免费注册
+
+手机号/邮箱
+
+输入格式有误，请使用邮箱或手机号码登录
+
+密码长度为 8-16 个字符
+
+图形验证码
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+图形验证码错误
+
+记住我
+
+[忘记密码](https://user.cctv.com/findPassword/index.shtml)
+
+登 录
+
+请阅读并勾选下列协议
+
+同意 [《央视网用户服务协议》](https://www.cctv.com/special/guanyunew/fuwuxieyi/index.shtml) [《央视网隐私政策》](https://www.cctv.com/special/guanyunew/PAGE1381887126760260/index.shtml) [《儿童隐私保护指引》](https://www.cctv.com/special/guanyunew/20200605/index.shtml)
+
+免费注册
+
+#### 打开央视影音手机客户端
+
+#### 扫描二维码登录
+
+二维码已失效
+
+点击刷新
+
+扫码成功
+
+请在手机上确认 \[登录\]
+
+登录即代表同意 [《央视网用户服务协议》](https://www.cctv.com/special/guanyunew/fuwuxieyi/index.shtml) [《央视网隐私政策》](https://www.cctv.com/special/guanyunew/PAGE1381887126760260/index.shtml) [《儿童隐私保护指引》](https://www.cctv.com/special/guanyunew/20200605/index.shtml)
+
+[下载央视影音客户端](https://app.cctv.com/)
+
+手机注册邮箱注册
+
++86 \|
+手机号
+
+手机号格式错误
+
+图形验证码
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+图形验证码错误
+
+短信验证码
+_获取验证码_
+
+短信验证码错误
+
+验证码已发送，可能会有延后请耐心等待
+
+密码与确认密码不一致
+
+请再次输入密码
+
+注 册
+
+请阅读并勾选下列协议
+
+同意 [《央视网用户服务协议》](https://www.cctv.com/special/guanyunew/fuwuxieyi/index.shtml) [《央视网隐私政策》](https://www.cctv.com/special/guanyunew/PAGE1381887126760260/index.shtml) [《儿童隐私保护指引》](https://www.cctv.com/special/guanyunew/20200605/index.shtml)
+
+返回登录
+
+邮箱
+
+邮箱格式错误
+
+图形验证码
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+图形验证码错误
+
+密码与确认密码不一致
+
+请再次输入密码
+
+注 册
+
+请阅读并勾选下列协议
+
+同意 [《央视网用户服务协议》](https://www.cctv.com/special/guanyunew/fuwuxieyi/index.shtml) [《央视网隐私政策》](https://www.cctv.com/special/guanyunew/PAGE1381887126760260/index.shtml) [《儿童隐私保护指引》](https://www.cctv.com/special/guanyunew/20200605/index.shtml)
+
+返回登录
+
+扫码成功
+
+请绑定手机号
+
++86 \|
+手机号
+
+手机号格式错误
+
+图形验证码
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+图形验证码错误
+
+短信验证码
+_获取验证码_
+
+短信验证码错误
+
+验证码已发送，可能会有延后请耐心等待
+
+提 交
+
+温馨提示：若您的手机号已在央视网注册，绑定后， 仅保留手机账号内的信息。
+
+验证邮件发送成功
+
+立即 [进入邮箱查看](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+24h同一个用户请求邮件验证码超过10次
+
+邮箱验证码
+
+已发送,可能会有延后请耐心等待
+
+确定
+
+安全验证
+
+图形验证码
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+图形验证码错误
+
+确 定
+
+您的密码存在安全风险，请 [立即修改](https://user.cctv.com/findPassword/index.shtml)
+
+激活成功
+
+3s后自动跳转到登录页
+
+返回登录
+
+信息已提交
+
+请点击邮箱中的链接激活账号
+
+立即访问邮箱
+
+系统维护中，请稍后再试
+
+请完成安全验证
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+向右滑动完成验证
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+- [直播](https://tv.cctv.com/live/index.shtml)
+- [节目单](https://tv.cctv.com/epg/index.shtml)
+- 频道大全
+
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png)](https://tv.cctv.com/cctv1/index.shtml)
+  - [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103580398_438.png)](https://tv.cctv.com/cctv2/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103576424_839.png)](https://tv.cctv.com/cctv3/index.shtml)
+  - [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550058411_61.png)](https://tv.cctv.com/cctv4asia/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550072014_112.png)](http://tv.cctv.com/cctv4europe/index.shtml)
+  - [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550081230_815.png)](https://tv.cctv.com/cctv4america/index.shtml)
+  - [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103564221_455.png)](https://tv.cctv.com/cctv5/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103559889_527.png)](https://tv.cctv.com/cctv5plus/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103555008_27.png)](https://tv.cctv.com/cctv6/index.shtml)
+  - [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/27/1635316384588_606.png)](https://tv.cctv.com/cctv7/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103545840_281.png)](https://tv.cctv.com/cctv8/index.shtml)
+  - [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103541537_570.png)](https://tv.cctv.com/cctv9/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103522202_464.png)](https://tv.cctv.com/cctv10/index.shtml)
+  - [![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103518125_115.png)](https://tv.cctv.com/cctv11/index.shtml)
+  - [![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103514143_75.png)](https://tv.cctv.com/cctv12/index.shtml)
+  - [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103509483_94.png)](https://tv.cctv.com/cctv13/index.shtml)
+  - [![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103504911_769.png)](https://tv.cctv.com/cctv14/index.shtml)
+  - [![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103498267_722.png)](https://tv.cctv.com/cctv15/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635161516494_338.png)](https://tv.cctv.com/cctv16)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103493765_400.png)](https://tv.cctv.com/cctv17/index.shtml)
+
+- [栏目大全](https://tv.cctv.com/lm/index.shtml)
+
+  - 综合
+  - 财经
+  - 综艺
+  - 中文国际
+  - 体育
+  - 电影
+  - 国防军事
+  - 电视剧
+  - 纪录
+  - 科教
+  - 戏曲
+  - 社会与法
+  - 新闻
+  - 少儿
+  - 音乐
+  - 体育赛事
+  - 农业农村
+
+  - [新闻联播](https://tv.cctv.com/lm/xwlb/index.shtml)
+
+    [焦点访谈](https://tv.cctv.com/lm/jdft/index.shtml)
+
+    [晚间新闻](https://tv.cctv.com/lm/wjxw/index.shtml)
+
+    [故事里的中国](https://tv.cctv.com/lm/gsldzg3/index.shtml)
+
+  - [今日说法](https://tv.cctv.com/lm/jrsf/index.shtml)
+
+    [时代楷模发布厅](https://tv.cctv.com/lm/sdkmfbt/index.shtml)
+
+    [开讲啦](https://tv.cctv.com/lm/kjl/index.shtml)
+
+    [我有传家宝](https://tv.cctv.com/lm/xunbao/index.shtml)
+
+  - [第一动画乐园](https://tv.cctv.com/lm/dydhly/index.shtml)
+
+    [动物世界](https://tv.cctv.com/lm/dwsj/index.shtml)
+
+    [人与自然](https://tv.cctv.com/lm/ryzr/index.shtml)
+
+    [正大综艺](https://tv.cctv.com/lm/zdzy1/index.shtml)
+
+  - [人口](https://tv.cctv.com/lm/renkou/index.shtml)
+
+    [国际艺苑](http://tv.cctv.com/lm/gjyy/)
+
+    [生活提示](https://tv.cctv.com/lm/shts/index.shtml)
+
+    [中华民族](https://tv.cctv.com/lm/zhmz/index.shtml)
+
+  - [秘境之眼](https://tv.cctv.com/lm/mjzy/index.shtml)
+
+    [城市风华录](https://tv.cctv.com/lm/csfhl/index.shtml)
+
+    [金石探文明](https://tv.cctv.com/lm/jstwm/index.shtml)
+
+    [简牍探中华](https://tv.cctv.com/lm/jdtzh/index.shtml)
+
+  - [自然中国](https://tv.cctv.com/lm/zrzg/index.shtml)
+
+    [花开中国](https://tv.cctv.com/lm/hkzg/index.shtml)
+
+    [文脉春秋](https://tv.cctv.com/lm/wmcq/index.shtml)
+
+    [寻古中国](https://tv.cctv.com/lm/xgzg/index.shtml)
+
+  - [对话](https://tv.cctv.com/lm/duihua/index.shtml)
+
+    [经济半小时](https://tv.cctv.com/lm/jjbxs/index.shtml)
+
+    [经济信息联播](https://tv.cctv.com/lm/jjxxll/index.shtml)
+
+    [财经调查](https://tv.cctv.com/lm/cjdc/index.shtml)
+
+  - [第一时间](https://tv.cctv.com/lm/dysj/index.shtml)
+
+    [消费主张](https://tv.cctv.com/lm/xfzz/index.shtml)
+
+    [欢乐大猜想](https://tv.cctv.com/lm/hldcx/index.shtml)
+
+    [创业英雄汇](https://tv.cctv.com/lm/cyyxh/index.shtml)
+
+  - [一槌定音](https://tv.cctv.com/lm/ycdy/index.shtml)
+
+    [生财有道](https://tv.cctv.com/lm/scyd/index.shtml)
+
+    [职场健康课](https://tv.cctv.com/lm/zcjkk/index.shtml)
+
+    [央视财经评论](https://tv.cctv.com/lm/yscjpl/index.shtml)
+
+  - [回家吃饭](https://tv.cctv.com/lm/hjcf/index.shtml)
+
+    [中国经济大讲堂](https://tv.cctv.com/lm/zgjjdjt/index.shtml)
+
+    [正点财经](http://tv.cctv.com/lm/zdcj/index.shtml)
+
+    [天下财经](https://tv.cctv.com/lm/hqcjlx/index.shtml)
+
+  - [生活家](http://tv.cctv.com/lm/shj/)
+
+    [魅力中国城](http://tv.cctv.com/lm/mlzgc/meilizhongguocheng/index.shtml)
+
+  - [金牌喜剧班](https://tv.cctv.com/lm/jpxjb/index.shtml)
+
+    [我的艺术清单](https://tv.cctv.com/lm/wdysqd/)
+
+    [走在回家的路上](http://tv.cctv.com/lm/zzhjdls)
+
+    [你好生活](https://tv.cctv.com/2023/07/16/VIDAoHIa88UWaTwAfbNrA8AN230716.shtml)
+
+  - [舞蹈世界](https://tv.cctv.com/lm/wdsj/index.shtml)
+
+    [文化十分](https://tv.cctv.com/lm/whsf/index.shtml)
+
+    [越战越勇](https://tv.cctv.com/lm/yzyy/index.shtml)
+
+    [黄金100秒](https://tv.cctv.com/lm/hj100m/index.shtml)
+
+  - [星光大道](https://tv.cctv.com/lm/xgdd/index.shtml)
+
+    [开门大吉](https://tv.cctv.com/lm/kmdj/index.shtml)
+
+    [非常6+1](https://tv.cctv.com/lm/feichang6j1/index.shtml)
+
+    [我要上春晚](https://tv.cctv.com/2023/12/28/VIDAJ9qOsGFKzngvrV4ZDXTq231228.shtml)
+
+  - [向幸福出发](https://tv.cctv.com/lm/xxfcf/index.shtml)
+
+    [艺览天下](https://tv.cctv.com/lm/yltx/index.shtml)
+
+    [幸福账单](https://tv.cctv.com/lm/xfzd/index.shtml)
+
+    [天天把歌唱](https://tv.cctv.com/lm/ttbgc/index.shtml)
+
+  - [回声嘹亮](https://tv.cctv.com/lm/hsll/index.shtml)
+
+    [喜上加喜](https://tv.cctv.com/lm/xsjx/index.shtml)
+
+    [中国文艺报道](http://tv.cctv.com/lm/zgwybd/index.shtml)
+
+  - [健康中国](https://tv.cctv.com/lm/jkzg/index.shtml)
+
+    [走遍中国](https://tv.cctv.com/lm/zbzg/index.shtml)
+
+    [环球综艺秀](https://tv.cctv.com/lm/hqzyx/index.shtml)
+
+    [美食中国](https://tv.cctv.com/lm/mszg/index.shtml)
+
+  - [深度国际](https://tv.cctv.com/lm/sdgj/index.shtml)
+
+    [中国新闻](https://tv.cctv.com/lm/zgxw/index.shtml)
+
+    [今日关注](https://tv.cctv.com/lm/jrgz/index.shtml)
+
+    [今日亚洲](https://tv.cctv.com/lm/jryz/index.shtml)
+
+  - [中国文艺](https://tv.cctv.com/lm/zgwy/index.shtml)
+
+    [海峡两岸](https://tv.cctv.com/lm/hxla/index.shtml)
+
+    [远方的家](https://tv.cctv.com/lm/yfdj/index.shtml)
+
+    [中国舆论场](https://tv.cctv.com/lm/zgylc/shouye/index.shtml)
+
+  - [国家记忆](https://tv.cctv.com/lm/gjjy/index.shtml)
+
+    [记住乡愁](https://tv.cctv.com/lm/jzxcmmzs/)
+
+    [国宝·发现](https://tv.cctv.com/lm/gbfx/index.shtml)
+
+    [今日环球](https://tv.cctv.com/lm/jrhq/index.shtml)
+
+  - [华人故事](https://tv.cctv.com/lm/hrgs/index.shtml)
+
+    [中国缘](https://tv.cctv.com/lm/zgy/index.shtml)
+
+    [鲁健访谈](https://tv.cctv.com/lm/ljft/index.shtml)
+
+  - [运动一起赢](https://tv.cctv.com/lm/ydyqy/index.shtml)
+
+    [欧冠开场哨](https://tv.cctv.com/lm/ogkcs/index.shtml)
+
+    [天下足球](https://tv.cctv.com/lm/txzq/index.shtml)
+
+    [体坛晨报](http://tv.cctv.com/lm/tycb)
+
+  - [体坛快讯](https://tv.cctv.com/lm/ttkx/index.shtml)
+
+    [体育新闻](https://tv.cctv.com/lm/tyxw/index.shtml)
+
+    [体育世界](https://tv.cctv.com/lm/tysj/index.shtml)
+
+    [体谈](http://tv.cctv.com/lm/wytybd)
+
+  - [足球之夜](https://tv.cctv.com/lm/zqzy/index.shtml)
+
+    [篮球公园](https://tv.cctv.com/lm/lqgy/index.shtml)
+
+    [棋牌乐](http://tv.cctv.com/lm/qpl/)
+
+  - [今日影评](https://tv.cctv.com/lm/jryp/index.shtml)
+
+    [中国电影报道](https://tv.cctv.com/lm/zgdybd/index.shtml)
+
+  - [时光军史馆](https://tv.cctv.com/lm/sgjsg/index.shtml)
+
+    [谁是终极英雄](https://tv.cctv.com/lm/sszjyx/index.shtml)
+
+    [军事科技](https://tv.cctv.com/lm/jskj/index.shtml)
+
+    [军营的味道](https://tv.cctv.com/lm/jydwd/index.shtml)
+
+  - [军迷行天下](https://tv.cctv.com/lm/jmxtx/index.shtml)
+
+    [五星剧场](https://tv.cctv.com/lm/wxjc/index.shtml)
+
+    [国防军事早报](https://tv.cctv.com/lm/gfjszb/index.shtml)
+
+    [防务新观察](https://tv.cctv.com/lm/fwxgc/index.shtml)
+
+  - [军事报道](https://tv.cctv.com/lm/jsbd/index.shtml)
+
+    [军歌嘹亮](https://tv.cctv.com/lm/jgll/index.shtml)
+
+    [砺剑](https://tv.cctv.com/lm/lijian/index.shtml)
+
+    [讲武堂](https://tv.cctv.com/lm/jwt/index.shtml)
+
+  - [军事纪实](https://tv.cctv.com/lm/jsjs/)
+
+    [老兵你好](https://tv.cctv.com/lm/lbnh/)
+
+    [正午国防军事](https://tv.cctv.com/lm/zwgfjs/index.shtml)
+
+    [军事制高点](https://tv.cctv.com/lm/jszgd/index.shtml)
+
+  - [军事纪录](https://tv.cctv.com/lm/jsjl/index.shtml)
+
+    [第二战场](https://tv.cctv.com/lm/dezc/index.shtml)
+
+    [兵器面面观](https://tv.cctv.com/lm/bqmmg/index.shtml)
+
+    [世界战史](https://tv.cctv.com/lm/sjzs/index.shtml)
+
+  - [国防故事](https://tv.cctv.com/lm/gfgs/index.shtml)
+
+    [军武零距离](https://tv.cctv.com/lm/jwljl/index.shtml)
+
+  - [剧说很好看](https://tv.cctv.com/lm/jshhk/index.shtml)
+
+    [星推荐](https://tv.cctv.com/lm/xtj/index.shtml)
+
+  - [寰宇视野](https://tv.cctv.com/lm/hysx/index.shtml)
+
+    [发现](https://tv.cctv.com/lm/faxian/index.shtml)
+
+    [人文地理](https://tv.cctv.com/lm/rwdl/index.shtml)
+
+    [时代](https://tv.cctv.com/lm/shidai/index.shtml)
+
+  - [特别呈现](https://tv.cctv.com/lm/tbcx/index.shtml)
+
+    [真相](https://tv.cctv.com/lm/zhenxiang/index.shtml)
+
+    [自然](http://tv.cctv.com/lm/ziran)
+
+    [万象](http://tv.cctv.com/lm/wanxiang)
+
+  - [9视频](https://tv.cctv.com/lm/9sp/index.shtml)
+
+    [故事·中国](https://tv.cctv.com/lm/gszg/index.shtml)
+
+    [活力·源](https://tv.cctv.com/lm/hly/index.shtml)
+
+    [微9](http://tv.cctv.com/lm/w9/)
+
+  - [百家讲坛](https://tv.cctv.com/lm/bjjt/index.shtml)
+
+    [地理·中国](https://tv.cctv.com/lm/dlzg/index.shtml)
+
+    [自然传奇](https://tv.cctv.com/lm/zrcq/index.shtml)
+
+    [味道](https://tv.cctv.com/lm/weidao/index.shtml)
+
+  - [健康之路](https://tv.cctv.com/lm/jkzl/index.shtml)
+
+    [探索·发现](https://tv.cctv.com/lm/tsfx/index.shtml)
+
+    [透视新科技](https://tv.cctv.com/lm/tsxkj/index.shtml)
+
+    [实验现场](https://tv.cctv.com/lm/syxc/index.shtml)
+
+  - [科幻地带](https://tv.cctv.com/lm/khdd/index.shtml)
+
+    [科学动物园](https://tv.cctv.com/lm/kxdwy/index.shtml)
+
+    [时尚科技秀](https://tv.cctv.com/lm/sskjx/index.shtml)
+
+    [人物·故事](https://tv.cctv.com/lm/rwgs/index.shtml)
+
+  - [考古公开课](https://tv.cctv.com/lm/kggkk/index.shtml)
+
+    [跟着书本去旅行](https://tv.cctv.com/lm/gzsbqlx/index.shtml)
+
+    [百家说故事](https://tv.cctv.com/lm/bjsgs/index.shtml)
+
+    [读书](https://tv.cctv.com/lm/dushu/index.shtml)
+
+  - [解码科技史](https://tv.cctv.com/lm/jmkjs/index.shtml)
+
+    [创新进行时](https://tv.cctv.com/lm/cxjxs/index.shtml)
+
+    [中国影像方志](https://tv.cctv.com/lm/zgyxfz/)
+
+  - [戏曲青年说](https://tv.cctv.com/lm/xqqns/index.shtml)
+
+    [一鸣惊人](https://tv.cctv.com/lm/ymjr/index.shtml)
+
+    [九州大戏台](https://tv.cctv.com/lm/jzdxt/index.shtml)
+
+    [CCTV空中剧院](https://tv.cctv.com/lm/cctvkzjy/index.shtml)
+
+  - [中国京剧音配像精粹](https://tv.cctv.com/lm/zgjjypxjc/index.shtml)
+
+    [梨园闯关我挂帅](https://tv.cctv.com/lm/lycgwgs/index.shtml)
+
+    [梨园周刊](https://tv.cctv.com/lm/lyzk/index.shtml)
+
+    [角儿来了](https://tv.cctv.com/lm/jll/index.shtml)
+
+  - [过把瘾](https://tv.cctv.com/lm/gby/index.shtml)
+
+    [名段欣赏](http://tv.cctv.com/lm/mdxs)
+
+    [青春戏苑](https://tv.cctv.com/lm/qcxy/index.shtml)
+
+    [名家书场](http://tv.cctv.com/lm/mjsc/)
+
+  - [宝贝亮相吧](https://tv.cctv.com/lm/bblxb/)
+
+    [典藏](http://tv.cctv.com/lm/dc/)
+
+    [中国戏曲像音像集萃](https://tv.cctv.com/lm/zgjjxyxjc/index.shtml)
+
+    [了不起的戏曲](https://tv.cctv.com/lm/lbqdxq/index.shtml)
+
+  - [剧懂法](https://tv.cctv.com/lm/jdf/index.shtml)
+
+    [警察特训计划](https://tv.cctv.com/lm/jctxy/)
+
+    [小区大事](https://tv.cctv.com/lm/xqds/index.shtml)
+
+    [法律讲堂生活版](https://tv.cctv.com/lm/fljtshb/index.shtml)
+
+  - [一线](https://tv.cctv.com/lm/yixian/index.shtml)
+
+    [法律讲堂文史版](https://tv.cctv.com/lm/fljtwsb/index.shtml)
+
+    [夜线](https://tv.cctv.com/lm/yexian/index.shtml)
+
+    [中国法治观察](http://tv.cctv.com/lm/zgfzgc/index.shtml)
+
+  - [普法剧场](https://tv.cctv.com/lm/pfjc/index.shtml)
+
+    [夕阳红](https://tv.cctv.com/lm/xyh/index.shtml)
+
+    [生命线](https://tv.cctv.com/lm/smx/index.shtml)
+
+    [见证](https://tv.cctv.com/lm/jianzheng/index.shtml)
+
+  - [天网](https://tv.cctv.com/lm/tianwang/index.shtml)
+
+    [高墙内外](https://tv.cctv.com/lm/gqnw/index.shtml)
+
+    [现在开庭](https://tv.cctv.com/lm/xzkt/)
+
+    [道德观察](https://tv.cctv.com/lm/ddgc/index.shtml)
+
+  - [心理访谈](https://tv.cctv.com/lm/xlft/index.shtml)
+
+    [热心话](https://tv.cctv.com/lm/rehua/index.shtml)
+
+    [法治深壹度](https://tv.cctv.com/lm/fzsyd/index.shtml)
+
+    [全网追踪](https://tv.cctv.com/lm/qwzz/index.shtml)
+
+  - [律师来了](https://tv.cctv.com/lm/lsll/index.shtml)
+
+    [决不掉队](http://tv.cctv.com/lm/jbdd/)
+
+  - [焦点访谈](https://tv.cctv.com/lm/jdft/index.shtml)
+
+    [面对面](https://tv.cctv.com/lm/mdm/index.shtml)
+
+    [国际时讯](https://tv.cctv.com/lm/gjsx/index.shtml)
+
+    [环球视线](https://tv.cctv.com/lm/hqsx/index.shtml)
+
+  - [每周质量报告](https://tv.cctv.com/lm/mzzlbg/index.shtml)
+
+    [法治在线](https://tv.cctv.com/lm/fzzx/index.shtml)
+
+    [新闻直播间](https://tv.cctv.com/lm/xwzbj/index.shtml)
+
+    [共同关注](https://tv.cctv.com/lm/gtgz/index.shtml)
+
+  - [午夜新闻](https://tv.cctv.com/lm/wyxw/index.shtml)
+
+    [新闻30分](https://tv.cctv.com/lm/xw30f/index.shtml)
+
+    [朝闻天下](https://tv.cctv.com/lm/zwtx/index.shtml)
+
+    [24小时](https://tv.cctv.com/lm/24xiaoshi/index.shtml)
+
+  - [新闻调查](https://tv.cctv.com/lm/xwdc/index.shtml)
+
+    [新闻1+1](https://tv.cctv.com/lm/xinwen1j1/index.shtml)
+
+    [世界周刊](https://tv.cctv.com/lm/sjzk/index.shtml)
+
+    [东方时空](https://tv.cctv.com/lm/dfsk/index.shtml)
+
+  - [新闻周刊](https://tv.cctv.com/lm/xwzk/index.shtml)
+
+    [军情时间到](https://tv.cctv.com/lm/jqsjd/index.shtml)
+
+    [高端访谈](https://tv.cctv.com/lm/gdft/index.shtml)
+
+  - [周末动画片](https://tv.cctv.com/lm/zmdhp/index.shtml)
+
+    [快乐体验](https://tv.cctv.com/lm/klty/index.shtml)
+
+    [小小智慧树](https://tv.cctv.com/lm/xxzhs/index.shtml)
+
+    [智力快车](https://tv.cctv.com/lm/zlkc/index.shtml)
+
+  - [音乐快递](https://tv.cctv.com/lm/yykd/index.shtml)
+
+    [英雄出少年](https://tv.cctv.com/lm/yxcsn/index.shtml)
+
+    [快乐大巴](https://tv.cctv.com/lm/kldb/index.shtml)
+
+    [动漫世界](https://tv.cctv.com/lm/dmsj/index.shtml)
+
+  - [新闻袋袋裤](https://tv.cctv.com/lm/xwddk/index.shtml)
+
+    [大风车](https://tv.cctv.com/lm/dfc/index.shtml)
+
+    [七巧板](https://tv.cctv.com/lm/qqb/index.shtml)
+
+    [大手牵小手](https://tv.cctv.com/lm/dsqxs/index.shtml)
+
+  - [智慧树](https://tv.cctv.com/lm/zhs/index.shtml)
+
+    [动感特区](https://tv.cctv.com/lm/dgtq/index.shtml)
+
+    [动画大放映](https://tv.cctv.com/lm/dhdfy/index.shtml)
+
+    [看我72变](https://tv.cctv.com/lm/kw72b/index.shtml)
+
+  - [快乐童行](https://tv.cctv.com/lm/kltx/index.shtml)
+
+    [风车剧场](https://tv.cctv.com/lm/fcjc/index.shtml)
+
+  - [乐享汇](https://tv.cctv.com/lm/yxh/index.shtml)
+
+    [全球中文音乐榜上榜](https://tv.cctv.com/lm/qqzwyybsb/index.shtml)
+
+    [一起音乐吧](https://tv.cctv.com/lm/yqyyb/index.shtml)
+
+    [影视留声机](https://tv.cctv.com/lm/yslsj/index.shtml)
+
+  - [CCTV音乐厅](https://tv.cctv.com/lm/cctvyyt/index.shtml)
+
+    [风华国乐](https://tv.cctv.com/lm/fhgy/index.shtml)
+
+    [民歌·中国](https://tv.cctv.com/lm/mgzg/index.shtml)
+
+    [精彩音乐汇](https://tv.cctv.com/lm/jcyyh/index.shtml)
+
+  - [中国音乐电视](https://tv.cctv.com/lm/zgyyds/index.shtml)
+
+    [乐游天下](https://tv.cctv.com/lm/yytx/index.shtml)
+
+    [音乐人生](https://tv.cctv.com/lm/yyrs/index.shtml)
+
+    [音乐公开课](https://tv.cctv.com/lm/yygkk/index.shtml)
+
+  - [聆听时刻](https://tv.cctv.com/lm/ltsk/index.shtml)
+
+    [中国节拍](https://tv.cctv.com/lm/zgjp/index.shtml)
+
+    [合唱先锋](https://tv.cctv.com/lm/hcxf/index.shtml)
+
+    [音乐周刊](https://tv.cctv.com/lm/yyzk/index.shtml)
+
+  - [童声唱](https://tv.cctv.com/lm/tsc/index.shtml)
+
+  - [冰球冰球](https://tv.cctv.com/lm/bqbq/index.shtml)
+
+    [ATP周刊](https://tv.cctv.com/lm/ATPzk/index.shtml)
+
+    [冰天雪地](https://tv.cctv.com/lm/btxd/index.shtml)
+
+  - [田野欢歌](https://tv.cctv.com/lm/tyhg/index.shtml)
+
+    [中国三农报道](https://tv.cctv.com/lm/zgsnbd/index.shtml)
+
+    [乡土中国](https://tv.cctv.com/lm/xtzg/index.shtml)
+
+    [共富经](https://tv.cctv.com/lm/gfj/index.shtml)
+
+  - [三农长短说](https://tv.cctv.com/lm/sncds/index.shtml)
+
+    [乐游新乡村](https://tv.cctv.cn/lm/lyxxc/index.shtml)
+
+    [超级农人秀](https://tv.cctv.com/lm/cjnrx/index.shtml)
+
+    [田园帮帮团](https://tv.cctv.com/lm/tybbt/index.shtml)
+
+  - [三农群英汇](http://tv.cctv.com/lm/snqyh/index.shtml)
+
+    [乡村大舞台](https://tv.cctv.com/lm/xcdwt/index.shtml)
+
+    [乡理乡亲](https://tv.cctv.com/lm/xlxq/index.shtml)
+
+    [谁知盘中餐](https://tv.cctv.com/lm/szpzc/index.shtml)
+
+  - [大地讲堂](https://tv.cctv.com/lm/ddjt/index.shtml)
+
+    [农业气象](https://tv.cctv.com/lm/nyqx/index.shtml)
+
+- [片库](https://tv.cctv.com/yxg/index.shtml)
+- [热播榜](https://tv.cctv.com/top/index.shtml)
+- 看点
+
+  - [微视频](https://tv.cctv.com/wsp/m/index.shtml)
+
+    [视频百科](https://tv.cctv.com/yskd/spbk/2021/m/index.shtml)
+
+    [微故事](https://tv.cctv.com/yskd/wgs/m/)
+
+  - [ai美食](https://tv.cctv.com/yskd/aims/m/)
+
+- [主持人](https://tv.cctv.com/zhuchiren)
+- 全部
+
+全部
+
+  - [直播](https://tv.cctv.com/live/index.shtml)
+  - [节目单](https://tv.cctv.com/epg/index.shtml)
+  - [热播榜](https://tv.cctv.com/top/index.shtml)
+  - [主持人](https://tv.cctv.com/zhuchiren/)
+  - [听音](https://tv.cctv.com/ty/m/index.shtml)
+
+_频道大全_
+
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png)](https://tv.cctv.com/cctv1/index.shtml)
+  - [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103580398_438.png)](https://tv.cctv.com/cctv2/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103576424_839.png)](https://tv.cctv.com/cctv3/index.shtml)
+  - [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550058411_61.png)](https://tv.cctv.com/cctv4asia/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550072014_112.png)](http://tv.cctv.com/cctv4europe/index.shtml)
+  - [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/2/1630550081230_815.png)](https://tv.cctv.com/cctv4america/index.shtml)
+  - [![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103564221_455.png)](https://tv.cctv.com/cctv5/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103559889_527.png)](https://tv.cctv.com/cctv5plus/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103555008_27.png)](https://tv.cctv.com/cctv6/index.shtml)
+  - [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/27/1635316384588_606.png)](https://tv.cctv.com/cctv7/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103545840_281.png)](https://tv.cctv.com/cctv8/index.shtml)
+  - [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103541537_570.png)](https://tv.cctv.com/cctv9/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103522202_464.png)](https://tv.cctv.com/cctv10/index.shtml)
+  - [![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103518125_115.png)](https://tv.cctv.com/cctv11/index.shtml)
+  - [![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103514143_75.png)](https://tv.cctv.com/cctv12/index.shtml)
+  - [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103509483_94.png)](https://tv.cctv.com/cctv13/index.shtml)
+  - [![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103504911_769.png)](https://tv.cctv.com/cctv14/index.shtml)
+  - [![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103498267_722.png)](https://tv.cctv.com/cctv15/index.shtml)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635161516494_338.png)](https://tv.cctv.com/cctv16)
+  - [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103493765_400.png)](https://tv.cctv.com/cctv17/index.shtml)
+
+_栏目大全_
+
+  - [新闻联播](https://tv.cctv.com/lm/xwlb/index.shtml)
+  - [焦点访谈](https://tv.cctv.com/lm/jdft/)
+  - [等着我](https://tv.cctv.com/lm/dzw/)
+  - [今日说法](https://tv.cctv.com/lm/jrsf/)
+  - [海峡两岸](https://tv.cctv.com/lm/hxla/)
+  - [今日关注](https://tv.cctv.com/lm/jrgz/)
+  - [今日亚洲](https://tv.cctv.com/lm/jryz/)
+  - [更多](https://tv.cctv.com/lm/index.shtml)
+
+_片库_
+
+  - [电视剧](https://tv.cctv.com/yxg/index.shtml?spm=C28340.P9dhkRStLqPh.ENlPq2DiQc4R.71#datacid=dsj&datafl=&datadq=&fc=%E7%94%B5%E8%A7%86%E5%89%A7&datanf=&dataszm=)
+  - [动画片](https://tv.cctv.com/yxg/index.shtml?spm=C28340.P9dhkRStLqPh.ENlPq2DiQc4R.71#datacid=dhp&datafl=&datadq=&fc=%E5%8A%A8%E7%94%BB%E7%89%87&dataszm=)
+  - [纪录片](https://tv.cctv.com/yxg/index.shtml?spm=C28340.P9dhkRStLqPh.ENlPq2DiQc4R.71#datacid=jlp&datapd=&datafl=&fc=%E7%BA%AA%E5%BD%95%E7%89%87&datanf=&dataszm=)
+  - [特别节目](https://tv.cctv.com/yxg/index.shtml?spm=C28340.P9dhkRStLqPh.ENlPq2DiQc4R.71#datacid=tbjm&datapd=&datafl=&fc=%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE&datajr=&dataszm=)
+  - [更多](https://tv.cctv.com/yxg/index.shtml)
+
+_看点_
+
+  - [微视频](https://tv.cctv.com/wsp/m/index.shtml)
+  - [视频百科](https://tv.cctv.com/yskd/spbk/2021/m/index.shtml)
+  - [微故事](https://tv.cctv.com/yskd/wgs/m/)
+  - [ai美食](https://tv.cctv.com/yskd/aims/index.shtml)
+
+[热榜](https://tv.cctv.com/top/index.shtml)
+
+- 探索· _发_ 现
+- _发_ 现黄帝城
+- 探索· _发_ 现《秘境追踪第五辑》
+- 探索· _发_ 现（亚洲版）
+- _发_ 现之旅
+- 《探索 _发_ 现》考古晋国—— _发_ 现晋都
+- 《告台湾同胞书》 _发_ 表40周年纪念会
+- _发_ 现之路
+- _发_ 现
+- 国宝· _发_ 现
+
+热门搜索
+
+[_1_ 烈士纪念日](https://search.cctv.com/search.php?qtext=%E7%83%88%E5%A3%AB%E7%BA%AA%E5%BF%B5%E6%97%A5&type=web) [_2_ 亚运](https://search.cctv.com/search.php?qtext=%E4%BA%9A%E8%BF%90&type=web) [_3_ 女足](https://search.cctv.com/search.php?qtext=%E5%A5%B3%E8%B6%B3&type=video) [_4_ 2026“湾区升明月”大湾区电影音乐晚会](https://search.cctv.com/search.php?qtext=%E3%80%8A2026%E2%80%9C%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E2%80%9D%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E6%99%9A%E4%BC%9A%E3%80%8B&type=video) [_5_ 国防公开课](https://search.cctv.com/search.php?qtext=%E5%9B%BD%E9%98%B2%E5%85%AC%E5%BC%80%E8%AF%BE&type=video) [_6_ 九一八](https://search.cctv.com/search.php?qtext=%E4%B9%9D%E4%B8%80%E5%85%AB&type=video) [_7_ cctv5](https://search.cctv.com/search.php?qtext=ccyv5&type=web) [_8_ 世界杯](https://search.cctv.cn/search.php?qtext=%E4%B8%96%E7%95%8C%E6%9D%AF&type=video) [_9_ 开学第一课](https://search.cctv.com/search.php?qtext=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE&type=video) [_10_ 郑钦文](https://search.cctv.com/search.php?qtext=%E9%83%91%E9%92%A6%E6%96%87&type=video)
+
+[节目官网](https://tv.cctv.com/lm/index.shtml)
+
+按住画面可拖动小窗
+
+手机看
+
+![](https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2024/5/29/1716964589825_932.jpg)
+
+央视影音APP
+
+随时随地都能看
+
+扫一扫
+
+手机继续看
+
+焦点访谈收藏
+
+- 7月
+- 6月
+- 5月
+- 4月
+
+[更多](https://tv.cctv.com/lm/jdft/index.shtml)
+
+![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)
+
+[_正在播放_《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+- [![](https://p1.img.cctvpic.com/fmspic/2026/07/31/77f89ef058994a5fa7fadd0bee189098-1.jpg)](https://tv.cctv.com/2026/07/31/VIDEGTX02nDETirMy5jiRoFk260731.shtml)
+
+[《焦点访谈》 20260731 推动经济持续向新向优向好发展](https://tv.cctv.com/2026/07/31/VIDEGTX02nDETirMy5jiRoFk260731.shtml "《焦点访谈》 20260731 推动经济持续向新向优向好发展")
+
+00:15:07
+
+- [![](https://p4.img.cctvpic.com/fmspic/2026/07/30/590294f1c9a94c8390fe007b7028df1f-1.jpg)](https://tv.cctv.com/2026/07/30/VIDE9EBFFN5hbVegVAEC9k4g260730.shtml)
+
+[《焦点访谈》 20260730 环球何以同此“清凉”](https://tv.cctv.com/2026/07/30/VIDE9EBFFN5hbVegVAEC9k4g260730.shtml "《焦点访谈》 20260730 环球何以同此“清凉”")
+
+00:15:08
+
+- [![](https://p2.img.cctvpic.com/fmspic/2026/07/29/a59adff010214a1e860ccd27f8acb854-1.jpg)](https://tv.cctv.com/2026/07/29/VIDE8RKWuUTJ4wRG8jhm6t7c260729.shtml)
+
+[《焦点访谈》 20260729 百年侨批 万里家国](https://tv.cctv.com/2026/07/29/VIDE8RKWuUTJ4wRG8jhm6t7c260729.shtml "《焦点访谈》 20260729 百年侨批 万里家国")
+
+00:15:07
+
+- [![](https://p2.img.cctvpic.com/fmspic/2026/09/14/4f5d743ca51b4bdbbf7583999411b98a-1.jpg)](https://tv.cctv.com/2026/09/14/VIDEY4wJheNRq8MH73X3S61R260914.shtml)
+
+[《焦点访谈》 20260728 根治虚假摆拍乱象](https://tv.cctv.com/2026/09/14/VIDEY4wJheNRq8MH73X3S61R260914.shtml "《焦点访谈》 20260728 根治虚假摆拍乱象")
+
+00:15:10
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/07/27/a29951b86c4c4000bcca9c5041caa2a7-1.jpg)](https://tv.cctv.com/2026/07/27/VIDEmQSNjdat4Z8HRzaONpPf260727.shtml)
+
+[《焦点访谈》 20260727 压紧压实 防患于未然](https://tv.cctv.com/2026/07/27/VIDEmQSNjdat4Z8HRzaONpPf260727.shtml "《焦点访谈》 20260727 压紧压实 防患于未然")
+
+00:15:09
+
+- [![](https://p3.img.cctvpic.com/fmspic/2026/07/26/4bdfdf2849634422ace7db21bd1e3c3b-1.jpg)](https://tv.cctv.com/2026/07/26/VIDEDErA5C5jhhXo0zezXnLT260726.shtml)
+
+[《焦点访谈》 20260726 迎战“红霞”](https://tv.cctv.com/2026/07/26/VIDEDErA5C5jhhXo0zezXnLT260726.shtml "《焦点访谈》 20260726 迎战“红霞”")
+
+00:15:07
+
+- [![](https://p2.img.cctvpic.com/fmspic/2026/07/25/19a9d353648c4bb486539e013199ac65-1.jpg)](https://tv.cctv.com/2026/07/25/VIDEhHfUgN5nZbjqOUdpTuLO260725.shtml)
+
+[《焦点访谈》 20260725 办好基础教育 托举民族未来](https://tv.cctv.com/2026/07/25/VIDEhHfUgN5nZbjqOUdpTuLO260725.shtml "《焦点访谈》 20260725 办好基础教育 托举民族未来")
+
+00:15:07
+
+- [![](https://p1.img.cctvpic.com/fmspic/2026/07/24/58aed89471ac4259824dc7d79371468f-1.jpg)](https://tv.cctv.com/2026/07/24/VIDEBbROOGNiPkwtUx0kNWri260724.shtml)
+
+[《焦点访谈》 20260724 赋能赋智 援疆新答卷](https://tv.cctv.com/2026/07/24/VIDEBbROOGNiPkwtUx0kNWri260724.shtml "《焦点访谈》 20260724 赋能赋智 援疆新答卷")
+
+00:15:08
+
+- [![](https://p3.img.cctvpic.com/fmspic/2026/07/23/91128b62aa104725a6735293f34700eb-1.jpg)](https://tv.cctv.com/2026/07/23/VIDEkXPFwyIz0rWVBpoyffoj260723.shtml)
+
+[《焦点访谈》 20260723 因地制宜 义乌答卷](https://tv.cctv.com/2026/07/23/VIDEkXPFwyIz0rWVBpoyffoj260723.shtml "《焦点访谈》 20260723 因地制宜 义乌答卷")
+
+00:15:08
+
+- [![](https://p3.img.cctvpic.com/fmspic/2026/07/22/98f4ee63aa7b4cf0ab447b1e923a77c7-1.jpg)](https://tv.cctv.com/2026/07/22/VIDEVhkmQCy4xiiYFWwQMGX3260722.shtml)
+
+[《焦点访谈》 20260722 驱沙入海 重塑大河](https://tv.cctv.com/2026/07/22/VIDEVhkmQCy4xiiYFWwQMGX3260722.shtml "《焦点访谈》 20260722 驱沙入海 重塑大河")
+
+00:15:08
+
+- [![](https://p4.img.cctvpic.com/fmspic/2026/07/21/1a545d5037cf44d0b0a5ea9c0fd01628-1.jpg)](https://tv.cctv.com/2026/07/21/VIDEJ0C6Ltc6U5OEJFYw00jS260721.shtml)
+
+[《焦点访谈》 20260721 过关守穗 麦获丰收](https://tv.cctv.com/2026/07/21/VIDEJ0C6Ltc6U5OEJFYw00jS260721.shtml "《焦点访谈》 20260721 过关守穗 麦获丰收")
+
+00:15:08
+
+- [![](https://p1.img.cctvpic.com/fmspic/2026/07/20/d4769ab8cc1942a7b6d67852ab2f890e-1.jpg)](https://tv.cctv.com/2026/07/20/VIDEDmpUPOMkLqorhgFs4Lm4260720.shtml)
+
+[《焦点访谈》 20260720 点亮全球人工智能新图景](https://tv.cctv.com/2026/07/20/VIDEDmpUPOMkLqorhgFs4Lm4260720.shtml "《焦点访谈》 20260720 点亮全球人工智能新图景")
+
+00:15:07
+
+- [![](https://p2.img.cctvpic.com/fmspic/2026/07/19/22eef04dacf44c54a26a85e2e336fefe-1.jpg)](https://tv.cctv.com/2026/07/19/VIDEoCfVycBr4rwgvfCnqDYB260719.shtml)
+
+[《焦点访谈》 20260719 算电协同 迎峰度夏](https://tv.cctv.com/2026/07/19/VIDEoCfVycBr4rwgvfCnqDYB260719.shtml "《焦点访谈》 20260719 算电协同 迎峰度夏")
+
+00:15:08
+
+- [![](https://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/18/VIDEx0OZpDmhUKCACEgoYepm260718.jpg)](https://tv.cctv.com/2026/07/18/VIDEgzSS2x9LHo6pNq9WIHCD260718.shtml)
+
+[《焦点访谈》 20260718 促进人工智能向上向善造福人类](https://tv.cctv.com/2026/07/18/VIDEgzSS2x9LHo6pNq9WIHCD260718.shtml "《焦点访谈》 20260718 促进人工智能向上向善造福人类")
+
+00:15:07
+
+- [![](https://p3.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/17/VIDEh3EdkEHMeLFSgbInLRze260717.jpg)](https://tv.cctv.com/2026/07/17/VIDEosj95J1y5Z9DEaBFGJRJ260717.shtml)
+
+[《焦点访谈》 20260717 智能伙伴 相约黄浦江畔](https://tv.cctv.com/2026/07/17/VIDEosj95J1y5Z9DEaBFGJRJ260717.shtml "《焦点访谈》 20260717 智能伙伴 相约黄浦江畔")
+
+00:15:08
+
+- [![](https://p4.img.cctvpic.com/fmspic/2026/07/16/c5355d37b9964f88a8670ceee59aa183-1.jpg)](https://tv.cctv.com/2026/07/16/VIDEfc57nFjIDEdkE5VvOz5V260716.shtml)
+
+[《焦点访谈》 20260716 智能向善 共创未来](https://tv.cctv.com/2026/07/16/VIDEfc57nFjIDEdkE5VvOz5V260716.shtml "《焦点访谈》 20260716 智能向善 共创未来")
+
+00:15:09
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/07/15/1a7fd35d51444884bdbbb096a793d0d5-1.jpg)](https://tv.cctv.com/2026/07/15/VIDE5Su3BuySmlvWXeV2U78H260715.shtml)
+
+[《焦点访谈》 20260715 上半年经济：总体平稳 向新向优](https://tv.cctv.com/2026/07/15/VIDE5Su3BuySmlvWXeV2U78H260715.shtml "《焦点访谈》 20260715 上半年经济：总体平稳 向新向优")
+
+00:15:07
+
+- [![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+[《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml "《焦点访谈》 20260714 种在纸上的水稻")
+
+00:15:07
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/07/13/0ebbd10ad3f54597896420a660a9b32f-1.jpg)](https://tv.cctv.com/2026/07/13/VIDEdHgffdqN1vnN0Ngb435U260713.shtml)
+
+[《焦点访谈》 20260713 并肩扛风雨 聚力建家园](https://tv.cctv.com/2026/07/13/VIDEdHgffdqN1vnN0Ngb435U260713.shtml "《焦点访谈》 20260713 并肩扛风雨 聚力建家园")
+
+00:15:08
+
+- [![](https://p1.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/12/VIDEHfySTAIMHi2iQEvUaIWG260712.jpg)](https://tv.cctv.com/2026/07/12/VIDEkreTxRyM8hpSx7M0xNBv260712.shtml)
+
+[《焦点访谈》 20260712 长十乙 火箭复用新跨越](https://tv.cctv.com/2026/07/12/VIDEkreTxRyM8hpSx7M0xNBv260712.shtml "《焦点访谈》 20260712 长十乙 火箭复用新跨越")
+
+00:15:08
+
+- [![](https://p5.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/11/VIDEzvX5WxftEC82pLt57Ery260711.jpg)](https://tv.cctv.com/2026/07/11/VIDEwNeCDvIsfMSfbt2NQpQi260711.shtml)
+
+[《焦点访谈》 20260711 大火无情 教训深刻](https://tv.cctv.com/2026/07/11/VIDEwNeCDvIsfMSfbt2NQpQi260711.shtml "《焦点访谈》 20260711 大火无情 教训深刻")
+
+00:14:53
+
+- [![](https://p4.img.cctvpic.com/fmspic/2026/07/10/74aceb582ac44b47b96efcae64b415c1-1.jpg)](https://tv.cctv.com/2026/07/10/VIDEC9Y6sCnKCC7bB2kFHNkb260710.shtml)
+
+[《焦点访谈》 20260710 应对“巴威” 防御先行](https://tv.cctv.com/2026/07/10/VIDEC9Y6sCnKCC7bB2kFHNkb260710.shtml "《焦点访谈》 20260710 应对“巴威” 防御先行")
+
+00:15:07
+
+- [![](https://p2.img.cctvpic.com/fmspic/2026/07/09/152edc88191743afa7fc5796f817b024-1.jpg)](https://tv.cctv.com/2026/07/09/VIDEYaCdUu39XLC3hwWQTyER260709.shtml)
+
+[《焦点访谈》 20260709 向着科技强国目标坚定迈进](https://tv.cctv.com/2026/07/09/VIDEYaCdUu39XLC3hwWQTyER260709.shtml "《焦点访谈》 20260709 向着科技强国目标坚定迈进")
+
+00:15:08
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/07/08/bc4615c11d904fb094f19cb52d006072-1.jpg)](https://tv.cctv.com/2026/07/08/VIDEOYBf3tXSiYinc5Xk2QA4260708.shtml)
+
+[《焦点访谈》 20260708 全力以赴 抢险救援](https://tv.cctv.com/2026/07/08/VIDEOYBf3tXSiYinc5Xk2QA4260708.shtml "《焦点访谈》 20260708 全力以赴 抢险救援")
+
+00:15:06
+
+- [![](https://p2.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/7/VIDEhV3gTRra3hAfgxhe4cZ6260707.jpg)](https://tv.cctv.com/2026/07/07/VIDE7TKjISytUkdKsowJj109260707.shtml)
+
+[《焦点访谈》 20260707 活力中国调研行 科创中心 扩围提质](https://tv.cctv.com/2026/07/07/VIDE7TKjISytUkdKsowJj109260707.shtml "《焦点访谈》 20260707 活力中国调研行 科创中心 扩围提质")
+
+00:15:06
+
+- [![](https://p1.img.cctvpic.com/fmspic/2026/07/06/1756d2442b1449c9ba6589631ac6dc55-1.jpg)](https://tv.cctv.com/2026/07/06/VIDEaFJdsV8owJMP50vj4RX7260706.shtml)
+
+[《焦点访谈》 20260706 多元评价 淬炼人才](https://tv.cctv.com/2026/07/06/VIDEaFJdsV8owJMP50vj4RX7260706.shtml "《焦点访谈》 20260706 多元评价 淬炼人才")
+
+00:15:07
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/07/05/a161e0d4030f4eb3a42029c8046b9088-1.jpg)](https://tv.cctv.com/2026/07/05/VIDEJ8Zbzzz6gnCMaOHmXHAd260705.shtml)
+
+[《焦点访谈》 20260705 彩礼减负 幸福加分](https://tv.cctv.com/2026/07/05/VIDEJ8Zbzzz6gnCMaOHmXHAd260705.shtml "《焦点访谈》 20260705 彩礼减负 幸福加分")
+
+00:15:08
+
+- [![](https://p2.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/4/VIDELyArzGuYvuypfAEoPOIw260704.jpg)](https://tv.cctv.com/2026/07/04/VIDExjk2xDNtwBRtwLb2G0iL260704.shtml)
+
+[《焦点访谈》 20260704 筑牢社会保障的法治底线](https://tv.cctv.com/2026/07/04/VIDExjk2xDNtwBRtwLb2G0iL260704.shtml "《焦点访谈》 20260704 筑牢社会保障的法治底线")
+
+00:15:07
+
+- [![](https://p1.img.cctvpic.com/fmspic/2026/07/03/1bfc09d0c7fa4b708c02d444f7d9ab44-1.jpg)](https://tv.cctv.com/2026/07/03/VIDEu26yf4FFWInidnqgmDyR260703.shtml)
+
+[《焦点访谈》 20260703 “天路”二十年 见证高原巨变](https://tv.cctv.com/2026/07/03/VIDEu26yf4FFWInidnqgmDyR260703.shtml "《焦点访谈》 20260703 “天路”二十年 见证高原巨变")
+
+00:15:08
+
+- [![](https://p3.img.cctvpic.com/fmspic/2026/07/02/55998c488b4c4ea19ebf0b5ce3eda230-1.jpg)](https://tv.cctv.com/2026/07/02/VIDEwj3RofNuXyZmrG76iejt260702.shtml)
+
+[《焦点访谈》 20260702 牢记“三个务必” 创造新的辉煌](https://tv.cctv.com/2026/07/02/VIDEwj3RofNuXyZmrG76iejt260702.shtml "《焦点访谈》 20260702 牢记“三个务必” 创造新的辉煌")
+
+00:15:07
+
+- [![](https://p5.img.cctvpic.com/photoAlbum/vms/standard/img/2026/7/1/VIDEfDxgaCKqdcdFiSdW5CNt260701.jpeg)](https://tv.cctv.com/2026/07/01/VIDEkfQxehJ1AEIYxoDrIQt9260701.shtml)
+
+[《焦点访谈》 20260701 至高礼遇 致敬功勋](https://tv.cctv.com/2026/07/01/VIDEkfQxehJ1AEIYxoDrIQt9260701.shtml "《焦点访谈》 20260701 至高礼遇 致敬功勋")
+
+00:15:07
+
+热播榜
+
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/6/1793933189147_684.jpg)](https://tv.cctv.com/2026/11/05/VIDEjnjdyVq2b50YSm60mdZ5261105.shtml)
+
+[见证进博会背后的“中国引力”](https://tv.cctv.com/2026/11/05/VIDEjnjdyVq2b50YSm60mdZ5261105.shtml "见证进博会背后的“中国引力”")
+
+[央视财经评论](https://tv.cctv.com/lm/yscjpl/index.shtml)
+
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/6/1793933136014_257.jpg)](https://tv.cctv.com/2026/11/05/VIDE8VfsTgztAG7FSWRJz2hd261105.shtml)
+
+[紧盯欧洲？俄巨型雷达即将完工](https://tv.cctv.com/2026/11/05/VIDE8VfsTgztAG7FSWRJz2hd261105.shtml "紧盯欧洲？俄巨型雷达即将完工")
+
+[防务新观察](https://tv.cctv.com/lm/fwxgc/index.shtml)
+
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/6/1793933121037_827.jpg)](https://tv.cctv.com/2026/11/05/VIDEwZWGg8PUasAjAXYlwFIi261105.shtml?spm=C53074552346.PPz6yxpst4Wy.0.0)
+
+[对标福特级？揭秘法国新型航母](https://tv.cctv.com/2026/11/05/VIDEwZWGg8PUasAjAXYlwFIi261105.shtml?spm=C53074552346.PPz6yxpst4Wy.0.0 "对标福特级？揭秘法国新型航母")
+
+[兵器面面观](https://tv.cctv.com/lm/bqmmg/index.shtml)
+
+- [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/6/1793933169913_300.jpg)](https://tv.cctv.com/2026/11/06/VIDEgOx3Md4f9iRRoXs9Mcxn261106.shtml)
+
+[消防机器狗：火场“侦察兵”](https://tv.cctv.com/2026/11/06/VIDEgOx3Md4f9iRRoXs9Mcxn261106.shtml "消防机器狗：火场“侦察兵”")
+
+[透视新科技](https://tv.cctv.com/lm/tsxkj/index.shtml)
+
+- [![](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/6/1793933090648_382.jpg)](https://tv.cctv.com/2026/11/05/VIDEbdpK9lGlgoRd9C3zfYDW261105.shtml)
+
+[闽南民俗何以变身文旅爆品](https://tv.cctv.com/2026/11/05/VIDEbdpK9lGlgoRd9C3zfYDW261105.shtml "闽南民俗何以变身文旅爆品")
+
+[生财有道](https://tv.cctv.com/lm/scyd/index.shtml)
+
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/5/1793847064224_722.jpg)](https://tv.cctv.com/2026/11/04/VIDEFdk7G1J7qslWf5xV9ipr261104.shtml)
+
+[探秘曹操宗族墓](https://tv.cctv.com/2026/11/04/VIDEFdk7G1J7qslWf5xV9ipr261104.shtml "探秘曹操宗族墓")
+
+[探索·发现](https://tv.cctv.com/lm/tsfx/index.shtml)
+
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/5/1793847154255_210.jpg)](https://tv.cctv.com/2026/11/04/VIDEPs5nqDaSS2p67RwXTYsH261104.shtml)
+
+[乡野寻鲜 秋到北方贴秋膘](https://tv.cctv.com/2026/11/04/VIDEPs5nqDaSS2p67RwXTYsH261104.shtml "乡野寻鲜 秋到北方贴秋膘")
+
+[谁知盘中餐](https://tv.cctv.com/lm/szpzc/index.shtml)
+
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/5/1793846992654_953.jpg)](https://tv.cctv.com/2026/11/04/VIDE2LFCZhRCcDXq2jSjfTOV261104.shtml)
+
+[高材生的体面骗局](https://tv.cctv.com/2026/11/04/VIDE2LFCZhRCcDXq2jSjfTOV261104.shtml "高材生的体面骗局")
+
+[法律讲堂](https://tv.cctv.com/lm/fljtshb/index.shtml)
+
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/5/1793846927296_931.jpg)](https://tv.cctv.com/2026/11/04/VIDEySk5C9v8V6jakg0ADvxa261104.shtml)
+
+[晋山晋水好风光](https://tv.cctv.com/2026/11/04/VIDEySk5C9v8V6jakg0ADvxa261104.shtml "晋山晋水好风光")
+
+[远方的家](https://tv.cctv.com/lm/yfdj/index.shtml)
+
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/5/1793846873869_42.jpg)](https://tv.cctv.com/2026/11/04/VIDErRlcZsaJNvN5Ql9XPqRg261104.shtml)
+
+[栗子红薯这样吃](https://tv.cctv.com/2026/11/04/VIDErRlcZsaJNvN5Ql9XPqRg261104.shtml "栗子红薯这样吃")
+
+[回家吃饭](https://tv.cctv.com/lm/hjcf/index.shtml)
+
+![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)
+
+[_正在播放_《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)
+
+[_正在播放_《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)
+
+[_正在播放_《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+《焦点访谈》 20260714 种在纸上的水稻
+
+来源 : 央视网2026-07-14 20:03_内容简介_122 _+1__关注_
+
+- 视频简介
+
+本期节目主要内容： 粮食安全是国之大者，是国家长治久安的基石。中央一直强调“18亿亩的耕地红线不能破，良田必须种粮食”，并出台了一系列强有力的政策措施，确保粮食生产的数量与质量。然而，记者在湖南省江华县采访时发现，当地上报的水稻种植面积与实际情况存在很大差距，粮食种植面积在当地成了数字游戏。（《焦点访谈》 20260714 种在纸上的水稻）
+
+- 栏目介绍
+
+栏目名称：焦点访谈
+
+栏目介绍：《焦点访谈》栏目开办于1994年4月1日，由中央电视台新闻评论部创办，是以深度报道为主、以舆论监督见长的电视新闻评论性栏目。《焦点访谈》的舆论监督节目多年来为人们所关注和喜爱，选择“政府重视、群众关心、普遍存在”的选题，坚持“用事实说话”的方针，反映和推动解决了大量社会进步与发展过程中存在的问题。首播时间：19:38；重播时间：次日03:45，05:45。
+
+《焦点访谈》 20260714 种在纸上的水稻
+
+简介
+
+来源：央视网 更新时间：2026年07月14日 20:03
+
+- 视频简介
+
+本期节目主要内容： 粮食安全是国之大者，是国家长治久安的基石。中央一直强调“18亿亩的耕地红线不能破，良田必须种粮食”，并出台了一系列强有力的政策措施，确保粮食生产的数量与质量。然而，记者在湖南省江华县采访时发现，当地上报的水稻种植面积与实际情况存在很大差距，粮食种植面积在当地成了数字游戏。（《焦点访谈》 20260714 种在纸上的水稻）
+
+- 栏目信息
+
+122
+
+分享：
+
+播放列表更多 >
+
+往期查询>
+
+精彩看点更多 >
+
+往期节目更多 >
+
+播放列表关闭
+
+- [5月](#)
+- [4月](#)
+- [3月](#)
+- [2月](#)
+
+[更多](#)
+
+正在加载...
+
+关闭
+
+[上个月](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml "上个月")
+
+2026年11月
+
+[下个月](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml "下个月")
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 一 | 二 | 三 | 四 | 五 | 六 | 日 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 1 | 2 | 3 | 4 | 5 | 6 |
+
+播放列表关闭
+
+正在加载...
+
+播放列表关闭
+
+正在加载...
+
+主要内容
+
+**央视网消息**（焦点访谈）：粮食安全是“国之大者”，是国家长治久安的基石。中央一直强调18亿亩的耕地红线不能破，并且良田必须种粮食。近年来还相继出台了一系列强有力的政策措施，确保粮食生产的数量与质量。然而，记者在湖南省江华县采访时发现，当地上报的水稻种植面积与实际情况存在很大差距，粮食种植面积在当地成了“数字游戏”。
+
+江华县地处湖南省南部，地形以山地、丘陵为主，水田在这里是珍贵的耕地资源。记者采访时正是6月中旬，本应是早稻抽穗的时节，但是在一些水田里，记者看到了很多不正常的现象。涛圩镇上游来富村的水田紧邻207国道，交通便利、土地平整，都是永久基本农田。而记者发现，这里有不少水田里种的都不是水稻，而是南瓜、苦瓜等蔬菜作物。在涛圩镇石头寨村附近的一片农田中央竖着“保障粮食生产”的大牌子，但是水田里种的却是别的经济作物。
+
+记者来到涛圩镇新大山口村，这里也是双季水稻示范基地，早稻已经抽穗，长势不错，记者眼前一大片都是水稻，但利用无人机稍微往里飞一点，可以看到里面的水田种植着大片的罗汉果。在涛圩镇与邻近的河路口镇交接处，记者看到一大片水田是刚改造过的高标准农田，但是这里种的也不是水稻，而是芋头等作物，面积多达几百亩。
+
+“坚决守住耕地红线，良田必须种粮食”是国家近些年一直强调和要求的。湖南是我国13个粮食主产省之一，按照要求，湖南省制定了“落实耕地保护和粮食安全责任制”，每年都会由省、市逐级下达粮食播种面积、产量等核心指标，将粮食播种面积纳入落实耕地保护和粮食安全责任制考核、乡村振兴战略实绩考核，对未完成目标的地方将进行通报。今年按照上级下达的任务，江华县也制定了《2026发展粮食生产工作方案》，2026年江华县要千方百计稳定粮食种植面积，多措并举提高粮食单产水平，力争完成粮食作物播种面积58.5万亩，其中特别提到全年早稻面积稳定在12.9万亩。
+
+湖南省江华县农业农村局局长陈秋萍：“我们早稻任务是12.9万亩，中稻任务是13万亩，双季晚稻是13.2万亩，将近39万亩的水稻面积（任务）。”
+
+那么，这个39万亩水稻种植的任务是从何而来呢？据了解，在土地管理法等相关法规的基础上，国务院办公厅2020年11月发布了《国务院办公厅关于防止耕地“非粮化”稳定粮食生产的意见》，意见要求，永久基本农田要重点用于发展粮食生产。因此，各省、市依据各县永久基本农田的面积来确定当地粮食种植任务。
+
+江华县总共有32万亩永久基本农田，其中一部分农田还可以种植早、晚双季稻，由此当地确立了39万亩水稻种植面积的任务。
+
+陈秋萍：“我们基本上可以完成，早稻任务是要求必须要完成，因为从中央、省、市要求来说，它是底线问题，这个底线我们必须要守住。”
+
+为了确保完成粮食种植面积，江华县把水稻种植的任务分解给了乡镇。在文件最后，附上了各乡镇的具体粮食生产任务。记者在当地采访时看到水田里各种经济作物的种植如此之多，这早稻面积的底线又怎么保证呢？
+
+湖南省江华县涛圩镇农业办主任李霞凤：“（过去）我们这边有种罗汉果，烤烟有9000亩，还有经济作物。我们现在做的工作是逐步退出经济作物，把农田、水田还给水稻。”
+
+这位涛圩镇农业办公室主任说，他们还在逐步治理“非粮化”，把水田还给水稻。可是，在涛圩镇办公室，记者看到一份2025年的早稻面积台账统计表，台账显示各村都完成了任务，而且早稻实际完成面积都比目标面积还略微多一点。这又是怎么回事呢？采访中一位镇干部道出了实情，其实他们全年3.5万亩左右的水稻任务有不少水分。
+
+湖南省江华县涛圩镇工作人员：“为了完成任务，只能完成2万亩，还有2万亩每个人（村干部）领200亩（的任务），台账上显示有200亩，实际上村干部没种，这200亩不领补贴，只是为了应付上面检查，只能在台账上再造2万亩出来。”
+
+事情真是如此吗？记者随后在涛圩镇罗家寨村委会，就发现了这样一份台账。根据台账上的信息显示，今年村里主要有莫朝范、陈万锦、陈化莲三位大户承包种植水稻，每户种植了100多亩早稻，村里早稻种植面积总共是450多亩，可是深入了解，记者发现这三位种植大户中有两位是村干部。
+
+那么，这两位村干部到底是不是像台账中所表明，分别承包了100多亩的耕地来种早稻呢？在台账之外，记者还发现了另外一份罗家寨村2026年种植早稻的表格，这份表格显示，陈万锦和陈化莲两位村干部并不在种植早稻的名单中，村里只剩下一位种植大户。这个村实际早稻种植面积只有140亩。
+
+湖南省江华县涛圩镇罗家寨村村干部陈化莲：“实际大户（种植）100多亩，散户有40多亩。”
+
+真实的数据不放进台账，而放进台账里的数据只是数字游戏。
+
+不止罗家寨一个村，台账显示，涛圩镇苍梧村2025年早稻种植任务顺利完成，面积是201亩，比任务多了1亩。在另一份2025年乡镇早稻的统计表格中记者看到，苍梧村农户申报实际早稻面积为0，经村镇核实后改为了11亩。而在今年他们的早稻种植面积也是一笔糊涂账。
+
+当地没有完成粮食种植面积的任务，于是想方设法在台账上注水分，这让国家鼓励粮食生产的好政策难以发挥作用。为了鼓励大家种粮食，近些年来，我国不断加大对粮食生产的补贴，对于水稻种植者，国家及各级政府的补贴项目有耕地地力补贴、稻谷目标价格补贴、双季稻补贴、水稻种子补贴等，补贴项目多达十余项，每亩水稻补贴额能达到四五百元。这样，种植大户在适度集中的基础上，通过补贴的方式能够确保种粮的经济效益。然而，记者在江华县采访时发现，一些村干部不仅没有负起保障粮食生产的责任，有的自己也没有种早稻。
+
+涛圩镇不少村的水稻种植任务都“含有水分”，当地又是如何核实数据的呢？
+
+采访中江华县的一位领导表示，为了应对检查，他们只能要求村民和大户们尽量在“可视范围”内种植水稻。
+
+看来，当地县、乡镇、村三级都是在想法设法应付检查。那么，当地近几年到底实际种了多少水稻呢？和他们声称完成的数量有多大差距呢？
+
+在涛圩镇，记者找到一些国家为鼓励水稻种植设立的稻谷目标价格补贴资料。这笔补贴的发放，需要经过农户申请、村级公示、乡镇审核、县级复核等多道严格程序，其数据能相对真实地反映水稻的实际种植面积。在2025年的涛圩镇一份公开的报告里，写着全年完成水稻种植任务3.57万亩。从领取补贴的数量来看，实际只有2.5万余亩。
+
+水稻种植实际完成情况和上报的数据存在巨大的差异。不仅是涛圩镇，县里也存在同样的情况，江华县2023年以来每年都发布统计公报，当地粮食生产总面积58万余亩，其中稻谷面积稳定在39万亩左右。而记者查询了近几年江华县稻谷目标价格补贴资金的公示资料，以2024年为例，实际领取目标价格补贴的亩数是约23.8万亩，两者相差15万亩左右。
+
+当地在“非粮化”没有治理完成的情况下，却抢先在台账里完成了任务，这样的真假两本账他们自己又是如何看待的呢？
+
+陈秋萍：“汇报这些东西就像写文章一样，我们只要没有抛荒，我们肯定是说完成了。要精准，又不可能完全精准。”
+
+这样显而易见的虚报数据，这么些年，当地难道没有发现吗？看来，对坚守18亿亩耕地红线、保障粮食安全的认识还需要提高。从实际情况来看，江华县全县有32万亩水田，加上双季稻种植，当地39万亩的水稻种植任务并不算高不可及。如果经过努力，确实难以完成，那也应该拿出实事求是的态度，正视矛盾和困难，如实上报，而不是利用两本账的办法，填报虚假数字，既糊弄上级也糊弄自己。“纸上种田”种不出丰收的稻谷，更守不住大国粮仓的根基。
+
+编辑：刘洁责任编辑：刘亮
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+焦点访谈收藏
+
+- [5月](#)
+- [4月](#)
+- [3月](#)
+- [2月](#)
+
+[更多](#)
+
+![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)
+
+[_正在播放_《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+精彩看点
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+焦点访谈收藏
+
+- 7月
+- 6月
+- 5月
+- 4月
+
+[更多](https://tv.cctv.com/lm/jdft/index.shtml)
+
+![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)
+
+[_正在播放_《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)
+
+[_正在播放_《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+![](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+焦点访谈收藏
+
+- 播放列表
+- 往期节目
+
+![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)
+
+[_正在播放_《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+本期内容
+
+热播榜
+
+![](https://p4.img.cctvpic.com/fmspic/2026/07/14/28d34d3004a74aa3b11266550c86b66d-1.jpg)
+
+[_正在播放_《焦点访谈》 20260714 种在纸上的水稻](https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml)
+
+_全部评论_
+
+查看更多评论
+
+评论
+
+我要评论[条评论](https://tv.cctv.com/newcctv/2019bar/2019pl/index.shtml?app=cms_tvlm&itemid=TOPC1451558976694518_VIDEf9brfnEMMiZhNuoCkQAf260714&itemtype=2&parentUrl=https://tv.cctv.com/2026/07/14/VIDEf9brfnEMMiZhNuoCkQAf260714.shtml&parentDomain=tv.cctv.com&title=%E3%80%8A%E7%84%A6%E7%82%B9%E8%AE%BF%E8%B0%88%E3%80%8B%2020260714%20%E7%A7%8D%E5%9C%A8%E7%BA%B8%E4%B8%8A%E7%9A%84%E6%B0%B4%E7%A8%BB#)
+
+登录注册 [忘记密码？](https://user.cctv.com/findPassword/index.shtml)
+
+发表评论请填写评论内容[央视网友](https://user.cctv.com/)退出
+
+默认熊勒个猫小方小央
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![微笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq26.png) | ![酷](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq17.png) | ![亲亲](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq21.png) | ![耶](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq29.png) | ![鼓掌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq10.png) | ![调皮](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq24.png) | ![星星眼](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq28.png) | ![大笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq07.png) |
+| ![偷笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq25.png) | ![比心](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq03.png) | ![点赞](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq08.png) | ![送你花花](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq23.png) | ![礼物](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq19.png) | ![庆祝](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq20.png) | ![666](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq01.png) | ![打气](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq05.png) |
+| ![棒棒哒](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq02.png) | ![打call](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq04.png) | ![厉害了](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq18.png) | ![加油](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq13.png) | ![大神V5](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq06.png) | ![睡着了](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq22.png) | ![发呆](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq09.png) | ![疑问](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq30.png) |
+| ![害羞](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq11.png) | ![晕](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq31.png) | ![哼](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq12.png) | ![抓狂](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq32.png) | ![惊恐](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq14.png) | ![捂脸](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq27.png) | ![机智](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq15.png) | ![抠鼻](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq16.png) |
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![微笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm14.png) | ![捂脸](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm15.png) | ![惊恐](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm06.png) | ![机智](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm07.png) | ![奸笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm05.png) | ![偷笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm13.png) | ![抓狂](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm20.png) | ![疑问](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm18.png) |
+| ![耶](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm17.png) | ![抠鼻](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm08.png) | ![亲亲](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm10.png) | ![酷](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm09.png) | ![晕](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm19.png) | ![星星眼](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm16.png) | ![发呆](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm01.png) | ![哼](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm04.png) |
+| ![鼓掌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm02.png) | ![睡觉](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm11.png) | ![害羞](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm03.png) | ![调皮](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm12.png) |  |  |  |  |
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![大笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm01.png) | ![点赞](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm02.png) | ![鼓掌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm03.png) | ![惊讶](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm06.png) | ![红心](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm04.png) | ![祝福](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm10.png) | ![献花](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm09.png) | ![流汗](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm07.png) |
+| ![胜利](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm08.png) | ![加油](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm05.png) | ![C位](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm11.png) | ![炫富](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm12.png) | ![实励派](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm13.png) | ![老哥稳](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm14.png) | ![吃狗粮](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm15.png) |  |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![感谢](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy01.png) | ![比心](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy02.png) | ![求推荐](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy03.png) | ![辛苦啦](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy04.png) | ![冲吖](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy05.png) | ![得意](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy06.png) | ![保持骄傲](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy07.png) |
+| ![击掌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy08.png) | ![嗨起来](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy09.png) | ![摊手](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy10.png) | ![突然卖萌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy11.png) | ![撒娇](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy12.png) | ![递茶](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy13.png) | ![无奋斗不青春](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy14.png) |
+| ![马上](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy15.png) | ![哈哈哈](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy16.png) |  |  |  |  |  |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| (lll￢ω￢) | o(╥﹏╥)o | ヾ(≧▽≦\*)o | ╮(╯▽╰)╭ | (→\_→) |
+| (\*￣3￣)╭ | (☆ｗ☆) | \[\]~(￣▽￣)~\* | (..•˘\_˘•..) | d====(￣▽￣\*)b |
+| o(￣ヘ￣o＃) | o(\*////▽////\*)o | (∪｡∪)｡｡｡zzz | ～(￣▽￣～)(～￣▽￣)～ | ヽ(✿ﾟ▽ﾟ)ノ |
+| (´▽\`ʃ♡ƪ) | \*(੭\*ˊᵕˋ)੭\*ଘ | >°))))彡 | Σ（ ° △ °\|\|\|）︴ | (๑•̀ㅂ•́)و✧ |
+
+|  |  |  |
+| --- | --- | --- |
+| 厉害了我的国 | 满满的正能量 | 加油！加油！ |
+| 给力！ | 必胜！ | 手动点赞！ |
+| 真精彩！ | 支持一下 | V5 |
+| 硬核 | 打call | 很好很强大 |
+| 好嗨哟！ | 表示震惊！ | 哈哈哈哈 |
+| 坚持就是胜利！ | 冲鸭~~~ | 实力派 |
+| 顶一个 | 比心 | 低调路过 |
+| 内容引起极度舒适！ | 你怎么这么优秀！ | 这大概是锦鲤本人了 |
+| 元芳，你怎么看？ | 皮一下很开心！ | 发条弹幕压压惊 |
+| 重要的事说三遍 | 请收下我的膝盖 | 我想静静 |
+
+|  |  |  |
+| --- | --- | --- |
+| 下次旅行立马安排！ | 完美！ | 来啦来啦，打卡！ |
+| 好想去啊 | 风景慢直播，赞一个 | 这景这feel，酷酷的 |
+| 美美哒~ | 这么美！比个心 | 这天空是真实的吗？ |
+| 风景这边独好 | 景点好美 | 一起去逛 |
+| 我爱你大美中国 | 江山如画 | 祖国处处是美景 |
+| 心心念念的城市 | 来报到 | 语言贫瘠只能666 |
+| 哇哦 | 惊讶又期待的眼神 | 这是我那美丽的故乡 |
+| 下一站就去这了 | 票已订好准备出发 | 这么美，顶起来 |
+| 唉呀嘛呀 | 暗中观察 | 奥利给！ |
+| 大美河山，酷的 | 即刻去旅行 | 绝妙的夜景 |
+
+返回顶部
+
+- [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2025/4/22/1745307727356_746.jpg)](https://local.cctv.com/index.shtml)[![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2025/4/22/1745307819654_677.jpg)](https://local.cctv.com/index.shtml)
+- [![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2025/2/8/1738978021850_271.jpg)](https://tv.cctv.com/ty/m/index.shtml)[![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2025/2/8/1738978201821_19.jpg)](https://tv.cctv.com/ty/m/index.shtml)
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/20/1650446186257_590.jpg)](https://tv.cctv.com/4K/index.shtml)[![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2022/4/20/1650446245629_789.jpg)](https://tv.cctv.com/4K/index.shtml)
+
+热播榜[更多>](https://tv.cctv.com/top/index.shtml)
+
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/6/1793933189147_684.jpg)](https://tv.cctv.com/2026/11/05/VIDEjnjdyVq2b50YSm60mdZ5261105.shtml)
+
+[见证进博会背后的“中国引力”](https://tv.cctv.com/2026/11/05/VIDEjnjdyVq2b50YSm60mdZ5261105.shtml)
+
+[央视财经评论](https://tv.cctv.com/lm/yscjpl/index.shtml)
+
+- [![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/6/1793933136014_257.jpg)](https://tv.cctv.com/2026/11/05/VIDE8VfsTgztAG7FSWRJz2hd261105.shtml)
+
+[紧盯欧洲？俄巨型雷达即将完工](https://tv.cctv.com/2026/11/05/VIDE8VfsTgztAG7FSWRJz2hd261105.shtml)
+
+[防务新观察](https://tv.cctv.com/lm/fwxgc/index.shtml)
+
+- _TOP_ _3_
+[![](https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2026/11/6/1793933121037_827.jpg)](https://tv.cctv.com/2026/11/05/VIDEwZWGg8PUasAjAXYlwFIi261105.shtml?spm=C53074552346.PPz6yxpst4Wy.0.0)
+
+[对标福特级？揭秘法国新型航母](https://tv.cctv.com/2026/11/05/VIDEwZWGg8PUasAjAXYlwFIi261105.shtml?spm=C53074552346.PPz6yxpst4Wy.0.0)
+
+[兵器面面观](https://tv.cctv.com/lm/bqmmg/index.shtml)
+
+- _TOP_ _4_ [消防机器狗：火场“侦察兵”](https://tv.cctv.com/2026/11/06/VIDEgOx3Md4f9iRRoXs9Mcxn261106.shtml)
+- _TOP_ _5_ [闽南民俗何以变身文旅爆品](https://tv.cctv.com/2026/11/05/VIDEbdpK9lGlgoRd9C3zfYDW261105.shtml)
+- _TOP_ _6_ [探秘曹操宗族墓](https://tv.cctv.com/2026/11/04/VIDEFdk7G1J7qslWf5xV9ipr261104.shtml)
+- _TOP_ _7_ [乡野寻鲜 秋到北方贴秋膘](https://tv.cctv.com/2026/11/04/VIDEPs5nqDaSS2p67RwXTYsH261104.shtml)
+- _TOP_ _8_ [高材生的体面骗局](https://tv.cctv.com/2026/11/04/VIDE2LFCZhRCcDXq2jSjfTOV261104.shtml)
+- _TOP_ _9_ [晋山晋水好风光](https://tv.cctv.com/2026/11/04/VIDEySk5C9v8V6jakg0ADvxa261104.shtml)
+
+相关推荐
+
+- [![](https://p4.img.cctvpic.com/fmspic/2021/10/03/2922a0caeab04f7d9a0d5e2b32371b89-1.jpg)](https://tv.cctv.com/2021/10/03/VIDEcd7hkxjJbZUIqjKBTCW1211003.shtml)
+
+[\[体育新闻\]完整版 20211003](https://tv.cctv.com/2021/10/03/VIDEcd7hkxjJbZUIqjKBTCW1211003.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2020/01/06/750cebfc6b764f32b5d8d828987883ae-190.jpg)](https://tv.cctv.com/2020/01/06/VIDE39Ni39Ai47uOdtl0YsVm200106.shtml)
+
+[\[开门大吉\]选手李溶溶的精彩表现](https://tv.cctv.com/2020/01/06/VIDE39Ni39Ai47uOdtl0YsVm200106.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2022/03/18/64ccfe3b1bf9439c846e4406962ed34d-1.jpg)](https://tv.cctv.com/2022/03/18/VIDELFd9qk53crNe1G65f3gv220318.shtml)
+
+[\[记住乡愁\]施茶村的村民们利用火山石种植石斛](https://tv.cctv.com/2022/03/18/VIDELFd9qk53crNe1G65f3gv220318.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/11/07/ff2ba6b376cc4c57affd889d440877a7-1.jpg)](https://tv.cctv.com/2026/11/07/VIDEFQXqfbFtpLFlAoHAx27m261107.shtml)
+
+[\[第一时间\]央视财经评论：科技助力夯实国家粮食安全主动权](https://tv.cctv.com/2026/11/07/VIDEFQXqfbFtpLFlAoHAx27m261107.shtml)
+
+- [![](https://p1.img.cctvpic.com/fmspic/2023/07/01/22c8f8241b81459fb50fa3a3bbd0f9df-1.jpg)](https://tv.cctv.com/2023/07/01/VIDEST4Z85SBgBrXimA4Yxzn230701.shtml)
+
+[\[对话\]如何保障粮食安全？](https://tv.cctv.com/2023/07/01/VIDEST4Z85SBgBrXimA4Yxzn230701.shtml)
+
+- [![](https://p3.img.cctvpic.com/fmspic/2026/11/02/14b689b5500349268ccf77cf37079990-1.jpg)](https://tv.cctv.com/2026/11/02/VIDEKbAEW86jY1yJCmQgH84Z261102.shtml)
+
+[《焦点访谈》 20261102 生物多样性保护的中国实践](https://tv.cctv.com/2026/11/02/VIDEKbAEW86jY1yJCmQgH84Z261102.shtml)
+
+- [![](https://p4.img.cctvpic.com/fmspic/2026/11/06/9242683b01b643a3a54a9cb2e4ab494e-1.jpg)](https://tv.cctv.com/2026/11/06/VIDE3IuOieuphKwiYhmBws3K261106.shtml)
+
+[《经济信息联播》 20261106](https://tv.cctv.com/2026/11/06/VIDE3IuOieuphKwiYhmBws3K261106.shtml)
+
+- [![](https://p1.img.cctvpic.com/fmspic/2026/11/06/a68924e310514d42a3c473b3a91a9446-1.jpg)](https://tv.cctv.com/2026/11/06/VIDEkr1YOQmAl5b9h4sEnJ53261106.shtml)
+
+[《天下财经》 20261106](https://tv.cctv.com/2026/11/06/VIDEkr1YOQmAl5b9h4sEnJ53261106.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/07/21/88cddd7033ce4ce2b065c998da47ce9d-1.jpg)](https://tv.cctv.com/2026/07/21/VIDEXKZqAV1frXe5ziT68RlA260721.shtml)
+
+[《沃土中国 科技“耕”新》 20260720](https://tv.cctv.com/2026/07/21/VIDEXKZqAV1frXe5ziT68RlA260721.shtml)
+
+- [![](https://p1.img.cctvpic.com/fmspic/2026/03/01/12ffc9a64e6b455eb40f423fe61fb72b-1.jpg)](https://tv.cctv.com/2026/03/01/VIDE08lbRkEIsk2PgBJ1Koj2260301.shtml)
+
+[\[中国经济大讲堂\]党政同责 一把手抓粮](https://tv.cctv.com/2026/03/01/VIDE08lbRkEIsk2PgBJ1Koj2260301.shtml)
+
+- [![](https://p4.img.cctvpic.com/fmspic/2026/03/03/91551f12e7c04343abd206ea93b7aa2a-1.jpg)](https://tv.cctv.com/2026/03/03/VIDEv5pscDgOxUQeua8JdUp3260303.shtml)
+
+[《消费主张》 20260303 2026消费新观察：智慧农业，打造幸福餐桌！](https://tv.cctv.com/2026/03/03/VIDEv5pscDgOxUQeua8JdUp3260303.shtml)
+
+- [![](https://p2.img.cctvpic.com/fmspic/2024/04/21/f85432c992e4458b8a229953defbede6-1.jpg)](https://tv.cctv.com/2024/04/21/VIDEeTfQwYlMCTgwGABjPjUW240421.shtml)
+
+[《财经调查》 20240421 村里又现“新骗术”](https://tv.cctv.com/2024/04/21/VIDEeTfQwYlMCTgwGABjPjUW240421.shtml)
+
+- [![](https://p4.img.cctvpic.com/fmspic/2026/10/24/92a34f278d804b389c336857251af9f5-1.jpg)](https://tv.cctv.com/2026/10/24/VIDEdLZwSm73GCSLEyNFNUnE261024.shtml)
+
+[《大国重器 实业答卷》 20261024 解码“大国粮仓”背后的重器力量](https://tv.cctv.com/2026/10/24/VIDEdLZwSm73GCSLEyNFNUnE261024.shtml)
+
+- [![](https://p2.img.cctvpic.com/fmspic/2023/11/01/822b751fd5574cceb0de1d68f1ffd33c-1.jpg)](https://tv.cctv.com/2023/11/01/VIDE1fKKdFjj6rNmNQC9E0am231101.shtml)
+
+[《经济半小时》 20231101 高标准农田里的“丰收密码”](https://tv.cctv.com/2023/11/01/VIDE1fKKdFjj6rNmNQC9E0am231101.shtml)
+
+- [![](https://p3.img.cctvpic.com/fmspic/2026/11/05/bd2c602297ff4ac38963ee5c237e079c-1.jpg)](https://tv.cctv.com/2026/11/05/VIDExYZ5AvSts2Yu14afbXRo261105.shtml)
+
+[《东方时空》 20261105](https://tv.cctv.com/2026/11/05/VIDExYZ5AvSts2Yu14afbXRo261105.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/10/31/109e3293a3a44ed38d9e181264fb6fff-1.jpg)](https://tv.cctv.com/2026/10/31/VIDESzVxXEI003umKb8byiMv261031.shtml)
+
+[《军情时间到》 20261031 “利剑27”联演：獠牙毕露 图穷匕见](https://tv.cctv.com/2026/10/31/VIDESzVxXEI003umKb8byiMv261031.shtml)
+
+- [![](https://p2.img.cctvpic.com/fmspic/2026/10/31/a0220850e4164d858c342a2d546dec2d-1.jpg)](https://tv.cctv.com/2026/10/31/VIDEdhBaShRBVJtUNkFgNQRT261031.shtml)
+
+[劳春燕对话张学峰：F-22演练战斗机基本机动和战术拦截](https://tv.cctv.com/2026/10/31/VIDEdhBaShRBVJtUNkFgNQRT261031.shtml)
+
+- [![](https://p2.img.cctvpic.com/fmspic/2026/11/06/6c8c880d4ef24fb18d6faaef6ed7c67d-1.jpg)](https://tv.cctv.com/2026/11/06/VIDEL245uH7oC2iRM3pKpYVh261106.shtml)
+
+[\[央视财经评论\]国家发展改革委：“十五五”时期我国粮食安全有坚实保障](https://tv.cctv.com/2026/11/06/VIDEL245uH7oC2iRM3pKpYVh261106.shtml)
+
+- [![](https://p2.img.cctvpic.com/fmspic/2026/11/02/b78e6b5225554f58ae3f2cd6f02a2076-1.jpg)](https://tv.cctv.com/2026/11/02/VIDEGnxEihFQikQIrNHpf38r261102.shtml)
+
+[\[今日亚洲\]记者探访中部战区空军“神威导弹营”](https://tv.cctv.com/2026/11/02/VIDEGnxEihFQikQIrNHpf38r261102.shtml)
+
+- [![](https://p3.img.cctvpic.com/fmspic/2026/11/01/62a91f49100c45ccbddc0c1c4742f34e-1.jpg)](https://tv.cctv.com/2026/11/01/VIDEjcyMlGOxaiIbyL8D8BbN261101.shtml)
+
+[\[共同关注\]歼-20首次公开亮相10周年·一问到底 十年奋飞砺剑 歼-20战力有多强？](https://tv.cctv.com/2026/11/01/VIDEjcyMlGOxaiIbyL8D8BbN261101.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/10/31/4e6a77944dfb41ecaf2a38f4dd7999cc-1.jpg)](https://tv.cctv.com/2026/10/31/VIDEsrm2gvivb7idu55R2gG6261031.shtml)
+
+[\[军事报道\]中国海警位中国台湾岛以东海域依法开展常态化执法巡查](https://tv.cctv.com/2026/10/31/VIDEsrm2gvivb7idu55R2gG6261031.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/10/31/19158804fb9e47a8a79a66c4b412d9d9-1.jpg)](https://tv.cctv.com/2026/10/31/VIDEiR85kNZA3BDjCrUkgxcZ261031.shtml)
+
+[\[正午国防军事\]“攻击-21”无人机在四川舰成功起降](https://tv.cctv.com/2026/10/31/VIDEiR85kNZA3BDjCrUkgxcZ261031.shtml)
+
+- [![](https://p3.img.cctvpic.com/fmspic/2026/11/02/1a2fc887285d465ca0b0d819eec24fff-1.jpg)](https://tv.cctv.com/2026/11/02/VIDErB5RPgwL3lliJaVaJPgH261102.shtml)
+
+[\[法治在线\]网恋女友竟是AI生成 揭秘新型网恋诈骗流水线](https://tv.cctv.com/2026/11/02/VIDErB5RPgwL3lliJaVaJPgH261102.shtml)
+
+- [![](https://p2.img.cctvpic.com/fmspic/2026/11/06/c3ac008f643d49ac81dedf212a0817c0-1.jpg)](https://tv.cctv.com/2026/11/06/VIDEHPO3gawHS6Kl4gnjMKnA261106.shtml)
+
+[\[海峡两岸\]福建舰入列一周年 战斗力到了哪一步？](https://tv.cctv.com/2026/11/06/VIDEHPO3gawHS6Kl4gnjMKnA261106.shtml)
+
+- [![](https://p3.img.cctvpic.com/fmspic/2026/11/06/ba25d300df4a4fe8be47c5db80a767f8-1.jpg)](https://tv.cctv.com/2026/11/06/VIDE1e3P0032W2OEVBc2Uv1i261106.shtml)
+
+[《今日关注》 20261106 共和党中期选举惨败 防长面临弹劾 美国是否再打伊朗？](https://tv.cctv.com/2026/11/06/VIDE1e3P0032W2OEVBc2Uv1i261106.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/11/03/0b3e65e520d94018bf1a9cff7acc3db3-1.jpg)](https://tv.cctv.com/2026/11/03/VIDEkKKamxzwMup9A76hTLmv261103.shtml)
+
+[\[新闻30分\]力箭二号遥二运载火箭发射成功](https://tv.cctv.com/2026/11/03/VIDEkKKamxzwMup9A76hTLmv261103.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/11/05/e453bea8044442b7ab4b7f056dc7cf96-1.jpg)](https://tv.cctv.com/2026/11/05/VIDE2Ht5LLyN9g81FnRHQyOK261105.shtml)
+
+[\[国防军事早报\]台媒：台退役金门舰转交菲律宾海岸防卫队 国务院台办：民进党当局丧失民族立场 必遭反对和唾弃](https://tv.cctv.com/2026/11/05/VIDE2Ht5LLyN9g81FnRHQyOK261105.shtml)
+
+- [![](https://p4.img.cctvpic.com/fmspic/2026/11/01/e51c52acaf4d4f9da6cb3fa1af3f1b8f-1.jpg)](https://tv.cctv.com/2026/11/01/VIDEVdQRJh6TRmoeWuncha4a261101.shtml)
+
+[《世界周刊》 20261101](https://tv.cctv.com/2026/11/01/VIDEVdQRJh6TRmoeWuncha4a261101.shtml)
+
+- [![](https://p5.img.cctvpic.com/fmspic/2026/10/31/647c42cb15c84aca86c6e0896299df7f-1.jpg)](https://tv.cctv.com/2026/10/31/VIDEvOKReENTHAuAQNuujgLc261031.shtml)
+
+[《新闻调查》 20261031 防线](https://tv.cctv.com/2026/10/31/VIDEvOKReENTHAuAQNuujgLc261031.shtml)
+
+- [![](https://p1.img.cctvpic.com/fmspic/2026/11/01/0010f04f4aca456c8c34f7cf5c964702-1.jpg)](https://tv.cctv.com/2026/11/01/VIDE0qijQFKbHXAKhh9fAv1Z261101.shtml)
+
+[《防务新观察》 20261101 乌总统高调盘点乌军里程碑式行动 俄卫星高速逼近西方援乌雷达卫星](https://tv.cctv.com/2026/11/01/VIDE0qijQFKbHXAKhh9fAv1Z261101.shtml)
+
+加载更多
+
+我来说两句
+
+122评论
+
+取消
+
+我要评论取消
+
+提交
+
+![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565315968922641/biaoqing_18897_190809.png)![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565315968922641/biaoqing1.png)![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565315968922641/biaoqing2.png)![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565315968922641/biaoqing3.png)![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565315968922641/yanwenzi_18897_190809.png)![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565315968922641/duanyu_18897_190809.png)![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1565315968922641/zbzg.png)
+
+![微笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq26.png)
+
+![酷](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq17.png)
+
+![亲亲](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq21.png)
+
+![耶](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq29.png)
+
+![鼓掌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq10.png)
+
+![调皮](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq24.png)
+
+![星星眼](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq28.png)
+
+![大笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq07.png)
+
+![偷笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq25.png)
+
+![比心](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq03.png)
+
+![点赞](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq08.png)
+
+![送你花花](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq23.png)
+
+![礼物](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq19.png)
+
+![庆祝](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq20.png)
+
+![666](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq01.png)
+
+![打气](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq05.png)
+
+![棒棒哒](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq02.png)
+
+![打call](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq04.png)
+
+![厉害了](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq18.png)
+
+![加油](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq13.png)
+
+![大神V5](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq06.png)
+
+![睡着了](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq22.png)
+
+![发呆](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq09.png)
+
+![疑问](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq30.png)
+
+![害羞](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq11.png)
+
+![晕](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq31.png)
+
+![哼](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq12.png)
+
+![抓狂](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq32.png)
+
+![惊恐](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq14.png)
+
+![捂脸](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq27.png)
+
+![机智](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq15.png)
+
+![抠鼻](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/bq16.png)
+
+![微笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm14.png)
+
+![捂脸](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm15.png)
+
+![惊恐](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm06.png)
+
+![机智](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm07.png)
+
+![奸笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm05.png)
+
+![偷笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm13.png)
+
+![抓狂](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm20.png)
+
+![疑问](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm18.png)
+
+![耶](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm17.png)
+
+![抠鼻](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm08.png)
+
+![亲亲](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm10.png)
+
+![酷](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm09.png)
+
+![晕](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm19.png)
+
+![星星眼](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm16.png)
+
+![发呆](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm01.png)
+
+![哼](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm04.png)
+
+![鼓掌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm02.png)
+
+![睡觉](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm11.png)
+
+![害羞](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm03.png)
+
+![调皮](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xm12.png)
+
+![大笑](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm01.png)
+
+![点赞](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm02.png)
+
+![鼓掌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm03.png)
+
+![惊讶](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm06.png)
+
+![红心](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm04.png)
+
+![祝福](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm10.png)
+
+![送花](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm09.png)
+
+![流汗](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm07.png)
+
+![胜利](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm08.png)
+
+![加油](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm05.png)
+
+![C位](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm11.png)
+
+![炫富](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm12.png)
+
+![实励派](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm13.png)
+
+![老哥稳](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm14.png)
+
+![吃狗粮](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/jm15.png)
+
+![感谢](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy01.png)
+
+![比心](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy02.png)
+
+![求推荐](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy03.png)
+
+![辛苦啦](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy04.png)
+
+![冲吖](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy05.png)
+
+![得意](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy06.png)
+
+![保持骄傲](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy07.png)
+
+![击掌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy08.png)
+
+![嗨起来](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy09.png)
+
+![摊手](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy10.png)
+
+![突然卖萌](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy11.png)
+
+![撒娇](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy12.png)
+
+![递茶](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy13.png)
+
+![无奋斗不青春](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy14.png)
+
+![马上](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy15.png)
+
+![哈哈哈](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1560495072307131/xy16.png)
+
+(lll￢ω￢)
+
+o(╥﹏╥)o
+
+ヾ(≧▽≦\*)o
+
+╮(╯▽╰)╭
+
+(→\_→)
+
+(\*￣3￣)╭
+
+>(☆ｗ☆)
+
+\[\]~(￣▽￣)~\*
+
+(..•˘\_˘•..)
+
+d====(￣▽￣\*)b
+
+o(￣ヘ￣o＃)
+
+o(\*////▽////\*)o
+
+(∪。∪)。。。zzz
+
+～(￣▽￣～)(～￣▽￣)～
+
+ヽ(✿ﾟ▽ﾟ)ノ
+
+(´▽\`ʃ♡ƪ)
+
+\*(੭\*ˊᵕˋ)੭\*ଘ
+
+>°))))彡
+
+Σ（ ° △ °\|\|\|）︴
+
+(๑•̀ㅂ•́)و✧
+
+厉害了我的国
+
+满满的正能量
+
+加油！加油！
+
+给力！
+
+必胜！
+
+手动点赞！
+
+真精彩！
+
+支持一下
+
+V5
+
+硬核
+
+打call
+
+很好很强大
+
+好嗨哟！
+
+表示震惊！
+
+哈哈哈哈
+
+坚持就是胜利！
+
+冲鸭~~~
+
+实力派
+
+顶一个
+
+比心
+
+低调路过
+
+内容引起极度舒适！
+
+你怎么这么优秀！
+
+这大概是锦鲤本人了
+
+元芳，你怎么看？
+
+皮一下很开心！
+
+发条弹幕压压惊
+
+重要的事说三遍
+
+请收下我的膝盖
+
+我想静静
+
+下次旅行立马安排！
+
+完美！
+
+来啦来啦，打卡！
+
+好想去啊
+
+风景慢直播，赞一个
+
+这景这feel，酷酷的
+
+美美哒~
+
+这么美！比个心
+
+这天空是真实的吗？
+
+风景这边独好
+
+景点好美
+
+一起去逛
+
+我爱你大美中国
+
+江山如画
+
+祖国处处是美景
+
+心心念念的城市
+
+来报到
+
+语言贫瘠只能666
+
+哇哦
+
+惊讶又期待的眼神
+
+这是我那美丽的故乡
+
+下一站就去这了
+
+票已订好准备出发
+
+这么美，顶起来
+
+唉呀嘛呀
+
+暗中观察
+
+奥利给！
+
+大美河山，酷的
+
+即刻去旅行
+
+绝妙的夜景
+
+评论发布成功
+
+审核通过后即可看见您的评论
+
+返回顶部
+
+![](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1563326600105320/Olympic_ewm_0618.png)
+
+扫描关注奥林匹克频道
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/special/PAGEwSTL2jP9HcYiZyDHQVNa190729/ELMTGREgtZR4bDKQ16eyEwRI220322_1647930649.png)
+
+关闭
+
+[央视网首页](https://m.cctv.com/)
+\|
+[央视节目官网首页](https://tv.cctv.com/m/)
+
+[京ICP备10003349号-1](https://beian.miit.gov.cn/)中央广播电视总台央视网版权所有
+
+[![中国中央电视台](https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2020/11/12/1605182024170_834.png)](https://tv.cctv.com/)
+
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CCTV-1<br>_综 合_ | CCTV-2<br>_财 经_ | CCTV-3<br>_综 艺_ | CCTV-4<br>_中文国际_ | CCTV-5<br>_体 育_ | CCTV-5+<br>_体育赛事_ | CCTV-6<br>_电 影_ | CCTV-7<br>_国防军事_ | CCTV-8<br>_电视剧_ |
+| CCTV-9<br>_纪 录_ | CCTV-10<br>_科 教_ | CCTV-11<br>_戏 曲_ | CCTV-12<br>_社会与法_ | CCTV-13<br>_新 闻_ | CCTV-14<br>_少 儿_ | CCTV-15<br>_音 乐_ | CCTV-16<br>_奥林匹克_ | CCTV-17<br>_农业农村_ |
+
+[![CCTV1](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv1.png)](https://tv.cctv.com/cctv1)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+正在播出：
+
+[小城良方第11集](https://tv.cctv.com/live/cctv1)
+
+精彩预告：
+
+小城良方第12集
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [新闻联播](https://tv.cctv.com/lm/xwlb/index.shtml) | [焦点访谈](https://tv.cctv.com/lm/jdft/index.shtml) | [晚间新闻](https://tv.cctv.com/lm/wjxw/index.shtml) | [故事里的中国](https://tv.cctv.com/lm/gsldzg3/index.shtml) | [今日说法](https://tv.cctv.com/lm/jrsf/index.shtml) | [时代楷模发布厅](https://tv.cctv.com/lm/sdkmfbt/index.shtml) |
+| [开讲啦](https://tv.cctv.com/lm/kjl/index.shtml) | [我有传家宝](https://tv.cctv.com/lm/xunbao/index.shtml) | [第一动画乐园](https://tv.cctv.com/lm/dydhly/index.shtml) | [动物世界](https://tv.cctv.com/lm/dwsj/index.shtml) | [人与自然](https://tv.cctv.com/lm/ryzr/index.shtml) | [正大综艺](https://tv.cctv.com/lm/zdzy1/index.shtml) |
+| [人口](https://tv.cctv.com/lm/renkou/index.shtml) | [国际艺苑](http://tv.cctv.com/lm/gjyy/) | [生活提示](https://tv.cctv.com/lm/shts/index.shtml) | [中华民族](https://tv.cctv.com/lm/zhmz/index.shtml) | [秘境之眼](https://tv.cctv.com/lm/mjzy/index.shtml) | [城市风华录](https://tv.cctv.com/lm/csfhl/index.shtml) |
+| [金石探文明](https://tv.cctv.com/lm/jstwm/index.shtml) | [简牍探中华](https://tv.cctv.com/lm/jdtzh/index.shtml) | [自然中国](https://tv.cctv.com/lm/zrzg/index.shtml) | [花开中国](https://tv.cctv.com/lm/hkzg/index.shtml) | [文脉春秋](https://tv.cctv.com/lm/wmcq/index.shtml) | [寻古中国](https://tv.cctv.com/lm/xgzg/index.shtml) |
+| [周末一起看电影](https://tv.cctv.com/lm/zmyqkdy/index.shtml) | [三餐四季](https://tv.cctv.com/lm/scsj/index.shtml) | [寻味山海](https://tv.cctv.com/lm/xwsh/index.shtml) | [开学第一课](https://tv.cctv.com/lm/kxdyk/index.shtml) | [人文名镇](https://tv.cctv.com/lm/rwmz/index.shtml) | [农耕探文明](https://tv.cctv.com/lm/ngtwm/index.shtml) |
+
+[![CCTV2](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv2.png)](https://tv.cctv.com/cctv2)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [对话](https://tv.cctv.com/lm/duihua/index.shtml) | [经济半小时](https://tv.cctv.com/lm/jjbxs/index.shtml) | [经济信息联播](https://tv.cctv.com/lm/jjxxll/index.shtml) | [财经调查](https://tv.cctv.com/lm/cjdc/index.shtml) | [第一时间](https://tv.cctv.com/lm/dysj/index.shtml) | [消费主张](https://tv.cctv.com/lm/xfzz/index.shtml) |
+| [一槌定音](https://tv.cctv.com/lm/ycdy/index.shtml) | [生财有道](https://tv.cctv.com/lm/scyd/index.shtml) | [职场健康课](https://tv.cctv.com/lm/zcjkk/index.shtml) | [央视财经评论](https://tv.cctv.com/lm/yscjpl/index.shtml) | [回家吃饭](https://tv.cctv.com/lm/hjcf/index.shtml) | [中国经济大讲堂](https://tv.cctv.com/lm/zgjjdjt/index.shtml) |
+| [正点财经](http://tv.cctv.com/lm/zdcj/index.shtml) | [天下财经](https://tv.cctv.com/lm/hqcjlx/index.shtml) | [生活家](http://tv.cctv.com/lm/shj/) | [创业英雄汇](https://tv.cctv.com/lm/cyyxh/index.shtml) | [欢乐大猜想](https://tv.cctv.com/lm/hldcx/index.shtml) |  |
+
+[![CCTV3](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv3.png)](https://tv.cctv.com/cctv3)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [金牌喜剧班](https://tv.cctv.com/lm/jpxjb/index.shtml) | [我的艺术清单](https://tv.cctv.com/lm/wdysqd/) | [走在回家的路上](http://tv.cctv.com/lm/zzhjdls) | [你好生活](https://tv.cctv.com/2023/07/16/VIDAoHIa88UWaTwAfbNrA8AN230716.shtml) | [舞蹈世界](https://tv.cctv.com/lm/wdsj/index.shtml) | [文化十分](https://tv.cctv.com/lm/whsf/index.shtml) |
+| [越战越勇](https://tv.cctv.com/lm/yzyy/index.shtml) | [黄金100秒](https://tv.cctv.com/lm/hj100m/index.shtml) | [星光大道](https://tv.cctv.com/lm/xgdd/index.shtml) | [开门大吉](https://tv.cctv.com/lm/kmdj/index.shtml) | [非常6+1](https://tv.cctv.com/lm/feichang6j1/index.shtml) | [我要上春晚](https://tv.cctv.com/2023/12/28/VIDAJ9qOsGFKzngvrV4ZDXTq231228.shtml) |
+| [向幸福出发](https://tv.cctv.com/lm/xxfcf/index.shtml) | [艺览天下](https://tv.cctv.com/lm/yltx/index.shtml) | [幸福账单](https://tv.cctv.com/lm/xfzd/index.shtml) | [天天把歌唱](https://tv.cctv.com/lm/ttbgc/index.shtml) | [回声嘹亮](https://tv.cctv.com/lm/hsll/index.shtml) | [喜上加喜](https://tv.cctv.com/lm/xsjx/index.shtml) |
+| [中国文艺报道](http://tv.cctv.com/lm/zgwybd/index.shtml) |  |  |  |  |  |
+
+[![CCTV4](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv4.png)](https://tv.cctv.com/cctv4)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [健康中国](https://tv.cctv.com/lm/jkzg/index.shtml) | [走遍中国](https://tv.cctv.com/lm/zbzg/index.shtml) | [环球综艺秀](https://tv.cctv.com/lm/hqzyx/index.shtml) | [美食中国](https://tv.cctv.com/lm/mszg/index.shtml) | [深度国际](https://tv.cctv.com/lm/sdgj/index.shtml) | [中国新闻](https://tv.cctv.com/lm/zgxw/index.shtml) |
+| [今日关注](https://tv.cctv.com/lm/jrgz/index.shtml) | [今日亚洲](https://tv.cctv.com/lm/jryz/index.shtml) | [中国文艺](https://tv.cctv.com/lm/zgwy/index.shtml) | [海峡两岸](https://tv.cctv.com/lm/hxla/index.shtml) | [远方的家](https://tv.cctv.com/lm/yfdj/index.shtml) | [中国舆论场](https://tv.cctv.com/lm/zgylc/shouye/index.shtml) |
+| [国家记忆](https://tv.cctv.com/lm/gjjy/index.shtml) | [记住乡愁](https://tv.cctv.com/lm/jzxcmmzs/) | [国宝·发现](https://tv.cctv.com/lm/gbfx/index.shtml) | [今日环球](https://tv.cctv.com/lm/jrhq/index.shtml) | [华人故事](https://tv.cctv.com/lm/hrgs/index.shtml) | [中国缘](https://tv.cctv.com/lm/zgy/index.shtml) |
+| [鲁健访谈](https://tv.cctv.com/lm/ljft/index.shtml) |  |  |  |  |  |
+
+[![CCTV5](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv5.png)](https://tv.cctv.com/cctv5)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [运动一起赢](https://tv.cctv.com/lm/ydyqy/index.shtml) | [欧冠开场哨](https://tv.cctv.com/lm/ogkcs/index.shtml) | [天下足球](https://tv.cctv.com/lm/txzq/index.shtml) | [体坛晨报](http://tv.cctv.com/lm/tycb) | [体坛快讯](https://tv.cctv.com/lm/ttkx/index.shtml) | [体育新闻](https://tv.cctv.com/lm/tyxw/index.shtml) |
+| [体育世界](https://tv.cctv.com/lm/tysj/index.shtml) | [体谈](http://tv.cctv.com/lm/wytybd) | [足球之夜](https://tv.cctv.com/lm/zqzy/index.shtml) | [篮球公园](https://tv.cctv.com/lm/lqgy/index.shtml) | [棋牌乐](http://tv.cctv.com/lm/qpl/) |  |
+
+[![CCTV5+](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv5plus.png)](https://tv.cctv.com/cctv5plus)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |
+| --- | --- | --- |
+| [冰球冰球](https://tv.cctv.com/lm/bqbq/index.shtml) | [ATP周刊](https://tv.cctv.com/lm/ATPzk/index.shtml) | [冰天雪地](https://tv.cctv.com/lm/btxd/index.shtml) |
+
+[![CCTV6](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv6.png)](https://tv.cctv.com/cctv6)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |
+| --- | --- |
+| [今日影评](https://tv.cctv.com/lm/jryp/index.shtml) | [中国电影报道](https://tv.cctv.com/lm/zgdybd/index.shtml) |
+
+[![CCTV7](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv7.png)](https://tv.cctv.com/cctv7)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [时光军史馆](https://tv.cctv.com/lm/sgjsg/index.shtml) | [谁是终极英雄](https://tv.cctv.com/lm/sszjyx/index.shtml) | [军事科技](https://tv.cctv.com/lm/jskj/index.shtml) | [军营的味道](https://tv.cctv.com/lm/jydwd/index.shtml) | [军迷行天下](https://tv.cctv.com/lm/jmxtx/index.shtml) | [五星剧场](https://tv.cctv.com/lm/wxjc/index.shtml) |
+| [国防军事早报](https://tv.cctv.com/lm/gfjszb/index.shtml) | [防务新观察](https://tv.cctv.com/lm/fwxgc/index.shtml) | [军事报道](https://tv.cctv.com/lm/jsbd/index.shtml) | [军歌嘹亮](https://tv.cctv.com/lm/jgll/index.shtml) | [砺剑](https://tv.cctv.com/lm/lijian/index.shtml) | [讲武堂](https://tv.cctv.com/lm/jwt/index.shtml) |
+| [军事纪实](https://tv.cctv.com/lm/jsjs/) | [老兵你好](https://tv.cctv.com/lm/lbnh/) | [正午国防军事](https://tv.cctv.com/lm/zwgfjs/index.shtml) | [军事制高点](https://tv.cctv.com/lm/jszgd/index.shtml) | [军事纪录](https://tv.cctv.com/lm/jsjl/index.shtml) | [第二战场](https://tv.cctv.com/lm/dezc/index.shtml) |
+| [兵器面面观](https://tv.cctv.com/lm/bqmmg/index.shtml) | [世界战史](https://tv.cctv.com/lm/sjzs/index.shtml) | [国防故事](https://tv.cctv.com/lm/gfgs/index.shtml) | [军武零距离](https://tv.cctv.com/lm/jwljl/index.shtml) |  |  |
+
+[![CCTV8](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv8.png)](https://tv.cctv.com/cctv8)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |
+| --- | --- |
+| [剧说很好看](https://tv.cctv.com/lm/jshhk/index.shtml) | [星推荐](https://tv.cctv.com/lm/xtj/index.shtml) |
+
+[![CCTV9](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv9.png)](https://tv.cctv.com/cctv9)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [寰宇视野](https://tv.cctv.com/lm/hysx/index.shtml) | [发现](https://tv.cctv.com/lm/faxian/index.shtml) | [人文地理](https://tv.cctv.com/lm/rwdl/index.shtml) | [时代](https://tv.cctv.com/lm/shidai/index.shtml) | [特别呈现](https://tv.cctv.com/lm/tbcx/index.shtml) | [真相](https://tv.cctv.com/lm/zhenxiang/index.shtml) |
+| [自然](http://tv.cctv.com/lm/ziran) | [万象](http://tv.cctv.com/lm/wanxiang) | [9视频](https://tv.cctv.com/lm/9sp/index.shtml) | [故事·中国](https://tv.cctv.com/lm/gszg/index.shtml) | [活力·源](https://tv.cctv.com/lm/hly/index.shtml) | [微9](http://tv.cctv.com/lm/w9/) |
+
+[![CCTV10](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv10.png)](https://tv.cctv.com/cctv10)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [百家讲坛](https://tv.cctv.com/lm/bjjt/index.shtml) | [地理·中国](https://tv.cctv.com/lm/dlzg/index.shtml) | [自然传奇](https://tv.cctv.com/lm/zrcq/index.shtml) | [味道](https://tv.cctv.com/lm/weidao/index.shtml) | [健康之路](https://tv.cctv.com/lm/jkzl/index.shtml) | [探索·发现](https://tv.cctv.com/lm/tsfx/index.shtml) |
+| [透视新科技](https://tv.cctv.com/lm/tsxkj/index.shtml) | [实验现场](https://tv.cctv.com/lm/syxc/index.shtml) | [科幻地带](https://tv.cctv.com/lm/khdd/index.shtml) | [科学动物园](https://tv.cctv.com/lm/kxdwy/index.shtml) | [时尚科技秀](https://tv.cctv.com/lm/sskjx/index.shtml) | [人物·故事](https://tv.cctv.com/lm/rwgs/index.shtml) |
+| [考古公开课](https://tv.cctv.com/lm/kggkk/index.shtml) | [跟着书本去旅行](https://tv.cctv.com/lm/gzsbqlx/index.shtml) | [百家说故事](https://tv.cctv.com/lm/bjsgs/index.shtml) | [读书](https://tv.cctv.com/lm/dushu/index.shtml) | [解码科技史](https://tv.cctv.com/lm/jmkjs/index.shtml) | [创新进行时](https://tv.cctv.com/lm/cxjxs/index.shtml) |
+| [中国影像方志](https://tv.cctv.com/lm/zgyxfz/) |  |  |  |  |  |
+
+[![CCTV11](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv11.png)](https://tv.cctv.com/cctv11)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [戏曲青年说](https://tv.cctv.com/lm/xqqns/index.shtml) | [一鸣惊人](https://tv.cctv.com/lm/ymjr/index.shtml) | [九州大戏台](https://tv.cctv.com/lm/jzdxt/index.shtml) | [CCTV空中剧院](https://tv.cctv.com/lm/cctvkzjy/index.shtml) | [中国京剧音配像精粹](https://tv.cctv.com/lm/zgjjypxjc/index.shtml) | [梨园闯关我挂帅](https://tv.cctv.com/lm/lycgwgs/index.shtml) |
+| [梨园周刊](https://tv.cctv.com/lm/lyzk/index.shtml) | [角儿来了](https://tv.cctv.com/lm/jll/index.shtml) | [过把瘾](https://tv.cctv.com/lm/gby/index.shtml) | [名段欣赏](http://tv.cctv.com/lm/mdxs) | [青春戏苑](https://tv.cctv.com/lm/qcxy/index.shtml) | [名家书场](http://tv.cctv.com/lm/mjsc/) |
+| [宝贝亮相吧](https://tv.cctv.com/lm/bblxb/) | [典藏](http://tv.cctv.com/lm/dc/) | [中国戏曲像音像集萃](https://tv.cctv.com/lm/zgjjxyxjc/index.shtml) | [了不起的戏曲](https://tv.cctv.com/lm/lbqdxq/index.shtml) |  |  |
+
+[![CCTV12](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv12.png)](https://tv.cctv.com/cctv12)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [剧懂法](https://tv.cctv.com/lm/jdf/index.shtml) | [警察特训计划](https://tv.cctv.com/lm/jctxy/) | [小区大事](https://tv.cctv.com/lm/xqds/index.shtml) | [法律讲堂生活版](https://tv.cctv.com/lm/fljtshb/index.shtml) | [一线](https://tv.cctv.com/lm/yixian/index.shtml) | [法律讲堂文史版](https://tv.cctv.com/lm/fljtwsb/index.shtml) |
+| [夜线](https://tv.cctv.com/lm/yexian/index.shtml) | [中国法治观察](http://tv.cctv.com/lm/zgfzgc/index.shtml) | [普法剧场](https://tv.cctv.com/lm/pfjc/index.shtml) | [夕阳红](https://tv.cctv.com/lm/xyh/index.shtml) | [生命线](https://tv.cctv.com/lm/smx/index.shtml) | [见证](https://tv.cctv.com/lm/jianzheng/index.shtml) |
+| [天网](https://tv.cctv.com/lm/tianwang/index.shtml) | [高墙内外](https://tv.cctv.com/lm/gqnw/index.shtml) | [现在开庭](https://tv.cctv.com/lm/xzkt/) | [道德观察](https://tv.cctv.com/lm/ddgc/index.shtml) | [心理访谈](https://tv.cctv.com/lm/xlft/index.shtml) | [热心话](https://tv.cctv.com/lm/rehua/index.shtml) |
+| [法治深壹度](https://tv.cctv.com/lm/fzsyd/index.shtml) | [全网追踪](https://tv.cctv.com/lm/qwzz/index.shtml) | [律师来了](https://tv.cctv.com/lm/lsll/index.shtml) | [决不掉队](http://tv.cctv.com/lm/jbdd/) |  |  |
+
+[![CCTV13](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv13.png)](https://tv.cctv.com/cctv13)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [焦点访谈](https://tv.cctv.com/lm/jdft/index.shtml) | [面对面](https://tv.cctv.com/lm/mdm/index.shtml) | [国际时讯](https://tv.cctv.com/lm/gjsx/index.shtml) | [环球视线](https://tv.cctv.com/lm/hqsx/index.shtml) | [每周质量报告](https://tv.cctv.com/lm/mzzlbg/index.shtml) | [法治在线](https://tv.cctv.com/lm/fzzx/index.shtml) |
+| [新闻直播间](https://tv.cctv.com/lm/xwzbj/index.shtml) | [共同关注](https://tv.cctv.com/lm/gtgz/index.shtml) | [午夜新闻](https://tv.cctv.com/lm/wyxw/index.shtml) | [新闻30分](https://tv.cctv.com/lm/xw30f/index.shtml) | [朝闻天下](https://tv.cctv.com/lm/zwtx/index.shtml) | [24小时](https://tv.cctv.com/lm/24xiaoshi/index.shtml) |
+| [新闻调查](https://tv.cctv.com/lm/xwdc/index.shtml) | [新闻1+1](https://tv.cctv.com/lm/xinwen1j1/index.shtml) | [世界周刊](https://tv.cctv.com/lm/sjzk/index.shtml) | [东方时空](https://tv.cctv.com/lm/dfsk/index.shtml) | [新闻周刊](https://tv.cctv.com/lm/xwzk/index.shtml) | [军情时间到](https://tv.cctv.com/lm/jqsjd/index.shtml) |
+| [高端访谈](https://tv.cctv.com/lm/gdft/index.shtml) |  |  |  |  |  |
+
+[![CCTV14](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv14.png)](https://tv.cctv.com/cctv14)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [周末动画片](https://tv.cctv.com/lm/zmdhp/index.shtml) | [快乐体验](https://tv.cctv.com/lm/klty/index.shtml) | [小小智慧树](https://tv.cctv.com/lm/xxzhs/index.shtml) | [智力快车](https://tv.cctv.com/lm/zlkc/index.shtml) | [音乐快递](https://tv.cctv.com/lm/yykd/index.shtml) | [英雄出少年](https://tv.cctv.com/lm/yxcsn/index.shtml) |
+| [快乐大巴](https://tv.cctv.com/lm/kldb/index.shtml) | [动漫世界](https://tv.cctv.com/lm/dmsj/index.shtml) | [新闻袋袋裤](https://tv.cctv.com/lm/xwddk/index.shtml) | [大风车](https://tv.cctv.com/lm/dfc/index.shtml) | [七巧板](https://tv.cctv.com/lm/qqb/index.shtml) | [大手牵小手](https://tv.cctv.com/lm/dsqxs/index.shtml) |
+| [智慧树](https://tv.cctv.com/lm/zhs/index.shtml) | [动感特区](https://tv.cctv.com/lm/dgtq/index.shtml) | [动画大放映](https://tv.cctv.com/lm/dhdfy/index.shtml) | [看我72变](https://tv.cctv.com/lm/kw72b/index.shtml) | [快乐童行](https://tv.cctv.com/lm/kltx/index.shtml) | [风车剧场](https://tv.cctv.com/lm/fcjc/index.shtml) |
+
+[![CCTV15](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv15.png)](https://tv.cctv.com/cctv15)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [乐享汇](https://tv.cctv.com/lm/yxh/index.shtml) | [全球中文音乐榜上榜](https://tv.cctv.com/lm/qqzwyybsb/index.shtml) | [一起音乐吧](https://tv.cctv.com/lm/yqyyb/index.shtml) | [影视留声机](https://tv.cctv.com/lm/yslsj/index.shtml) | [CCTV音乐厅](https://tv.cctv.com/lm/cctvyyt/index.shtml) | [风华国乐](https://tv.cctv.com/lm/fhgy/index.shtml) |
+| [民歌·中国](https://tv.cctv.com/lm/mgzg/index.shtml) | [精彩音乐汇](https://tv.cctv.com/lm/jcyyh/index.shtml) | [中国音乐电视](https://tv.cctv.com/lm/zgyyds/index.shtml) | [乐游天下](https://tv.cctv.com/lm/yytx/index.shtml) | [音乐人生](https://tv.cctv.com/lm/yyrs/index.shtml) | [音乐公开课](https://tv.cctv.com/lm/yygkk/index.shtml) |
+| [聆听时刻](https://tv.cctv.com/lm/ltsk/index.shtml) | [中国节拍](https://tv.cctv.com/lm/zgjp/index.shtml) | [合唱先锋](https://tv.cctv.com/lm/hcxf/index.shtml) | [音乐周刊](https://tv.cctv.com/lm/yyzk/index.shtml) | [童声唱](https://tv.cctv.com/lm/tsc/index.shtml) |  |
+
+[![CCTV16](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv16.png)](https://tv.cctv.com/cctv16)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [北京2022](https://tv.cctv.com/lm/Beijing2022/index.shtml) | [艺术里的奥林匹克](https://tv.cctv.com/lm/ysldalpk/index.shtml) | [逐冰追雪](https://tv.cctv.com/lm/zbzx/index.shtml) | [五环纪事](https://tv.cctv.com/lm/whjs/index.shtml) | 奥林匹克传奇 | [奥秘无穷](https://tv.cctv.com/lm/amwq/index.shtml) |
+| [奥林匹克人](https://tv.cctv.com/lm/alpkr/index.shtml) | 我的奥林匹克 | 奥林匹克新鲜说 |  |  |  |
+
+[![CCTV17](https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1546583592748817/cctv17.png)](https://tv.cctv.com/cctv17)
+
+![](https://p5.img.cctvpic.com/photoAlbum/templet/common/DEPA1381197220279381/img_20131009_9313.gif)
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| [田野欢歌](https://tv.cctv.com/lm/tyhg/index.shtml) | [中国三农报道](https://tv.cctv.com/lm/zgsnbd/index.shtml) | [乡土中国](https://tv.cctv.com/lm/xtzg/index.shtml) | [共富经](https://tv.cctv.com/lm/gfj/index.shtml) | [三农长短说](https://tv.cctv.com/lm/sncds/index.shtml) | [乐游新乡村](https://tv.cctv.cn/lm/lyxxc/index.shtml) |
+| [超级农人秀](https://tv.cctv.com/lm/cjnrx/index.shtml) | [田园帮帮团](https://tv.cctv.com/lm/tybbt/index.shtml) | [三农群英汇](http://tv.cctv.com/lm/snqyh/index.shtml) | [乡村大舞台](https://tv.cctv.com/lm/xcdwt/index.shtml) | [乡理乡亲](https://tv.cctv.com/lm/xlxq/index.shtml) | [谁知盘中餐](https://tv.cctv.com/lm/szpzc/index.shtml) |
+| [大地讲堂](https://tv.cctv.com/lm/ddjt/index.shtml) | [农业气象](https://tv.cctv.com/lm/nyqx/index.shtml) |  |  |  |  |
+
+关于我们
+
+- [总台之声](http://www.cctv.com/gyys/index.shtml)
+- [总台总经理室](https://1118.cctv.com/chinese/index.shtml)
+- [关于CCTV.com](https://www.cctv.com/special/guanyunew/gongsijianjie/index.shtml#cctvpage1)
+- [象舞广告](https://www.cmgadx.com/)
+- [网站声明](https://www.cctv.com/special/guanyunew/gongsijianjie/index.shtml#wzsm)
+
+业务概况
+
+- [央视网](https://www.cctv.com/special/guanyunew/gongsijianjie/index.shtml#ywtx)
+- [互联网电视](https://www.chinaott.com/?spm=C96370.PFsYCmOjDARN.E3TwkpSyqPF4.2)
+- [央视影音](https://app.cctv.com/index.shtml?spm=C96370.PFsYCmOjDARN.E3TwkpSyqPF4.1#page5)
+- [手机电视](https://www.cctv4g.com/cctv4gcms/jsp/view/neirong.jsp?spm=C96370.PFsYCmOjDARN.E3TwkpSyqPF4.4&file=neirong.jsp)
+- [移动传媒](https://www.cctv.com/special/guanyunew/PAGE13818868795101874/index.shtml)
+- [帮助中心](https://help.cctv.com/?spm=C96370.PPDB2vhvSivD.E0NoLLx8hyIZ.6)
+
+更多链接
+
+- [网上有害信息举报专区](https://www.12377.cn/)
+- [辟谣平台](https://www.piyao.org.cn/)
+- [法律顾问](https://www.cctv.com/special/guanyunew/PAGE13818868795101879/index.shtml)
+- [望海热线](https://www.cctv.com/special/guanyunew/jianjiePAGEQezAEWqHSGGmjjQL6s0V231214/index.shtml)
+- [人才招聘](http://career.cntv.cn/)
+
+![](https://p3.img.cctvpic.com/photoAlbum/templet/special/PAGEGRxiNJPvYdSJnYUJ1wij201216/ELMTum7xhpp8Jq8e03jIoqYK210913_1631502853.png)
+
+- [关于我们](https://aigc.cctv.com/about/index.shtml)
+- [智媒学院](https://aigc.cctv.com/college/index.shtml)
+- [成果发布](https://aigc.cctv.com/achievements/index.shtml)
+- [智慧媒体](https://aigc.cctv.com/industry/zhmt/index.shtml)
+- [智慧政务](https://aigc.cctv.com/industry/zhzw/index.shtml)
+- [智慧教育](https://aigc.cctv.com/industry/zhjy/index.shtml)
+
+[合作咨询 >](https://aigc.cctv.com/contact/index.shtml)
+
+[互联网新闻信息服务许可证10120170003](https://p2.img.cctvpic.com/uploadimg/2026/09/30/1790750613031559.jpg)  网上传播视听节目许可证号0102002 新出网证（京）字098号  [违法和不良信息举报电话:010-88427865](https://help.cctv.com/2020/03/11/ARTI2EZRxlz2vUYrpi2B86VV200311.shtml)
+
+[京ICP证060535号](https://beian.miit.gov.cn/) [京ICP备06036302号-2](https://beian.miit.gov.cn/) [京ICP备10003349号](https://beian.miit.gov.cn/) [京ICP备10003349号-1](https://beian.miit.gov.cn/) [![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2020/11/13/1605265483789_608.png)京公网安备 11010802049998号](https://beian.mps.gov.cn/#/query/webSearch?code=11010802049998)  京网文〔2024〕4690-222号
+
+![](https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/1/19/1642605651547_516.gif)![](https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2020/11/13/1605265582599_132.jpg)网络110
+
+报警服务
+
+中央广播电视总台  央视网  版权所有

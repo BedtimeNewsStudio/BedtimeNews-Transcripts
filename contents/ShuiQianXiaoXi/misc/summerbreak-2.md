@@ -134,9 +134,9 @@
 
 ### 事实订正
 
-- 应为「养鸽」：《天空之城》中巴鲁照料鸽子（吉卜力资料库：he takes care of several pigeons），片中无养猪情节；此处为巴鲁技能描述。已订正。（来源：[ghibli.fandom.com](https://ghibli.fandom.com/wiki/Castle_in_the_Sky)）
+- 应为「养鸽」：《天空之城》中巴鲁照料鸽子（吉卜力资料库：he takes care of several pigeons），片中无养猪情节；此处为巴鲁技能描述。已订正。（来源：[ghibli.fandom.com](https://ghibli.fandom.com/wiki/Castle_in_the_Sky) | [快照](../../../snapshots/6d/6d90749c1e3b.md)）
 - 「不太在意身边破旧的小店建筑」的「小店」是否应为「小镇」。
 
 ### 已核对
 
-- 片名与史实核对：文稿称 6月1日重映、距 1992 年中国首映 31 年，与事实一致。来源：[人民网上海频道：6月1日《天空之城》将在国内上映全新修复版本](http://sh.people.com.cn/BIG5/n2/2023/0522/c350122-40426251.html)、[中文维基百科·天空之城](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E)（1992年5月1日大陆译制引进、2023年6月1日重映）。
+- 片名与史实核对：文稿称 6月1日重映、距 1992 年中国首映 31 年，与事实一致。来源：[人民网上海频道：6月1日《天空之城》将在国内上映全新修复版本](http://sh.people.com.cn/BIG5/n2/2023/0522/c350122-40426251.html) | [快照](../../../snapshots/9a/9ad4faf09f88.md)、[中文维基百科·天空之城](https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E) | [快照](../../../snapshots/98/985a089a7e44.md)（1992年5月1日大陆译制引进、2023年6月1日重映）。

@@ -68,12 +68,12 @@
 
 ### 事实订正
 
-- OICA统计泰国2022年汽车产量为1,883,517辆，全球排名第10；正文所列188万辆与统计数字相符。[OICA泰国2022年产量数据](https://oica.net/production_statistic/thailand-2022)
-- 「直选议席甚至只少了一个」→「直选议席甚至一个不少」（2023 年泰国大选：远进党选区议席 112 席、为泰党 112 席，完全持平而非差一席，来源：英国议会下院图书馆简报 [Work of the Council of Europe](https://commonslibrary.parliament.uk/research-briefings/cdp-2023-0119/) 、Asia Maior 年鉴）
+- OICA统计泰国2022年汽车产量为1,883,517辆，全球排名第10；正文所列188万辆与统计数字相符。[OICA泰国2022年产量数据](https://oica.net/production_statistic/thailand-2022) | [快照](../../../snapshots/1f/1f0f5fca57cc.md)
+- 「直选议席甚至只少了一个」→「直选议席甚至一个不少」（2023 年泰国大选：远进党选区议席 112 席、为泰党 112 席，完全持平而非差一席，来源：英国议会下院图书馆简报 [Work of the Council of Europe](https://commonslibrary.parliament.uk/research-briefings/cdp-2023-0119/) | [快照](../../../snapshots/39/3924b1f84396.md) 、Asia Maior 年鉴）
 
 ### 已核对
 
 - 三菱汽车于2022年末宣布在泰国累计出口500万辆；比亚迪于2022年9月宣布投资约179亿泰铢在泰建厂；泰国2022年国内汽车销量约85万辆；2011年泰国洪灾扰乱全球硬盘供应，中国人均GDP当年超过泰国。
-- 巴育2010年10月至2014年10月任泰国皇家陆军总司令，2014年5月以该职发动政变。来源：[巴育·占奥差](https://zh.wikipedia.org/zh-hans/%E5%B7%B4%E8%82%B2%C2%B7%E5%8D%A0%E5%A5%A5%E5%B7%AE)
-- 确系节目口径：IMF当年估算口径下泰国2022年人均GDP约7600-7800美元、排名88上下可对上；但IMF/世界银行最终现价美元口径为约6910美元（世界银行），不同时点与机构差异明显，无法锁定第88名的唯一出处，照录。（来源：[data.worldbank.org.cn](https://data.worldbank.org.cn/indicator/NY.GDP.PCAP.CD?locations=TH)）
+- 巴育2010年10月至2014年10月任泰国皇家陆军总司令，2014年5月以该职发动政变。来源：[巴育·占奥差](https://zh.wikipedia.org/zh-hans/%E5%B7%B4%E8%82%B2%C2%B7%E5%8D%A0%E5%A5%A5%E5%B7%AE) | [快照](../../../snapshots/b7/b707ef57ce0f.md)
+- 确系节目口径：IMF当年估算口径下泰国2022年人均GDP约7600-7800美元、排名88上下可对上；但IMF/世界银行最终现价美元口径为约6910美元（世界银行），不同时点与机构差异明显，无法锁定第88名的唯一出处，照录。（来源：[data.worldbank.org.cn](https://data.worldbank.org.cn/indicator/NY.GDP.PCAP.CD?locations=TH) | [快照](../../../snapshots/cf/cf4a2b89a15d.md)）
 

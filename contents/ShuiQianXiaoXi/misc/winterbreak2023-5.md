@@ -40,4 +40,4 @@
 
 ### 已核对
 
-- 汉谟拉比法典第22条规定拦路抢劫者处死；第23条规定，强盗未获时由城或区长按失主宣誓的失物清单赔偿；第24条规定，若有人命丧失，城或区长向死者家属赔偿一弥那白银。（来源：[汉谟拉比法典 John 英译本](https://oll.libertyfund.org/pages/1750-the-code-of-hammurabi-johns-translation)）
+- 汉谟拉比法典第22条规定拦路抢劫者处死；第23条规定，强盗未获时由城或区长按失主宣誓的失物清单赔偿；第24条规定，若有人命丧失，城或区长向死者家属赔偿一弥那白银。（来源：[汉谟拉比法典 John 英译本](https://oll.libertyfund.org/pages/1750-the-code-of-hammurabi-johns-translation) | [快照](../../../snapshots/da/da606d427f5c.md)）

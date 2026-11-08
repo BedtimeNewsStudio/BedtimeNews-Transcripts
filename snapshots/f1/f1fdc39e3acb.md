@@ -497,7 +497,7 @@ Later that day, after 4:00 p.m., social media platforms were also [unblocked](ht
 
 **Table: A summary of the key findings**
 
-|     |     |
+|  |  |
 | --- | --- |
 | [![WhatsApp screenshot with instructions from BTRC](https://ooni.org/post/2025-bangladesh-report/images/image1_hu_20ba33bbdf262952.png)](https://ooni.org/post/2025-bangladesh-report/images/image1.png) | [![WhatsApp screenshot with instructions from BTRC](https://ooni.org/post/2025-bangladesh-report/images/image22_hu_c183d37da22cace6.png)](https://ooni.org/post/2025-bangladesh-report/images/image22.png) |
 

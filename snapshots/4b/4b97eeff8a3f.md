@@ -1,0 +1,341 @@
+---
+source_url: "https://www.chinanews.com.cn/cj/2022/03-17/9705024.shtml"
+captured_at: 2026-11-08T15:18:35Z
+title: "新疆兴起大型货运无人机跨区配送业务 物流运输“提速增效”-中新网"
+tool: firecrawl
+---
+
+> **网页快照**：2026-11-08 15:18 UTC 抓取自 [原始页面](https://www.chinanews.com.cn/cj/2022/03-17/9705024.shtml)（工具：firecrawl）。
+
+# 新疆兴起大型货运无人机跨区配送业务 物流运输“提速增效”-中新网
+
+[首页](https://www.chinanews.com.cn/) [滚动](https://www.chinanews.com.cn/scroll-news/news1.html) [时政](https://www.chinanews.com.cn/china/) [东西问](https://www.chinanews.com.cn/dxw/) [国际](https://www.chinanews.com.cn/world/) [社会](https://www.chinanews.com.cn/society/) [财经](https://www.chinanews.com.cn/finance/) [港澳](https://channel.chinanews.com/u/dwq-ga.shtml)
+
+[金融](https://channel.chinanews.com/cns/cl/cj-fortune.shtml) [台湾](https://channel.chinanews.com/u/gn-la.shtml) [华人](https://www.chinanews.com.cn/huaren/) [文娱](https://www.chinanews.com.cn/wy/) [体育](https://www.chinanews.com.cn/sports/index.shtml) [English](https://www.ecns.cn/) [侨网](https://www.chinaqw.com/) [视频](https://www.chinanews.com.cn/shipin/) [经纬](https://www.jwview.com/) [国是](https://www.chinanews.com.cn/gsztc/) [图片](https://www.chinanews.com.cn/photo/) [直播](https://www.chinanews.com.cn/live.shtml) [理论](https://www.chinanews.com.cn/theory/) [生活](https://www.chinanews.com.cn/life/) [汽车](https://channel.chinanews.com/cns/cl/cj-auto.shtml) [专题](https://www.chinanews.com.cn/allspecial/index.shtml) [新媒体](https://m.chinanews.com/)
+
+中 新百 度
+
+[移动版](https://www.chinanews.com.cn/m/home/) [客户端](https://www.chinanews.com.cn/app/chinanews/index.shtml) [微信](https://www.chinanews.com.cn/cns2012.shtml)
+
+微博
+
+- [中新网 _新浪_ 法人微博](http://weibo.com/chinanewsv)
+- [中新社 _新浪_ 法人微博](http://weibo.com/u/3604378011)
+
+[English](http://www.ecns.cn/)
+
+[![中国新闻网](https://www.chinanews.com.cn/fileftp/2020/03/2020-03-11/U719P4T47D46411F24532DT20200311090628.png)](https://www.chinanews.com.cn/)
+
+分享到：
+**微信扫一扫：分享**
+
+[![中国新闻网](https://www.chinanews.com.cn/fileftp/2020/03/2020-03-11/U719P4T47D46411F24532DT20200311090628.png)](https://www.chinanews.com.cn/)
+
+# 新疆兴起大型货运无人机跨区配送业务 物流运输“提速增效”
+
+分享到：
+**微信扫一扫：分享**
+
+[首页](https://www.chinanews.com.cn/) → [财经中心](https://www.chinanews.com.cn/finance/) → [财经频道](https://www.chinanews.com.cn/finance/)
+
+字号：
+
+小中大
+
+# 新疆兴起大型货运无人机跨区配送业务 物流运输“提速增效”
+
+2022-03-17 21:14:26来源： [中国新闻网](http://www.chinanews.com.cn/cj/2022/03-17/9705024.shtml)作者：刘欢责任编辑：刘欢
+
+2022年03月17日 21:14　来源： [中国新闻网](https://www.chinanews.com.cn/) [![参与互动](https://www.chinanews.com.cn/fileftp/2019/08/2019-08-19/U719P4T47D44991F24534DT20190819170959.jpg)参与互动](#zw_cyhd)
+
+![新疆兴起大型货运无人机跨区配送业务物流运输“提速增效”](http://i2.chinanews.com.cn/simg/ypt/2022/220317/95a82f99-f77c-4c6c-a992-11ef119018bf_zsite.jpg)
+
+    目前当地已开通3条大型货运无人机专用航线。　杨丽娜　摄
+
+[中新网](https://www.chinanews.com.cn/) 乌鲁木齐3月17日电 (戚亚平 杨丽娜)随着新疆生产建设兵团多条大型货运无人机专用航线的开通，部分城市间常态化大型货运无人机跨地区物流配送业务正在兴起，货物配送慢、邮费贵等问题得到有效改善。大型货运无人机就如同“空中驼队”，成打通新疆航空物流运输的新通道，实现物流货运“当日送”，让物流运输“提速增效”。
+
+位于新疆兵团第二师铁门关市三十团双丰镇的铁门关市昆仑通用航空有限公司(以下简称铁门关市昆仑通航)，是新疆目前唯一开展无人机货运运输的企业，现已开通铁门关市-阿拉尔市、阿拉尔市-图木舒克市、铁门关市-图木舒克市3条航线。
+
+“公司现有8架鸿雁无人机投入运行，与中通、京东合作开展快递物流业务，从2021年7月投入运行以来，共计飞行三十余架次，约六十多个小时。”17日，铁门关市昆仑通航副总经理李卫星说，平均下来一周一到两次，后面会逐渐加快。
+
+新疆辽阔的地域让城市间距离远，一些偏远地区物流运输不便、运输效能低下、运输成本高。2018年，新疆兵团通过招商引进科技企业四川天域航通科技有限公司，开展大型货运无人机物流配送项目试验。全资子公司铁门关市昆仑通航2019年9月成立，主要从事民营航空器研发生产、销售、技术推广及技术服务、民用航空器租赁和物流服务。
+
+![技术人员对大型货运无人机进行例行检查，确保每次航行都能安全顺利进行。　杨丽娜 摄](http://i2.chinanews.com.cn/simg/ypt/2022/220317/82f1d994-9d72-443c-859a-8bd56652da5c_zsite.jpg)
+
+技术人员对大型货运无人机进行例行检查，确保每次航行都能安全顺利进行。　杨丽娜 摄
+
+历经几年试验，2021年7月16日，铁门关市昆仑通航在三十团双丰通用机场，正式开通铁门关市-阿拉尔市之间常态化大型货运无人机跨地区物流配送业务，实现区域内货物当日送达。
+
+这是中国第一条常态化大型货运无人机专用航线，航线所用的大型货运无人机由该企业自主研发设计，具备载重量大、运输效率高等优势，与传统空运相比，成本可降低30%。
+
+“我们的无人机从铁门关市到阿拉尔市单次仅需两个半小时，低廉的成本，高效、便捷和广域覆盖的运输服务，打开了新疆物流运输业的新场景，提升了新疆整体物流水平。”李卫星说。
+
+大型货运无人机的应用，不仅打通了新疆航空物流运输的新通道，也提高了货物运输效率，成倍缩短了运输时间，为当地日渐增长的生鲜农副产品等货品运输提供了安全、可靠、便捷的航空运输服务，也使当地民众快速获得所需物资。
+
+据悉，该企业生产的大型货运无人机每架单次载重量1.5吨，巡航速度为160公里/小时至200公里/小时，巡航距离1000余公里。每次飞行时，先装好货物，通过电脑操作选择当次飞行任务(航线)，起动飞机后自动滑行到跑道准备，再一键起飞，自动飞行到目的地机场停下，卸货。
+
+李卫星称，这款无人机，能够实现全天候自助飞行，还具备短距起降、远程指令控制等特性，可以在未铺筑的简易跑道甚至是土坡、草地上完成起降，是非常适用于新疆区域的一款机型。
+
+目前，新疆兵团已建成2座民用运输机场、10座通用机场和53个起降点，发展通航产业基础良好。大型货运无人机专用航线的开通，也为国内无人机物流运输业发展提供了经验。
+
+随着无人机产业的快速发展，近年来，新疆兵团各大职业院校相继开设无人机相关专业，培养所需人才。(完)
+
+|  |
+| --- |
+|  |
+
+【编辑:刘欢】
+
+[更多精彩内容请进入财经频道](https://www.chinanews.com.cn/finance/)
+
+#### 经济新闻精选：
+
+- [![](https://www.chinanews.com.cn/cj/2026/11-06/U886P4T8D10727161F19930DT20261106120044.png)](https://www.chinanews.com.cn/cj/2026/11-06/10727161.shtml)
+
+_[规范机票退改签！京津冀三地消协组织敦促10家航司、5家平台限期整改](https://www.chinanews.com.cn/cj/2026/11-06/10727161.shtml)_
+
+2026年11月06日 12:00:31
+
+- [![](https://i2.chinanews.com.cn/simg/ypt/2026/261106/ae8e145b-b5eb-4796-86b6-06be72751b68_700x1000_zsite_sl.JPG)](https://www.chinanews.com.cn/cj/2026/11-06/10727159.shtml)
+
+_[新疆石河子：第三届低空产业创新发展大会举办](https://www.chinanews.com.cn/cj/2026/11-06/10727159.shtml)_
+
+2026年11月06日 11:37:54
+
+- [![](https://i2.chinanews.com.cn/simg/ypt/2026/261106/d9f0a798-2b4e-486a-a93a-62a02f6e478b_700x1000_zsite_sl.jpeg)](https://www.chinanews.com.cn/cj/2026/11-06/10727156.shtml)
+
+_[第六届中国新疆特色林果产品博览会参展企业270余家](https://www.chinanews.com.cn/cj/2026/11-06/10727156.shtml)_
+
+2026年11月06日 11:34:34
+
+- [![](https://i2.chinanews.com.cn/simg/ypt/2026/261105/4e039f01-f8ca-44c9-96d1-d2c401f35b0b_700x1000_zsite_sl.jpg)](https://www.chinanews.com.cn/cj/2026/11-05/10726513.shtml)
+
+_[AI浪潮下的乌镇之问：如何重新定义人与智能的边界？](https://www.chinanews.com.cn/cj/2026/11-05/10726513.shtml)_
+
+2026年11月05日 12:07:57
+
+- [![](https://www.chinanews.com.cn/cj/2026/10-30/U1113P4T8D10723319F19930DT20261030144425.png)](https://www.chinanews.com.cn/cj/2026/10-30/10723319.shtml)
+
+_[“智慧大脑”赋能物流枢纽 邮路跑出降本增效加速度](https://www.chinanews.com.cn/cj/2026/10-30/10723319.shtml)_
+
+2026年10月30日 14:44:25
+
+- [![](https://i2.chinanews.com.cn/simg/ypt/2026/261030/a682de9a-1cd4-4163-b2ec-43dcaef8bf57_700x1000_zsite_sl.jpg)](https://www.chinanews.com.cn/cj/2026/10-30/10723254.shtml)
+
+_[“闽南文化·科技·基金”创新会在福建晋江举行](https://www.chinanews.com.cn/cj/2026/10-30/10723254.shtml)_
+
+2026年10月30日 13:20:55
+
+- [![](https://www.chinanews.com.cn/cj/2026/10-30/U1124P4T8D10723232F19930DT20261030114301.png)](https://www.chinanews.com.cn/cj/2026/10-30/10723232.shtml)
+
+_[今年前9个月我国进出口食品同比增长4.1%](https://www.chinanews.com.cn/cj/2026/10-30/10723232.shtml)_
+
+2026年10月30日 11:43:01
+
+- [![](https://i2.chinanews.com.cn/simg/ypt/2026/261030/f7135f32-5e27-492e-a699-104a1e50b567_700x1000_zsite_sl.jpg)](https://www.chinanews.com.cn/cj/2026/10-30/10723157.shtml)
+
+_[（经济观察）重庆开州如何以“乡愁”重塑民营经济版图？](https://www.chinanews.com.cn/cj/2026/10-30/10723157.shtml)_
+
+2026年10月30日 10:18:31
+
+- [![](https://www.chinanews.com.cn/cj/2026/10-30/U1113P4T8D10723135F19930DT20261030094851.png)](https://www.chinanews.com.cn/cj/2026/10-30/10723135.shtml)
+
+_[海南自贸港再迎政策支持 16条举措助力发展→](https://www.chinanews.com.cn/cj/2026/10-30/10723135.shtml)_
+
+2026年10月30日 09:48:51
+
+- [![](https://www.chinanews.com.cn/cj/2026/10-27/U1120P4T8D10721732F19930DT20261027165549.png)](https://www.chinanews.com.cn/cj/2026/10-27/10721732.shtml)
+
+_[前三季度我国交通运输主要指标保持增长](https://www.chinanews.com.cn/cj/2026/10-27/10721732.shtml)_
+
+2026年10月27日 16:55:49
+
+[推荐阅读](https://www.chinanews.com.cn/news/tjyd/more_1.shtml)
+
+- [![](https://www.chinanews.com.cn/sh/2026/11-08/U397P4T8D10728468F19930DT20261108192457.jpg)\\
+\\
+刷到停不下来但感觉“脑子变笨”：AI短剧“勾”住你了吗？](https://www.chinanews.com.cn/sh/2026/11-08/10728468.shtml)
+
+[![](https://www.chinanews.com.cn/cj/2026/11-08/U397P4T8D10728432F19930DT20261108181400.jpg)\\
+\\
+AI短剧的狂飙与“下一站”](https://www.chinanews.com.cn/cj/2026/11-08/10728432.shtml)
+
+[![](https://www.chinanews.com.cn/ty/2026/11-08/U397P4T8D10728416F19930DT20261108171552.jpg)\\
+\\
+法兰克福无四强，国乒莫让“学费”白交](https://www.chinanews.com.cn/ty/2026/11-08/10728416.shtml)
+
+[![](http://i2.chinanews.com.cn/simg/ypt/2026/261108/f3a00c15-2fbd-4ae7-a027-7f9aff6c71ef_700x1000_zsite_sl.jpg)\\
+\\
+送外卖、写6000首诗、获鲁迅文学奖：王计兵讲述他的文学人生](https://www.chinanews.com.cn/sh/2026/11-08/10728241.shtml)
+
+- [![](https://www.chinanews.com.cn/gn/2026/11-08/U1119P4T8D10728237F19930DT20261108093310.png)\\
+\\
+“航母五件套”未来还可能升级！专家解读“5+X”新模式](https://www.chinanews.com.cn/gn/2026/11-08/10728237.shtml)
+
+[![](https://www.chinanews.com.cn/gn/2026/11-08/U1119P4T8D10728236F19930DT20261108092038.png)\\
+\\
+国际酒店“集体抢滩”新疆](https://www.chinanews.com.cn/gn/2026/11-08/10728236.shtml)
+
+[![](http://i2.chinanews.com.cn/simg/ypt/2026/261107/16dd7b1c-3ed1-40e2-a04e-69f19d0f074b_700x1000_zsite_sl.jpg)\\
+\\
+中国第43次南极考察队从三亚启航](https://www.chinanews.com.cn/sh/2026/11-07/10727848.shtml)
+
+[![](https://image.chinanews.com/cspimp/2026/11-07/5cb299dc-80db-442a-a9fa-37533dcc8a83.JPG)\\
+\\
+大力推进科技创新 加快发展新质生产力](https://www.chinanews.com.cn/cj/2026/11-07/10727836.shtml)
+
+- [![](https://www.chinanews.com.cn/dxw/2026/11-06/U1119P4T8D10727368F19930DT20261106173148.png)\\
+\\
+上海为何要抢这张未来产业门票？](https://www.chinanews.com.cn/dxw/2026/11-06/10727368.shtml)
+
+[![](http://i2.chinanews.com.cn/simg/ypt/2026/261105/fb87858a-9c98-499e-90f8-118738bf579f_700x1000_zsite_sl.jpeg)\\
+\\
+永子第十二代传人：围棋何以成为无声的文明对话使者？](https://www.chinanews.com.cn/dxw/2026/11-05/10726649.shtml)
+
+[![](https://image.chinanews.com/cspimp/2026/11-03/e024621e-9e1c-44fa-81a9-30077fa293bf.JPG)\\
+\\
+散瞳验光会伤孩子眼睛？](https://www.chinanews.com.cn/sh/2026/11-05/10726609.shtml)
+
+[![](https://www.chinanews.com.cn/dxw/2026/11-05/U440P4T8D10726579F19930DT20261105143917.png)\\
+\\
+微短剧有了专属英文名，现在全世界开始说“duanju”](https://www.chinanews.com.cn/dxw/2026/11-05/10726579.shtml)
+
+- [![](https://image.chinanews.com/cspimp/2026/11-04/168570d8-e468-4b6e-a59b-a08dbc8f2113.JPG)\\
+\\
+中新网评：别把国乒热度做成假直播生意](https://www.chinanews.com.cn/cj/2026/11-05/10726554.shtml)
+
+[![](https://image.chinanews.com/cspimp/2026/11-05/f971ce02-4ff0-445a-ac3e-df351e36c77f.JPG)\\
+\\
+《VIVANT》，好一出“颠倒剧”｜真相](https://www.chinanews.com.cn/chuangyi/2026/11-05/10726429.shtml)
+
+[![](https://www.chinanews.com.cn/cj/2026/11-04/U892P4T8D10726090F19930DT20261106103629.png)\\
+\\
+资本市场政策加力稳预期](https://www.chinanews.com.cn/cj/2026/11-04/10726090.shtml)
+
+[![](https://www.chinanews.com.cn/dxw/2026/11-04/U1001P4T8D10725988F19930DT20261104152539.png)\\
+\\
+传统医学如何铺就“一带一路”民心相通之路？](https://www.chinanews.com.cn/dxw/2026/11-04/10725988.shtml)
+
+- [![](http://i2.chinanews.com.cn/simg/ypt/2026/261104/78af8085-6a6a-4177-a5a9-b2b4c58f539e_700x1000_zsite_sl.jpg)\\
+\\
+西海固那个曾经最穷的村，如今把日子过成了诗](https://www.chinanews.com.cn/sh/2026/11-04/10725981.shtml)
+
+[![](https://www.chinanews.com.cn/sh/2026/11-04/U397P4T8D10725951F19930DT20261104143858.png)\\
+\\
+从手搓榫卯到慢写信笺 中国年轻人兴起“情绪消费”](https://www.chinanews.com.cn/sh/2026/11-04/10725951.shtml)
+
+[![](https://image.chinanews.com/cspimp/2026/10-27/ac9d979a-18d3-4ada-b4e4-7596da722fa6.JPG)\\
+\\
+三年赚一百万？记者卧底调查多款护眼膏营销乱象](https://www.chinanews.com.cn/cj/2026/11-04/10725918.shtml)
+
+[![](https://www.chinanews.com.cn/sh/2026/11-04/U1124P4T8D10725748F19930DT20261104091427.png)\\
+\\
+人这一辈子，一定要在冬天来一次敦煌！](https://www.chinanews.com.cn/sh/2026/11-04/10725748.shtml)
+
+[热点视频](https://www.chinanews.com.cn/shipin/scroll/spjx/index.shtml)
+
+奇闻趣事
+
+[![](https://i9.cnsimg.net/app/cspvarlib/2026/11-08/pqsvekye.jpg)](https://www.chinanews.com.cn/shipin/2026/11-08/news1074250.shtml)
+[北京香山香炉峰白雪皑皑 游客踏雪赏“西山晴雪”](https://www.chinanews.com.cn/shipin/2026/11-08/news1074250.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/11/08/chinanews/MEIZI_YUNSHI/uploadImage/6af0239fec0e26145c651c8a_small.jpg)](https://www.chinanews.com.cn/shipin/cns-d/2026/11-08/news1074248.shtml)
+[北京门头沟深山现雾凇奇观](https://www.chinanews.com.cn/shipin/cns-d/2026/11-08/news1074248.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/11/08/chinanews/MEIZI_YUNSHI/uploadImage/6aefbbc8ec0e26145c651436_small.jpg)](https://www.chinanews.com.cn/shipin/cns-d/2026/11-08/news1074235.shtml)
+[上海吴淞口国际邮轮港首次迎来国产大型邮轮“双船同靠”](https://www.chinanews.com.cn/shipin/cns-d/2026/11-08/news1074235.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/11/08/chinanews/MEIZI_YUNSHI/uploadImage/6aeeeeffec0e26145c651077_small.jpg)](https://www.chinanews.com.cn/ty/shipin/cns-d/2026/11-08/news1074239.shtml)
+[新疆足球少年：想进国家队，为国争光](https://www.chinanews.com.cn/ty/shipin/cns-d/2026/11-08/news1074239.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/11/08/chinanews/MEIZI_YUNSHI/uploadImage/6aefb23aec0e26145c651414_small.jpg)](https://www.chinanews.com.cn/shipin/cns-d/2026/11-08/news1074219.shtml)
+[五台山秒变银装素裹的水墨长卷](https://www.chinanews.com.cn/shipin/cns-d/2026/11-08/news1074219.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/11/08/chinanews/MEIZI_YUNSHI/uploadImage/6aeef257ec0e26145c651089_small.jpg)](https://www.chinanews.com.cn/shipin/cns/2026/11-08/news1074212.shtml)
+[东京审判开庭80周年 梅汝璈子女回南昌故居追忆父亲](https://www.chinanews.com.cn/shipin/cns/2026/11-08/news1074212.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/11/06/chinanews/MEIZI_YUNSHI/uploadImage/6aed82f173b2110f206dfd4c_small.jpg)](https://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-08/news1074209.shtml)
+[第27个记者节 我们在路上](https://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-08/news1074209.shtml)
+
+[![](https://image.chinanews.com/globsme/2026/11-06/c29a5880-3d0d-4279-8b0e-422781b6e4c4_small.jpg)](https://www.chinanews.com.cn/shipin/2026/11-06/news1074056.shtml)
+[新疆伊宁：牧民骑马撞车扬长而去 交警查实依法严肃处理](https://www.chinanews.com.cn/shipin/2026/11-06/news1074056.shtml)
+
+[![](https://i9.cnsimg.net/app/cspvarlib/2026/11-08/pqperytu.jpg)](https://www.chinanews.com.cn/shipin/2026/11-08/news1074232.shtml)
+[女子伤心流泪 小狗发现异常后全都起身围了上来](https://www.chinanews.com.cn/shipin/2026/11-08/news1074232.shtml)
+
+[![](https://i9.cnsimg.net/app/cspvarlib/2026/11-06/pjr6w6m5.jpg)](https://www.chinanews.com.cn/sh/shipin/2026/11-07/news1074136.shtml)
+[大学生阴差阳错踢出神奇一幕，全场沸腾！](https://www.chinanews.com.cn/sh/shipin/2026/11-07/news1074136.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/11/04/chinanews/MEIZI_YUNSHI/uploadImage/6aeaa76478f2f21b857ff43a_small.jpg)](https://www.chinanews.com.cn/shipin/cns-d/2026/11-04/news1073795.shtml)
+[珲春一参地小屋一夜迎“四虎登门”](https://www.chinanews.com.cn/shipin/cns-d/2026/11-04/news1073795.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/11/04/chinanews/MEIZI_YUNSHI/uploadImage/6aea982a78f2f21b857ff3e4_small.jpg)](https://www.chinanews.com.cn/shipin/cns-d/2026/11-04/news1073796.shtml)
+[在酒店上大学是什么样的体验？](https://www.chinanews.com.cn/shipin/cns-d/2026/11-04/news1073796.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/11/04/chinanews/MEIZI_YUNSHI/uploadImage/6ae9d43e2cfdcd71384eb520_small.jpg)](https://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-04/news1073775.shtml)
+[路口多了个会“唠嗑”的机器人](https://www.chinanews.com.cn/sh/shipin/cns-d/2026/11-04/news1073775.shtml)
+
+[![](https://poss-videocloud.cns.com.cn/oss/2026/10/21/chinanews/MEIZI_YUNSHI/uploadImage/6ad824702093cc690e58f3c8_small.jpg)](https://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-21/news1072541.shtml)
+[云南镇沅：国家一级保护野生动物西黑冠长臂猿近距离现身观景点](https://www.chinanews.com.cn/sh/shipin/cns-d/2026/10-21/news1072541.shtml)
+
+[![](https://i9.cnsimg.net/app/cspvarlib/2026/10-20/mxzbhk5m.jpg)](https://www.chinanews.com.cn/sh/shipin/2026/10-20/news1072437.shtml)
+[长江边上现巨型小狗？大自然真是鬼斧神工](https://www.chinanews.com.cn/sh/shipin/2026/10-20/news1072437.shtml)
+
+[![](https://i9.cnsimg.net/app/cspvarlib/2026/10-20/mxkud9cj.jpg)](https://www.chinanews.com.cn/shipin/2026/10-20/news1072408.shtml)
+[小车临停堵住摩友 民警1分钟“摇”到车主 见面先给了屁股一巴掌](https://www.chinanews.com.cn/shipin/2026/10-20/news1072408.shtml)
+
+[精彩直播](https://www.chinanews.com.cn/live.shtml)
+
+- [![](https://www.chinanews.com.cn/shipin/spfts/20261108/U1028P4T309D6794F23915DT20261108103543.jpg)](https://www.chinanews.com.cn/shipin/spfts/20261108/6794.shtml)
+
+[第十三届“好记者讲好故事”——2026中国记者节特别节目](https://www.chinanews.com.cn/shipin/spfts/20261108/6794.shtml)
+
+- [![](https://www.chinanews.com.cn/shipin/spfts/20261107/U1080P4T309D6793F23915DT20261107203253.jpg)](https://www.chinanews.com.cn/shipin/spfts/20261107/6793.shtml)
+
+[香迷糊了！记者在进博会上赶美食大集](https://www.chinanews.com.cn/shipin/spfts/20261107/6793.shtml)
+
+- [![](https://www.chinanews.com.cn/shipin/spfts/20261107/U1111P4T309D6792F23915DT20261107031201.jpg)](https://www.chinanews.com.cn/shipin/spfts/20261107/6792.shtml)
+
+[谁是舞王？国际街舞联赛全球总决赛热血开跳](https://www.chinanews.com.cn/shipin/spfts/20261107/6792.shtml)
+
+[热门图片](https://www.chinanews.com.cn/photo/index.shtml)
+
+[专题图片](https://www.chinanews.com.cn/photo/tj.html)
+
+|  |  |
+| --- | --- |
+| [![](https://www.chinanews.com.cn/2026/11-08/U574P4T8D10728510F5012DT20261108204550.jpg)](https://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210273.shtml)<br>[大连英博获2026赛季中](https://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210273.shtml) | [![](https://www.chinanews.com.cn/2026/11-08/U574P4T8D10728442F5012DT20261108183732.jpg)](https://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210234.shtml)<br>[金山岭长城迎降雪 银](https://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210234.shtml) |
+| [![](https://www.chinanews.com.cn/tp/2026/11-08/U574P4T8D10728389F5012DT20261108165617.jpg)](https://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210213.shtml)<br>[第九届进博会迎来社会](https://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210213.shtml) | [![](https://www.chinanews.com.cn/2026/11-08/U574P4T8D10728358F5012DT20261108153225.jpg)](https://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210208.shtml)<br>[12分10板 杨瀚森拿下](https://www.chinanews.com.cn/tp/hd2011/2026/11-08/1210208.shtml) |
+
+|  |
+| --- |
+|  |
+
+新闻排行
+
+- [酣畅淋漓！U23国足3比0击败越南队，将与日...](https://www.chinanews.com.cn/ty/2026/01-21/10555798.shtml "酣畅淋漓！U23国足3比0击败越南队，将与日本队争冠")
+- [U23国足再创历史闯入亚洲杯决赛](https://www.chinanews.com.cn/ty/2026/01-21/10555797.shtml "U23国足再创历史闯入亚洲杯决赛")
+- [再创历史！中国队3∶0击败越南队闯入U23亚...](https://www.chinanews.com.cn/tp/hd2011/2026/01-21/1179115.shtml "再创历史！中国队3∶0击败越南队闯入U23亚洲杯决赛")
+- [教育家精神万里行｜吴凯：以热爱为底色 以坚守...](https://www.chinanews.com.cn/edu/2026/01-21/10555796.shtml "教育家精神万里行｜吴凯：以热爱为底色 以坚守筑初心")
+- [三球完胜越南 中国首进U23男足亚洲杯决赛](https://www.chinanews.com.cn/ty/2026/01-21/10555824.shtml "三球完胜越南  中国首进U23男足亚洲杯决赛")
+- [超长春节假让众人羡慕的是什么？](https://www.chinanews.com.cn/sh/2026/01-21/10555799.shtml "超长春节假让众人羡慕的是什么？")
+- [中央气象台继续发布黄色预警 湘黔桂等地有雨雪...](https://www.chinanews.com.cn/sh/2026/01-21/10555828.shtml "中央气象台继续发布黄色预警 湘黔桂等地有雨雪冰冻天气")
+- [亮新招！“营商环境”成地方开年会议高频词](https://www.chinanews.com.cn/cj/2026/01-21/10555822.shtml "亮新招！“营商环境”成地方开年会议高频词")
+- [普华永道中国主席何睦宁：中国将继续为全球经济...](https://www.chinanews.com.cn/cj/2026/01-21/10555840.shtml "普华永道中国主席何睦宁：中国将继续为全球经济复苏提供有力支撑")
+- [1月21日人民币对美元中间价报7.0014元...](https://www.chinanews.com.cn/cj/2026/01-21/10555859.shtml "1月21日人民币对美元中间价报7.0014元 下调8个基点")
+
+[关于我们](https://www.chinanews.com.cn/common/footer/intro.shtml)　\| [About us](https://www.chinanews.com.cn/common/footer/aboutus.shtml)　\|　[联系我们](https://www.chinanews.com.cn/common/footer/contact.shtml)　\|　[广告服务](http://ad.chinanews.com.cn/)　\|　[供稿服务](https://www.chinanews.com.cn/common/footer/news-service.shtml)　\|　[法律声明](https://www.chinanews.com.cn/common/footer/law.shtml)　\|　[招聘信息](https://www.chinanews.com.cn/hr/)　\|　[网站地图](https://www.chinanews.com.cn/common/footer/sitemap.shtml)
+
+\|　[留言反馈](http://feedback.chinanews.com/)
+
+本网站所刊载信息，不代表中新社和中新网观点。 刊用本网站稿件，务经书面授权。
+
+未经授权禁止转载、摘编、复制及建立镜像，违者将依法追究法律责任。
+
+\[ [网上传播视听节目许可证（0106168）](https://www.chinanews.com.cn/news/xuke.html)\] \[ [京ICP证040655号](http://www.miibeian.gov.cn/)\] \[京公网安备:110102003042-1\] \[ [京ICP备05004340号-1](http://www.miitbeian.gov.cn/)\] 总机：86-10-87826688
+
+Copyright ©1999-2026
+
+chinanews.com. All Rights Reserved
+
+![](https://www.chinanews.com.cn/fileftp/2019/08/2019-08-09/U435P4T47D44947F981DT20190809165005.jpg)

@@ -1,0 +1,514 @@
+---
+source_url: "https://finance.sina.cn/cj/2023-10-30/detail-imzswzyk3777636.d.html?vt=4"
+captured_at: 2026-11-08T14:18:18Z
+title: "起底世界500强正威：百亿项目撂荒 员工表演配合视察|王文银|房地产|长三角|凤凰网|地块_手机新浪网"
+tool: firecrawl
+---
+
+> **网页快照**：2026-11-08 14:18 UTC 抓取自 [原始页面](https://finance.sina.cn/cj/2023-10-30/detail-imzswzyk3777636.d.html?vt=4)（工具：firecrawl）。
+
+# 起底世界500强正威：百亿项目撂荒 员工表演配合视察|王文银|房地产|长三角|凤凰网|地块_手机新浪网
+
+[手机新浪网](https://sina.cn/?vt=4 "手机新浪网")
+
+## [新浪财经](https://finance.sina.cn/?vt=4 "新浪财经")
+
+[网站导航](https://sina.cn/Index/nav?vt=4 "网站导航")[](https://my.sina.cn/?vt=4 "")
+
+手机新浪网
+
+# 起底世界500强正威：百亿项目撂荒 员工表演配合视察
+
+_![](https://n.sinaimg.cn/sinakd10205/360/w180h180/20200407/e2e1-irtymmw7899406.jpg)_
+
+## 新浪财经头条
+
+2023.10.3021:25
+
+关注
+
+![](https://k.sinaimg.cn/n/spider20231030/107/w1024h683/20231030/c7e0-487124e50080a540c8a596220a32209b.jpg/w300h300z1l10t10q100f7e.jpg)
+
+来源：商业人物
+
+![](https://k.sinaimg.cn/n/spider20231030/107/w1024h683/20231030/c7e0-487124e50080a540c8a596220a32209b.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+核心提示：
+
+1 世界500强企业正威集团投资120亿在浙江平阳建设的产业园，两年后已然烂尾。其铜杆生产线始终没有投产，铜线与键合丝车间则仅投产了部分产能，长期缺乏订单，只有领导视察参观时，员工才假装生产。
+
+2 平阳县政府力促正威第一个厂房快速投产，相关领导纷纷升迁，然而，在疯狂的赶工要求下，出现“边设计图纸边施工”等现象，也给后期工程质量带来隐患。
+
+3 由于资金短缺、拖欠工程款，平阳项目只建好一个厂房，就陷入工程停滞。然而，在施工队罢工以后，还配合政府及正威集团虚报建筑施工产值3亿左右。
+
+4 正威集团在全国至少五十六个地方建设产业园，以低价拿地、使用土地厂房及设备抵押贷款，以及接收各地政府奖补的方式，玩“空手套白狼”的资本游戏。借助配套商业住宅用地涉足房地产的正威，遇上楼市冷周期，过去的模式玩不转了。
+
+5 目前，正威集团至少十个产业园项目先后陷入诉讼纠纷中。王文银正面临前所未有的资金困境，甚至向地方政府寻求纾困资金，正威许多园区已经开始“躺平”。
+
+2021年10月2日，温州市一个叫“平阳”的沿海小县城，天刚蒙蒙亮，三十余名员工赶到离县城16公里外的海西镇产业园内，为迎接要员的视察做准备。
+
+当年年初，这里引进了世界500强企业正威集团投资120亿建设千亩产业园——正威（平阳）长三角电子信息产业中心项目。在地方政府和正威集团的合力赶速下，仅用6个月的时间，这片荒凉的土地，拔起了一座8万平方米的工厂，但临到视察时，很多设备还未安装，内部空间也大多闲置。
+
+这里号称要打造世界产能第一的单晶纳米铜生产线。闲暇多日的员工们，终于派上用场。连日来，他们清扫道路，用隔离带围出一条观光车道。前几天，厂里刚从福建宁德、广东等正威产业园运过来数千吨的铜杆铜线，他们要将之规整地铺满整个大厅，还将几百吨刚买来的承力索摆放整齐，事实上，厂里连生产承力索的机器都没有，但这些细节并不会有人在意。
+
+![](https://k.sinaimg.cn/n/spider20231030/600/w360h240/20231030/6657-cdbf66851f1c74f9b2b04a5baa786c6e.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+2021年投产时，厂房内摆满铜杆
+
+硕大的车间只有三台像篮球架一样的铜线拉丝设备，虽然看似一切齐全，但是多位车间操作工一直到当天，才知道生产的具体是什么型号的产品。为了防止发生意外，他们当天提前半个小时熟悉了一下设备。
+
+不过，也不会有什么意外，正威集团董事局主席王文银陪同地方领导视察时，首先看到的是厂房琳琅满目的一盘盘铜杆，观光道硬是在摆放稀疏的铜杆区域，绕出了“女墙”凹凸状。
+
+当视察队伍走到机器设备区域时，只能看到有限的人员盯着机器，除了有人配合用叉车将一盘盘铜杆运送过来以外，鲜有人真正在工作。
+
+如果他们仔细些，会发现一些问题。譬如，当视察队伍停驻到设备前面时，有人专门向队伍讲解——刚刚在生产的，是我们从德国进口的尼霍夫设备，每天产量……我们生产出来的铜线是这样……我们的连铸连轧车间不久后也会投产，到时候会实现“铜杆-铜线”的一条龙生产线……
+
+实际上这些所谓的“德国进口”设备上都没有厂家认证的标签。项目前员工申凯雷告诉凤凰网《风暴眼》，这些设备，都是广东国产货，价格与进口货相比便宜了1000多万。因为时间太匆忙，他们还没来得及贴上尼霍夫的假标签。
+
+视察很快结束，参观队伍离开，要参加平阳县财政拨出100多万筹备的投产仪式。不过后续的热闹都跟车间无关了。
+
+员工们看到视察的车远去，都松了一口气，一场精心策划的表演圆满落幕。因为没有订单，有人立即关停机器，随后四散，各寻休憩，睡大觉或闲聊天。
+
+2021年10月投产至今，平阳正威长三角电子信息产业中心接待过多次不同规格的视察，有市、县一级的领导，也有来自贷款银行的人员，最忙碌时，一天能接待好几波。厂区员工的主要工作，变成了给视察的领导“演戏”。还有十余名“操作女工”，偶尔在无尘车间表演操作生产，大部分时间分散在厂区做保洁。
+
+正威集团在全国各地投建的五十多个园区，除了平阳项目，还有多个面临着工程烂尾、施工队讨薪问题，一些园区虽然名义上顺利投产，实际上却长期缺乏订单，有些园区已经因开工不足而对车间进行调岗、减员。
+
+产业园区的伪装游戏被拆穿，终归是个时间问题。王文银因为和地方工程队的债务纠纷，正日益深陷诉讼的纠缠中。今年以来，有“世界铜王”之称的王文银多次被限消，也让这个2022年首超华为霸居广东民企一哥的正威集团，实力显得扑朔迷离。
+
+建厂速度创纪录：边设计图纸边施工
+
+平阳项目投产的日子，是在3月开工前就定下的。全程参与一期项目建设的浙江某建设公司（下称“建设公司”）负责人刘向铎告诉凤凰网《风暴眼》，2021年和正威签合约后，政府及正威集团要求10月前完成第一个厂房的建设。
+
+之所以时间那么赶，是因为地方政府有一个目标——力争“当年拿地，当年竣工，当年投产”。这个速度事后在投产仪式上，还被地方领导视作高效，大加赞誉。
+
+平阳县，2021年GDP仅600多亿，在温州各县中排名中等，正急于大力发展工业，打造“千亿工业强县”。世界500强企业正威集团有意投资，对平阳县而言是一个千载难逢的机会。正威集团的董事长王文银，出手很阔绰，一开口便是120亿元的巨额投资，宣称两期项目全部达产后，年主营业务收入将超过500亿元。也因此，这成了温州首个超百亿的制造业项目，甚至最终成为浙江省7个特别重大产业项目之一。
+
+除此之外，还有个关键的原因，刘向铎起初不太理解，事后才明白。2021年，正是地方各级领导班子陆续换届的关键时期。
+
+凤凰网《风暴眼》查询公开信息发现，负责正威平阳项目的地方官员，随后在换届中，迈上了更高的台阶。其中，作为引进正威项目的一大功臣，平阳县长黄慧直接调任永嘉县书记；滨海新区管委会常务副主任、正威项目服务办负责人章志刚，升任海西镇委书记；此外，滨海新区管委会主任金献涛、多位副县长、规划局及质监站等部门负责人，也纷纷升职。
+
+![](https://k.sinaimg.cn/n/spider20231030/290/w1080h810/20231030/21c4-118fa25c27d8c9139ff1ce827e071468.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+正威集团与平阳正威项目服务办在同一栋办公楼内办公
+
+没有人关心项目进展中的“问题”。只有6个月的建设时间，为了完成尽快投产的目标，刘向铎回忆，他组织了几班人马，在工地上不分昼夜地轮班施工，每天晚上都有百来号人通宵赶工。
+
+![](https://k.sinaimg.cn/n/spider20231030/5/w1080h525/20231030/50df-1d517d255cf518c02b13d4f678436e10.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+赶工时期，夜间工地灯火通明
+
+但让他没想到的是，直到进场施工，刘向铎才发现，项目连设计图还没有画好。正常情况下，设计图应该在获得施工许可之前就已经审核合格。他向正威集团反映了这个问题，如果图纸都没有完成，那么十月竣工投产是有困难的。而正威给的解决办法是把设计院的人叫来，直接在工地旁边的旅馆里工作，边出图纸边施工。
+
+施工场地原是一片滩涂，地质松软，会有严格的施工条件要求。一般情况下，一根桩打下去后，要过段时间再打另一根，以免因泥土挤压对前一根桩造成影响。有时还要打“应力释放孔”，对已打好的桩进行保护。
+
+刘向铎说，但是这些在赶工期的情况下，都顾不上了，有时，他们打完一根桩，就忙着打下一根。
+
+刘向铎承包的一期工程，包括4间厂房，除了要求10月投产的铜杆厂房，其余厂房和办公楼等在当年7月也全面开工。这些建设，事后暴露的问题更多。
+
+多个项目同时开工，拖垮了建设方的资金链，也导致了正威集团和承包方的资金矛盾。在双方争执之际，平阳住建局网站曾于2022年1月21日发布一份报告，随后又删除了该报告。报告直指正威平阳项目的建设存在质量安全隐患问题。打桩问题在一期的倒班宿舍楼项目上尤其明显，其预应力管桩低应变检测不合格桩数达47根，不合格率为53.4%，存在重大施工质量问题。
+
+除了打桩问题，该报告还指出，“除铜杆车间（厂房）外，其它三个地块至今未提供审查合格的施工图纸，存在较大质量隐患。”
+
+![](https://k.sinaimg.cn/n/spider20231030/535/w720h615/20231030/195b-514e3800b0fcdc874e9dd58892af56b4.png/w700d1q75cms.jpg?by=cms_fixed_width)
+
+平阳县住建局报告
+
+和铜杆厂房一样，其他三个地块的建设也是现场边设计图纸，边建设。刘向铎告诉凤凰网《风暴眼》，其他三个地块当时应该是没有提交具体的施工图纸。
+
+没有订单：员工一年有半载没活干
+
+投产后的铜杆厂，面临的最大困扰是没有订单。说是铜杆厂，但其实生产铜杆的车间一直没投产。
+
+![](https://k.sinaimg.cn/n/spider20231030/290/w1080h810/20231030/c644-7594637e0eb8cf4d96a03aa6d93c3d00.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+已投入使用的铜杆厂房
+
+生产铜杆的车间主要是连铸连轧车间，位于厂房东部，主要功能是将铜块溶化后做成铜板，再拉成8毫米的铜杆。原本规划中，它与铜线车间要形成一条完整的生产线。然而，虽然车间主体已经修建好，但是部分基础一直没打好，设备直到今天也未安装，只能等着落灰。
+
+官宣投产的只是正威各地比较多的精密铜线车间和键合丝生产车间。但这两条产业线，真正产能和销售远不及计划。
+
+申凯雷告诉凤凰网《风暴眼》，在投产后的几个月里，厂里几无订单。投产初从广东、福建宁德等地运过来的原材料铜杆铜线，成了多次参观活动中的摆设，从未真正加工、销售出去。
+
+申凯雷说，实际上，这些产品多是正威其他地方工厂生产出的残次品，运来时就已经氧化，由金红色变得发暗发黑，很难销售。厂里计划等连铸连轧车间投运后，便把这些残次品放到机器里熔掉，重新拉成铜杆。
+
+投产的精密铜线车间，是全厂唯一真正能够生产产品的车间。申凯雷说，投产3-4个月后，铜线项目才渐渐有了一些订单。
+
+但即使如此，厂里的工作节奏很奇怪，没有规划，也没有提前铺货。通常情况下，很多工厂会提前做一些计划单，以应付突至的新订单。但正威平阳项目，从不提前备货。
+
+销售人员曾经吐槽，不提前备货是因为没钱买铜。“我们这边项目就这么多钱，需要有回款了，才能买下一批原材料。”车间的生产断断续续，常常是忙一天闲一天，到今年，才变得稳定一些，满产量平均每天能达到120吨。
+
+即使每天都满产，距离正威承诺的15万吨年产能，也差了一大截。
+
+官宣“正式投产”的另一个车间——键合丝无尘车间，是正威的“王牌”项目。公开报道中，平阳正威项目自主研发的高端超细镀钯线键合丝，是集成电路半导体封装的关键材料，极限线径可达13微米，相当于头发丝的十分之一，达到全球顶尖工艺水准。
+
+![键合丝车间内部](https://k.sinaimg.cn/n/spider20231030/120/w1080h1440/20231030/1c9c-8caad60c12ca34bca96e4c9e8735a6c1.jpg/w700d1q75cms.jpg?by=cms_fixed_width)**键合丝车间内部**
+
+在铺天盖地的宣传报道中，投产初的键合丝年产能为500万卷轴，达产后将满足国内相关行业大约10%的使用需求，而整个项目完工后，年产能将达到2000万轴。
+
+但真实的数据很惨淡。在申凯雷看来，键合丝车间，是最清闲的车间，十几名女工，几乎无事可做，玩了两年。
+
+凤凰网《风暴眼》联系到正威平阳项目的负责人于涛，他解释说，键合丝的订单的确稍微少一些，与铜线加起来年产值差不多是10亿元。他指出，键合丝是平阳项目主打的产品，原本规划的2000万轴是在单独的厂房生产，但由于厂房还未建起，在铜杆厂内生产的是少部分示范项目，大约仅投产了全部设计产能的1/10。
+
+承诺的产能无法达成，也让正威很困扰。不愿具名的人士告诉凤凰网《风暴眼》，为了实现承诺给政府的产值，正威平阳项目只能压低价格，冲销量。加之厂内的大小拉丝设备生产效能低，实际上铜线越生产就越赔钱。
+
+平阳项目尽管问题不少，至少还有三台机器在生产。凤凰网《风暴眼》从多位知情人士处了解到，正威集团在其他地区的项目，更不景气。没有订单的项目，员工不生产产品，只能天天考企业文化，组织一次又一次的考试。广西玉林项目的员工，甚至把除草写进工作报告里。不久前，福建福安的项目，还有员工实在太无聊，打卡后就去做兼职了，这件事在公司内部通报，开除了几名员工。
+
+施工停滞，却仍虚假呈报工程进度
+
+第一个车间虽然投入使用，但两年来，不仅生产铜杆的连铸连轧设备都没安装好，而且一根铜杆也没生产出来。正威的故事无法真实演绎，接下来上演的就只有荒唐的闹剧。
+
+根据政府官网公开的环评报告及凤凰网《风暴眼》获得的施工许可证，可以看到正威平阳项目一期和二期工程共占地2000亩，而二期工程直至目前仍没有一点眉目。一期工程包括4个建设项目：年产25万吨低氧光亮铜杆项目厂房、年产15万吨高导架空导线项目厂房、金属线材及覆铜板厂房，年产2000万轴半导体封装单晶纳米铜及贵金属键合丝项目厂房。所有厂房按计划都应在2022年施工完成。
+
+![](https://k.sinaimg.cn/n/spider20231030/193/w527h466/20231030/d870-d238ffede7b62a74d30750f12763a0ea.png/w700d1q75cms.jpg?by=cms_fixed_width)
+
+环评报告中一期项目平面图（部分）
+
+![项目示意图](https://k.sinaimg.cn/n/spider20231030/210/w1080h730/20231030/91ae-7e89c0c1dc5f6451e91f9fed4a3ea58d.jpg/w700d1q75cms.jpg?by=cms_fixed_width)**项目示意图**
+
+但凤凰网《风暴眼》于9月下旬走访园区数日，发现直至目前，整个园区仅有铜杆厂已建设完成。与铜杆厂隔着一条小河的，是施工一半的高导车间。从外观上看，这个厂房一半只有钢架结构，另一半则已经筑好外墙，门窗尚未安装。
+
+![高导车间一侧仅完成钢架结构](https://k.sinaimg.cn/n/spider20231030/290/w1080h810/20231030/91c0-18b8bc9c0c2cc416803e4529596d57d5.jpg/w700d1q75cms.jpg?by=cms_fixed_width)**高导车间一侧仅完成钢架结构**![](https://k.sinaimg.cn/n/spider20231030/290/w1080h810/20231030/20eb-c04629f0162775b59f3b80b5d2eaee3d.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+高导车间另一侧已筑好外墙
+
+刘向铎告诉凤凰网《风暴眼》，整体钢架结构是他的公司建造而成，而已有一半的钢梁和屋顶，则由后期接手的深圳国信建工集团有限公司建设，两家施工单位先后施工，最后都因为资金问题停工讨薪，导致工程停滞至今。
+
+如今，整个园区荒草丛生，凤凰网《风暴眼》走访半日，也见不到一个人影，没有一辆大型车辆进出。荒草地里，兀自矗立着几台吊车，也已是荒废状态，吊车上及园区外破败的绿皮围挡上，都留有建设公司的标志，由于工程款一直没有结算，他们始终不肯退场。
+
+![平阳项目园区内，原本规划建设精密铜及铜板厂房的位置，荒草丛生](https://k.sinaimg.cn/n/spider20231030/290/w1080h810/20231030/bb47-2699bfd7985b4f2ec58631c7410edd30.jpg/w700d1q75cms.jpg?by=cms_fixed_width)**平阳项目园区内，原本规划建设精密铜及铜板厂房的位置，荒草丛生**
+
+于涛对凤凰网《风暴眼》回应称，项目停滞主要是因为总包垫资能力问题。原计划每建成一栋厂房，支付工程款后，再建设其他厂房。但为了赶进度，同时铺开的建筑车间面积比较大，导致超出了总包的资金准备能力。
+
+承接一期项目总包的建设公司则称，按照约定，在铜杆厂建设完成以后，也就是盛大的投产仪式次月，正威集团就应该支付70%的账款，三月付到85%，并在6个月内付到97%。然而，这一切都未如期兑付。刘向铎完全没想到，一家世界500强企业，会拖欠一个小公司。
+
+到春节前，刘向铎的公司已经垫资3.6亿，再也撑不下去了。建筑工人纷纷罢工，在平阳项目办公楼举横幅讨债。为了尽快给农民工结账，建设公司只能以月利息1.28%的方式，陆续向正威借了7600万，支付拖欠工资，但无法覆盖供应商的材料款。2021年底，下游供应商因为收不到钱而停供。政府出面协调，要求供应商继续供应，建设公司恢复建设。
+
+但勉力维持到2022年1月，工程正式停工。刘向铎没想到的是，已经升任海西镇书记的章志刚找他谈话，劝说他即使无法复工，至少配合政府和正威集团，继续上报建筑施工产值。
+
+建筑施工产值，意味着企业在建设施工过程中投入的工程造价。这些由建设公司垫资的资金，在政府的视角下，全部属于正威集团的项目投资。作为平阳县政府力推的百亿级重点项目，当地不允许项目半途停工。至少在向上汇报中要有进展：厂房是在建的，生产是在扩大的。而这些都要靠虚报产值来圆谎。
+
+凤凰网《风暴眼》获得的报审资料显示，建设公司在2022年1月停工后，配合上报产值，其中2、3月份虚报完成金额2亿多元，4、5月分别虚报8500多万元，6月份虚报大约6千万元。建设公司4个项目实际建筑施工产值加起来大约3.6亿，却另虚报了3亿左右。每一份报审表下，均有正威泰强（平阳）电子信息有限公司（下称“正威泰强公司”）作为建设单位签章。
+
+![2022年6月完工产值报审表](https://k.sinaimg.cn/n/spider20231030/132/w396h536/20231030/8f88-d12318a48f1dfef7118f48e690d2c324.jpg/w700d1q75cms.jpg?by=cms_fixed_width)**2022年6月完工产值报审表**
+
+就在6月份的报审表提交后不久，温州市统计局下派督察人员，核查统计数据的真实性。
+
+刘向铎记得，大约7月下旬，他被叫到正威平阳项目办公楼，进门后，章志刚告诉他，省里来人督察数据，应该是从卫星图看出了厂房建设进度有问题，希望建设公司能够连夜修正产值，赶出来一个真实的数据材料上交。
+
+刘向铎有些担心，会牵扯到自己，章志刚再三保证，“与你们没有关系”。
+
+凤凰网《风暴眼》在天眼查上看到，此事最终以正威被处罚告终。当年8月，因“实施了统计调查对象提供不真实统计资料的违法行为”，正威泰强公司被罚款12万元。
+
+![天眼查截图](https://k.sinaimg.cn/n/spider20231030/521/w894h427/20231030/1baa-4c03e61a7f419ad8083a51baeabd454a.png/w700d1q75cms.jpg?by=cms_fixed_width)**天眼查截图**
+
+这一罚款金额，和正威在平阳项目获得收益无法相提并论。平阳县给正威集团批地建设产业园时，不仅提供上千亩的工业用地，而且还低价提供接近10公顷的住宅建设用地。
+
+凤凰网《风暴眼》发现，平阳县政府于2021年度还对正威项目追加落地开工奖，也因此，当年政府预算支出超额。此外，平阳经开区2021年还提供了平阳正威项目补助资金。
+
+凤凰网《风暴眼》在温州市产业政策奖励兑现系统查询发现，2022年5-7月期间，即平阳项目已经建设停滞时，正威泰强公司依然获得了突出贡献企业家奖励、抢抓生产经营先机奖补、中小企业纾困帮扶资金等共计超过50万元。
+
+圈地套钱的财技
+
+不只平阳，根据已经公开可查询的信息，凤凰网《风暴眼》发现，正威集团还先后在全国至少五十六个地方建设有产业园。
+
+四处征战，疯狂大建产业园的正威集团，实业生产成色不足，反而因资金“游戏”更引人瞩目。
+
+仍以平阳项目为例，凤凰网《风暴眼》查询天眼查、平阳县自然资源和规划局网站发现，平阳项目的主体公司正威泰强公司2020年12月购入5宗工业地块，分别是平阳县新兴产业园J-12-1地块、J-12-2地块、J-12-3地块、H-18-1地块、H-18-2地块，均是以起始价竞标而得，千亩地块成交价总计才4.8亿元。
+
+正威购买便宜工业用地建设产业园，实际上花费很少。正威不仅享有上述提到的地方政府补贴，还能利用土地抵押获得贷款。申凯雷告诉凤凰网《风暴眼》，平阳工业园区的5个地块，从一开始就有两个地块用于抵押贷款了。而贷到的钱，直接划到正威集团总部，再继续用于其他工业园区项目拿地。
+
+刘向铎也印证了这一说法，他告诉凤凰网《风暴眼》，在维权过程中，章志刚曾向他透露，正威的5宗工业地块已有2宗地块抵押贷款，钱都流向正威总部。
+
+正威集团在地方获得的奖补资金，大都足以覆盖其前期投入成本。以兰州项目为例，正威集团2016年公开发行公司债券募集说明书显示，正威（甘肃）铜业科技有限公司在兰州购买土地仅用3.8亿元，而从2013年到2016年上半年，集团先后获得了兰州当地政府项目扶持激励等奖补接近25亿元。
+
+更多的地方项目“爆雷”，都指向正威集团的产业园模式存在诸多问题。
+
+凤凰网《风暴眼》在裁判文书网看到，正威集团位于山东济南的中国光电产业集成示范区陷入工程纠纷后，山东正威投资控股有限公司曾在法庭直指，正威集团擅自抽逃了山东正威公司注册资本18亿元。此外，正威在安徽池州建设的正威公司中华芯都半导体产业园，在工程烂尾后，法院也认定正威集团存在对正威半导体有限公司抽逃出资行为。
+
+资金不到位，多地工程长年没有进展，也消耗了一些地方政府的耐心。多个正威产业园区地块最终被政府收回。凤凰网《风暴眼》查询发现，正威位于河南洛阳市宜阳县用于建造正威有色科技城的地块，因“已动工开发建设用地面积不足应动工开发建设用地总面积三分之一和已投资额占总投资额不足百分之二十五的情况”，2018年8月被政府收回。
+
+2022年6月9日，江西宜春也发布公告，称正威集团取得的7宗土地均为闲置土地，“闲置原因属企业自身原因所致，且超过约定动工时间2年以上”，因此决定收回土地。此外，正威安徽黄石项目的地块，则因“涉诉项目违反国家宏观调控”被政府收回。
+
+正威集团频繁建设产业园的真正目的，是为了倒卖住宅、商业土地。多位正威项目人士告诉凤凰网《风暴眼》。
+
+平阳产业园项目签约后不久，2021年1月，正威集团在平阳注册的平阳阳慧房地产有限公司（下称“平阳阳慧公司”），以7.8亿元成交价购买了平阳县昆阳镇城东KYCD-03地块A09-2地块。但很快，正威就在当年8月，将这家公司连带其土地使用权，以及其股东深圳市阳惠实业有限公司（下称“深圳阳惠公司”），转手卖给了中南建设集团。
+
+此后，平阳阳慧公司将这块国有建设用地使用权抵押贷款了7.8亿元。当年11月22日，深圳阳惠公司还将平阳阳慧公司1700万元股权质押给了无锡市润元科技小额贷款有限公司。
+
+![](https://k.sinaimg.cn/n/spider20231030/290/w1080h810/20231030/d322-3627a58afa4930add91f377b3081cd0e.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+正威集团与中南建设合作开发的住宅楼疑似资金不足，工程进度缓慢
+
+外界不知，正威集团和中南建设具体如何分成，但是在该楼盘项目介绍资料里，正威也是开发商之一。借助楼盘销售，在房地产过去十几年的快速发展中，开发商大多赚得盆满钵满。
+
+这样的套路在正威集团的过去屡见不鲜。正威系的深圳市华汇置业有限公司在兰州成立兰州天诚、兰州天泽、兰州天盛等多家房地产公司，拿地后，转手将这些公司股权倒卖给老朋友许家印的恒大集团。在湖州，正威的正浔实业拿地后，就将子公司湖州瑞威房地产有限公司股权转让给了国企湖州南浔新诚城市开发有限公司。
+
+但正威集团并不是单纯的倒卖，很大程度上，正威集团也暗中从后续的开发中盈利。这也从正威集团品牌管理中心副总处得到部分验证。他告诉凤凰网《风暴眼》，集团在做多元化尝试，集团没有房地产开发能力，因此找中南建设、恒大合作，共同开发，最终也会获得楼盘收益。
+
+但是房地产进入冷周期后，楼市去库存放缓。借助开发楼盘盈利的模式已经不可持续。凤凰网《风暴眼》了解到，正威集团与中南建设合作开发的住宅楼项目疑似资金不足，施工工地连水电费都交不起了。恒大更是因为资金暴雷，在全国各地留下诸多烂尾楼。
+
+王文银重仓的小县城
+
+圈地游戏的不可持续，已撼动正威集团大厦的地基。55岁的王文银，深陷在各地诉讼、欠款纠纷的泥潭里，无法错身。
+
+凤凰网《风暴眼》梳理发现，正威集团至少十个产业园项目先后陷入诉讼纠纷中。
+
+![](https://k.sinaimg.cn/n/spider20231030/356/w1080h1676/20231030/6c98-f826529fc380a62ac906ae6abd52107e.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+正威集团全国工业园区建设情况
+
+为了让游戏玩转下去，王文银要加速新产业园的签约投资计划，圈地回旋资金。今年4月，正威宣称投资100亿，与山东省沂水县签约建设先进碳材料产业园。今年7月，正威正式签约娄底项目，同时也宣布开工，宣称投资110亿。
+
+今年以来，王文银越来越难见上一面。刘向铎的父亲、建设公司法人刘康感受最深。从去年8月开始，他五次三番地远赴深圳找王文银当面讨要欠款。每次等候的时间越来越长，有时甚至等上一个礼拜，才能见上一面，真正交谈的时间却越来越短。
+
+正威总部的装潢，是一派厚重典雅的中式装修风格。办公桌和会议室的长桌都是红木材质，搭配红木圈椅，灰绿色的地毯绵延到走廊里耸立的两面红木书柜。王文银的个人办公室更是极尽奢华，除了一面墙张挂着王文银与各省市地方领导的合影，略显违和外，其余装饰皆是古色古香。王文银告诉刘康，这些是按照颐和园西太后宫殿的摆设1：1装潢的。刘康感到不可思议，在这个遥不可及的小天地里，王文银已经失去了昔日建设产业园时的豪爽，每一次都为难地表示，“这段时间，真的，有困难”。
+
+![](https://k.sinaimg.cn/n/spider20231030/119/w1080h1439/20231030/38bc-9f69a5e365353abc61fc7999c8f4b768.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+正威集团总部会议室
+
+最初，王文银口头答应每月支付900万。但两个月后，刘康再也没收到一分钱，正威至今仍然欠款2.4亿元。
+
+正威的现金流困境比外界想象的可能更大。凤凰网《风暴眼》获得一份平阳项目9月19日协调会录音，在录音中，正威集团平阳项目负责人于涛坦言，正威目前遇到的问题，超出想象。他提出解决办法是给建设公司每月支付500万，并试图劝服建设公司人员，“现在没有哪一个项目能给拨款500万的”“起码在正威平阳项目，老板还愿意挤出一部分资金来处理这个事情，有的项目基本上已经躺平了，老板都没有时间、资金和精力去处理这些事情了”。
+
+于涛还透露，王文银给平阳政府写了求助信，用别的公司的股权或者资产挂到政府名下，变相抵押，请政府提供纾困资金。
+
+在凤凰网《风暴眼》获得的另一份录音中，六天后，海西镇委书记章志刚也劝说建设公司接受上述方案，“前段时间的限消和负面新闻，导致很多银行对正威总部可能也施加了压力，集团这两三个月的时间是资金最紧缺的。”
+
+最近两个月，王文银确实出现被限消的情况。今年9月4日，正威集团因山东项目相关的一起诉讼纠纷，被执行了1.03亿元，王文银也被限制高消费。10月18日晚间，正威集团旗下上市公司正威新材公告称，王文银因正威集团相关事宜，被限制高消费。
+
+王文银正大力摆平各地的诉讼。上述的两次限消，在天眼查上挂了一天后，随即消除。这种自上而下的努力，正试图抹掉正威的负面消息。尽管如此多的证据指向正威集团的资金问题，但集团的上述品牌负责人对此未置可否，表示“这样问我肯定说没问题”。随后，对于各地项目是否存在轮休、减员情况，他明确否认：“不存在”。
+
+![](https://k.sinaimg.cn/n/spider20231030/413/w864h1149/20231030/2ef7-41aec60c3e67f105f2871ea73a4d279e.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+正威集团玉林项目部分岗位停工调整通知
+
+但员工对公司经营情况的每况愈下有最切身的体会。知情人士告诉凤凰网《风暴眼》，最近，总是有渣土车堵在正威项目部，建筑工人拉横幅讨薪，导致项目部的领导们待不下去，只能转移到厂房来办公。就连一些停在园区外的汽车，也常常被塞进讨薪的传单。
+
+正威甚至已经在寻求金蝉脱壳之计。上述知情人士告诉凤凰网《风暴眼》，公司内部正在寻求员工，接任正威泰鑫（平阳）实业有限公司（下称“正威泰鑫公司”）法人位置，承诺每月加3000元工资。正威泰鑫公司，是正威平阳项目与多家公司签订合同的法律主体，正威正急于将这家公司甩出去，在员工看来，此举疑似寻找替身站上被告席，承担法律责任。
+
+无一人心动。当天晚上，厂主管将承诺的工资又提高了2000元，上述知情人士说，“还是无人响应，这可是要面临坐牢风险的，谁会为了一个月多加5000元，冒名代持呢！”
+
+今年，已经没有什么人再来厂里参观了。这个树立为浙江省7大重点项目之一的产业园，已经毫无人气。因为拖欠工程款，建设方罢工、讨薪至今，两代人积攒的积蓄付之东流，背上数亿债务。正威动辄上百亿投资和数百亿产值的夸口，未能如实为地方赋予产业能量，反而留下无解的困局。世界500强的logo，在一片荒地里显得十分孤傲，不远处的一块电子屏原本会闪出平阳项目投产倒计时的一串数字。但停工迟迟未能解决，有人关掉电子屏，数字消失了。
+
+![](https://k.sinaimg.cn/n/spider20231030/600/w800h600/20231030/0cc0-493bf324dda708072c7e6507937ae8a8.jpg/w700d1q75cms.jpg?by=cms_fixed_width)
+
+（应受访者要求，文中申凯雷、刘向铎、刘康均为化名。）
+
+特别声明：以上内容仅代表作者本人的观点或立场，不代表新浪财经头条的观点或立场。如因作品内容、版权或其他问题需要与新浪财经头条联系的，请于上述内容发布后的30天内进行。
+
+![](https://n.sinaimg.cn/default/2fb77759/20151125/320X320.png)
+
+## 【民主党上台或加速企业并购，多位高管表示正考虑加速推进重大交易】美国民主党在中期选举中取得压倒性胜利，正促使华尔街和美国大型企业重新评估巨额并购计划。尽管特朗普政府仍将掌握反垄断审批权，但随着民主党即将控制国会两院，企业高管开始担心，当前相对宽松的监管环境可能难以持续。多名投行高管及并购顾问表示，部分企业已开始考虑提前推进重大交易，以赶在2028年总统选举周期全面展开之前完成审批。富国银行高级银行家Fernando Rivas近日表示，市场可能重新出现“不趁现在，就再无机会”的并购心态。宾夕法尼亚大学沃顿商学院管理学助理教授Paul Nary指出，大型并购从谈判到完成全球监管审批通常需要相当长时间，因此计划推进重大交易的企业应当立即着手准备，并争取在2027年年中之前宣布交易。（环球市场播报）
+
+## 众议院民主党领袖杰弗里斯表示，其支持针对美国国防部长赫格塞斯的弹劾决议。
+
+## 【航运数据：罗斯福号航母将最早于11月15日到达中东】航运数据显示，西奥多罗斯福号航母（CVN-71）已于近日离开新加坡，按照航运速度计算，该航母将最早于15日到达阿拉伯海，届时该航母将与早已部署在中东地区的“乔治·华盛顿”号（CVN-73）和“乔治·H·W·布什”号（CVN-77）会合，重新形成三航母组合。
+
+## 【民主党上台或加速企业并购，多位高管表示正考虑加速推进重大交易】美国民主党在中期选举中取得压倒性胜利，正促使华尔街和美国大型企业重新评估巨额并购计划。尽管特朗普政府仍将掌握反垄断审批权，但随着民主党即将控制国会两院，企业高管开始担心，当前相对宽松的监管环境可能难以持续。多名投行高管及并购顾问表示，部分企业已开始考虑提前推进重大交易，以赶在2028年总统选举周期全面展开之前完成审批。富国银行高级银行家Fernando Rivas近日表示，市场可能重新出现“不趁现在，就再无机会”的并购心态。宾夕法尼亚大学沃顿商学院管理学助理教授Paul Nary指出，大型并购从谈判到完成全球监管审批通常需要相当长时间，因此计划推进重大交易的企业应当立即着手准备，并争取在2027年年中之前宣布交易。（环球市场播报）
+
+## 众议院民主党领袖杰弗里斯表示，其支持针对美国国防部长赫格塞斯的弹劾决议。
+
+## 相关视频
+
+![](https://z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/sinakd20261108ac/200/w640h360/20261108/a8a5-89dbc198cfa7c35da6b01eee9aeb8979.jpg&size=370_207&bgf=1&bgc=%23000000)
+
+**王健林退市后卖物业，企业家破产前最后悔什么** 129次播放
+
+> 03:33
+
+![](https://z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/sinakd20261103ac/533/w480h853/20261103/6a28-22826a4721516a166f09809c1c969694.jpg&size=370_207&bgf=1&bgc=%23000000)
+
+**石家庄长安区588号产业园仅剩几间独院整层库房办公展厅** 0次播放
+
+> 03:52
+
+![](https://z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/vmsri/orj480/73ae3ca8ly1ii1kcbydsjj21gi0u0mzg.jpg&size=370_207&bgf=1&bgc=%23000000)
+
+**辽宁从工业长子变青春新地标，老厂房改文创园** 2942次播放
+
+> 02:22
+
+手机新浪网
+
+## 相关新闻
+
+**新地产巨无霸诞生：浪潮退去，单伟建捡走王健林、许家印留下的硬通货**
+
+> _15_ 热点聚焦
+
+**德龙退场！4600亿巨头入驻！千亿集群迎来新主**
+
+> 实时速报
+
+手机新浪网
+
+**中央首次真金白银下场贴钱救楼市！但开发商最怕的事，藏不住了**
+
+市场资讯
+
+**这家新势力又一负责人离职！高管持续流失**
+
+> 滚动消息
+
+手机新浪网
+
+## 热门评论
+
+## undefined
+
+抢沙发
+
+好的评论会让人崇拜
+
+查看1条评论
+
+手机新浪网
+
+手机新浪网
+
+手机新浪网
+
+## 推荐阅读
+
+![](https://z0.sinaimg.cn/auto/crop?img=https://n.sinaimg.cn/spider20261108/724/w915h609/20261108/2fed-a070850c4dbffe2c4205cfcca3dd71e8.jpg&size=370_207&bgf=1&bgc=%23000000)**从治好一片湖到建好一个社区：广州观樾探索“四好”建设新路径****强势夺回参众两院，奥巴马、希拉里、佩洛西、哈里斯、舒默等民主党大佬齐发声，有人竟说“不是民主党赢了”，还有两个重磅人物至今未表态** 
+> _441_ 中国新闻网
+
+手机新浪网
+
+**吞枪自尽！“友妻门”以悲剧告终，马刺队友关系无法修复** 
+> _8_ 篮圈之上
+
+**“火箭7子”高下立判！送走的全部陨落，留下的全打出身价！** 
+> _43_ 带你看体育
+
+手机新浪网
+
+**租了个女友回家见家长，然后女友不走了**
+
+奇闻风向标
+
+**300万人取不了钱，总统被抓了**
+
+> _393_ 新浪新闻
+
+手机新浪网
+
+**热苏斯：我以为C罗还想踢欧国联，尊重他决定，多的不再多谈**
+
+> _108_ 虎扑足球
+
+**整整过去15年了！杨瀚森拿到两双数据，打出NBA生涯之夜** 
+> _140_ 篮圈之上
+
+手机新浪网
+
+**同一天4人被查！有人投案、有人双开，书记任上被截停**
+
+> _7_ 暴走的大探
+
+**中国队1金收官！男单、女单均无缘四强，球迷：梯队建设堪忧** 
+> _11_ 罗掌柜体育
+
+手机新浪网
+
+**又轰41+6+6，38岁老库里打疯了！勇士豪取7连胜，破尘封76年神迹** 
+> _78_ 大匠说篮球
+
+**这刚刚在墨西哥的一个节目中发生**
+
+球事速递
+
+手机新浪网
+
+**时隔40年，英国元首将再次访华？英王室幕僚回应**
+
+> _126_ 观察者网
+
+**酒劲一旦上了头连反抗都变成了欲拒还迎**
+
+划水咖啡猫
+
+**800个心眼子，另一条腿也不保**
+
+奇闻风向标
+
+**19岁新秀破詹姆斯记录！把一支25胜的队变成了联盟第一** 
+> _14_ NBAspo
+
+**无人机航母释放群蜂攻击机，未来战争影像曝光**
+
+篮球先生郅
+
+**皇马击败巴萨签下16岁前锋加布里埃尔**
+
+> _33_ 虎扑足球
+
+**男子失去大部分记忆，甚至叫不出孩子名字，半夜却总独自到校门口站岗，妻子问他为什么站在这里，他说“退伍多少年也要记住站岗这个事”** 
+> _206_ 新浪新闻
+
+**菲前大使竟称，中国不敢打菲律宾，900菲军曾在朝鲜击败4万志愿军，中国使馆怒斥历史硬伤**
+
+> _137_ 暴走的大探
+
+加载中...[视频](https://video.sina.cn/?vt=4 "视频") [直播](https://bn.sina.cn/?vt=4 "直播") [美图](https://photo.sina.cn/?vt=4 "美图") [博客](https://blog.sina.cn/?vt=4 "博客") [看点](https://k.sina.cn/?vt=4 "看点") [政务](http://gov.sina.cn/?vt=4 "政务") [搞笑](https://joke.sina.cn/?vt=4 "搞笑") [八卦](https://ent.sina.cn/star/index.d.html?vt=4 "八卦") [情感](https://eladies.sina.cn/feel?vt=4 "情感") [旅游](https://travel.sina.cn/?vt=4 "旅游") [佛学](https://fo.sina.cn/?vt=4 "佛学") [众测](https://zhongce.sina.cn/?vt=4 "众测")[首页](https://sina.cn/?vt=4) [导航](https://sina.cn/Index/nav?vt=4 "导航") [反馈](https://lives.sina.cn/live/live?vt=4&id=314&live_mg=sports) [登录](https://my.sina.cn/?vt=4)[Sina.cn(京ICP证000007)](https://beian.miit.gov.cn/)   2026-11-08 22:18
+
+请输入评论内容取消发布同时转发到微博
+
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+
+![](https://mixern.sina.cn/mfp/view?type=3&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzgwOQlkZTJhMGI2NS02MzM4LTRkMDktODJkMi05ZDVmNWM1OTdkZWMJYWRtXzQyMTkxOV8xODUxMAlhZG1fNDIxOTE5XzE4NTEwXzE4NjczCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTlBNDVBQ0NBNDU2NglOQjI2MDYyNDI4CS0JCVdBUAktCVBHTFMwMDAzODEJLQktCS0JLQktCS0JLQktCS0JLQktCTAJMAlhZ2VudDphZG1fNDIxOTE5XzE4NTEwfG9zOkxpbnV4fGlzU3BpZGVyOmZhbHNlfHByaW9yaXR5OjUwfGFkUGxhdEZvcm06M3xwbGF0Zm9ybTpMaW51eHx3ZWlib1JlZ2lvbjo3NzcwMDB8bWVkaWFSaWNoOjF8YnJvd3NlcjpDaHJvbWV8d2VpYm9DaXR5Ojc3NzI4MHxwdklQOjEwLjU0LjEwLjE2MHxkZXZpY2U6T1RIRVJ8Y29udHJhY3REZXRhaWxJZDo5QTQ1QUNDQTQ1NjYJMAkzNTEyMDMwNS04Y2E2LTM0MWQtODc2Zi03MDBiMGVmNDM1M2E%3D&userid=__155.102.129.180_1794147488_0.81198300&viewlog=false&hashCode=e8099cfc9de81f74308d3ac3f79648a2)![](https://mixern.sina.cn/view?adunitid=PDPS000000067809&bidid=1d568490-275e-36c6-b062-b3d05750410c&bidtype=NORMAL&dsp=brand&reqid=35120305-8ca6-341d-876f-700b0ef4353a&t=MWQ1Njg0OTAtMjc1ZS0zNmM2LWIwNjItYjNkMDU3NTA0MTBjCWJyYW5kCVBEUFMwMDAwMDAwNjc4MDkJMAlhZG1fNDIxOTE5XzE4NTEwXzE4NjczCS0JTk9STUFMCQlWNS4wLjBfX19CWF8xMC41NC4zMC40NgkJCXNzcElkOlMwMDN8cHJvdmluY2U6Nzc3MDAwfGNpdHk6Nzc3MjgwfGlwOjE5NS42NC4xMjQuMTg0fGRldmljZWlkOnxkaWQ6fHBsYXQ6d2FwfGFwcElkOnxwb3NpZDotfGFidGVzdDp8b3JpZ2luaXA6MTAuNTQuMzAuNDZ8dHJhZmZpYzpwb3J0YWx3YXB8ZHluYW1pY2FkOnxjcmU6fGJhY2thZGluZGV4OnxhY3Rpb246LTF8dXA6LTF8ZG93bjotMXxjbnRudW06LTF8Y2h3bTp8aXNTcGlkZXI6ZmFsc2V8QnJhbmRJcDoxMC41NC4xMC4xNjA6ODA4MHxGdXlpSXA6fHBsYXQ6d2FwfHZlcjp8cGRjb250cmFjdDotfHBkZGV0YWlsaWQ6LXxwcm9kdWN0aWQ6LXxwZHBhY2thZ2VpZDotfGNvb2tpZTpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJMzUxMjAzMDUtOGNhNi0zNDFkLTg3NmYtNzAwYjBlZjQzNTNh&type=2)![](https://mixern.sina.cn/mfp/view?type=3&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzgwOQlkZTJhMGI2NS02MzM4LTRkMDktODJkMi05ZDVmNWM1OTdkZWMJYWRtXzQyMTkxOV8xODUxMAlhZG1fNDIxOTE5XzE4NTEwXzE4NjczCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTlBNDVBQ0NBNDU2NglOQjI2MDYyNDI4CS0JCVdBUAktCVBHTFMwMDAzODEJLQktCS0JLQktCS0JLQktCS0JLQktCTAJMAlhZ2VudDphZG1fNDIxOTE5XzE4NTEwfG9zOkxpbnV4fGlzU3BpZGVyOmZhbHNlfHByaW9yaXR5OjUwfGFkUGxhdEZvcm06M3xwbGF0Zm9ybTpMaW51eHx3ZWlib1JlZ2lvbjo3NzcwMDB8bWVkaWFSaWNoOjF8YnJvd3NlcjpDaHJvbWV8d2VpYm9DaXR5Ojc3NzI4MHxwdklQOjEwLjU0LjEwLjE2MHxkZXZpY2U6T1RIRVJ8Y29udHJhY3REZXRhaWxJZDo5QTQ1QUNDQTQ1NjYJMAkzNTEyMDMwNS04Y2E2LTM0MWQtODc2Zi03MDBiMGVmNDM1M2E%3D&userid=__155.102.129.180_1794147488_0.81198300&viewlog=false&hashCode=e8099cfc9de81f74308d3ac3f79648a2)![](https://mixern.sina.cn/view?adunitid=PDPS000000067809&bidid=1d568490-275e-36c6-b062-b3d05750410c&bidtype=NORMAL&dsp=brand&reqid=35120305-8ca6-341d-876f-700b0ef4353a&t=MWQ1Njg0OTAtMjc1ZS0zNmM2LWIwNjItYjNkMDU3NTA0MTBjCWJyYW5kCVBEUFMwMDAwMDAwNjc4MDkJMAlhZG1fNDIxOTE5XzE4NTEwXzE4NjczCS0JTk9STUFMCQlWNS4wLjBfX19CWF8xMC41NC4zMC40NgkJCXNzcElkOlMwMDN8cHJvdmluY2U6Nzc3MDAwfGNpdHk6Nzc3MjgwfGlwOjE5NS42NC4xMjQuMTg0fGRldmljZWlkOnxkaWQ6fHBsYXQ6d2FwfGFwcElkOnxwb3NpZDotfGFidGVzdDp8b3JpZ2luaXA6MTAuNTQuMzAuNDZ8dHJhZmZpYzpwb3J0YWx3YXB8ZHluYW1pY2FkOnxjcmU6fGJhY2thZGluZGV4OnxhY3Rpb246LTF8dXA6LTF8ZG93bjotMXxjbnRudW06LTF8Y2h3bTp8aXNTcGlkZXI6ZmFsc2V8QnJhbmRJcDoxMC41NC4xMC4xNjA6ODA4MHxGdXlpSXA6fHBsYXQ6d2FwfHZlcjp8cGRjb250cmFjdDotfHBkZGV0YWlsaWQ6LXxwcm9kdWN0aWQ6LXxwZHBhY2thZ2VpZDotfGNvb2tpZTpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJMzUxMjAzMDUtOGNhNi0zNDFkLTg3NmYtNzAwYjBlZjQzNTNh&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzU5MAljZGUzYmIyMC1iODA5LTRjOWUtOGMzNC03Yzg2MGFhZjAxZWMJYWRtXzQyMTg3MF8xODM0MAlhZG1fNDIxODcwXzE4MzQwXzE4NTAzCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTMyRTdDQUEyQkIxNAlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4NzBfMTgzNDB8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjMyRTdDQUEyQkIxNAkwCWRkMGM1OGZkLTljNGItMzhiOC05OTU1LWQwZTMzYTA4ODY2Mw%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421870_18340_18503)![](https://mixern.sina.cn/view?adunitid=PDPS000000067590&bidid=785217ab-5d18-3fe9-928a-dca5571f8578&bidtype=NORMAL&dsp=brand&reqid=dd0c58fd-9c4b-38b8-9955-d0e33a088663&t=Nzg1MjE3YWItNWQxOC0zZmU5LTkyOGEtZGNhNTU3MWY4NTc4CWJyYW5kCVBEUFMwMDAwMDAwNjc1OTAJMAlhZG1fNDIxODcwXzE4MzQwXzE4NTAzCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMi4yMi4xMTQJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjIuMjIuMTE0fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWRkMGM1OGZkLTljNGItMzhiOC05OTU1LWQwZTMzYTA4ODY2Mw%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzU5MAljZGUzYmIyMC1iODA5LTRjOWUtOGMzNC03Yzg2MGFhZjAxZWMJYWRtXzQyMTg3MF8xODM0MAlhZG1fNDIxODcwXzE4MzQwXzE4NTAzCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTMyRTdDQUEyQkIxNAlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4NzBfMTgzNDB8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjMyRTdDQUEyQkIxNAkwCWRkMGM1OGZkLTljNGItMzhiOC05OTU1LWQwZTMzYTA4ODY2Mw%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421870_18340_18503)![](https://mixern.sina.cn/view?adunitid=PDPS000000067590&bidid=785217ab-5d18-3fe9-928a-dca5571f8578&bidtype=NORMAL&dsp=brand&reqid=dd0c58fd-9c4b-38b8-9955-d0e33a088663&t=Nzg1MjE3YWItNWQxOC0zZmU5LTkyOGEtZGNhNTU3MWY4NTc4CWJyYW5kCVBEUFMwMDAwMDAwNjc1OTAJMAlhZG1fNDIxODcwXzE4MzQwXzE4NTAzCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMi4yMi4xMTQJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjIuMjIuMTE0fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWRkMGM1OGZkLTljNGItMzhiOC05OTU1LWQwZTMzYTA4ODY2Mw%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1NzU3MwliNjQ2Y2Y0Yy1mYTgxLTQyZWUtOGNlMS00MDYzNGQ4ZTgxZmYJYWRtXzQyMTkzMF8xODM5MglhZG1fNDIxOTMwXzE4MzkyXzE4NTU1CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUFFMkE1NDlCMEM5MglOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5MzBfMTgzOTJ8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkFFMkE1NDlCMEM5MgkwCWExNTU3YWQwLTZkNjAtM2IxMC1iMWNiLTY5MWU4OGE1OGVhNQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421930_18392_18555)![](https://mixern.sina.cn/view?adunitid=PDPS000000057573&bidid=ae01da4c-7022-3a70-b6b1-a16a65781894&bidtype=NORMAL&dsp=brand&reqid=a1557ad0-6d60-3b10-b1cb-691e88a58ea5&t=YWUwMWRhNGMtNzAyMi0zYTcwLWI2YjEtYTE2YTY1NzgxODk0CWJyYW5kCVBEUFMwMDAwMDAwNTc1NzMJMAlhZG1fNDIxOTMwXzE4MzkyXzE4NTU1CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMi4yMi4xMTUJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjIuMjIuMTE1fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWExNTU3YWQwLTZkNjAtM2IxMC1iMWNiLTY5MWU4OGE1OGVhNQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1NzU3MwliNjQ2Y2Y0Yy1mYTgxLTQyZWUtOGNlMS00MDYzNGQ4ZTgxZmYJYWRtXzQyMTkzMF8xODM5MglhZG1fNDIxOTMwXzE4MzkyXzE4NTU1CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUFFMkE1NDlCMEM5MglOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5MzBfMTgzOTJ8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkFFMkE1NDlCMEM5MgkwCWExNTU3YWQwLTZkNjAtM2IxMC1iMWNiLTY5MWU4OGE1OGVhNQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421930_18392_18555)![](https://mixern.sina.cn/view?adunitid=PDPS000000057573&bidid=ae01da4c-7022-3a70-b6b1-a16a65781894&bidtype=NORMAL&dsp=brand&reqid=a1557ad0-6d60-3b10-b1cb-691e88a58ea5&t=YWUwMWRhNGMtNzAyMi0zYTcwLWI2YjEtYTE2YTY1NzgxODk0CWJyYW5kCVBEUFMwMDAwMDAwNTc1NzMJMAlhZG1fNDIxOTMwXzE4MzkyXzE4NTU1CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMi4yMi4xMTUJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjIuMjIuMTE1fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWExNTU3YWQwLTZkNjAtM2IxMC1iMWNiLTY5MWU4OGE1OGVhNQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=3&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1NjEwNQk2ZWY3MDQyNi02NDUwLTQ1ZWUtYjBiNi01ZDA4Yzg5MGFkZjUJYWRtXzQyMTg0N18xODQ3MQlhZG1fNDIxODQ3XzE4NDcxXzE4NjM0CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTAzOEFFOUE0MjJGNwlOQjI2MDYyNDI4CS0JCVdBUAktCVBHTFMwMDA3MDAJLQktCS0JLQktCS0JLQktCS0JLQktCTAJMAlhZ2VudDphZG1fNDIxODQ3XzE4NDcxfG9zOkxpbnV4fGlzU3BpZGVyOmZhbHNlfHByaW9yaXR5OjUwfGFkUGxhdEZvcm06M3xwbGF0Zm9ybTpMaW51eHx3ZWlib1JlZ2lvbjo3NzcwMDB8bWVkaWFSaWNoOjF8YnJvd3NlcjpDaHJvbWV8d2VpYm9DaXR5Ojc3NzI4MHxwdklQOjEwLjU0LjEwLjE2MHxkZXZpY2U6T1RIRVJ8Y29udHJhY3REZXRhaWxJZDowMzhBRTlBNDIyRjcJMAk2NWNjMmMyMy05Zjk3LTNiOTYtOTgwNy0zNTQ0ZWE1YzZkN2I%3D&userid=__155.102.129.180_1794147488_0.81198300&viewlog=false&hashCode=e8099cfc9de81f74308d3ac3f79648a2)![](https://mixern.sina.cn/view?adunitid=PDPS000000056105&bidid=69300839-9710-3411-b3ca-4826a00bdcbe&bidtype=NORMAL&dsp=brand&reqid=65cc2c23-9f97-3b96-9807-3544ea5c6d7b&t=NjkzMDA4MzktOTcxMC0zNDExLWIzY2EtNDgyNmEwMGJkY2JlCWJyYW5kCVBEUFMwMDAwMDAwNTYxMDUJMAlhZG1fNDIxODQ3XzE4NDcxXzE4NjM0CS0JTk9STUFMCQlWNS4wLjBfX19CWF8xMC41NC4zMC40NQkJCXNzcElkOlMwMDN8cHJvdmluY2U6Nzc3MDAwfGNpdHk6Nzc3MjgwfGlwOjE5NS42NC4xMjQuMTg0fGRldmljZWlkOnxkaWQ6fHBsYXQ6d2FwfGFwcElkOnxwb3NpZDotfGFidGVzdDp8b3JpZ2luaXA6MTAuNTQuMzAuNDV8dHJhZmZpYzpwb3J0YWx3YXB8ZHluYW1pY2FkOnxjcmU6fGJhY2thZGluZGV4OnxhY3Rpb246LTF8dXA6LTF8ZG93bjotMXxjbnRudW06LTF8Y2h3bTp8aXNTcGlkZXI6ZmFsc2V8QnJhbmRJcDoxMC41NC4xMC4xNjA6ODA4MHxGdXlpSXA6fHBsYXQ6d2FwfHZlcjp8cGRjb250cmFjdDotfHBkZGV0YWlsaWQ6LXxwcm9kdWN0aWQ6LXxwZHBhY2thZ2VpZDotfGNvb2tpZTpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJNjVjYzJjMjMtOWY5Ny0zYjk2LTk4MDctMzU0NGVhNWM2ZDdi&type=2)![](https://mixern.sina.cn/mfp/view?type=3&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1NjEwNQk2ZWY3MDQyNi02NDUwLTQ1ZWUtYjBiNi01ZDA4Yzg5MGFkZjUJYWRtXzQyMTg0N18xODQ3MQlhZG1fNDIxODQ3XzE4NDcxXzE4NjM0CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTAzOEFFOUE0MjJGNwlOQjI2MDYyNDI4CS0JCVdBUAktCVBHTFMwMDA3MDAJLQktCS0JLQktCS0JLQktCS0JLQktCTAJMAlhZ2VudDphZG1fNDIxODQ3XzE4NDcxfG9zOkxpbnV4fGlzU3BpZGVyOmZhbHNlfHByaW9yaXR5OjUwfGFkUGxhdEZvcm06M3xwbGF0Zm9ybTpMaW51eHx3ZWlib1JlZ2lvbjo3NzcwMDB8bWVkaWFSaWNoOjF8YnJvd3NlcjpDaHJvbWV8d2VpYm9DaXR5Ojc3NzI4MHxwdklQOjEwLjU0LjEwLjE2MHxkZXZpY2U6T1RIRVJ8Y29udHJhY3REZXRhaWxJZDowMzhBRTlBNDIyRjcJMAk2NWNjMmMyMy05Zjk3LTNiOTYtOTgwNy0zNTQ0ZWE1YzZkN2I%3D&userid=__155.102.129.180_1794147488_0.81198300&viewlog=false&hashCode=e8099cfc9de81f74308d3ac3f79648a2)![](https://mixern.sina.cn/view?adunitid=PDPS000000056105&bidid=69300839-9710-3411-b3ca-4826a00bdcbe&bidtype=NORMAL&dsp=brand&reqid=65cc2c23-9f97-3b96-9807-3544ea5c6d7b&t=NjkzMDA4MzktOTcxMC0zNDExLWIzY2EtNDgyNmEwMGJkY2JlCWJyYW5kCVBEUFMwMDAwMDAwNTYxMDUJMAlhZG1fNDIxODQ3XzE4NDcxXzE4NjM0CS0JTk9STUFMCQlWNS4wLjBfX19CWF8xMC41NC4zMC40NQkJCXNzcElkOlMwMDN8cHJvdmluY2U6Nzc3MDAwfGNpdHk6Nzc3MjgwfGlwOjE5NS42NC4xMjQuMTg0fGRldmljZWlkOnxkaWQ6fHBsYXQ6d2FwfGFwcElkOnxwb3NpZDotfGFidGVzdDp8b3JpZ2luaXA6MTAuNTQuMzAuNDV8dHJhZmZpYzpwb3J0YWx3YXB8ZHluYW1pY2FkOnxjcmU6fGJhY2thZGluZGV4OnxhY3Rpb246LTF8dXA6LTF8ZG93bjotMXxjbnRudW06LTF8Y2h3bTp8aXNTcGlkZXI6ZmFsc2V8QnJhbmRJcDoxMC41NC4xMC4xNjA6ODA4MHxGdXlpSXA6fHBsYXQ6d2FwfHZlcjp8cGRjb250cmFjdDotfHBkZGV0YWlsaWQ6LXxwcm9kdWN0aWQ6LXxwZHBhY2thZ2VpZDotfGNvb2tpZTpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJNjVjYzJjMjMtOWY5Ny0zYjk2LTk4MDctMzU0NGVhNWM2ZDdi&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzU5MgliMTU1MGFlZC01M2I5LTRjOGItYWNjYy0yYzJjMzVmZWVkMDcJYWRtXzQyMTg3MV8xODM0MglhZG1fNDIxODcxXzE4MzQyXzE4NTA1CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTMzMDkxODhFNEIyOAlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4NzFfMTgzNDJ8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjMzMDkxODhFNEIyOAkwCTcyYWIwYjZiLTNjZDItMzQ2Ny05NGM0LTYyNzQ5ODM0YTcyMw%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421871_18342_18505)![](https://mixern.sina.cn/view?adunitid=PDPS000000067592&bidid=b18ebdc6-a695-3ff4-9211-78171bd4ab36&bidtype=NORMAL&dsp=brand&reqid=72ab0b6b-3cd2-3467-94c4-62749834a723&t=YjE4ZWJkYzYtYTY5NS0zZmY0LTkyMTEtNzgxNzFiZDRhYjM2CWJyYW5kCVBEUFMwMDAwMDAwNjc1OTIJMAlhZG1fNDIxODcxXzE4MzQyXzE4NTA1CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMjUuNi4xMTQJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjI1LjYuMTE0fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTcyYWIwYjZiLTNjZDItMzQ2Ny05NGM0LTYyNzQ5ODM0YTcyMw%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzU5MgliMTU1MGFlZC01M2I5LTRjOGItYWNjYy0yYzJjMzVmZWVkMDcJYWRtXzQyMTg3MV8xODM0MglhZG1fNDIxODcxXzE4MzQyXzE4NTA1CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTMzMDkxODhFNEIyOAlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4NzFfMTgzNDJ8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjMzMDkxODhFNEIyOAkwCTcyYWIwYjZiLTNjZDItMzQ2Ny05NGM0LTYyNzQ5ODM0YTcyMw%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421871_18342_18505)![](https://mixern.sina.cn/view?adunitid=PDPS000000067592&bidid=b18ebdc6-a695-3ff4-9211-78171bd4ab36&bidtype=NORMAL&dsp=brand&reqid=72ab0b6b-3cd2-3467-94c4-62749834a723&t=YjE4ZWJkYzYtYTY5NS0zZmY0LTkyMTEtNzgxNzFiZDRhYjM2CWJyYW5kCVBEUFMwMDAwMDAwNjc1OTIJMAlhZG1fNDIxODcxXzE4MzQyXzE4NTA1CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMjUuNi4xMTQJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjI1LjYuMTE0fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTcyYWIwYjZiLTNjZDItMzQ2Ny05NGM0LTYyNzQ5ODM0YTcyMw%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzU5MQlmZTRjNTQwYS1kZDBmLTRmY2QtYTIxMC0zNzNiYjQ1ZTcxYmMJYWRtXzQyMTg5NV8xODM0MQlhZG1fNDIxODk1XzE4MzQxXzE4NTA0CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTZFOTYxOTUyRUZFQwlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4OTVfMTgzNDF8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjZFOTYxOTUyRUZFQwkwCTA5MmNjNWYzLTZhZDMtMzdhZi1hNGM2LThjMGNhM2EzYmUzOQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421895_18341_18504)![](https://mixern.sina.cn/view?adunitid=PDPS000000067591&bidid=cdfb9fec-3f76-3866-ad60-492be7fa98b9&bidtype=NORMAL&dsp=brand&reqid=092cc5f3-6ad3-37af-a4c6-8c0ca3a3be39&t=Y2RmYjlmZWMtM2Y3Ni0zODY2LWFkNjAtNDkyYmU3ZmE5OGI5CWJyYW5kCVBEUFMwMDAwMDAwNjc1OTEJMAlhZG1fNDIxODk1XzE4MzQxXzE4NTA0CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMjUuNi4xMTMJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjI1LjYuMTEzfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTA5MmNjNWYzLTZhZDMtMzdhZi1hNGM2LThjMGNhM2EzYmUzOQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMAkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzU5MQlmZTRjNTQwYS1kZDBmLTRmY2QtYTIxMC0zNzNiYjQ1ZTcxYmMJYWRtXzQyMTg5NV8xODM0MQlhZG1fNDIxODk1XzE4MzQxXzE4NTA0CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTZFOTYxOTUyRUZFQwlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4OTVfMTgzNDF8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjZFOTYxOTUyRUZFQwkwCTA5MmNjNWYzLTZhZDMtMzdhZi1hNGM2LThjMGNhM2EzYmUzOQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421895_18341_18504)![](https://mixern.sina.cn/view?adunitid=PDPS000000067591&bidid=cdfb9fec-3f76-3866-ad60-492be7fa98b9&bidtype=NORMAL&dsp=brand&reqid=092cc5f3-6ad3-37af-a4c6-8c0ca3a3be39&t=Y2RmYjlmZWMtM2Y3Ni0zODY2LWFkNjAtNDkyYmU3ZmE5OGI5CWJyYW5kCVBEUFMwMDAwMDAwNjc1OTEJMAlhZG1fNDIxODk1XzE4MzQxXzE4NTA0CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMjUuNi4xMTMJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjI1LjYuMTEzfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTA5MmNjNWYzLTZhZDMtMzdhZi1hNGM2LThjMGNhM2EzYmUzOQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc1OAlhZWViNGI3OS1kMjE5LTRmZTYtYWM4NS0yZTk0MDhmYmM3YzcJYWRtXzQyMTg5N18xODM0NQlhZG1fNDIxODk3XzE4MzQ1XzE4NTA4CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTcyOTRDRjkxNEYyNwlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4OTdfMTgzNDV8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjcyOTRDRjkxNEYyNwkwCTk5ZDQ2M2QyLWY5YjgtMzMyMC05OTBiLTQ5MDc3OGY2MzVmYw%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421897_18345_18508)![](https://mixern.sina.cn/view?adunitid=PDPS000000059758&bidid=8bc5a663-e579-3759-93da-2c78450121d3&bidtype=NORMAL&dsp=brand&reqid=99d463d2-f9b8-3320-990b-490778f635fc&t=OGJjNWE2NjMtZTU3OS0zNzU5LTkzZGEtMmM3ODQ1MDEyMWQzCWJyYW5kCVBEUFMwMDAwMDAwNTk3NTgJMAlhZG1fNDIxODk3XzE4MzQ1XzE4NTA4CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuMzcJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjM3fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTk5ZDQ2M2QyLWY5YjgtMzMyMC05OTBiLTQ5MDc3OGY2MzVmYw%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc1OAlhZWViNGI3OS1kMjE5LTRmZTYtYWM4NS0yZTk0MDhmYmM3YzcJYWRtXzQyMTg5N18xODM0NQlhZG1fNDIxODk3XzE4MzQ1XzE4NTA4CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTcyOTRDRjkxNEYyNwlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4OTdfMTgzNDV8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjcyOTRDRjkxNEYyNwkwCTk5ZDQ2M2QyLWY5YjgtMzMyMC05OTBiLTQ5MDc3OGY2MzVmYw%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421897_18345_18508)![](https://mixern.sina.cn/view?adunitid=PDPS000000059758&bidid=8bc5a663-e579-3759-93da-2c78450121d3&bidtype=NORMAL&dsp=brand&reqid=99d463d2-f9b8-3320-990b-490778f635fc&t=OGJjNWE2NjMtZTU3OS0zNzU5LTkzZGEtMmM3ODQ1MDEyMWQzCWJyYW5kCVBEUFMwMDAwMDAwNTk3NTgJMAlhZG1fNDIxODk3XzE4MzQ1XzE4NTA4CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuMzcJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjM3fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTk5ZDQ2M2QyLWY5YjgtMzMyMC05OTBiLTQ5MDc3OGY2MzVmYw%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc2MQk5MDViYzhiNC0zM2Y4LTQ3MjQtYTg5ZC0xYzU4YzE1ODNhZTEJYWRtXzQyMTkyM18xODM0NglhZG1fNDIxOTIzXzE4MzQ2XzE4NTA5CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUEwMkJCMUE2QkI4OQlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5MjNfMTgzNDZ8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkEwMkJCMUE2QkI4OQkwCTQ4OTllNmI5LTM2OTYtMzUwNC1iZGMyLTA5ODNiMjZiNWY4NA%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421923_18346_18509)![](https://mixern.sina.cn/view?adunitid=PDPS000000059761&bidid=86121587-3b9e-3612-bbcd-559212d2bd24&bidtype=NORMAL&dsp=brand&reqid=4899e6b9-3696-3504-bdc2-0983b26b5f84&t=ODYxMjE1ODctM2I5ZS0zNjEyLWJiY2QtNTU5MjEyZDJiZDI0CWJyYW5kCVBEUFMwMDAwMDAwNTk3NjEJMAlhZG1fNDIxOTIzXzE4MzQ2XzE4NTA5CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuNDAJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjQwfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTQ4OTllNmI5LTM2OTYtMzUwNC1iZGMyLTA5ODNiMjZiNWY4NA%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc2MQk5MDViYzhiNC0zM2Y4LTQ3MjQtYTg5ZC0xYzU4YzE1ODNhZTEJYWRtXzQyMTkyM18xODM0NglhZG1fNDIxOTIzXzE4MzQ2XzE4NTA5CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUEwMkJCMUE2QkI4OQlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5MjNfMTgzNDZ8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkEwMkJCMUE2QkI4OQkwCTQ4OTllNmI5LTM2OTYtMzUwNC1iZGMyLTA5ODNiMjZiNWY4NA%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421923_18346_18509)![](https://mixern.sina.cn/view?adunitid=PDPS000000059761&bidid=86121587-3b9e-3612-bbcd-559212d2bd24&bidtype=NORMAL&dsp=brand&reqid=4899e6b9-3696-3504-bdc2-0983b26b5f84&t=ODYxMjE1ODctM2I5ZS0zNjEyLWJiY2QtNTU5MjEyZDJiZDI0CWJyYW5kCVBEUFMwMDAwMDAwNTk3NjEJMAlhZG1fNDIxOTIzXzE4MzQ2XzE4NTA5CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuNDAJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjQwfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTQ4OTllNmI5LTM2OTYtMzUwNC1iZGMyLTA5ODNiMjZiNWY4NA%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1NjIzOQlmNDY2YWE4OC1jMTNjLTQzYzktOGFhNy02OWM0MzEwM2IxNWIJYWRtXzQyMTg4NF8xODIyOAlhZG1fNDIxODg0XzE4MjI4XzE4MzkxCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTRGMDFEOTdBNzdEMglOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4ODRfMTgyMjh8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjRGMDFEOTdBNzdEMgkwCWFhMjk1MzQyLWM0MWYtMzQ5OC04MjIyLTJkYjcwYjRmMWMxZQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421884_18228_18391)![](https://mixern.sina.cn/view?adunitid=PDPS000000056239&bidid=ac73482a-04fa-3825-9cb3-9ee52cdac9c7&bidtype=NORMAL&dsp=brand&reqid=aa295342-c41f-3498-8222-2db70b4f1c1e&t=YWM3MzQ4MmEtMDRmYS0zODI1LTljYjMtOWVlNTJjZGFjOWM3CWJyYW5kCVBEUFMwMDAwMDAwNTYyMzkJMAlhZG1fNDIxODg0XzE4MjI4XzE4MzkxCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuNDIJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjQyfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWFhMjk1MzQyLWM0MWYtMzQ5OC04MjIyLTJkYjcwYjRmMWMxZQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1NjIzOQlmNDY2YWE4OC1jMTNjLTQzYzktOGFhNy02OWM0MzEwM2IxNWIJYWRtXzQyMTg4NF8xODIyOAlhZG1fNDIxODg0XzE4MjI4XzE4MzkxCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCTRGMDFEOTdBNzdEMglOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE4ODRfMTgyMjh8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOjRGMDFEOTdBNzdEMgkwCWFhMjk1MzQyLWM0MWYtMzQ5OC04MjIyLTJkYjcwYjRmMWMxZQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421884_18228_18391)![](https://mixern.sina.cn/view?adunitid=PDPS000000056239&bidid=ac73482a-04fa-3825-9cb3-9ee52cdac9c7&bidtype=NORMAL&dsp=brand&reqid=aa295342-c41f-3498-8222-2db70b4f1c1e&t=YWM3MzQ4MmEtMDRmYS0zODI1LTljYjMtOWVlNTJjZGFjOWM3CWJyYW5kCVBEUFMwMDAwMDAwNTYyMzkJMAlhZG1fNDIxODg0XzE4MjI4XzE4MzkxCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuNDIJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjQyfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWFhMjk1MzQyLWM0MWYtMzQ5OC04MjIyLTJkYjcwYjRmMWMxZQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc1OQkyNzU0ZDczOS03MDI4LTQ0ZTAtOTkzOC0wNTdhZDlhMDBiNTcJYWRtXzQyMTk1M18xODMzOQlhZG1fNDIxOTUzXzE4MzM5XzE4NTAyCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUVCNUZBRTAzNjRCMglOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5NTNfMTgzMzl8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkVCNUZBRTAzNjRCMgkwCTNlODEyMDJlLTJiNTktM2VkMC05YzM0LTY2YzhhZGY5OWE0ZQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421953_18339_18502)![](https://mixern.sina.cn/view?adunitid=PDPS000000059759&bidid=dbb815da-6b86-3a18-93e6-4fd92dd115c7&bidtype=NORMAL&dsp=brand&reqid=3e81202e-2b59-3ed0-9c34-66c8adf99a4e&t=ZGJiODE1ZGEtNmI4Ni0zYTE4LTkzZTYtNGZkOTJkZDExNWM3CWJyYW5kCVBEUFMwMDAwMDAwNTk3NTkJMAlhZG1fNDIxOTUzXzE4MzM5XzE4NTAyCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuMzgJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjM4fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTNlODEyMDJlLTJiNTktM2VkMC05YzM0LTY2YzhhZGY5OWE0ZQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc1OQkyNzU0ZDczOS03MDI4LTQ0ZTAtOTkzOC0wNTdhZDlhMDBiNTcJYWRtXzQyMTk1M18xODMzOQlhZG1fNDIxOTUzXzE4MzM5XzE4NTAyCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUVCNUZBRTAzNjRCMglOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5NTNfMTgzMzl8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkVCNUZBRTAzNjRCMgkwCTNlODEyMDJlLTJiNTktM2VkMC05YzM0LTY2YzhhZGY5OWE0ZQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421953_18339_18502)![](https://mixern.sina.cn/view?adunitid=PDPS000000059759&bidid=dbb815da-6b86-3a18-93e6-4fd92dd115c7&bidtype=NORMAL&dsp=brand&reqid=3e81202e-2b59-3ed0-9c34-66c8adf99a4e&t=ZGJiODE1ZGEtNmI4Ni0zYTE4LTkzZTYtNGZkOTJkZDExNWM3CWJyYW5kCVBEUFMwMDAwMDAwNTk3NTkJMAlhZG1fNDIxOTUzXzE4MzM5XzE4NTAyCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuMzgJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjM4fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTNlODEyMDJlLTJiNTktM2VkMC05YzM0LTY2YzhhZGY5OWE0ZQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc2MAliYmVhNjUzYy1hYmE5LTRlNWYtOTdlZi00OGE2NWJkNzk5M2IJYWRtXzQyMTk1NF8xODM3OAlhZG1fNDIxOTU0XzE4Mzc4XzE4NTQxCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUYwQjUyMkI5QTY0QQlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5NTRfMTgzNzh8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkYwQjUyMkI5QTY0QQkwCTFiM2NhNWNiLTg1OGQtMzk3Yy05ZDlhLTlmMWNjOTZjM2Q2OQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421954_18378_18541)![](https://mixern.sina.cn/view?adunitid=PDPS000000059760&bidid=85a360e4-063c-3c7c-bc5d-159733f3affc&bidtype=NORMAL&dsp=brand&reqid=1b3ca5cb-858d-397c-9d9a-9f1cc96c3d69&t=ODVhMzYwZTQtMDYzYy0zYzdjLWJjNWQtMTU5NzMzZjNhZmZjCWJyYW5kCVBEUFMwMDAwMDAwNTk3NjAJMAlhZG1fNDIxOTU0XzE4Mzc4XzE4NTQxCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuMzkJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjM5fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTFiM2NhNWNiLTg1OGQtMzk3Yy05ZDlhLTlmMWNjOTZjM2Q2OQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc2MAliYmVhNjUzYy1hYmE5LTRlNWYtOTdlZi00OGE2NWJkNzk5M2IJYWRtXzQyMTk1NF8xODM3OAlhZG1fNDIxOTU0XzE4Mzc4XzE4NTQxCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUYwQjUyMkI5QTY0QQlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5NTRfMTgzNzh8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkYwQjUyMkI5QTY0QQkwCTFiM2NhNWNiLTg1OGQtMzk3Yy05ZDlhLTlmMWNjOTZjM2Q2OQ%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421954_18378_18541)![](https://mixern.sina.cn/view?adunitid=PDPS000000059760&bidid=85a360e4-063c-3c7c-bc5d-159733f3affc&bidtype=NORMAL&dsp=brand&reqid=1b3ca5cb-858d-397c-9d9a-9f1cc96c3d69&t=ODVhMzYwZTQtMDYzYy0zYzdjLWJjNWQtMTU5NzMzZjNhZmZjCWJyYW5kCVBEUFMwMDAwMDAwNTk3NjAJMAlhZG1fNDIxOTU0XzE4Mzc4XzE4NTQxCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuMzkJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjM5fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTFiM2NhNWNiLTg1OGQtMzk3Yy05ZDlhLTlmMWNjOTZjM2Q2OQ%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc2MglmNzUyZGZlNy1iYzc5LTRkZjYtODJiZC00MDE4Mjc4MjY5NjYJYWRtXzQyMTkyNl8xODM3OQlhZG1fNDIxOTI2XzE4Mzc5XzE4NTQyCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUExNzg4QzkzNjg1QglOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5MjZfMTgzNzl8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkExNzg4QzkzNjg1QgkwCTI4YTEzYzZiLWQwMmMtM2M0OS1hMzBmLWUxYWExZjI2YWU2Yw%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421926_18379_18542)![](https://mixern.sina.cn/view?adunitid=PDPS000000059762&bidid=0b4ddc50-8ae2-3fc2-a8e0-df8ee2c71d45&bidtype=NORMAL&dsp=brand&reqid=28a13c6b-d02c-3c49-a30f-e1aa1f26ae6c&t=MGI0ZGRjNTAtOGFlMi0zZmMyLWE4ZTAtZGY4ZWUyYzcxZDQ1CWJyYW5kCVBEUFMwMDAwMDAwNTk3NjIJMAlhZG1fNDIxOTI2XzE4Mzc5XzE4NTQyCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuNDEJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjQxfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTI4YTEzYzZiLWQwMmMtM2M0OS1hMzBmLWUxYWExZjI2YWU2Yw%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc2MglmNzUyZGZlNy1iYzc5LTRkZjYtODJiZC00MDE4Mjc4MjY5NjYJYWRtXzQyMTkyNl8xODM3OQlhZG1fNDIxOTI2XzE4Mzc5XzE4NTQyCXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUExNzg4QzkzNjg1QglOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5MjZfMTgzNzl8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkExNzg4QzkzNjg1QgkwCTI4YTEzYzZiLWQwMmMtM2M0OS1hMzBmLWUxYWExZjI2YWU2Yw%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421926_18379_18542)![](https://mixern.sina.cn/view?adunitid=PDPS000000059762&bidid=0b4ddc50-8ae2-3fc2-a8e0-df8ee2c71d45&bidtype=NORMAL&dsp=brand&reqid=28a13c6b-d02c-3c49-a30f-e1aa1f26ae6c&t=MGI0ZGRjNTAtOGFlMi0zZmMyLWE4ZTAtZGY4ZWUyYzcxZDQ1CWJyYW5kCVBEUFMwMDAwMDAwNTk3NjIJMAlhZG1fNDIxOTI2XzE4Mzc5XzE4NTQyCS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuNDEJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjQxfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCTI4YTEzYzZiLWQwMmMtM2M0OS1hMzBmLWUxYWExZjI2YWU2Yw%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzExNAkzMjE4MzJiMy0xNDc1LTQ2OTItOGVkZi05OGY2Yzk1NTUxNDkJYWRtXzQyMTk0OV8xODM0MwlhZG1fNDIxOTQ5XzE4MzQzXzE4NTA2CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUUwMUQ3NDg5ODExMQlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5NDlfMTgzNDN8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkUwMUQ3NDg5ODExMQkwCWFhNWExZDBmLWIwMmQtM2I0My1iNzlmLTM5N2ZlMGEyZTE5Yg%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421949_18343_18506)![](https://mixern.sina.cn/view?adunitid=PDPS000000067114&bidid=189e2141-6e5a-3b7c-a821-20d3de6bac1d&bidtype=NORMAL&dsp=brand&reqid=aa5a1d0f-b02d-3b43-b79f-397fe0a2e19b&t=MTg5ZTIxNDEtNmU1YS0zYjdjLWE4MjEtMjBkM2RlNmJhYzFkCWJyYW5kCVBEUFMwMDAwMDAwNjcxMTQJMAlhZG1fNDIxOTQ5XzE4MzQzXzE4NTA2CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuNDYJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjQ2fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWFhNWExZDBmLWIwMmQtM2I0My1iNzlmLTM5N2ZlMGEyZTE5Yg%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA2NzExNAkzMjE4MzJiMy0xNDc1LTQ2OTItOGVkZi05OGY2Yzk1NTUxNDkJYWRtXzQyMTk0OV8xODM0MwlhZG1fNDIxOTQ5XzE4MzQzXzE4NTA2CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUUwMUQ3NDg5ODExMQlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5NDlfMTgzNDN8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkUwMUQ3NDg5ODExMQkwCWFhNWExZDBmLWIwMmQtM2I0My1iNzlmLTM5N2ZlMGEyZTE5Yg%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421949_18343_18506)![](https://mixern.sina.cn/view?adunitid=PDPS000000067114&bidid=189e2141-6e5a-3b7c-a821-20d3de6bac1d&bidtype=NORMAL&dsp=brand&reqid=aa5a1d0f-b02d-3b43-b79f-397fe0a2e19b&t=MTg5ZTIxNDEtNmU1YS0zYjdjLWE4MjEtMjBkM2RlNmJhYzFkCWJyYW5kCVBEUFMwMDAwMDAwNjcxMTQJMAlhZG1fNDIxOTQ5XzE4MzQzXzE4NTA2CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuNTQuMzAuNDYJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjU0LjMwLjQ2fHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWFhNWExZDBmLWIwMmQtM2I0My1iNzlmLTM5N2ZlMGEyZTE5Yg%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc1NwkyYjQ1NTU3Mi1kYzExLTQ0NjMtODUxYy1hOTM3ZmYwNzIyNzAJYWRtXzQyMTk0Ml8xODM0NAlhZG1fNDIxOTQyXzE4MzQ0XzE4NTA3CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUQ1QTNGMjkxMTYyQwlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5NDJfMTgzNDR8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkQ1QTNGMjkxMTYyQwkwCWVhZjNkYmMwLTM1ZmYtMzdmNi1hOTdiLTM1YmZhM2Q1OGEwYg%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421942_18344_18507)![](https://mixern.sina.cn/view?adunitid=PDPS000000059757&bidid=4a15103f-4e50-33cf-a076-7ba319cdc725&bidtype=NORMAL&dsp=brand&reqid=eaf3dbc0-35ff-37f6-a97b-35bfa3d58a0b&t=NGExNTEwM2YtNGU1MC0zM2NmLWEwNzYtN2JhMzE5Y2RjNzI1CWJyYW5kCVBEUFMwMDAwMDAwNTk3NTcJMAlhZG1fNDIxOTQyXzE4MzQ0XzE4NTA3CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMi4yMi4xMTMJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjIuMjIuMTEzfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWVhZjNkYmMwLTM1ZmYtMzdmNi1hOTdiLTM1YmZhM2Q1OGEwYg%3D%3D&type=2)![](https://mixern.sina.cn/mfp/view?type=6&t=MjAyNi0xMS0wOCAyMjoxODoxMQkxOTUuNjQuMTI0LjE4NAlfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDAJaHR0cDovL2ZpbmFuY2Uuc2luYS5jbi9jai8yMDIzLTEwLTMwL2RldGFpbC1pbXpzd3p5azM3Nzc2MzYuZC5odG1sP3Z0PTQJUERQUzAwMDAwMDA1OTc1NwkyYjQ1NTU3Mi1kYzExLTQ0NjMtODUxYy1hOTM3ZmYwNzIyNzAJYWRtXzQyMTk0Ml8xODM0NAlhZG1fNDIxOTQyXzE4MzQ0XzE4NTA3CXdhcF9vczo3MDR8dl96b25lOjc3NzAwMCw3NzcyODB8X3Zfem9uZTo3NzcwMDAsNzc3MjgwCQk3NzcwMDB8Nzc3MjgwCUQ1QTNGMjkxMTYyQwlOQjI2MDYyNDI4CS0JCUZFRURfV0FQCS0JLQktCS0JLQktCS0JMAktCS0JLQktCS0JMAkwCWFnZW50OmFkbV80MjE5NDJfMTgzNDR8b3M6TGludXh8aXNTcGlkZXI6ZmFsc2V8cHJpb3JpdHk6NTB8YWRQbGF0Rm9ybToyfHBsYXRmb3JtOkxpbnV4fHdlaWJvUmVnaW9uOjc3NzAwMHxtZWRpYVJpY2g6MXxicm93c2VyOkNocm9tZXx3ZWlib0NpdHk6Nzc3MjgwfHB2SVA6MTAuNTQuMTAuMTYwfGRldmljZTpPVEhFUnxjb250cmFjdERldGFpbElkOkQ1QTNGMjkxMTYyQwkwCWVhZjNkYmMwLTM1ZmYtMzdmNi1hOTdiLTM1YmZhM2Q1OGEwYg%3D%3D&userid=__155.102.129.180_1794147488_0.81198300&hashCode=e8099cfc9de81f74308d3ac3f79648a2&adid=adm_421942_18344_18507)![](https://mixern.sina.cn/view?adunitid=PDPS000000059757&bidid=4a15103f-4e50-33cf-a076-7ba319cdc725&bidtype=NORMAL&dsp=brand&reqid=eaf3dbc0-35ff-37f6-a97b-35bfa3d58a0b&t=NGExNTEwM2YtNGU1MC0zM2NmLWEwNzYtN2JhMzE5Y2RjNzI1CWJyYW5kCVBEUFMwMDAwMDAwNTk3NTcJMAlhZG1fNDIxOTQyXzE4MzQ0XzE4NTA3CS0JTk9STUFMCU5CMjYwNjI0MjgJVjUuMC4wX19fQlhfMTAuMi4yMi4xMTMJCQlzc3BJZDpTMDAzfHByb3ZpbmNlOjc3NzAwMHxjaXR5Ojc3NzI4MHxpcDoxOTUuNjQuMTI0LjE4NHxkZXZpY2VpZDpfXzE1NS4xMDIuMTI5LjE4MF8xNzk0MTQ3NDg4XzAuODExOTgzMDB8ZGlkOnxwbGF0OndhcHxhcHBJZDp8cG9zaWQ6LXxhYnRlc3Q6fG9yaWdpbmlwOjEwLjIuMjIuMTEzfHRyYWZmaWM6bmF0aXZlfGR5bmFtaWNhZDp8Y3JlOnxiYWNrYWRpbmRleDp8YWN0aW9uOi0xfHVwOi0xfGRvd246LTF8Y250bnVtOi0xfGNod206fGlzU3BpZGVyOmZhbHNlfEJyYW5kSXA6MTAuNTQuMTAuMTYwOjgwODB8RnV5aUlwOnxwbGF0OndhcHx2ZXI6fHBkY29udHJhY3Q6LXxwZGRldGFpbGlkOi18cHJvZHVjdGlkOi18cGRwYWNrYWdlaWQ6LXxjb29raWU6X18xNTUuMTAyLjEyOS4xODBfMTc5NDE0NzQ4OF8wLjgxMTk4MzAwCWVhZjNkYmMwLTM1ZmYtMzdmNi1hOTdiLTM1YmZhM2Q1OGEwYg%3D%3D&type=2)
+
+打开新浪新闻 阅读精彩内容
+
+取消前往
+
+![新浪新闻](https://n.sinaimg.cn/default/80905340/20200331/sinalogo.png)
+
+新浪新闻官方
+
+热点资讯 精彩视频抢先看 5.0分好评
+
+免费 / 绿色应用 / 优质
+
+安装
+
+说说你的看法
+
+[_1_](https://cmnt.sina.cn/index?product=comos&index=mzswzyk3777636&tj_ch=finance&is_clear=0)
+
+举报成功
+
+## 举报
+
+请您选择举报的原因违法涉政淫秽色情网络赌博诈 骗营销广告言论攻击其他理由涉未成年人举报取消确定
+
+扫一扫
+
+查看更多热点资讯
+
+- 意见反馈
+- 关闭
+
+意见/建议 反馈入口
+
+- TOKEN
+- 标题/昵称
+- 反馈内容
+
+已反馈成功~
+
+关闭
+
+复制token反馈
+
+转发至微博
+
+88字
+
+立即转发

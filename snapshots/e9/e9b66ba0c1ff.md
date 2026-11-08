@@ -9,7 +9,7 @@ tool: firecrawl
 
 # 茅山杯柳大华绝杀洪智夺冠 第2位6旬冠军诞生(谱)_综合体育_新浪竞技风暴_新浪网
 
-[![跳转到路径导航栏](http://i2.sinaimg.cn/c.gif)](https://sports.sina.com.cn/go/2010-06-12/10295031354.shtml#blkBreadcrumb)
+[![跳转到路径导航栏](http://i2.sinaimg.cn/c.gif)](#blkBreadcrumb)
 
 - [首页](http://www.sina.com.cn/)
 - [新闻](http://news.sina.com.cn/)
@@ -36,7 +36,7 @@ tool: firecrawl
 - [通行证](https://login.sina.com.cn/)
 - [退出](https://login.sina.com.cn/sso/logout.php)
 
-[![跳转到正文内容](http://i2.sinaimg.cn/c.gif)](https://sports.sina.com.cn/go/2010-06-12/10295031354.shtml#Main)
+[![跳转到正文内容](http://i2.sinaimg.cn/c.gif)](#Main)
 
 # [![新浪体育](http://i0.sinaimg.cn/ty/deco/2010/0525/logo_home_sports_nonike.gif)](http://sports.sina.com.cn/)
 

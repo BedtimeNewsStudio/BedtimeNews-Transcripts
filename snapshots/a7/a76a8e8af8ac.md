@@ -9,7 +9,7 @@ tool: firecrawl
 
 # 春闘の賃上げ率5.28％、33年ぶり高水準　中小に波及するか焦点：朝日新聞
 
-[メニューをとばして、記事の本文エリアへ](https://www.asahi.com/articles/ASS3H6K4SS3HULFA011.html#main)
+[メニューをとばして、記事の本文エリアへ](#main)
 
 # [![朝日新聞](https://www.asahicom.jp/images/clear/logo.svg)](https://www.asahi.com/?iref=pc_gnavi)
 
@@ -319,7 +319,7 @@ tool: firecrawl
 
 [![吹き出しアイコン](https://contents.comment.digital.asahi.com/img/brand/icon_expertsComments.svg)澤路毅彦さんのコメント\\
 \\
-![澤路毅彦さん](https://contents.comment.digital.asahi.com/profile/thumbnails/thumb_202110261635231557.jpg)](https://www.asahi.com/articles/ASS3H6K4SS3HULFA011.html#expertsComments)
+![澤路毅彦さん](https://contents.comment.digital.asahi.com/profile/thumbnails/thumb_202110261635231557.jpg)](#expertsComments)
 
 [賃上げ率とベースアップ分の推移](https://www.asahi.com/articles/photo/AS20240315003669.html)
 
@@ -756,7 +756,7 @@ PR注目情報
 
 次へ
 
-[ページトップへ戻る](https://www.asahi.com/articles/ASS3H6K4SS3HULFA011.html#top)
+[ページトップへ戻る](#top)
 
 [朝日新聞の関連サイト](https://digital.asahi.com/info/about/?iref=com_footer#relation_site)
 

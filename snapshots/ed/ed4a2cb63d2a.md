@@ -239,7 +239,7 @@ Takahata Fudōson (高幡不動尊), formally known as Takahatasan Myōōin Kong
 
 ### Share this article
 
-[Facebook](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [X](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [Bluesky](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [LinkedIn](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [Reddit](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [Pinterest](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [Tumblr](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [WhatsApp](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [Email](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [Share](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203) [Link](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#_xfUid-1-1794116203)
+[Facebook](#_xfUid-1-1794116203) [X](#_xfUid-1-1794116203) [Bluesky](#_xfUid-1-1794116203) [LinkedIn](#_xfUid-1-1794116203) [Reddit](#_xfUid-1-1794116203) [Pinterest](#_xfUid-1-1794116203) [Tumblr](#_xfUid-1-1794116203) [WhatsApp](#_xfUid-1-1794116203) [Email](#_xfUid-1-1794116203) [Share](#_xfUid-1-1794116203) [Link](#_xfUid-1-1794116203)
 
 Copy URL BB code
 
@@ -255,4 +255,4 @@ By continuing to use this site, you are consenting to our use of cookies.
 
 Back
 
-[Top](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#top) [Bottom](https://jref.com/articles/shimazu-yoshihisa-1533-1611.1006/#footer)
+[Top](#top) [Bottom](#footer)

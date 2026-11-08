@@ -15,13 +15,13 @@ tool: firecrawl
 
 - [Introduction & Top Questions](https://www.britannica.com/event/occupation-of-Japan)
 
-- [The surrender of Japan](https://www.britannica.com/event/occupation-of-Japan#ref492505)
+- [The surrender of Japan](#ref492505)
 
-- [Creation of the occupation government](https://www.britannica.com/event/occupation-of-Japan#ref492506)
+- [Creation of the occupation government](#ref492506)
 
-- [Occupied Japan and the Korean War](https://www.britannica.com/event/occupation-of-Japan#ref492507)
+- [Occupied Japan and the Korean War](#ref492507)
 
-- [Treaty of San Francisco and the end of occupation](https://www.britannica.com/event/occupation-of-Japan#ref492508)
+- [Treaty of San Francisco and the end of occupation](#ref492508)
 
 [References & Edit History](https://www.britannica.com/event/occupation-of-Japan/additional-info) [Quick Facts & Related Topics](https://www.britannica.com/facts/occupation-of-Japan)
 

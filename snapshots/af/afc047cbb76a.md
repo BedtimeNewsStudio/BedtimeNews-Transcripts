@@ -9,7 +9,7 @@ tool: firecrawl
 
 # China Overtakes U.S. to Become Biggest iPhone Market in Q2 2023 - MacRumors
 
-[Skip to Content](https://www.macrumors.com/2023/08/29/china-biggest-iphone-market-q2-2023/#maincontent)
+[Skip to Content](#maincontent)
 
 # China Overtakes U.S. to Become Biggest iPhone Market in Q2 2023
 

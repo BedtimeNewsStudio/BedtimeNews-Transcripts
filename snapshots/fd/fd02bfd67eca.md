@@ -9,7 +9,7 @@ tool: firecrawl
 
 # Vietnam parliament backs chairman's resignation amid anti-bribery drive | Reuters
 
-[Skip to main content](https://www.reuters.com/world/asia-pacific/vietnam-parliament-approves-speakers-resignation-state-media-says-2024-05-02/#main-content)
+[Skip to main content](#main-content)
 
 [Exclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv](https://www.reuters.com/differentiator/)
 

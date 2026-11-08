@@ -1,0 +1,328 @@
+---
+source_url: "http://district.ce.cn/newarea/sddy/202407/18/t20240718_39073953.shtml"
+captured_at: 2026-11-08T07:08:47Z
+title: "杨淑鹏任哈尔滨市副市长_中国经济网——国家经济门户"
+tool: firecrawl
+---
+
+> **网页快照**：2026-11-08 07:08 UTC 抓取自 [原始页面](http://district.ce.cn/newarea/sddy/202407/18/t20240718_39073953.shtml)（工具：firecrawl）。
+
+# 杨淑鹏任哈尔滨市副市长_中国经济网——国家经济门户
+
+![](http://www.ce.cn/images/dflogo.png)
+
+[![](http://www.ce.cn/images/08mdy_logo.gif)](http://www.ce.cn/)
+
+[人物库](http://district.ce.cn/zt/rwk/index.shtml)
+
+[![](http://www.ce.cn/images/cewap.jpg)](http://m.ce.cn/index.shtml?pc)
+
+[网站首页](http://www.ce.cn/) [金融证券](http://finance.ce.cn/) [产业市场](http://www.ce.cn/cysc/) [国际经济](http://intl.ce.cn/) [时政社会](http://www.ce.cn/xwzx/) [评论理论](http://views.ce.cn/) [地方经济](http://district.ce.cn/) [城市频道](http://city.ce.cn/) [食品安全网](http://foodsafety.ce.cn/) [乡村振兴](http://tuopin.ce.cn/) [生态文明](http://www.ce.cn/cysc/stwm/)
+
+[股市](http://finance.ce.cn/stock/) [银行](http://finance.ce.cn/bank/) [基金](http://finance.ce.cn/jjpd/) [期货](http://finance.ce.cn/futures/index.shtml) [理财](http://finance.ce.cn/money/) [保险](http://finance.ce.cn/insurance/) [IT业](http://www.ce.cn/cysc/tech/) [食品](http://www.ce.cn/cysc/sp/index.shtml) [汽车](http://auto.ce.cn/) [商车](http://cv.ce.cn/) [能源](http://www.ce.cn/cysc/ny/index.shtml) [房产](http://www.ce.cn/cysc/fdc/) [医药](http://www.ce.cn/cysc/yy/index.shtml) [文化](http://www.ce.cn/culture/) [会展](http://expo.ce.cn/) [旅游](http://travel.ce.cn/) [生活](http://fashion.ce.cn/) [科技](http://tech.ce.cn/) [健康](http://health.ce.cn/) [VR](http://vr.ce.cn/)
+
+[![中国经济新亮点](http://district.ce.cn/dfgg/dbqz/202508/W020250808402985495603.jpg)](http://www.ce.cn/xwzx/photo/xld/)
+
+[![地方人物库](http://district.ce.cn/dfgg/dban/202508/W020250808403279699492.jpg)](http://district.ce.cn/zt/rwk/index.shtml)
+
+· [地方政府工作报告汇编](http://district.ce.cn/zg/202501/27/t20250127_39279630.shtml)
+· [聚焦2025地方两会](http://district.ce.cn/zt/2025/2025dflh/)
+· [地方经济发展关键词](http://district.ce.cn/zt/2025/df/jd/)
+· [奋进的春天津彩新征程](http://district.ce.cn/zt/2025/tj/)
+
+|  |  |
+| --- | --- |
+| **当前位置** | [地方经济首页](http://district.ce.cn/ "地方经济首页") > [人事](http://district.ce.cn/newarea/sddy/ "人事") > 正文 |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| ![](http://www.ce.cn/images/mdy_sou.gif) | **中经搜索** |  |  |  |
+
+# 杨淑鹏任哈尔滨市副市长
+
+2024年07月18日 09:47来源：哈尔滨日报
+
+\[推荐朋友\]
+
+\[打印本稿\]
+
+\[字号 大中小\]
+
+**哈尔滨市人大常委会任免职名单**
+
+**（2024年7月17日哈尔滨市第十六届人民代表大会常务委员会第二十五次会议通过）**
+
+决定任命：
+
+杨淑鹏为市政府副市长
+
+### 更多地方人事报道请见
+
+[![更多地方人事报道请见](http://district.ce.cn/zt/rwk/tg/201409/W020250521448041043655.jpg)](http://district.ce.cn/zt/rwk/index.shtml)
+
+### 更多中央人事任免请见
+
+[![更多中央人事任免请见](http://district.ce.cn/zt/rwk/tg/201409/W020250521448037396471.gif)](http://district.ce.cn/zt/rwk/rw/mdyyc/202009/16/t20200916_35752978.shtml)
+
+（责任编辑：彭博）
+
+分享到：
+
+|  |
+| --- |
+| 延伸阅读 |
+|  |
+
+|  |
+| --- |
+| **中国经济网版权及免责声明：**<br> 1、凡本网注明“来源：中国经济网” 或“来源：经济日报-中国经济网”的所有作品，版权均属于<br> 　 <br> 中国经济网（本网另有声明的除外）；未经本网授权，任何单位及个人不得转载、摘编或以其它<br> 　 <br> 方式使用上述作品；已经与本网签署相关授权使用协议的单位及个人，应注意该等作品中是否有<br> 　 <br> 相应的授权使用限制声明，不得违反该等限制声明，且在授权范围内使用时应注明“来源：中国<br> 　 <br> 经济网”或“来源：经济日报-中国经济网”。违反前述声明者，本网将追究其相关法律责任。<br> 2、本网所有的图片作品中，即使注明“来源：中国经济网”及/或标有“中国经济网(www.ce.cn)”<br>　 <br> 水印，但并不代表本网对该等图片作品享有许可他人使用的权利；已经与本网签署相关授权使用<br>　 <br> 协议的单位及个人，仅有权在授权范围内使用该等图片中明确注明“中国经济网记者XXX摄”或<br>　 <br> “经济日报社-中国经济网记者XXX摄”的图片作品，否则，一切不利后果自行承担。<br> 3、凡本网注明 “来源：XXX（非中国经济网）” 的作品，均转载自其它媒体，转载目的在于传递更<br>　 <br> 多信息，并不代表本网赞同其观点和对其真实性负责。 <br> 4、如因作品内容、版权和其它问题需要同本网联系的，请在30日内进行。 <br>※ 网站总机：010-81025111 有关作品版权事宜请联系：010-81025135 邮箱：![](http://www.ce.cn/img4/bd2019.jpg) |
+
+部委人物库
+
+中直人物库
+
+地方人物库
+
+**国务院组成部门**
+
+[外交部](http://www.ce.cn/ztpd/xwzt/2013bw/wjb/index.shtml) [国防部](http://www.ce.cn/ztpd/xwzt/2013bw/gfbz/index.shtml) [发改委](http://www.ce.cn/ztpd/xwzt/2013bw/gjfzhggwyh/index.shtml) [教育部](http://www.ce.cn/ztpd/xwzt/2013bw/jyb/index.shtml)
+
+[科技部](http://www.ce.cn/ztpd/xwzt/2013bw/gfb/index.shtml) [工信部](http://www.ce.cn/ztpd/xwzt/2013bw/gyhxxhb/index.shtml) [国家民委](http://www.ce.cn/ztpd/xwzt/2013bw/gjmw/index.shtml) [公安部](http://www.ce.cn/ztpd/xwzt/2013bw/gab/index.shtml)
+
+[国安部](http://www.ce.cn/ztpd/xwzt/2013bw/acb/index.shtml) [民政部](http://www.ce.cn/ztpd/xwzt/2013bw/mzb/index.shtml) [司法部](http://www.ce.cn/ztpd/xwzt/2013bw/sfb/index.shtml)[财政部](http://www.ce.cn/ztpd/xwzt/2013bw/czb/index.shtml)
+
+[人社部](http://www.ce.cn/ztpd/xwzt/2013bw/rsb/index.shtml) [自然资源部](http://www.ce.cn/ztpd/xwzt/2013bw/gtb/index.shtml) [生态环境部](http://www.ce.cn/ztpd/xwzt/2013bw/hbb/index.shtml)
+
+[住建部](http://www.ce.cn/ztpd/xwzt/2013bw/zjb/index.shtml) [交通部](http://www.ce.cn/ztpd/xwzt/2013bw/jtb/index.shtml) [水利部](http://www.ce.cn/ztpd/xwzt/2013bw/slb/index.shtml)
+
+[农业农村部](http://www.ce.cn/ztpd/xwzt/2013bw/nyb/index.shtml) [商务部](http://www.ce.cn/ztpd/xwzt/2013bw/swb/index.shtml) [文化和旅游部](http://www.ce.cn/ztpd/xwzt/2013bw/whb/index.shtml)
+
+[卫健委](http://www.ce.cn/ztpd/xwzt/2013bw/wshjhsywyh/index.shtml) [退役军人事务部](http://www.ce.cn/ztpd/xwzt/2013bw/tyjrswb/)
+
+[应急管理部](http://www.ce.cn/ztpd/xwzt/2013bw/ajzj/index.shtml) [央行](http://www.ce.cn/ztpd/xwzt/2013bw/hz/index.shtml) [审计署](http://www.ce.cn/ztpd/xwzt/2013bw/sjs/index.shtml)
+
+**国务院直属特设机构**
+
+[国资委](http://www.ce.cn/ztpd/xwzt/2013bw/gzw/index.shtml)
+
+**国务院直属机构**
+
+[海关总署](http://www.ce.cn/ztpd/xwzt/2013bw/hgzs/index.shtml) [国税总局](http://www.ce.cn/ztpd/xwzt/2013bw/gszj/index.shtml) [市场监管总局](http://www.ce.cn/ztpd/xwzt/2013bw/scjgzj/)
+
+[金融监管总局](http://www.ce.cn/ztpd/xwzt/2013bw/jrjdglzj/) [证监会](http://www.ce.cn/ztpd/xwzt/2013bw/zjhzx/index.shtml) [广电总局](http://www.ce.cn/ztpd/xwzt/2013bw/gjxwcbgdzj/index.shtml)
+
+[体育总局](http://www.ce.cn/ztpd/xwzt/2013bw/tyzj/index.shtml) [国家信访局](http://www.ce.cn/ztpd/xwzt/2013bw/gjxfj/index.shtml)
+
+[国家统计局](http://www.ce.cn/ztpd/xwzt/2013bw/gjtjj/index.shtml) [国家知识产权局](http://www.ce.cn/ztpd/xwzt/2013bw/gjzscqj/index.shtml)
+
+[国际发展合作署](http://www.ce.cn/ztpd/xwzt/2013bw/gjfzhzs/) [国家医疗保障局](http://www.ce.cn/ztpd/xwzt/2013bw/ybj/)
+
+[国务院参事室](http://www.ce.cn/ztpd/xwzt/2013bw/gwycss/index.shtml) [机关事务管理局](http://www.ce.cn/ztpd/xwzt/2013bw/gwyjgswglj/index.shtml)
+
+**国务院办事机构**
+
+[国务院研究室](http://www.ce.cn/ztpd/xwzt/2013bw/gwyyjs/index.shtml)
+
+**国务院直属事业单位**
+
+[新华社](http://www.ce.cn/ztpd/xwzt/2013bw/xhs/index.shtml) [中国科学院](http://www.ce.cn/ztpd/xwzt/2013bw/zky/index.shtml) [中国社科院](http://www.ce.cn/ztpd/xwzt/2013bw/sky/index.shtml)
+
+[中国工程院](http://www.ce.cn/ztpd/xwzt/2013bw/zggcy/index.shtml) [国务院发展研究中心](http://www.ce.cn/ztpd/xwzt/2013bw/gwyfzyjzx/index.shtml)
+
+[中央广播电视总台](http://district.ce.cn/newarea/sddy/201803/22/t20180322_28568759.shtml) [中国气象局](http://www.ce.cn/ztpd/xwzt/2013bw/zgqxj/index.shtml)
+
+**部委管理局**
+
+[粮食和物资储备局](http://www.ce.cn/ztpd/xwzt/2013bw/gjlsj/index.shtml) [国家能源局](http://www.ce.cn/ztpd/xwzt/2013bw/gjnyj/index.shtml)
+
+[国家数据局](http://www.ce.cn/ztpd/xwzt/2013bw/gjsjj/) [国家国防科工局](http://www.ce.cn/ztpd/xwzt/2013bw/gjgfkgj/index.shtml)
+
+[国家烟草专卖局](http://www.ce.cn/ztpd/xwzt/2013bw/gjycj/index.shtml) [国家移民管理局](http://www.ce.cn/ztpd/xwzt/2013bw/gjymglj/)
+
+[国家林业和草原局](http://www.ce.cn/ztpd/xwzt/2013bw/gjlyj/index.shtml) [国家铁路局](http://www.ce.cn/ztpd/xwzt/2013bw/gjtlj/index.shtml)
+
+[中国民用航空局](http://www.ce.cn/ztpd/xwzt/2013bw/mhzj/index.shtml) [国家邮政局](http://www.ce.cn/ztpd/xwzt/2013bw/gjyzj/index.shtml)
+
+[国家文物局](http://www.ce.cn/ztpd/xwzt/2013bw/gjwwj/index.shtml) [国家中医药管理局](http://www.ce.cn/ztpd/xwzt/2013bw/gjzyyglj/index.shtml)
+
+[疾病预防控制局](http://www.ce.cn/ztpd/xwzt/2013bw/ndcpa/) [国家矿山安监局](http://www.ce.cn/ztpd/xwzt/2013bw/gjmkajj/index.shtml)
+
+[国家消防救援局](http://www.ce.cn/ztpd/xwzt/2013bw/119/) [国家外汇管理局](http://www.ce.cn/ztpd/xwzt/2013bw/gjwhj/index.shtml)
+
+[国家药品监督管理局](http://www.ce.cn/ztpd/xwzt/2013bw/cnda/)
+
+**党中央各部门**
+
+[中央纪委、国家监委](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zjw/index.shtml)
+
+[中央办公厅](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zybgt/index.shtml)
+
+[中央组织部](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zyzzb/index.shtml)
+
+[中央宣传部](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zyxcb/)
+
+[中央统战部](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zytzb/index.shtml)
+
+[中联部](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zydwlub/index.shtml)
+
+中央社会工作部
+
+[中央政法委](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zfw/index.shtml)
+
+[中央政策研究室](http://district.ce.cn/newarea/sddy/202601/t20260115_2702676.shtml)
+
+中央深改办
+
+中央国安办
+
+[中央网信办(国家网信办)](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/wxb/)
+
+中央军民融合办
+
+[中央台办(国台办)](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zytb/index.shtml)
+
+[中央财办](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zycjgzldxzbgs/rsdt/)
+
+[中央外办](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/wsb/rsdt/index.shtml)
+
+[中央编办](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zybb/index.shtml)
+
+中央空管办
+
+中央金融办、中央金融工委
+
+中央港澳办
+
+[中央和国家机关工委](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zyjggw/index.shtml)
+
+中直管理局
+
+中央档案馆
+
+中央保密办
+
+**党中央直属事业单位**
+
+[中央党校(国家行政学院)](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zydx/index.shtml)
+
+[中央党史和文献研究院](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zywxyjs/index.shtml)
+
+[人民日报社](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/rmrbs/index.shtml)
+
+求是杂志社
+
+[光明日报社](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/gmrbs/index.shtml)
+
+中国日报社
+
+[中国外文局](http://district.ce.cn/newarea/sddy/202510/t20251014_2515852.shtml)
+
+[经济日报社](http://www.ce.cn/ztpd/xwzt/bsbwh/index.shtml)
+
+[中国浦东干部学院](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zgpdgbxy/index.shtml)
+
+[中国井冈山干部学院](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zgjgsgbxy/index.shtml)
+
+[中国延安干部学院](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zgyagbxy/index.shtml)
+
+[中央社会主义学院](http://www.ce.cn/ztpd/xwzt/zyzsjgrwk/zyshzyxy/index.shtml)
+
+- [北京](http://district.ce.cn/zt/rwk/sf/bj/index.shtml)
+- [天津](http://district.ce.cn/zt/rwk/sf/tj/index.shtml)
+- [河北](http://district.ce.cn/zt/rwk/sf/he/index.shtml)
+- [山西](http://district.ce.cn/zt/rwk/sf/sx/index.shtml)
+- [内蒙古](http://district.ce.cn/zt/rwk/sf/nm/index.shtml)
+- [辽宁](http://district.ce.cn/zt/rwk/sf/ln/index.shtml)
+- [吉林](http://district.ce.cn/zt/rwk/sf/jl/index.shtml)
+- [黑龙江](http://district.ce.cn/zt/rwk/sf/hlj/index.shtml)
+- [上海](http://district.ce.cn/zt/rwk/sf/sh/index.shtml)
+- [江苏](http://district.ce.cn/zt/rwk/sf/js/index.shtml)
+- [浙江](http://district.ce.cn/zt/rwk/sf/zj/index.shtml)
+- [安徽](http://district.ce.cn/zt/rwk/sf/ah/index.shtml)
+- [福建](http://district.ce.cn/zt/rwk/sf/fj/index.shtml)
+- [江西](http://district.ce.cn/zt/rwk/sf/jx/index.shtml)
+- [山东](http://district.ce.cn/zt/rwk/sf/sd/index.shtml)
+- [河南](http://district.ce.cn/zt/rwk/sf/ha/index.shtml)
+- [湖北](http://district.ce.cn/zt/rwk/sf/hb/index.shtml)
+- [湖南](http://district.ce.cn/zt/rwk/sf/hn/index.shtml)
+- [广东](http://district.ce.cn/zt/rwk/sf/gd/index.shtml)
+- [广西](http://district.ce.cn/zt/rwk/sf/gx/index.shtml)
+- [海南](http://district.ce.cn/zt/rwk/sf/hi/index.shtml)
+- [重庆](http://district.ce.cn/zt/rwk/sf/cq/index.shtml)
+- [四川](http://district.ce.cn/zt/rwk/sf/sc/index.shtml)
+- [贵州](http://district.ce.cn/zt/rwk/sf/gz/index.shtml)
+- [云南](http://district.ce.cn/zt/rwk/sf/yn/index.shtml)
+- [西藏](http://district.ce.cn/zt/rwk/sf/xz/index.shtml)
+- [陕西](http://district.ce.cn/zt/rwk/sf/sn/index.shtml)
+- [甘肃](http://district.ce.cn/zt/rwk/sf/gs/index.shtml)
+- [青海](http://district.ce.cn/zt/rwk/sf/qh/index.shtml)
+- [宁夏](http://district.ce.cn/zt/rwk/sf/nx/index.shtml)
+- [新疆](http://district.ce.cn/zt/rwk/sf/xj/index.shtml)
+- [香港](http://district.ce.cn/zt/rwk/sf/hk/rs/)
+- [澳门](http://district.ce.cn/zt/rwk/sf/mo/index.shtml)
+- [台湾](http://district.ce.cn/zt/rwk/rw/index.shtml)
+
+[关于经济日报社](http://www.ce.cn/about/jjrb/gk/201911/26/t20191126_33703674.shtml) － [关于中国经济网](http://www.ce.cn/about/jjw/one/202506/t20250617_2329772.shtml) － [网站大事记](http://www.ce.cn/about/jjw/one/201406/27/t20140627_3056235.shtml) － [网站诚聘](http://www.ce.cn/about/jjw/one/202604/t20260408_2889140.shtml) － [版权声明](http://www.ce.cn/about/jjw/content/201911/26/t20191126_33703317.shtml) － [互联网视听节目服务自律公约](http://www.ce.cn/about/jjw/one/202512/t20251231_2677050.shtml) － [广告服务](http://www.ce.cn/about/jjw/content/201701/03/t20170103_19343167.shtml) － [友情链接](http://www.ce.cn/about/friend-link/) － [纠错邮箱](http://www.ce.cn/about/jjw/one/201905/21/t20190521_32140997.shtml)
+
+经济日报报业集团法律顾问： [北京市鑫诺律师事务所](http://www.sino-law.cn/CN/01.aspx)    中国经济网法律顾问：北京刚平律师事务所
+
+中国经济网 ![](http://www.ce.cn/images/hd315.gif) 版权所有  [互联网新闻信息服务许可证(10120170008)](http://www.ce.cn/about/jjw/one/202609/t20260930_3245178.shtml) [网络传播视听节目许可证(0107190)](http://vr.ce.cn/vr2017/news/202209/02/t20220902_38080192.shtml) [京ICP备18036557号](http://beian.miit.gov.cn/)
+
+[![](http://www.ce.cn/img4/police2021.png)\\
+京公网安备 11010202009785号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202009785)
+
+![](http://district.ce.cn/images/cecn-icon.jpg)
+
+## 杨淑鹏任哈尔滨市副市长
+
+2024-07-18 09:47来源：哈尔滨日报
+
+**哈尔滨市人大常委会任免职名单**
+
+**（2024年7月17日哈尔滨市第十六届人民代表大会常务委员会第二十五次会议通过）**
+
+决定任命：
+
+杨淑鹏为市政府副市长
+
+### 更多地方人事报道请见
+
+[![更多地方人事报道请见](http://district.ce.cn/zt/rwk/tg/201409/W020250521448041043655.jpg)](http://district.ce.cn/zt/rwk/index.shtml)
+
+### 更多中央人事任免请见
+
+[![更多中央人事任免请见](http://district.ce.cn/zt/rwk/tg/201409/W020250521448037396471.gif)](http://district.ce.cn/zt/rwk/rw/mdyyc/202009/16/t20200916_35752978.shtml)
+
+（责任编辑：彭博）
+
+查看余下全文
+
+### 更多地方人事报道请见
+
+[![更多地方人事报道请见](http://district.ce.cn/zt/rwk/tg/201409/W020250521448041043655.jpg)](http://district.ce.cn/zt/rwk/index.shtml)
+
+### 更多中央人事任免请见
+
+[![更多中央人事任免请见](http://district.ce.cn/zt/rwk/tg/201409/W020250521448037396471.gif)](http://district.ce.cn/zt/rwk/rw/mdyyc/202009/16/t20200916_35752978.shtml)
+
+分享到微信X
+
+![](http://district.ce.cn/newarea/sddy/202407/18/t20240718_39073953.shtml)
+
+打开微信，点击底部的“发现”，使用 “扫一扫” 即可将网页分享到我的朋友圈。
+
+![](http://district.ce.cn/images/share_weixin1.png)
+
+2283738
+
+杨淑鹏任哈尔滨市副市长
+
+82344
+
+人事
+
+哈尔滨日报
+
+彭博
+
+2024-07-18

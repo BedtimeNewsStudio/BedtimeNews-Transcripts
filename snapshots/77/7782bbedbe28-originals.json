@@ -1,0 +1,697 @@
+{
+  "kind": "archive_manifest",
+  "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328.shtml",
+  "saved_on": "2026-11-16",
+  "pages": [
+    {
+      "page": 1,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111854643001.png",
+      "path": "snapshots/a6/a604e50c6ec4.png",
+      "sha256": "13aac72e1bc431899149311d60f15f3eca78b76fd02b355f4af52239df695bf2",
+      "bytes": 38855,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 2,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111854391002.png",
+      "path": "snapshots/9c/9c0c1dcd856d.png",
+      "sha256": "c06ca89dd86b36d78e8360e50c2150c34fd16bdcf13ccf64ad264d92043dbd45",
+      "bytes": 6046,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 3,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111854901003.png",
+      "path": "snapshots/da/da188b6ad2f5.png",
+      "sha256": "a541ee36c62b3d337cdcbdbe88ad3ff5261fddecfb50fdc366cad28ef0e44931",
+      "bytes": 157335,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 4,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111854464004.png",
+      "path": "snapshots/0c/0c73163b0b69.png",
+      "sha256": "6c92f2bfbe3403fb039fece028a0f14be9c407c814abeaabeded96552dcd793a",
+      "bytes": 176800,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 5,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111854986005.png",
+      "path": "snapshots/21/214a32ce2402.png",
+      "sha256": "69cc75d15b9e3c6831bb9e68931d401aa562d156b56fb6479071443ab21d4ea3",
+      "bytes": 219153,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 6,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111854264006.png",
+      "path": "snapshots/83/83a4eb223fc7.png",
+      "sha256": "a0aba25df9f9f56b9a6372d7fad92b98253b074188e31a73e49fec608b320138",
+      "bytes": 205380,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 7,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111854467007.png",
+      "path": "snapshots/9a/9a1630efb30d.png",
+      "sha256": "4ca062cdecb21b10b24891399b6f2baa7b8f97bbec564fe26337c6eb2954d9d7",
+      "bytes": 171827,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 8,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855575008.png",
+      "path": "snapshots/6a/6ae7e6ca4959.png",
+      "sha256": "3edc0155e2c418fcc9ee77624eba5795a546bba5872609ff91e5bbcc16060014",
+      "bytes": 192419,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 9,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855818009.png",
+      "path": "snapshots/06/0634e0d417a3.png",
+      "sha256": "0b3b8907efc64d0089f1c8cd81768b2aea36d507a5fad90c8dbd744744fd2999",
+      "bytes": 174179,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 10,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855232010.png",
+      "path": "snapshots/98/98e86fbeeced.png",
+      "sha256": "34f063e69b400accdb256f30064f65566239b0d402763ceb6d2fe50805656118",
+      "bytes": 197552,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 11,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855359011.png",
+      "path": "snapshots/3c/3c55a5a39193.png",
+      "sha256": "7b59ecc09cddf70daff154c5c7b783e21363b36892c85b988187453e63701b31",
+      "bytes": 189426,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 12,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855808012.png",
+      "path": "snapshots/23/2391b1966d3c.png",
+      "sha256": "e1ff102ac8e239fc57a26070a5cb213d7beaaadfe8a5edef0d7f5917cdae62ba",
+      "bytes": 161537,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 13,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855382013.png",
+      "path": "snapshots/dd/dd7f2a399f22.png",
+      "sha256": "a00cd8414daca33f7df153affb289f43231881befdf30896aaff5592d72c8d42",
+      "bytes": 177217,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 14,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855147014.png",
+      "path": "snapshots/01/0106e2cacbdd.png",
+      "sha256": "c08dca0a43c9e5c850ee0025969f332600df7b94be4bed20c6ee6a56ecbe785e",
+      "bytes": 192175,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 15,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855815015.png",
+      "path": "snapshots/e2/e2933521765c.png",
+      "sha256": "3892316eb4f5785ab6bd74185c35b0b8bc59d13edd67194981f619530b79ea42",
+      "bytes": 212171,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 16,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855627016.png",
+      "path": "snapshots/b5/b569094dc590.png",
+      "sha256": "847b2151a18fefd17cddd8e6702bfca65cbf4e3d35c1b5aab8c7b924146e3d89",
+      "bytes": 204336,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 17,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855973017.png",
+      "path": "snapshots/a3/a33d726b236c.png",
+      "sha256": "df98fbc638e1853ae0b50f932e05eebcfff09a05d83bd6876b3e96e0d7245378",
+      "bytes": 705624,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 18,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111855300018.png",
+      "path": "snapshots/6c/6c06d32b73ba.png",
+      "sha256": "6aeebbf167ab9ed48d171a7d4f3f1b5551346271204b6a0c0419700476fd8156",
+      "bytes": 484010,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 19,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856100019.png",
+      "path": "snapshots/a3/a392e56fc1b2.png",
+      "sha256": "585130f01dedb26187eb71a75581605b06e2e46203ae927bbc0c96702b9774f6",
+      "bytes": 106061,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 20,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856986020.png",
+      "path": "snapshots/b3/b322d10e31f1.png",
+      "sha256": "f77f87850bc98bd8504d9e1fa8b7c397d1ef5f67a284b86fb3bb6d7eaca8c9d0",
+      "bytes": 346070,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 21,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856608021.png",
+      "path": "snapshots/6a/6aca10c68cce.png",
+      "sha256": "bc2b4bb8624618e6822bdf6803ab617a3766dc53b8ff14687d498a939c128f8b",
+      "bytes": 207396,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 22,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856194022.png",
+      "path": "snapshots/92/92d895f8db02.png",
+      "sha256": "8622a5dbd04d321c306629e6df2c131b40f73d4212d69744c0400da00f87c3ed",
+      "bytes": 184764,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 23,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856966023.png",
+      "path": "snapshots/f6/f69cfbd0e13d.png",
+      "sha256": "a54f4021c89da12f3165beff43208d142c7743ff18f43410687d196707cdee70",
+      "bytes": 220265,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 24,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856482024.png",
+      "path": "snapshots/31/311b2de0f0fa.png",
+      "sha256": "e447260d6621cb7c3c1f60e984e6c18a9a3df81124800ae5e9081073332410da",
+      "bytes": 245155,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 25,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856994025.png",
+      "path": "snapshots/75/75698cbbacfb.png",
+      "sha256": "b3a507aff8873475985e4e2018a5f676844ec472c963b72568a727de8793de04",
+      "bytes": 222061,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 26,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856949026.png",
+      "path": "snapshots/01/0118805ad0d9.png",
+      "sha256": "8d1c8aca2ec5f80bdd03a6377c84ab69104e1e04eb8bbc141cbf61fdc3a48215",
+      "bytes": 212440,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 27,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856232027.png",
+      "path": "snapshots/89/89cf4c26230c.png",
+      "sha256": "27dc3aa2c208d18c509240af2697b7b76b990866fce8dfdf6d7cbd2ebbbf87a1",
+      "bytes": 222244,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 28,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856977028.png",
+      "path": "snapshots/82/824bb4f8ffd2.png",
+      "sha256": "478a34f118470ad4979b6e8ce556dc658a3451a6865872d312fa1c1e95817de4",
+      "bytes": 210634,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 29,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856161029.png",
+      "path": "snapshots/fc/fc5fadbd31b7.png",
+      "sha256": "219e9881f9288cb3dfe129fa8c8464d85d776c52fd361f16b34210cd1eba74bd",
+      "bytes": 220011,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 30,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856586030.png",
+      "path": "snapshots/a5/a5177bd0e532.png",
+      "sha256": "36fe82da2ef9cf52c348dbd38b61bb4d1f5c7ab2a9686f86927f6721b96dcc7c",
+      "bytes": 197192,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 31,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856135031.png",
+      "path": "snapshots/37/37152f46486a.png",
+      "sha256": "b7e1ae9e3716a8cbca80716e84948ebd7a8b8b20591e72da5c68c4f6d4b4dc73",
+      "bytes": 264703,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 32,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111856654032.png",
+      "path": "snapshots/22/222a69be4738.png",
+      "sha256": "6495f90e140571598e6257678ad6ffa8804ceee03b6c8af19c851ce0135aeee5",
+      "bytes": 244676,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 33,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857620033.png",
+      "path": "snapshots/35/35d5cb50c92a.png",
+      "sha256": "c9a326f388dea71fb95f2cb973a9f733319627f14ce7ca4c79f4f1bab8e62003",
+      "bytes": 204060,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 34,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857672034.png",
+      "path": "snapshots/a9/a9636f017d0f.png",
+      "sha256": "85ab2f44323b46f4dd012b23e564aac22b6d2f8b9b2ab39767dfb073d32fa37a",
+      "bytes": 227533,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 35,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857275035.png",
+      "path": "snapshots/c7/c704ba355051.png",
+      "sha256": "4e66420afe371a09b92f506956ed1a6faaf945159303f0fdcd04db58e0368012",
+      "bytes": 195746,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 36,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857760036.png",
+      "path": "snapshots/cc/cc149d3cdf45.png",
+      "sha256": "1e30be8190532ce45560d3c2fc662550014d5e4af7f130fb1c0efd46e7d9b4ca",
+      "bytes": 214905,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 37,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857926037.png",
+      "path": "snapshots/cc/cca89a55648f.png",
+      "sha256": "be8aaf18b300bbeece20c55468916d3196cea1845a62443e35866d56ccb72687",
+      "bytes": 211506,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 38,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857632038.png",
+      "path": "snapshots/fe/fe76e4a85604.png",
+      "sha256": "065e7cf58bb99d600d60a7649d07ac97bb0030c8c7ddbfe96154e9ab80bf7ee0",
+      "bytes": 192850,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 39,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857320039.png",
+      "path": "snapshots/e5/e5e2fb214804.png",
+      "sha256": "e23f56be1c3ea48a2e4bec92c5160076b7a333de2979e16e516edf2571f037e0",
+      "bytes": 206951,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 40,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857978040.png",
+      "path": "snapshots/99/9973198ad82c.png",
+      "sha256": "9f023d9b74bcc6f55661df4f4c135348981dcc618c315ee42624d02b657c8baf",
+      "bytes": 239694,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 41,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857319041.png",
+      "path": "snapshots/d3/d35e3e49ef8e.png",
+      "sha256": "75c6d214e262298cf57c49bc5f78309e3e947a16403468c3a9b41b0d4224104e",
+      "bytes": 207429,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 42,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857117042.png",
+      "path": "snapshots/83/839d01be6b2c.png",
+      "sha256": "39dccd0d4fad114b9b6da4e18d74d7f4d42f71511c4f8124163997881fbef056",
+      "bytes": 212277,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 43,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857735043.png",
+      "path": "snapshots/5b/5b502f1b407b.png",
+      "sha256": "47210f2bb82aed57ff5e068fe9b9710df454c4bbca77100dde456630fa50bf43",
+      "bytes": 208939,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 44,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857850044.png",
+      "path": "snapshots/35/358b28394b73.png",
+      "sha256": "839e87b8258ecc4edbabf8a0475fcf9581d65b56a3aec223efcba3812ec9775a",
+      "bytes": 199321,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 45,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857457045.png",
+      "path": "snapshots/b5/b59bd4bf0356.png",
+      "sha256": "fb0b3a7e5f516766f0c26c2fa0a1105276b2d2a462799eec6c073b5cf74ba535",
+      "bytes": 227017,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 46,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857805046.png",
+      "path": "snapshots/eb/eba8bc1602d0.png",
+      "sha256": "c9e6494cb82d4d50c01f9055ff96644eb337705b631439ada6bdc59928083c3e",
+      "bytes": 216294,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 47,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857802047.png",
+      "path": "snapshots/d7/d761c3633768.png",
+      "sha256": "1cf1852ddf8e42b56aef79836b2880d402cfd0e71ef6e3a0f1605632565d2725",
+      "bytes": 195881,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 48,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111857863048.png",
+      "path": "snapshots/d6/d68c965bac5d.png",
+      "sha256": "86944c095cb7fc6ec37f009535f03db384189a88d268607cb97ce956271c68b8",
+      "bytes": 205387,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 49,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858563049.png",
+      "path": "snapshots/d4/d4dda43d1761.png",
+      "sha256": "758a1cf882927a74f19aa83a06db52f7dab93a4baa8a61c7208b01af2cf82e0c",
+      "bytes": 189391,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 50,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858382050.png",
+      "path": "snapshots/77/77c83026feae.png",
+      "sha256": "a9851384d74c4a869ce48cfd341d0e70b8182970964e3d118f717fb231545643",
+      "bytes": 203060,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 51,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858757051.png",
+      "path": "snapshots/7b/7bba71ebc5cc.png",
+      "sha256": "1aec9b19f6846baf17ec3a5cab361a42cb92c6da03e281b76ae0a5ebbcfdd115",
+      "bytes": 213089,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 52,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858206052.png",
+      "path": "snapshots/d5/d505421a28d7.png",
+      "sha256": "bc355c135111722d98e4d4c5871d5a2a5538f3bf6e4cb372d30e991d5a0aa640",
+      "bytes": 200076,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 53,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858602053.png",
+      "path": "snapshots/69/69a352ee8996.png",
+      "sha256": "0fbb1ac4f90b0986d1c2b31d8efd29d083c03e0f92fbc27ef81ffb4cb9eb12bc",
+      "bytes": 195264,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 54,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858522054.png",
+      "path": "snapshots/e4/e4eae0eef7c1.png",
+      "sha256": "b50ab5f95e3015f5634ea6d4ce3e63e6c4c06730dace9046d1cf79d31c771198",
+      "bytes": 200348,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 55,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858844055.png",
+      "path": "snapshots/6c/6cc2607ed2de.png",
+      "sha256": "3ef2ab5d3985091edbe544fb4f522d16653df1a59dbec3aa42d12ed8c1739e2e",
+      "bytes": 208770,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 56,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858905056.png",
+      "path": "snapshots/32/32d6b26c0090.png",
+      "sha256": "b9e8cba0c2071d833f5204750e42c1a377dd4042302a3ab51d1811aa39a846cb",
+      "bytes": 210913,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 57,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858804057.png",
+      "path": "snapshots/d6/d6c6c7caaa28.png",
+      "sha256": "194e01027a3841ae2469d0a166a604da0fb08862e78463d8490c3c4ee776fc87",
+      "bytes": 217735,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 58,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858396058.png",
+      "path": "snapshots/53/5377f39d5aaf.png",
+      "sha256": "f059209489b4ff2294cf857a95ad36653d44aa4fed9ff47eb0bb1de534296367",
+      "bytes": 211101,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 59,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858372059.png",
+      "path": "snapshots/04/04badd070c94.png",
+      "sha256": "b5981b5b04cd301220a483136e331c7f823ebd45521797a688055d0d10f87258",
+      "bytes": 202559,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 60,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858430060.png",
+      "path": "snapshots/a2/a23f2bc2113e.png",
+      "sha256": "45ff9c217e658d28dba0ed676d57014f618f5e800473bab208bad44aa386614a",
+      "bytes": 182607,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 61,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858571061.png",
+      "path": "snapshots/fe/fed0a65757ad.png",
+      "sha256": "4d7ecc05cf4d8f67ac215eff78a0415daee7dfab307d03fa763e416cef51d910",
+      "bytes": 171137,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 62,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858204062.png",
+      "path": "snapshots/da/dac54d6ca964.png",
+      "sha256": "0a3a18a550976af70274b5013af6e6f5bf402f42ddd18d9a0af2730baecf2827",
+      "bytes": 159649,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 63,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858318063.png",
+      "path": "snapshots/13/1302c568e255.png",
+      "sha256": "4058fcb007300e1102df8234051c7cca08f5b76bf9d1a9903a37f4472abf58a0",
+      "bytes": 199937,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 64,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111858483064.png",
+      "path": "snapshots/8c/8c573fd881f1.png",
+      "sha256": "7ba934d9b4205ad9899eeb9dbcd5a9d776a651e55d2c1df123e263df6aee3c6b",
+      "bytes": 215665,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 65,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111859558065.png",
+      "path": "snapshots/d5/d5674a846ac9.png",
+      "sha256": "4ca0535d57d7b46916f06d9b46cfb7f0a9bed2631a4896eb1c678df6fd8ca251",
+      "bytes": 207725,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 66,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111859223066.png",
+      "path": "snapshots/6e/6ee3cd255b4b.png",
+      "sha256": "6f3d4857bc1220213c4f3c086476a8e3ac72e1fe64498c255dc58e6c2687aa79",
+      "bytes": 215038,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 67,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111859842067.png",
+      "path": "snapshots/8a/8a6eda9db342.png",
+      "sha256": "d48820c498e02d0990a7ed62c78c689ff85ac5a812998a5fd515e6bce9b48cc6",
+      "bytes": 232180,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 68,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111859187068.png",
+      "path": "snapshots/37/37cd32b5422b.png",
+      "sha256": "e63f71c3ec95a01af4c0c1ff9c71585c38ee4fbbdc29a611c472013c5e7745bc",
+      "bytes": 233697,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    },
+    {
+      "page": 69,
+      "source_url": "https://yjgl.xinjiang.gov.cn/xjyjgl/c113120/202604/69ae3c46c54b46038a4f308d56a7e328/images/20260423111859413069.png",
+      "path": "snapshots/9d/9d2b490e1522.png",
+      "sha256": "381c6d1c2da7e8ef05d8ee9ce2fb081e14fe40334a2b112858f19225bb48f16b",
+      "bytes": 89053,
+      "width": 793,
+      "height": 1122,
+      "png_crc_verified": true
+    }
+  ]
+}

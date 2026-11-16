@@ -7,6 +7,8 @@ snapshots/**/*.xlsx binary
 snapshots/**/*.ppt binary
 snapshots/**/*.pptx binary
 snapshots/**/*.csv binary
+snapshots/**/*.json binary
+snapshots/**/*.xml binary
 snapshots/**/*.txt binary
 snapshots/**/*.jpg binary
 snapshots/**/*.jpeg binary

@@ -3,6 +3,11 @@ source_url: "https://www.energy-transitions.org/wp-content/uploads/2020/07/CHINE
 captured_at: 2026-11-08T15:27:29Z
 title: "中国2050： 一个全面实现现代化国家的零碳图景"
 tool: tavily
+original_file_copy: "9f31eec9fc3c.pdf"
+original_file_retrieval_url: "https://web.archive.org/web/20220804081026id_/https://www.energy-transitions.org/wp-content/uploads/2020/07/CHINESE_VERSION_FULL_REPORT_CHINA_2050_A_FULLY_DEVELOPED_RICH_ZERO_CARBON_ECONOMY.pdf"
+original_file_archive_timestamp: "20220804081026"
+original_file_archive_sha1: "MC2LIEGUGMBJ3QNKCBK3E6VBI4AE5E5W"
+original_file_sha256: "6709e8487788c0eac23754a251fbf9cba45d359a6f3b82d3b57e6de2fb2d7406"
 ---
 
 > **网页快照**：2026-11-08 15:27 UTC 抓取自 [原始页面](https://www.energy-transitions.org/wp-content/uploads/2020/07/CHINESE_VERSION_FULL_REPORT_CHINA_2050_A_FULLY_DEVELOPED_RICH_ZERO_CARBON_ECONOMY.pdf)（工具：tavily）。

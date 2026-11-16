@@ -1,7 +1,8 @@
 ---
 source_url: "http://www.fze.uni-saarland.de/AKE_Archiv/AKE2003H/AKE2003H_Vortraege/AKE2003H03c_Crotogino_ea_HuntorfCAES_CompressedAirEnergyStorage.pdf"
 captured_at: 2026-11-08T13:44:39Z
-title: ""
+title: "Huntorf CAES: More than 20 Years of Successful Operation"
+title_source: snapshot_body_or_appendix_citation
 tool: firecrawl
 ---
 
@@ -99,7 +100,7 @@ for this purpose is the salt cavern. Alternatives
 are also being considered: a CAES project in
 Norton, Ohio, USA, is currently in the planning
 stage and the underground storage in this
-3 
+3
 case is a 10 million m limestone mine; aquifer
 structures (water filled underground reservoirs)
 are another type of feasible storage and were

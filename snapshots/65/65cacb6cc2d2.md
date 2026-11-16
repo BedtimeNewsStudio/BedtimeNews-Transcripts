@@ -1,7 +1,8 @@
 ---
 source_url: "https://www.qdx.gov.cn/xxgk/xxgkml/xzfgzbmxxgkml/xtyjrswj/rsxx/20200429/i1998418.html"
 captured_at: 2026-11-08T13:10:02Z
-title: ""
+title: "唐一军任司法部部长，黄润秋任生态环境部部长（附简历）"
+title_source: snapshot_body_or_appendix_citation
 tool: web-reader
 ---
 

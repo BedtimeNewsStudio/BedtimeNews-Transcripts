@@ -1,191 +1,55 @@
 ---
 source_url: "http://society.people.com.cn/n1/2018/0312/c1008-29861952.html"
-captured_at: 2026-11-08T07:11:51Z
-title: "һũ徭õĲҵ--ᡤ--"
-tool: tavily
+captured_at: 2026-11-16T10:30:45Z
+title: "来一场振兴农村经济的产业革命--社会・法治--人民网"
+tool: native-http
 ---
 
-> **网页快照**：2026-11-08 07:11 UTC 抓取自 [原始页面](http://society.people.com.cn/n1/2018/0312/c1008-29861952.html)（工具：tavily）。
+> **网页快照**：2026-11-16 10:30 UTC 抓取自 [原始页面](http://society.people.com.cn/n1/2018/0312/c1008-29861952.html)（工具：native-http）。
 
-# һũ徭õĲҵ--ᡤ--
+# 来一场振兴农村经济的产业革命--社会・法治--人民网
 
-![](/img/2020wbc/imgs/logo.png "")
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/dyz/01.png)
-![](/img/2020peopleindex/img/dyz/02.png)
-![](/img/2020peopleindex/img/dyz/03.png)
-![](/img/2020peopleindex/img/dyz/04.png)
-![](/img/2020peopleindex/img/dyz/05.png)
-![](/img/2020peopleindex/img/dyz/06.png)
-![](/img/2020peopleindex/img/dyz/07.png)
-![](/img/2020peopleindex/img/dyz/08.png)
-![](/img/2020peopleindex/img/dyz/09.png)
-![](/img/2020peopleindex/img/dyz/10.png)
-![](/img/2020peopleindex/img/dyz/11.png)
-![](/img/2020peopleindex/img/dyz/12.png)
-![](/img/2020peopleindex/img/dyz/13.png)
-![](/img/2020peopleindex/img/dyz/14.png)
-![](/img/2020peopleindex/img/dyz/15.png)
-![](/img/2020peopleindex/img/dyz/16.png)
-![](/img/2020peopleindex/img/dyz/17.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/rmwjia1.png)
-![](/img/2020peopleindex/img/more2.png)
-![](/img/2020peopleindex/img/sou1.png)
-![](/img/2020peopleindex/img/dltx1.png)
+### 贵州打好精准脱贫攻坚战 大力实施乡村振兴战略
 
-# 
+# 来一场振兴农村经济的产业革命
 
-![](/img/2020peopleindex/img/logo_red.png)
-![](/img/2020peopleindex/img/icon_more0.png)
-![](/img/2020peopleindex/img/icon_more1.png)
-![](/img/2020peopleindex/img/icon_more2.png)
-![](/img/2020peopleindex/img/icon_more3.png)
-![](/img/2020peopleindex/img/icon_more4.png)
-![](/img/2020peopleindex/img/icon_more5.png)
+*小字号*
 
-### ձϵ
+把农村产业发展起来，不仅关系贵州280万贫困农民脱贫，而且关系全省2000万农民能否走上可持续发展的小康路。
 
-### վ
+在近日召开的贵州省委农村工作会议上，贵州省委书记孙志刚提出，“来一场振兴农村经济的深刻的产业革命”，强调在转变思想观念上来一场革命，在转变产业发展方式上来一场革命，在转变作风上来一场革命，举全省之力推进乡村振兴战略，发展壮大一批竞争力强的农业企业，培育造就一支庞大的创新力强的职业农民队伍，让一批绿色优质农产品走出大山、风行天下，让贵州农民尽快富起来。
 
-### ݴþ׼ƶս ʵʩս
+**改变种植结构，让绿色优质农产品风行天下**
 
-# һũ徭õĲҵ
+种玉米每亩产值680元，但是，如果改种中草药、蔬菜、食用菌每亩产值分别是玉米的9倍、10倍、46倍。同时，玉米根系发达、生长耗水量大，且多数种植在土壤贫瘠的坡地上，易流失水土，给生态保护带来威胁。
 
-#### 
+八山一水一分田，贵州耕地资源有限，但山地资源丰富，适合发展山地高效特色农业。脱贫攻坚，乡村振兴，贵州深入推进种植业结构战略性调整。
 
-![](/img/2020wbc/imgs/icon_type.png)
+让农民钱袋子鼓起来，先要让脑袋“富起来”。正确的思想观念不是从天上掉下来的，而是在实践和学习中，在对新时代农业农村经济发展形势的把握中，敢于打破、敢于尝试，在不断改变改革中逐步树立起来的。
 
-ũҵչϵ280ƶũƶҹϵȫʡ2000ũܷϿɳչС·
+位于贵州安顺市的偏远山寨塘约村，2013年时还是全省最贫困的村之一，农民人均可支配收入不到3800元，村集体资产不到4万元。面对贫困，塘约村党支部书记左文学组织全村党员和干部群众进行了深刻的反思和讨论，彻底摒弃“等靠要”的落后思想，牢牢抓住农村改革的“牛鼻子”，率先成立村级土地流转中心，对全村土地、林地等七权进行确权，探索出了“公司+合作社+农户”的发展模式，并且建立了科学的利益分配机制。
 
-ڽٿĹʡίũ幤ϣʡί־һũ徭õ̵Ĳҵǿת˼һתҵչʽһתһȫʡ֮ƽսԣչ׳һǿũҵҵһ֧ӴĴǿְҵũ飬һɫũƷ߳ɽ£ùũ񾡿츻
+2017年，塘约村的人均收入达到了11200元，村集体资产达到312万元，实现了从后进村到先进村的转变，“塘约经验”也成为西部贫困地区农村改革的样板。
 
-**ıֲṹɫũƷ**
+这两年，在修文县扎佐镇香巴糊村，种了一辈子地的农民黄庭祥开始尝试着种植优质猕猴桃。去年，黄庭祥收获了1000多斤猕猴桃，收入达5000多元。尝到甜头的黄庭祥一口气腾出10亩玉米地改种猕猴桃，自行完成了“产业结构调整”。“猕猴桃亩收入可以上万元，抵得上种好几亩玉米。”现在黄庭祥忙着参加各种种植技能培训班，正琢磨着把家里剩下的4亩玉米地全改种猕猴桃。
 
-ÿĶֵ680Ԫǣвҩ߲ˡʳþÿĶֱֵ׵91046ͬʱ׸ϵˮҶֲƶµϣʧˮ̬в
+“农村产业革命首先要推动干部群众思想观念的革命，彻底摒弃陈旧的、不符合新时代发展要求的思想观念。”孙志刚表示，调整农业产业结构、发展特色优势产业，必须结合贵州省情、农情，自觉在思想观念上来一场深刻的革命：破除粗放发展的思想，树立特色高效的观念；破除懒惰的思想，树立有所作为的观念；破除小农经济的思想，树立大市场的观念。
 
-ɽһˮһݸԴޣɽԴḻʺϷչɽظЧɫũҵƶᣬˣƽֲҵṹսԵ
+今年2月，贵州省农业工作会议作出部署，将通过调减玉米种植带动全省种植结构调整。日前，贵州省农委已印发蔬菜、食用菌、茶叶、中药材等经济作物生产指导意见。
 
-ũǮӹҪԴȷ˼ǴϵģʵѧϰУڶʱũҵũ徭÷չƵİУڴơڳԣڲϸıĸġ
+**做长做优链条，带动产业发展振兴农村经济**
 
-λڹݰ˳еƫԶɽկԼ壬2013ʱȫʡƶĴ֮һũ˾֧벻3800Ԫ弯ʲ4ԪƶԼ嵳֧ѧ֯ȫ嵳Ա͸ɲȺڽ̵ķ˼ۣȿҪ˼룬ץסũĸġţӡȳ弶תģȫءֵصȨȷȨ̽ˡ˾++ũķչģʽҽ˿ѧơ
+产业融合试点工作开展两年来，依托省级农业园区为建设平台，贵州省累计投入资金24.27亿元，在思南、湄潭、水城等试点县创建一二三产业融合项目31个。到2020年，全省规模以上农产品加工业总产值要达到5000亿元，农产品加工率达到50%，力争农村产品上网销售额年均增长30%以上，农村电子商务交易额超过300亿元，农村居民人均可支配收入年均增长10%左右。
 
-2017꣬Լ˾ﵽ11200Ԫ弯ʲﵽ312Ԫʵ˴Ӻ嵽Ƚת䣬Լ顱ҲΪƶũĸ塣
+“薏仁米产业我们有话语权，有了这个产业，不愁工业不强、乡村不兴、农民不富。”据兴仁县县长方先红说，兴仁目前有30万亩薏仁米种植面积，产量约占全国份额的20%以上，成为全国乃至东南亚地区最大的薏仁米种植、加工和产品集散地，并形成集生产、加工、销售、储运为一体的完整产业链，带动了4200户贫困户2.3万人增收。围绕薏仁米，兴仁县就有385家加工贸易企业，年产值达20多亿元，产品销往全国各地并出口英国、韩国、日本和马来西亚等国，占全球同行业市场份额的80%以上，并逐步推动兴仁县掌握了薏仁米全球定价权。
 
-꣬ͺ壬һӵصũͥ鿪ʼֲ⨺ҡȥ꣬ͥջ1000⨺ң5000ԪͷĻͥһڳ10Ķ׵ظ⨺ңˡҵṹ⨺ĶԪֵֺüĶסڻͥæŲμӸֲѵ࣬ĥŰѼʣµ4Ķ׵ȫ⨺ҡ
+“食用菌产业目前已成为安龙县全面撑开产业致富之路的一把‘伞’。”安龙县县长冉隆斌介绍说，近年来大力发展以食用菌种植为主，以温氏养猪、中药材、花卉等为辅的“一主三辅”农业产业体系，推动乡村经济发展，取得了明显的效果。
 
-ũҵҪƶɲȺ˼ĸ¾ɵġʱչҪ˼־ձʾũҵҵṹչɫƲҵϹʡ顢ũ飬Ծ˼һ̵ĸƳַŷչ˼룬ɫЧĹƳ˼룬ΪĹƳСũõ˼룬гĹ
+把农村产业发展起来，不仅关系贵州280万贫困农民脱贫，而且关系全省2000万农民能否走上可持续发展的小康路。目前，贵州在黔货出山的同时，积极提高规模化水平推进产业集聚集群发展，朝着产出高效、产品安全、资源节约、环境友好的现代农业产业发展道路迈进。
 
-2£ʡũҵ𣬽ֲͨȫʡֲṹǰʡũίӡ߲ˡʳþҶҩĵȾָ
+《 人民日报 》（ 2018年03月12日 19 版）
 
-**ҵչũ徭**
+*分享让更多人看到*
 
-ҵںԵ㹤չʡũҵ԰Ϊƽ̨ʡۼͶʽ24.27Ԫ˼ϡ̶ˮǵԵشһҵںĿ312020꣬ȫʡģũƷӹҵֵܲҪﵽ5000ԪũƷӹʴﵽ50%ũƷ۶30%ϣũ׶300Ԫũ˾֧10%ҡ
-
-޲ײҵлȨҵҵǿ岻ˡũ񲻸سȺ˵Ŀǰ30Ķ޲ֲԼռȫݶ20%ϣΪȫǵ޲ֲӹͲƷɢأγɼӹۡΪһҵ4200ƶ2.3աΧ޲ףؾ385Ҽӹóҵֵ20ԪƷȫزӢձǵȹռȫͬҵгݶ80%ϣƶ޲ȫ򶨼Ȩ
-
-ʳþҵĿǰѳΪȫſҵ¸֮·һѡɡسȽ¡˵չʳþֲΪҩġܵΪġһũҵҵϵƶ徭÷չȡԵЧ
-
-ũҵչϵ280ƶũƶҹϵȫʡ2000ũܷϿɳչС·Ŀǰǭɽͬʱ߹ģˮƽƽҵۼȺչŲЧƷȫԴԼѺõִũҵҵչ·
-
- ձ  20180312 19 棩
-
-|  |
-| --- |
-|  |
-
-*ø˿ *![](/img/2020wbc/imgs/share.png)**
-
-![](/img/2020wbc/imgs/share.png)
-
-##### ƼĶ
-
-##### ͻ
-
-![](/img/2020wbc/imgs/icon_download_rmrb.png)
-![](/img/2020wbc/imgs/icon_download_rmwj1.png)
-![](/img/2020wbc/imgs/icon_download_rmw.png)
-![](/img/2020wbc/imgs/icon_download_ly.png)
-![](/img/2020wbc/imgs/icon_download_video.png)
-![](/img/2020wbc/imgs/icon_download_zy.png)
-![](/img/2020wbc/imgs/icon_download_zz.png)
-
-### 
-
-[ձſ](http://www.people.com.cn/GB/1018/22259/index.html)
-
-|
-
-[](http://www.people.com.cn/GB/50142/420117/index.html)
-
-|
-
-[Ƹ](http://hr.peopledaily.com.cn/)
-
-|
-
-[ƸӢ](http://job.people.com.cn/)
-
-|
-
-[](http://www.people.com.cn/GB/208743/403202/index.html)
-
-|
-
-[](http://www.people.com.cn/GB/208743/403202/403212/index.html)
-
-|
-
-[](http://gonggao.people.com.cn/)
-
-|
-
-[ݷ](http://data.people.com.cn/)
-
-|
-
-[վ](http://www.people.com.cn/n/2013/1227/c373005-23961344.html)
-
-|
-
-[վʦ](http://www.people.com.cn/n1/2019/0308/c420117-30965009.html)
-
-|
-
-[Ϣ](http://sso.people.com.cn/resource/html/userInforPro.html)
-
-|
-
-[ϵ](http://kf.people.com.cn/)
-
-䣺[kf@people.cn](mailto:kf@people.cn)    ΥͲϢٱ绰010-65363263    ٱ䣺[jubao@people.cn](mailto:jubao@people.cn)
-
-[Ϣ֤10120170001](http://www.people.com.cn/img/2014xuke/2018hlwxw.html)  |  [ֵҵӪ֤B1-20060139](http://www.people.com.cn/img/2014xuke/2018zzdxxkz.html)
-
-[㲥ӽĿӪ֤ýֵ172](http://www.people.com.cn/img/2019peopleindex/html/gbds2019.html)  |  [ҩƷϢʸ֤飨-ǾӪ-2016-0098](http://www.people.com.cn/img/2014xuke/2019ypxxfwzg.html)
-
-[Ϣ紫Ŀ֤0104065](http://www.people.com.cn/img/2011zzzs/2018xxwlcb.htm) | [ĻӪ֤ [2020]5494-1075](http://www.people.com.cn/img/2014xuke/2018wlwh.html) | [֤121](http://www.people.com.cn/img/2014xuke/2018wlcb.html) | [ICP֤000006](http://www.people.com.cn/img/2014xuke/2018icp.html) | [11000002000008](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000008)
-
-    Ȩ   δ     Ȩ  ֹ ʹ   
-Copyright © 1997-2021 by www.people.com.cn. all rights reserved
-
-[![](/img/2020peopleindex/img/copy_icon1.png)](http://www.people.com.cn/img/2014xuke/2018icp.html)
-[![](/img/2020peopleindex/img/copy_icon2.png)](https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951)
-[![](/img/2020peopleindex/img/copy_icon3.png)](http://si.trustutn.org/info?sn=470170320027574551118&certType=1)
-[![](/img/2020peopleindex/img/copy_icon4.png)](http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html)
-
-![](/img/2020peopleindex/img/copy_icon1.png)
-![](/img/2020peopleindex/img/copy_icon2.png)
-![](/img/2020peopleindex/img/copy_icon3.png)
-![](/img/2020peopleindex/img/copy_icon4.png)
-![](/img/2020wbc/imgs/share_bbs.png)
-![](/img/2020wbc/imgs/sj_wx.jpg)
-![](/img/2020wbc/imgs/sj_wb.jpg)
-![](/img/2020wbc/imgs/sj_ks.png)
-![](http://counter.people.cn:8000/c.gif?id=29861952)
+- 评论
+- 关注

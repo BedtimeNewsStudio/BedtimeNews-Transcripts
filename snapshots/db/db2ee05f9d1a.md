@@ -1,81 +1,16 @@
 ---
 source_url: "http://politics.people.com.cn/n1/2020/0422/c1024-31684100.html"
-captured_at: 2026-11-08T13:40:03Z
-title: "ϯɭڹ㶫ϩĿƿʽ--ʱ--"
-tool: tavily
+captured_at: 2026-11-16T10:07:43Z
+title: "韩正出席埃克森美孚广东惠州乙烯项目“云开工”仪式--时政--人民网"
+tool: native-http
 ---
 
-> **网页快照**：2026-11-08 13:40 UTC 抓取自 [原始页面](http://politics.people.com.cn/n1/2020/0422/c1024-31684100.html)（工具：tavily）。
+> **网页快照**：2026-11-16 10:07 UTC 抓取自 [原始页面](http://politics.people.com.cn/n1/2020/0422/c1024-31684100.html)（工具：native-http）。
 
-# ϯɭڹ㶫ϩĿƿʽ--ʱ--
+# 韩正出席埃克森美孚广东惠州乙烯项目“云开工”仪式--时政--人民网
 
-¼֤ͨ    [ע](http://sso.people.com.cn/u/reg?appCode=ENw9NE44)
+新华社北京4月22日电（记者郑明达）埃克森美孚在粤港澳大湾区投资建设的广东惠州乙烯项目22日举行“云开工”仪式。中共中央政治局常委、国务院副总理韩正出席并宣布项目开工。
 
-[룿](http://sso.people.com.cn/u/findpwd/user)
+当日上午，韩正在北京人民大会堂，中共中央政治局委员、广东省委书记李希在广东惠州会场，埃克森美孚公司董事长兼首席执行官伍德伦在美国达拉斯市会场，通过视频连线的形式在“两国三地”共同出席项目开工仪式。开工仪式上播放了项目介绍视频，埃克森美孚公司、广东省、国家发展和改革委员会有关负责人分别在三地会场致辞。11时许，韩正宣布埃克森美孚广东惠州乙烯项目开工，项目建设正式拉开帷幕。
 
-![](http://www.people.com.cn/img/2016wb/images/logo01.png)
-![](http://www.people.com.cn/img/2016wb/images/logo2.png)
-![](http://www.people.com.cn/img/2016wb/images/icon01.gif)
-![](http://www.people.com.cn/img/2016wb/images/icon02.gif)
-
-### 
-
-# ϯɭڹ㶫ϩĿƿʽ
-
-#### 
-
-![](http://www.people.com.cn/img/2016wb/images/icon04.jpg)
-
-»籱422յ磨֣ɭ۰ĴͶʽĹ㶫ϩĿ22վСƿʽйξֳίԺϯĿ
-
-磬ڱãйξίԱ㶫ʡίϣڹ㶫ݻ᳡ɭڹ˾³ϯִй˹л᳡ͨƵߵʽڡءͬϯĿʽʽϲĿƵɭڹ˾㶫ʡҷչ͸ĸίԱйظ˷ֱػ᳡´ǡ11ʱɭڹ㶫ϩĿĿʽĻ
-
-ɭڹ㶫ϩĿҵڻʽ׸شʯĿͶԼ100ԪҪ160/ϩװáĿֻݻӮڴٽҹʯҵŻ۰Ĵơ¹ڷ羭س£ɭڹ㶫ϩĿǿսʤġʾóҪ塣
-
-|  |
-| --- |
-|  |
-
-![](http://www.people.com.cn/img/2016wb/images/icon06.png)
-![](http://www.people.com.cn/img/2016wb/images/icon07.png)
-![](http://www.people.com.cn/img/2016wb/images/icon08.png)
-![](/img/2016people/images/tubiao/zhiyun1.png)
-![](http://www.people.com.cn/img/2016people/images/tubiao/lybtb.png)
-![](http://www.people.com.cn/img/2016wb/images/tubiao/zhizuo1.png)
-![](http://www.people.com.cn/img/2016wb/images/icon04.jpg)
-
-## ȵƼ
-
-## Ƽ
-
-![ѧϰз](/NMediaFile/2020/0615/MAIN202006151023170559048932124.png)
-![һ](/NMediaFile/2020/1201/MAIN202012011509357009157273944.jpg)
-![ǵС](/NMediaFile/2020/0925/MAIN202009251050366854445419713.png)
-![й֮](/NMediaFile/2020/0122/MAIN202001221309511584481637913.jpg)
-
-## Ƶ
-
-![80뿴ѩ人](/NMediaFile/2020/1214/MAIN202012141422173013348917548.jpg)
-
-![](/img/2016wb/images/tvicon.png)80뿴ѩ人
-
-![](/img/2016wb/images/tvicon.png)
-![׶](/NMediaFile/2020/1214/MAIN202012141422180011629189054.jpg)
-
-![](/img/2016wb/images/tvicon.png)׶
-
-![](/img/2016wb/images/tvicon.png)
-![ǭӭĶڡ](/NMediaFile/2020/1214/MAIN202012141422183533213195453.jpg)
-
-![](/img/2016wb/images/tvicon.png)ǭӭĶڡ
-
-![](/img/2016wb/images/tvicon.png)
-![80ѧӢ](/NMediaFile/2020/1214/MAIN202012141422176490240796835.jpg)
-
-![](/img/2016wb/images/tvicon.png)80ѧӢ
-
-![](/img/2016wb/images/tvicon.png)
-
-## ȵ
-
-![](http://counter.people.cn:8000/c.gif?id=31684100)
+埃克森美孚广东惠州乙烯项目是美国企业在华独资建设的首个重大石化项目，总投资约100亿美元，主要建设160万吨/年乙烯等装置。项目坚持互惠互利、合作共赢，有利于促进我国石化产业优化升级，提升粤港澳大湾区竞争优势。在新冠肺炎疫情对世界经济造成严重冲击的形势下，埃克森美孚广东惠州乙烯项目开工，对于增强各方战胜疫情信心、深化国际经贸合作具有重要意义。

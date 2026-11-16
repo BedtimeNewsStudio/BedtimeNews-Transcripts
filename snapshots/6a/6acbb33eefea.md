@@ -1,164 +1,41 @@
 ---
 source_url: "http://finance.people.com.cn/n1/2024/0103/c1004-40151804.html"
-captured_at: 2026-11-08T13:35:37Z
-title: "ʽ2023ǳ13% 2024꽫ٴ¸ߣ--áƼ--"
-tool: tavily
+captured_at: 2026-11-16T10:30:45Z
+title: "国际金价2023年涨超13% 2024年将再创新高？--经济・科技--人民网"
+tool: native-http
 ---
 
-> **网页快照**：2026-11-08 13:35 UTC 抓取自 [原始页面](http://finance.people.com.cn/n1/2024/0103/c1004-40151804.html)（工具：tavily）。
+> **网页快照**：2026-11-16 10:30 UTC 抓取自 [原始页面](http://finance.people.com.cn/n1/2024/0103/c1004-40151804.html)（工具：native-http）。
 
-# ʽ2023ǳ13% 2024꽫ٴ¸ߣ--áƼ--
+# 国际金价2023年涨超13% 2024年将再创新高？
 
-![](http://www.people.com.cn/img/2020peopleindex/img/logo_share_ap.jpg)
-![](/img/2020wbc/imgs/logo.png "")
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/dyz/01.png)
-![](/img/2020peopleindex/img/dyz/02.png)
-![](/img/2020peopleindex/img/dyz/03.png)
-![](/img/2020peopleindex/img/dyz/04.png)
-![](/img/2020peopleindex/img/dyz/05.png)
-![](/img/2020peopleindex/img/dyz/06.png)
-![](/img/2020peopleindex/img/dyz/07.png)
-![](/img/2020peopleindex/img/dyz/08.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/dyz/09.png)
-![](/img/2020peopleindex/img/dyz/10.png)
-![](/img/2020peopleindex/img/dyz/11.png)
-![](/img/2020peopleindex/img/dyz/12.png)
-![](/img/2020peopleindex/img/dyz/13.png)
-![](/img/2020peopleindex/img/dyz/14.png)
-![](/img/2020peopleindex/img/dyz/15.png)
-![](/img/2020peopleindex/img/dyz/16.png)
-![](/img/2020peopleindex/img/dyz/17.png)
-![](/img/2020peopleindex/img/dyz/19.png)
-![](/img/2020peopleindex/img/dyz/20.png)
-![](/img/2020peopleindex/img/dyz/21.png)
-![](/img/2020peopleindex/img/dyz/taiy4.png)
-![](/img/2020peopleindex/img/dyz/maly.png)
-![](/img/2020peopleindex/img/dyz/xila.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/rmwjia1.png)
-![](/img/2020peopleindex/img/wza.png)
-![](/img/2020peopleindex/img/more2.png)
-![](/img/2020peopleindex/img/sou1.png)
-![](/img/2020peopleindex/img/dltx1.png)
+*小字号*
 
-# 
+2023年，在多国央行购金等多重因素影响下，黄金表现较好。从期货价格看，COMEX黄金在2023年全年累计涨幅达到13.45%，为2020年来最大年度涨幅。2023年12月4日，国际金价冲破2100美元/盎司关口，最高触及2152.3美元/盎司，创下历史新高。
 
-![](/img/2020peopleindex/img/logo_red.png)
-![](/img/2020peopleindex/img/icon_more0.png)
-![](/img/2020peopleindex/img/icon_more1.png)
-![](/img/2020peopleindex/img/icon_more2.png)
-![](/img/2020peopleindex/img/icon_more3.png)
-![](/img/2020peopleindex/img/icon_more4.png)
+进入2024年，市场当前看多金价的观点占据压倒性优势。接受《证券日报》记者采访的多位专家表示，2024年金价或仍有机会再创新高。
 
-### ձϵ
+“美联储降息预期下，2024年初黄金依旧有机会再次冲击历史高点。”领秀财经首席分析师刘思源在接受《证券日报》记者采访时表示，对于2024年下半年走势，在美联储兑现降息预期后，空头可能反扑，因此全年金价可能呈现“冲高回调”的走势。
 
-### վ
+巨丰投顾高级投资顾问于晓明对记者表示：“2024年金价可能会继续上涨，并创下新纪录。一方面，全球通胀压力继续减弱，2023年海外主要央行的基调也开始发生变化，从超级‘鹰派’变得缓和，最终在去年年底前转向‘偏鸽’，将利好金价。另一方面，市场预计最早在2024年第一季度末，美联储将开始降息，这也将推动金价上涨。”
 
-### ·ƽ̨
+Wind数据显示，2023年，美元指数跌幅约为2.04%，创2020年来最大跌幅，与同期国际金价涨幅形成鲜明对比。
 
-### 
+财信证券研报认为，美联储本轮加息周期或已结束，美国利率可能在较高水平停留一段时间后迎来转向，美元指数、美债实际收益率下行，黄金价格反弹，叠加当前欧美主要发达经济体衰退迹象显现，中长期持续看好金价中枢上涨。
 
-# ʽ2023ǳ13% 2024꽫ٴ¸ߣ
+海南大学“一带一路”研究院院长、丝路智谷研究院院长梁海明在接受《证券日报》记者时表示，除美联储降息因素外，全球多国大选、国际地缘政治风险持续、全球通胀暂未完全解决等因素，都有机会助长金价再升，有力挑战2200美元/盎司甚至2300美元/盎司。
 
-#### 
+中央财经大学证券期货研究所研究员、内蒙古银行研究发展部总经理杨海平对《证券日报》记者表示，“美联储加息周期结束、何时开启降息通道”将成为影响金价趋势最重要的因素。
 
-![](/img/2020wbc/imgs/icon_type.png)
+具体看，梁海明认为，要关注美国首次降息的时机，以及降息速度。同时，也要关注欧洲、日本等央行是否会马上跟随降息以及其降息幅度。一旦欧美多国的货币政策转向，全球投资组合将会重组，资金也有很大可能流向黄金市场，从而影响黄金价格。
 
-2023꣬ڶйȶӰ£ƽֽϺáڻ۸񿴣COMEXƽ2023ȫۼǷﵽ13.45%Ϊ2020Ƿ2023124գʽ۳2100Ԫ/˾ؿڣߴ2152.3Ԫ/˾ʷ¸ߡ
+刘思源表示，美联储需要在今年启动降息协助经济“软着陆”，由此美元指数可能跌破100，有助于黄金多头。同时，在美联储货币政策这一主要影响因素外，全球地缘政治风险仍在发酵，黄金的避险属性依旧很强。预计全球央行也将在2024年持续买入黄金，给市场带来大量现货需求。
 
-2024꣬гǰ۵Ĺ۵ռѹơܡ֤ȯձ߲ɷõĶλרұʾ2024ۻлٴ¸ߡ
+杨海平表示，在全球去美元化和避险、保值考量推动下，全球央行增配黄金会持续，将为金价提供有力支撑。2024年黄金价格将在高位徘徊，且金价创新高概率很大。
 
-ϢԤ£2024ƽлٴγʷߵ㡣ƾϯʦ˼Դڽܡ֤ȯձ߲ɷʱʾ2024°ƣֽϢԤں󣬿ͷܷˣȫۿܳ֡߻صơ
+*分享让更多人看到*
 
-޷Ͷ˸߼ͶʹԼ߱ʾ2024ۿܻǣ¼¼һ棬ȫͨѹ2023꺣ҪеĻҲʼ仯ӳӥɡûͣȥǰתƫ롯ýۡһ棬гԤ2024һĩʼϢҲƶǡ
+##### 推荐阅读
 
-Windʾ2023꣬ԪָԼΪ2.04%2020ͬڹʽǷγԱȡ
-
-֤ȯбΪּϢڻѽʿڽϸˮƽͣһʱӭתԪָծʵУƽ۸񷴵ӵǰŷҪﾭ˥˼֣гڳýǡ
-
-ϴѧһһ·оԺԺ˿·ǹоԺԺڽܡ֤ȯձʱʾϢ⣬ȫѡʵԵηճȫͨδȫأлս2200Ԫ/˾2300Ԫ/˾
-
-ƾѧ֤ȯڻооԱɹоչܾƽԡ֤ȯձ߱ʾϢڽʱϢͨΪӰҪء
-
-忴ΪҪע״νϢʱԼϢٶȡͬʱҲҪעŷޡձǷϸ潵ϢԼ併ϢȡһŷĻתȫͶϽ飬ʽҲкܴƽгӶӰƽ۸
-
-˼ԴʾҪڽϢЭá½ɴԪָܵ100ڻƽͷͬʱһҪӰ⣬ȫԵηڷͣƽıɺǿԤȫҲ2024ƽ𣬸гֻ
-
-ƽʾȫȥԪͱաֵƶ£ȫƽΪṩ֧š2024ƽ۸ڸλǻҽ۴¸߸ʺܴ
-
-|  |
-| --- |
-|  |
-
-![עںţƾ](/NMediaFile/2022/0801/MAIN202208010936066173860781061.jpg)
-
-*ø˿ *![](/img/2020wbc/imgs/share.png)**
-
-![](/img/2020wbc/imgs/share.png)
-
-##### ƼĶ
-
-##### ͻ
-
-![](/img/2020wbc/imgs/icon_download_rmrb.png)
-![](/img/2020wbc/imgs/icon_download_rmwj1.png)
-![](/img/2020wbc/imgs/icon_download_rmw.png)
-![](/img/2020wbc/imgs/icon_download_ly.png)
-![](/img/2020wbc/imgs/icon_download_video.png)
-![](/img/2020wbc/imgs/icon_download_zz.png)
-
-### 
-
-![΢ɨһɨ
-ṩ](/NMediaFile/2022/0801/MAIN202208010935511458538308755.jpg)
-
-[ձſ](http://www.people.com.cn/GB/1018/22259/index.html)|
-[](http://www.people.com.cn/GB/50142/420117/index.html)|
-[Ƹ](http://hr.peopledaily.com.cn/)|
-[ƸӢ](http://job.people.com.cn/)|
-[](http://www.people.com.cn/GB/208743/403202/index.html)|
-[](http://www.people.com.cn/GB/208743/403202/403212/index.html)|
-[](http://gonggao.people.com.cn/)|
-[ݷ](http://data.people.com.cn/)|
-[վ](http://www.people.com.cn/n/2013/1227/c373005-23961344.html)|
-[վʦ](http://www.people.com.cn/n1/2019/0308/c420117-30965009.html)|
-[Ϣ](http://sso.people.com.cn/resource/html/userInforPro.html)|
-[ϵ](http://kf.people.com.cn/)
-
-ձΥͲϢٱ绰010-65363263    ٱ䣺[jubao@people.cn](mailto:jubao@people.cn)
-
-䣺[kf@people.cn](mailto:kf@people.cn)    ΥͲϢٱ绰010-65363636    ٱ䣺[rmwjubao@people.cn](mailto:rmwjubao@people.cn)
-
-[Ϣ֤10120170001](http://www.people.com.cn/img/2014xuke/2018hlwxw.html)  |  [ֵҵӪ֤B1-20060139](http://www.people.com.cn/img/2014xuke/2018zzdxxkz.html)  |  [㲥ӽĿӪ֤ýֵ172](http://www.people.com.cn/img/2019peopleindex/html/gbds2019.html)  |  [ICP12004265-13](http://beian.miit.gov.cn)
-
-[Ϣ紫Ŀ֤0104065](http://www.people.com.cn/img/2011zzzs/2018xxwlcb.htm) | [ĻӪ֤ [2020]5494-1075](http://www.people.com.cn/img/2014xuke/2018wlwh.html) | [֤121](http://www.people.com.cn/img/2014xuke/2018wlcb.html) | [ICP֤000006](http://www.people.com.cn/img/2014xuke/2018icp.html) | [11000002000008](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000008)
-
-        ˾  Ȩ   δ     Ȩ  ֹ ʹ   
-Copyright © 1997-2024 by www.people.com.cn. all rights reserved
-
-[![](/img/2020peopleindex/img/copy_py2.png)](http://www.piyao.org.cn/)
-[![](/img/2020peopleindex/img/copy_icon1.png)](http://www.people.com.cn/img/2014xuke/2018icp.html)
-[![](/img/2020peopleindex/img/copy_icon2.png)](https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951)
-[![](/img/2020peopleindex/img/copy_icon3.png)](http://si.trustutn.org/info?sn=470170320027574551118&certType=1)
-[![](/img/2020peopleindex/img/copy_icon4.png)](http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html)
-[![](/img/2020peopleindex/img/wzahg.png)](#)
-
-![](/img/2020peopleindex/img/copy_py2.png)
-![](/img/2020peopleindex/img/copy_icon1.png)
-![](/img/2020peopleindex/img/copy_icon2.png)
-![](/img/2020peopleindex/img/copy_icon3.png)
-![](/img/2020peopleindex/img/copy_icon4.png)
-![](/img/2020peopleindex/img/wzahg.png)
-![](/img/2020wbc/imgs/share_bbs.png)
-![](/img/2020wbc/imgs/sj_wx.jpg)
-![](/img/2020wbc/imgs/sj_wb.jpg)
-![](/img/2020wbc/imgs/sj_ks.png)
-![](http://counter.people.cn:8000/c.gif?id=40151804)
+- 评论
+- 关注

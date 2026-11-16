@@ -1,363 +1,328 @@
 ---
 source_url: "https://news.sohu.com/20090313/n262783818.shtml"
-captured_at: 2026-11-08T14:49:17Z
-title: "й両˵ ˴Ȩ-Ѻ"
-tool: tavily
+captured_at: 2026-11-16T10:31:44Z
+title: "中国民间浮现游说集团 多渠道向人大诉求权益-搜狐新闻"
+tool: native-http
 ---
 
-> **网页快照**：2026-11-08 14:49 UTC 抓取自 [原始页面](https://news.sohu.com/20090313/n262783818.shtml)（工具：tavily）。
-
-# й両˵ ˴Ȩ-Ѻ
-
-![Ѻվ](https://news.sohu.com/images/20061223/sohu_logo.gif)
-![Ѻ-Ѻվ](https://images.sohu.com/uiue/sohu_logo/2006/news_logo3.gif)
-
-# й両˵ ˴Ȩ
-
-![](https://photocdn.sohu.com/20061227/Img247291625.gif)
-
-|  |  |  | --- |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | --- |  |  |  |
-
-|  |
-| --- |
-|  |
-
-|  |
-| --- |
-|  |
-
-## 
-
-## Ƽ
-
-## [Ҫ](https://news.sohu.com/fuwu/)
-
-![](https://photocdn.sohu.com/20071227/Img254336122.gif)
-
-##### û  صַ Ϊۻ
-
-#### [\*ѹƴ뷨Ĵר>>](https://news.sohu.com?p=51231100)
-
-### [˵](https://comment2.news.sohu.com/viewcomments.action?id=262783818)
-
-|  |  |  |  |  |  |  |  |  |  | --- | --- | --- | --- | --- | --- | --- | --- |  | [ѹ](https://news.sohu.com/) | [](javascript:void(0)) | [ҳ](javascript:void(0)) | [](javascript:void(0)) | [](javascript:void(0)) | [ͼƬ](javascript:void(0)) | [˵](javascript:void(0)) |  |  |  |  |  | --- | --- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |  |  |  |  | --- |  | [¶̬](https://news.sohu.com/news?query=&sort=0&p=02210300) [η](https://news.sohu.com/news?query=ձ&sort=0&p=02210300) [ɽ¹](https://news.sohu.com/news?query=ɽ¹&p=02210300) [˰ȫ](https://news.sohu.com/news?query=˰ȫ&sort=0&p=02210300) [軪¼](https://news.sohu.com/news?query=軪&sort=0&p=02210300) |  | [](https://news.sohu.com/news?query=&sort=0&p=01010302) [CNNǸ](https://news.sohu.com/news?query=CNNǸ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
- 
- &sort=0&p=02210300) [Ǽ](https://news.sohu.com/news?query=&sort=0&p=02210300) [¥̽](https://news.sohu.com/news?query=¥̽&p=02210300) [ڲ](https://news.sohu.com/news?query=ڲ&p=02210300) [ʳ](https://news.sohu.com/news?query=ʳ&p=02210300) | | [ ת](https://news.sohu.com/news?query=籣ת&sort=0&p=01010302) [зϵ](https://news.sohu.com/news?query=зϵ&sort=0&p=02210300) [¹ɧ](https://news.sohu.com/news?query=¹ɧ
- 
- &sort=0&p=02210300) [籩](https://news.sohu.com/news?query=籩&sort=0&p=02210300) [ʧҵ](https://news.sohu.com/news?query=ʧҵ&sort=0&p=02210300) |  |  | | --- | | [29г](https://news.sohu.com/488301/S54E2sHteEhIBAAAA.html?&p=02210111) [ʧ](https://news.sohu.com/520174/ND2UX96SD4gIBAAAA.html?&p=02210112) [ʾϰ](https://news.sohu.com/331181/zuB_JeRm3ugIBAAAA-1.html?&p=02210113) [ձ](https://news.sohu.com/141120/QeH2p1B9sDhIBAAAA.html?p=02210114) | | [ʯվ](https://news.sohu.com/185944/6yPDBNxyWwgIBAAAA-1.html?&p=02210121) [۸ܽ](https://news.sohu.com/242508/D4o6TZsXbwgIBAAAA-1.html?&p=02210122) [ռط](https://news.sohu.com/340629/vuKnSDEdYqgIBAAAA-1.html?&p=02210123) [ձ](https://news.sohu.com/454704/W15R4vTvD8fIBAAAA-1.html?&p=02210124) | | [ţϴ](https://news.sohu.com/141120/SCHQrSylwugIBAAAA.html?&p=02210131) [йԵ׽](https://news.sohu.com/110218/EVU8uhOc8sfIBAAAA.html?&p=02210132) [](https://news.sohu.com/141120/YGpiT5CpPhgIBAAAA.html?&p=02210133) [й](https://news.sohu.com/141120/LmlufDXIyggIBAAAA.html?&p=02210134) |  |  | | --- | | [ϲ](https://news.sohu.com/feitianxishi.html?p=02230600) [Ӱ](https://v.tv.sohu.com/huoyingrenzhe.html?p=02230600) [ҵųҵ](https://news.sohu.com/tuanzhang.html?p=02230600) [ר](https://v.tv.sohu.com/album/linxinru.html?p=02230600) [ҵഺ˭](https://v.tv.sohu.com/qingchun.html?p=02230600) | | [Ǳ](https://news.sohu.com/qianfu.html?p=02230600) [ִ](https://news.sohu.com/heizhishi.html?p=02230600) [½ְԱ](https://news.sohu.com/xinjinzhiyuan.html?p=02230600) [1ŵ](https://news.sohu.com/kafei.html?p=02230600) [ֽ](https://news.sohu.com/zhizuijinmi.html?p=02230600) [ҵ˧ܼ](https://v.tv.sohu.com/guanjia.html?p=02230600) | | [С](https://news.sohu.com/album/xiaoshenyang.html?p=02230600) [ǳ۾Ӱ](https://v.tv.sohu.com/album/zhouxingchi.html?p=02230600) [](https://v.tv.sohu.com/sishen.html?p=02230600) [󷢵Ӱȫ](https://v.tv.sohu.com/album/zhourunfa.html?p=02230600) [¸پ](https://news.sohu.com/album/guodegang.html?p=02230600) |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  | | --- | | [и](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [Ӣĸ](https://news.sohu.com/sogou_phb/html/category/classic_en.html?p=02210200) [ϸ](https://news.sohu.com/sogou_phb/html/category/classic_zh.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/nonmainstream.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/7c/detailSinger_%C0%EE%D3%EE%B4%BA.html?p=02210200) [˸и](https://news.sohu.com/sogou_phb/html/topic/cure.html?p=02210200) | | [DJ](https://news.sohu.com/sogou_phb/html/category/dj.html?p=02210200) [¸](https://news.sohu.com/sogou_phb/html/song/newtop.html?p=02210200) [Mp3](https://news.sohu.com?p=02210200) [Ÿ](https://news.sohu.com/sogou_phb/html/category/j5.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/crosstalk.html?p=02210200) [ܽ](https://news.sohu.com/sogou_phb/html/singer/48/detailSinger_%D6%DC%BD%DC%C2%D7.html?p=02210200) | | [](https://news.sohu.com/sogou_phb/html/singer/a7/detailSinger_%CD%F5%C1%A6%BA%EA.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/83/detailAlbum_%BB%A8%D1%F9%C4%D0%D7%D3!!%BB%A8%D1%F9%C4%D0%D7%D3%A3%A8%B5%E7%CA%D3%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9%A3%A8%BA%AB%B0%E6%A3%A9.html?p=02210200) [ߺ](https://news.sohu.com/sogou_phb/html/singer/28/detailAlbum_%BA%A3%BD%C7%C6%DF%BA%C5!!%BA%A3%BD%C7%C6%DF%BA%C5%A3%A8%B5%E7%D3%B0%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9.html?p=02210200) [ĸ](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [ֿ](https://news.sohu.com/sogou_phb/html/singer/cf/detailSinger_%C1%D6%BF%A1%BD%DC.html?p=02210200) [ֻ](https://news.sohu.com/sogou_phb/html/topic/morningring.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/b3/detailSinger_%B2%CC%D2%C0%C1%D6.html?p=02210200&dr=1) | |  |  |  |  | | --- | | [źͼƬ](https://news.sohu.com/imgcate/d/10/%25D5%25C5%25BA%25B2.html) [ͼƬ](https://news.sohu.com/imgcate/b4.html) [Ů](https://news.sohu.com/imgcate/b1.html) [](https://news.sohu.com/imgcate/d/5/%25CC%25C0%25BC%25D3%25C0%25F6.html) [ͼ](https://news.sohu.com/imgcate/s17.html) [ԸŮ](https://news.sohu.com/imgcate/b2.html) [Ž](https://news.sohu.com/imgcate/d/10/%25D5%25C5%25BD%25DC.html) | | [ֽ](https://news.sohu.com/imgcate/b5.html) [ЦͼƬ](https://news.sohu.com/imgcate/b6.html) [ֻͼƬ](https://news.sohu.com/imgcate/s17.html) [](https://news.sohu.com/imgcate/d/10/%25D3%25E1%25E5%25B0%25C3%25F7.html) [](https://news.sohu.com/imgcate/d/6/%25CA%25E6%25E4%25BF.html) [qqռͼƬ](https://news.sohu.com/imgcate/s16.html) [](https://news.sohu.com/imgcate/d/5/%25D5%25C5%25F3%25E3%25D3%25EA.html) | | [](https://news.sohu.com/imgcate/d/5/%25CC%25C0%25B7%25BC.html) [qqǩ](https://news.sohu.com/imgcate/s15.html) [ռ](https://news.sohu.com/imgcate/s16.html) [](https://news.sohu.com/imgcate/d/5/%25C1%25F5%25D2%25E0%25B7%25C6.html) [κ](https://news.sohu.com/imgcate/d/10/%25CE%25BA%25B3%25BF.html) [ͨ](https://news.sohu.com/imgcate/b8.html) [ͼƬ](https://news.sohu.com/imgcate/b15.html) |  |  | | --- | | [[Ӱ](https://news.sohu.com/listCategory.do?param=%5B%D3%E9%C0%D6%5D&pid=31027101&p=02210400)] [](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=
- 
- &pid=31027101&p=02210400) [¡](https://news.sohu.com/searchIn.do?query=¡&pid=31027101&p=02210400) [Ҧ](https://news.sohu.com/searchIn.do?query=Ҧ&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=
- 
- &pid=31027101&p=02210400) [Ž](https://news.sohu.com/searchIn.do?
- 
- query=Ž&pid=31027101&p=02210400) | | [[](https://news.sohu.com/listCategory.do?param=%5B%CC%E5%D3%FD%
- 
- 5D&pid=31027101&p=02210400)] [ж](https://news.sohu.com/searchIn.do?query=ж&pid=31027101&p=02210400) [֣](https://news.sohu.com/searchIn.do?query=֣
- 
- &pid=31027101&p=02210400) [Ҧ](https://news.sohu.com/searchIn.do?
- 
- query=Ҧ&pid=31027101&p=02210400) [ ʲ](https://news.sohu.com/searchIn.do?query=ʲ&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=%C2%F3%B5%
- 
- CF&r=join-bar&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) | | [[˵](https://news.sohu.com/listCategory.do?param=%5B%CC%D8%B6%A8%BF%D5%BC%
- 
- E4%2C%B8%F6%C8%CB%CB%B5%B0%C9%5D&pid=31027101&p=02210400)] [СӁ](https://news.sohu.com/searchIn.do?query=СӁ
- 
- &pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=%BA%C2%CA%C0&r=join-bar&pid=31027101&p=02210400) [Ů龉](https://news.sohu.com/searchIn.do?query=%D0%A1%CF%C9%C5%AE%C7%E9%BE%89&r=join-
- 
- bar&pid=31027101&p=02210400) [Сع](https://news.sohu.com/searchIn.do?query=%D0%A1%D6%ED%CC%D8%B9%A4%B6%D3&r=join-
- 
- bar&pid=31027101&p=02210400) [ ](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) | | |
-
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| [ѹ](https://news.sohu.com/) | [](javascript:void(0)) | [ҳ](javascript:void(0)) | [](javascript:void(0)) | [](javascript:void(0)) | [ͼƬ](javascript:void(0)) | [˵](javascript:void(0)) |  |
-
-![ѹ](https://it.sohu.com/upload/sogou/060908/images/sogou.gif)
-
-|  |  |
-| --- | --- |
-|  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | --- |  | [¶̬](https://news.sohu.com/news?query=&sort=0&p=02210300) [η](https://news.sohu.com/news?query=ձ&sort=0&p=02210300) [ɽ¹](https://news.sohu.com/news?query=ɽ¹&p=02210300) [˰ȫ](https://news.sohu.com/news?query=˰ȫ&sort=0&p=02210300) [軪¼](https://news.sohu.com/news?query=軪&sort=0&p=02210300) |  | [](https://news.sohu.com/news?query=&sort=0&p=01010302) [CNNǸ](https://news.sohu.com/news?query=CNNǸ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
- 
- &sort=0&p=02210300) [Ǽ](https://news.sohu.com/news?query=&sort=0&p=02210300) [¥̽](https://news.sohu.com/news?query=¥̽&p=02210300) [ڲ](https://news.sohu.com/news?query=ڲ&p=02210300) [ʳ](https://news.sohu.com/news?query=ʳ&p=02210300) | | [ ת](https://news.sohu.com/news?query=籣ת&sort=0&p=01010302) [зϵ](https://news.sohu.com/news?query=зϵ&sort=0&p=02210300) [¹ɧ](https://news.sohu.com/news?query=¹ɧ
- 
- &sort=0&p=02210300) [籩](https://news.sohu.com/news?query=籩&sort=0&p=02210300) [ʧҵ](https://news.sohu.com/news?query=ʧҵ&sort=0&p=02210300) |  |  | | --- | | [29г](https://news.sohu.com/488301/S54E2sHteEhIBAAAA.html?&p=02210111) [ʧ](https://news.sohu.com/520174/ND2UX96SD4gIBAAAA.html?&p=02210112) [ʾϰ](https://news.sohu.com/331181/zuB_JeRm3ugIBAAAA-1.html?&p=02210113) [ձ](https://news.sohu.com/141120/QeH2p1B9sDhIBAAAA.html?p=02210114) | | [ʯվ](https://news.sohu.com/185944/6yPDBNxyWwgIBAAAA-1.html?&p=02210121) [۸ܽ](https://news.sohu.com/242508/D4o6TZsXbwgIBAAAA-1.html?&p=02210122) [ռط](https://news.sohu.com/340629/vuKnSDEdYqgIBAAAA-1.html?&p=02210123) [ձ](https://news.sohu.com/454704/W15R4vTvD8fIBAAAA-1.html?&p=02210124) | | [ţϴ](https://news.sohu.com/141120/SCHQrSylwugIBAAAA.html?&p=02210131) [йԵ׽](https://news.sohu.com/110218/EVU8uhOc8sfIBAAAA.html?&p=02210132) [](https://news.sohu.com/141120/YGpiT5CpPhgIBAAAA.html?&p=02210133) [й](https://news.sohu.com/141120/LmlufDXIyggIBAAAA.html?&p=02210134) |  |  | | --- | | [ϲ](https://news.sohu.com/feitianxishi.html?p=02230600) [Ӱ](https://v.tv.sohu.com/huoyingrenzhe.html?p=02230600) [ҵųҵ](https://news.sohu.com/tuanzhang.html?p=02230600) [ר](https://v.tv.sohu.com/album/linxinru.html?p=02230600) [ҵഺ˭](https://v.tv.sohu.com/qingchun.html?p=02230600) | | [Ǳ](https://news.sohu.com/qianfu.html?p=02230600) [ִ](https://news.sohu.com/heizhishi.html?p=02230600) [½ְԱ](https://news.sohu.com/xinjinzhiyuan.html?p=02230600) [1ŵ](https://news.sohu.com/kafei.html?p=02230600) [ֽ](https://news.sohu.com/zhizuijinmi.html?p=02230600) [ҵ˧ܼ](https://v.tv.sohu.com/guanjia.html?p=02230600) | | [С](https://news.sohu.com/album/xiaoshenyang.html?p=02230600) [ǳ۾Ӱ](https://v.tv.sohu.com/album/zhouxingchi.html?p=02230600) [](https://v.tv.sohu.com/sishen.html?p=02230600) [󷢵Ӱȫ](https://v.tv.sohu.com/album/zhourunfa.html?p=02230600) [¸پ](https://news.sohu.com/album/guodegang.html?p=02230600) |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | |  | | --- | | [и](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [Ӣĸ](https://news.sohu.com/sogou_phb/html/category/classic_en.html?p=02210200) [ϸ](https://news.sohu.com/sogou_phb/html/category/classic_zh.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/nonmainstream.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/7c/detailSinger_%C0%EE%D3%EE%B4%BA.html?p=02210200) [˸и](https://news.sohu.com/sogou_phb/html/topic/cure.html?p=02210200) | | [DJ](https://news.sohu.com/sogou_phb/html/category/dj.html?p=02210200) [¸](https://news.sohu.com/sogou_phb/html/song/newtop.html?p=02210200) [Mp3](https://news.sohu.com?p=02210200) [Ÿ](https://news.sohu.com/sogou_phb/html/category/j5.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/crosstalk.html?p=02210200) [ܽ](https://news.sohu.com/sogou_phb/html/singer/48/detailSinger_%D6%DC%BD%DC%C2%D7.html?p=02210200) | | [](https://news.sohu.com/sogou_phb/html/singer/a7/detailSinger_%CD%F5%C1%A6%BA%EA.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/83/detailAlbum_%BB%A8%D1%F9%C4%D0%D7%D3!!%BB%A8%D1%F9%C4%D0%D7%D3%A3%A8%B5%E7%CA%D3%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9%A3%A8%BA%AB%B0%E6%A3%A9.html?p=02210200) [ߺ](https://news.sohu.com/sogou_phb/html/singer/28/detailAlbum_%BA%A3%BD%C7%C6%DF%BA%C5!!%BA%A3%BD%C7%C6%DF%BA%C5%A3%A8%B5%E7%D3%B0%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9.html?p=02210200) [ĸ](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [ֿ](https://news.sohu.com/sogou_phb/html/singer/cf/detailSinger_%C1%D6%BF%A1%BD%DC.html?p=02210200) [ֻ](https://news.sohu.com/sogou_phb/html/topic/morningring.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/b3/detailSinger_%B2%CC%D2%C0%C1%D6.html?p=02210200&dr=1) | |  |  |  |  | | --- | | [źͼƬ](https://news.sohu.com/imgcate/d/10/%25D5%25C5%25BA%25B2.html) [ͼƬ](https://news.sohu.com/imgcate/b4.html) [Ů](https://news.sohu.com/imgcate/b1.html) [](https://news.sohu.com/imgcate/d/5/%25CC%25C0%25BC%25D3%25C0%25F6.html) [ͼ](https://news.sohu.com/imgcate/s17.html) [ԸŮ](https://news.sohu.com/imgcate/b2.html) [Ž](https://news.sohu.com/imgcate/d/10/%25D5%25C5%25BD%25DC.html) | | [ֽ](https://news.sohu.com/imgcate/b5.html) [ЦͼƬ](https://news.sohu.com/imgcate/b6.html) [ֻͼƬ](https://news.sohu.com/imgcate/s17.html) [](https://news.sohu.com/imgcate/d/10/%25D3%25E1%25E5%25B0%25C3%25F7.html) [](https://news.sohu.com/imgcate/d/6/%25CA%25E6%25E4%25BF.html) [qqռͼƬ](https://news.sohu.com/imgcate/s16.html) [](https://news.sohu.com/imgcate/d/5/%25D5%25C5%25F3%25E3%25D3%25EA.html) | | [](https://news.sohu.com/imgcate/d/5/%25CC%25C0%25B7%25BC.html) [qqǩ](https://news.sohu.com/imgcate/s15.html) [ռ](https://news.sohu.com/imgcate/s16.html) [](https://news.sohu.com/imgcate/d/5/%25C1%25F5%25D2%25E0%25B7%25C6.html) [κ](https://news.sohu.com/imgcate/d/10/%25CE%25BA%25B3%25BF.html) [ͨ](https://news.sohu.com/imgcate/b8.html) [ͼƬ](https://news.sohu.com/imgcate/b15.html) |  |  | | --- | | [[Ӱ](https://news.sohu.com/listCategory.do?param=%5B%D3%E9%C0%D6%5D&pid=31027101&p=02210400)] [](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=
- 
- &pid=31027101&p=02210400) [¡](https://news.sohu.com/searchIn.do?query=¡&pid=31027101&p=02210400) [Ҧ](https://news.sohu.com/searchIn.do?query=Ҧ&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=
- 
- &pid=31027101&p=02210400) [Ž](https://news.sohu.com/searchIn.do?
- 
- query=Ž&pid=31027101&p=02210400) | | [[](https://news.sohu.com/listCategory.do?param=%5B%CC%E5%D3%FD%
- 
- 5D&pid=31027101&p=02210400)] [ж](https://news.sohu.com/searchIn.do?query=ж&pid=31027101&p=02210400) [֣](https://news.sohu.com/searchIn.do?query=֣
- 
- &pid=31027101&p=02210400) [Ҧ](https://news.sohu.com/searchIn.do?
- 
- query=Ҧ&pid=31027101&p=02210400) [ ʲ](https://news.sohu.com/searchIn.do?query=ʲ&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=%C2%F3%B5%
- 
- CF&r=join-bar&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) | | [[˵](https://news.sohu.com/listCategory.do?param=%5B%CC%D8%B6%A8%BF%D5%BC%
- 
- E4%2C%B8%F6%C8%CB%CB%B5%B0%C9%5D&pid=31027101&p=02210400)] [СӁ](https://news.sohu.com/searchIn.do?query=СӁ
- 
- &pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=%BA%C2%CA%C0&r=join-bar&pid=31027101&p=02210400) [Ů龉](https://news.sohu.com/searchIn.do?query=%D0%A1%CF%C9%C5%AE%C7%E9%BE%89&r=join-
- 
- bar&pid=31027101&p=02210400) [Сع](https://news.sohu.com/searchIn.do?query=%D0%A1%D6%ED%CC%D8%B9%A4%B6%D3&r=join-
- 
- bar&pid=31027101&p=02210400) [ ](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) | |
-
-|  |
-| --- |
-| [¶̬](https://news.sohu.com/news?query=&sort=0&p=02210300) [η](https://news.sohu.com/news?query=ձ&sort=0&p=02210300) [ɽ¹](https://news.sohu.com/news?query=ɽ¹&p=02210300) [˰ȫ](https://news.sohu.com/news?query=˰ȫ&sort=0&p=02210300) [軪¼](https://news.sohu.com/news?query=軪&sort=0&p=02210300) |
-| [](https://news.sohu.com/news?query=&sort=0&p=01010302) [CNNǸ](https://news.sohu.com/news?query=CNNǸ |
- 
- &sort=0&p=02210300) [Ǽ](https://news.sohu.com/news?query=&sort=0&p=02210300) [¥̽](https://news.sohu.com/news?query=¥̽&p=02210300) [ڲ](https://news.sohu.com/news?query=ڲ&p=02210300) [ʳ](https://news.sohu.com/news?query=ʳ&p=02210300) |
-
-| [ ת](https://news.sohu.com/news?query=籣ת&sort=0&p=01010302) [зϵ](https://news.sohu.com/news?query=зϵ&sort=0&p=02210300) [¹ɧ](https://news.sohu.com/news?query=¹ɧ
- 
- &sort=0&p=02210300) [籩](https://news.sohu.com/news?query=籩&sort=0&p=02210300) [ʧҵ](https://news.sohu.com/news?query=ʧҵ&sort=0&p=02210300) |
-
-|  |
-| --- |
-| [29г](https://news.sohu.com/488301/S54E2sHteEhIBAAAA.html?&p=02210111) [ʧ](https://news.sohu.com/520174/ND2UX96SD4gIBAAAA.html?&p=02210112) [ʾϰ](https://news.sohu.com/331181/zuB_JeRm3ugIBAAAA-1.html?&p=02210113) [ձ](https://news.sohu.com/141120/QeH2p1B9sDhIBAAAA.html?p=02210114) |
-| [ʯվ](https://news.sohu.com/185944/6yPDBNxyWwgIBAAAA-1.html?&p=02210121) [۸ܽ](https://news.sohu.com/242508/D4o6TZsXbwgIBAAAA-1.html?&p=02210122) [ռط](https://news.sohu.com/340629/vuKnSDEdYqgIBAAAA-1.html?&p=02210123) [ձ](https://news.sohu.com/454704/W15R4vTvD8fIBAAAA-1.html?&p=02210124) |
-| [ţϴ](https://news.sohu.com/141120/SCHQrSylwugIBAAAA.html?&p=02210131) [йԵ׽](https://news.sohu.com/110218/EVU8uhOc8sfIBAAAA.html?&p=02210132) [](https://news.sohu.com/141120/YGpiT5CpPhgIBAAAA.html?&p=02210133) [й](https://news.sohu.com/141120/LmlufDXIyggIBAAAA.html?&p=02210134) |
-
-|  |
-| --- |
-| [ϲ](https://news.sohu.com/feitianxishi.html?p=02230600) [Ӱ](https://v.tv.sohu.com/huoyingrenzhe.html?p=02230600) [ҵųҵ](https://news.sohu.com/tuanzhang.html?p=02230600) [ר](https://v.tv.sohu.com/album/linxinru.html?p=02230600) [ҵഺ˭](https://v.tv.sohu.com/qingchun.html?p=02230600) |
-| [Ǳ](https://news.sohu.com/qianfu.html?p=02230600) [ִ](https://news.sohu.com/heizhishi.html?p=02230600) [½ְԱ](https://news.sohu.com/xinjinzhiyuan.html?p=02230600) [1ŵ](https://news.sohu.com/kafei.html?p=02230600) [ֽ](https://news.sohu.com/zhizuijinmi.html?p=02230600) [ҵ˧ܼ](https://v.tv.sohu.com/guanjia.html?p=02230600) |
-| [С](https://news.sohu.com/album/xiaoshenyang.html?p=02230600) [ǳ۾Ӱ](https://v.tv.sohu.com/album/zhouxingchi.html?p=02230600) [](https://v.tv.sohu.com/sishen.html?p=02230600) [󷢵Ӱȫ](https://v.tv.sohu.com/album/zhourunfa.html?p=02230600) [¸پ](https://news.sohu.com/album/guodegang.html?p=02230600) |
-
-|  |  |  | --- |  | [и](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [Ӣĸ](https://news.sohu.com/sogou_phb/html/category/classic_en.html?p=02210200) [ϸ](https://news.sohu.com/sogou_phb/html/category/classic_zh.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/nonmainstream.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/7c/detailSinger_%C0%EE%D3%EE%B4%BA.html?p=02210200) [˸и](https://news.sohu.com/sogou_phb/html/topic/cure.html?p=02210200) |  | [DJ](https://news.sohu.com/sogou_phb/html/category/dj.html?p=02210200) [¸](https://news.sohu.com/sogou_phb/html/song/newtop.html?p=02210200) [Mp3](https://news.sohu.com?p=02210200) [Ÿ](https://news.sohu.com/sogou_phb/html/category/j5.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/crosstalk.html?p=02210200) [ܽ](https://news.sohu.com/sogou_phb/html/singer/48/detailSinger_%D6%DC%BD%DC%C2%D7.html?p=02210200) |  | [](https://news.sohu.com/sogou_phb/html/singer/a7/detailSinger_%CD%F5%C1%A6%BA%EA.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/83/detailAlbum_%BB%A8%D1%F9%C4%D0%D7%D3!!%BB%A8%D1%F9%C4%D0%D7%D3%A3%A8%B5%E7%CA%D3%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9%A3%A8%BA%AB%B0%E6%A3%A9.html?p=02210200) [ߺ](https://news.sohu.com/sogou_phb/html/singer/28/detailAlbum_%BA%A3%BD%C7%C6%DF%BA%C5!!%BA%A3%BD%C7%C6%DF%BA%C5%A3%A8%B5%E7%D3%B0%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9.html?p=02210200) [ĸ](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [ֿ](https://news.sohu.com/sogou_phb/html/singer/cf/detailSinger_%C1%D6%BF%A1%BD%DC.html?p=02210200) [ֻ](https://news.sohu.com/sogou_phb/html/topic/morningring.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/b3/detailSinger_%B2%CC%D2%C0%C1%D6.html?p=02210200&dr=1) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
-![](https://images.sohu.com/ccc.gif)
-
-|  |
-| --- |
-| [и](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [Ӣĸ](https://news.sohu.com/sogou_phb/html/category/classic_en.html?p=02210200) [ϸ](https://news.sohu.com/sogou_phb/html/category/classic_zh.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/nonmainstream.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/7c/detailSinger_%C0%EE%D3%EE%B4%BA.html?p=02210200) [˸и](https://news.sohu.com/sogou_phb/html/topic/cure.html?p=02210200) |
-| [DJ](https://news.sohu.com/sogou_phb/html/category/dj.html?p=02210200) [¸](https://news.sohu.com/sogou_phb/html/song/newtop.html?p=02210200) [Mp3](https://news.sohu.com?p=02210200) [Ÿ](https://news.sohu.com/sogou_phb/html/category/j5.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/crosstalk.html?p=02210200) [ܽ](https://news.sohu.com/sogou_phb/html/singer/48/detailSinger_%D6%DC%BD%DC%C2%D7.html?p=02210200) |
-| [](https://news.sohu.com/sogou_phb/html/singer/a7/detailSinger_%CD%F5%C1%A6%BA%EA.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/83/detailAlbum_%BB%A8%D1%F9%C4%D0%D7%D3!!%BB%A8%D1%F9%C4%D0%D7%D3%A3%A8%B5%E7%CA%D3%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9%A3%A8%BA%AB%B0%E6%A3%A9.html?p=02210200) [ߺ](https://news.sohu.com/sogou_phb/html/singer/28/detailAlbum_%BA%A3%BD%C7%C6%DF%BA%C5!!%BA%A3%BD%C7%C6%DF%BA%C5%A3%A8%B5%E7%D3%B0%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9.html?p=02210200) [ĸ](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [ֿ](https://news.sohu.com/sogou_phb/html/singer/cf/detailSinger_%C1%D6%BF%A1%BD%DC.html?p=02210200) [ֻ](https://news.sohu.com/sogou_phb/html/topic/morningring.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/b3/detailSinger_%B2%CC%D2%C0%C1%D6.html?p=02210200&dr=1) |
+> **网页快照**：2026-11-16 10:31 UTC 抓取自 [原始页面](https://news.sohu.com/20090313/n262783818.shtml)（工具：native-http）。
 
-|  |
-| --- |
-| [и](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [Ӣĸ](https://news.sohu.com/sogou_phb/html/category/classic_en.html?p=02210200) [ϸ](https://news.sohu.com/sogou_phb/html/category/classic_zh.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/nonmainstream.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/7c/detailSinger_%C0%EE%D3%EE%B4%BA.html?p=02210200) [˸и](https://news.sohu.com/sogou_phb/html/topic/cure.html?p=02210200) |
-| [DJ](https://news.sohu.com/sogou_phb/html/category/dj.html?p=02210200) [¸](https://news.sohu.com/sogou_phb/html/song/newtop.html?p=02210200) [Mp3](https://news.sohu.com?p=02210200) [Ÿ](https://news.sohu.com/sogou_phb/html/category/j5.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/category/crosstalk.html?p=02210200) [ܽ](https://news.sohu.com/sogou_phb/html/singer/48/detailSinger_%D6%DC%BD%DC%C2%D7.html?p=02210200) |
-| [](https://news.sohu.com/sogou_phb/html/singer/a7/detailSinger_%CD%F5%C1%A6%BA%EA.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/83/detailAlbum_%BB%A8%D1%F9%C4%D0%D7%D3!!%BB%A8%D1%F9%C4%D0%D7%D3%A3%A8%B5%E7%CA%D3%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9%A3%A8%BA%AB%B0%E6%A3%A9.html?p=02210200) [ߺ](https://news.sohu.com/sogou_phb/html/singer/28/detailAlbum_%BA%A3%BD%C7%C6%DF%BA%C5!!%BA%A3%BD%C7%C6%DF%BA%C5%A3%A8%B5%E7%D3%B0%D4%AD%C9%F9%D2%F4%C0%D6%A3%A9.html?p=02210200) [ĸ](https://news.sohu.com/sogou_phb/html/song/topsong.html?p=02210200) [ֿ](https://news.sohu.com/sogou_phb/html/singer/cf/detailSinger_%C1%D6%BF%A1%BD%DC.html?p=02210200) [ֻ](https://news.sohu.com/sogou_phb/html/topic/morningring.html?p=02210200) [](https://news.sohu.com/sogou_phb/html/singer/b3/detailSinger_%B2%CC%D2%C0%C1%D6.html?p=02210200&dr=1) |
+# 中国民间浮现游说集团 多渠道向人大诉求权益-搜狐新闻
 
-![](https://images.sohu.com/ccc.gif)
-![](https://images.sohu.com/ccc.gif)
-![](https://images.sohu.com/ccc.gif)
+(声明：刊用《中国新闻周刊》稿件务经书面授权)
 
-|  |
-| --- |
-| [źͼƬ](https://news.sohu.com/imgcate/d/10/%25D5%25C5%25BA%25B2.html) [ͼƬ](https://news.sohu.com/imgcate/b4.html) [Ů](https://news.sohu.com/imgcate/b1.html) [](https://news.sohu.com/imgcate/d/5/%25CC%25C0%25BC%25D3%25C0%25F6.html) [ͼ](https://news.sohu.com/imgcate/s17.html) [ԸŮ](https://news.sohu.com/imgcate/b2.html) [Ž](https://news.sohu.com/imgcate/d/10/%25D5%25C5%25BD%25DC.html) |
-| [ֽ](https://news.sohu.com/imgcate/b5.html) [ЦͼƬ](https://news.sohu.com/imgcate/b6.html) [ֻͼƬ](https://news.sohu.com/imgcate/s17.html) [](https://news.sohu.com/imgcate/d/10/%25D3%25E1%25E5%25B0%25C3%25F7.html) [](https://news.sohu.com/imgcate/d/6/%25CA%25E6%25E4%25BF.html) [qqռͼƬ](https://news.sohu.com/imgcate/s16.html) [](https://news.sohu.com/imgcate/d/5/%25D5%25C5%25F3%25E3%25D3%25EA.html) |
-| [](https://news.sohu.com/imgcate/d/5/%25CC%25C0%25B7%25BC.html) [qqǩ](https://news.sohu.com/imgcate/s15.html) [ռ](https://news.sohu.com/imgcate/s16.html) [](https://news.sohu.com/imgcate/d/5/%25C1%25F5%25D2%25E0%25B7%25C6.html) [κ](https://news.sohu.com/imgcate/d/10/%25CE%25BA%25B3%25BF.html) [ͨ](https://news.sohu.com/imgcate/b8.html) [ͼƬ](https://news.sohu.com/imgcate/b15.html) |
+每年一次的全国两会还在召开，十一届全国人大代表和政协委员，仍在行使自己的权力，代表人民发言。
 
-|  |
-| --- |
-| [[Ӱ](https://news.sohu.com/listCategory.do?param=%5B%D3%E9%C0%D6%5D&pid=31027101&p=02210400)] [](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query= |
- 
- &pid=31027101&p=02210400) [¡](https://news.sohu.com/searchIn.do?query=¡&pid=31027101&p=02210400) [Ҧ](https://news.sohu.com/searchIn.do?query=Ҧ&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=
- 
- &pid=31027101&p=02210400) [Ž](https://news.sohu.com/searchIn.do?
- 
- query=Ž&pid=31027101&p=02210400) |
-
-| [[](https://news.sohu.com/listCategory.do?param=%5B%CC%E5%D3%FD%
- 
- 5D&pid=31027101&p=02210400)] [ж](https://news.sohu.com/searchIn.do?query=ж&pid=31027101&p=02210400) [֣](https://news.sohu.com/searchIn.do?query=֣
- 
- &pid=31027101&p=02210400) [Ҧ](https://news.sohu.com/searchIn.do?
- 
- query=Ҧ&pid=31027101&p=02210400) [ ʲ](https://news.sohu.com/searchIn.do?query=ʲ&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=%C2%F3%B5%
- 
- CF&r=join-bar&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) |
+但“人民”其实是一个抽象的政治概念。在具体的立法、决策过程中，真正具有权利诉求、具有利益主张、能够表达意见的，只能是具体的人和他们组成的团体。
 
-| [[˵](https://news.sohu.com/listCategory.do?param=%5B%CC%D8%B6%A8%BF%D5%BC%
- 
- E4%2C%B8%F6%C8%CB%CB%B5%B0%C9%5D&pid=31027101&p=02210400)] [СӁ](https://news.sohu.com/searchIn.do?query=СӁ
- 
- &pid=31027101&p=02210400) [](https://news.sohu.com/searchIn.do?query=%BA%C2%CA%C0&r=join-bar&pid=31027101&p=02210400) [Ů龉](https://news.sohu.com/searchIn.do?query=%D0%A1%CF%C9%C5%AE%C7%E9%BE%89&r=join-
- 
- bar&pid=31027101&p=02210400) [Сع](https://news.sohu.com/searchIn.do?query=%D0%A1%D6%ED%CC%D8%B9%A4%B6%D3&r=join-
- 
- bar&pid=31027101&p=02210400) [ ](https://news.sohu.com/searchIn.do?query=&pid=31027101&p=02210400) |
+因而，民意作为个体意见的聚合，就必须通过人大代表和政协委员来代表人民，并通过两会这样的公开政治参与，表达、沟通、公开博弈自己的主张，最后上升为法律层面的国家意志，以及具体的政府决策行为。可以说，向人大、政协及其常委会游说，乃是民众的权利。
 
-## [Ѻ](https://blog.sohu.com/)[>>](https://blog.sohu.com/)
+任何时代的任何政府和民意机关都会遭遇游说活动。民主政治的游说特征是公开。不同利益集团的利益主张，如何在两会这种政治参与方式上公开博弈，使公共决策更加透明，更加公正，有利于全体国民的整体利益，正是中国正在起步的人大政治之目的
 
-![Ѻ](/images/logo1227/sohu_blog.gif)
+**阅读导航：**
+(声明：刊用《中国新闻周刊》稿件务经书面授权)
 
-[![ʵģݸѧֱѧ](https://118.img.pp.sohu.com.cn/images/video/2009/7/14/8/26/1228da7e191.jpg)](https://v.blog.sohu.com/)
+公益组织与相关部委之间缺乏制度性联系渠道，是游说活动活跃的重要原因之一
 
-![ʵģݸѧֱѧ](https://118.img.pp.sohu.com.cn/images/video/2009/7/14/8/26/1228da7e191.jpg)
+本刊记者/周政华 文/刘洋硕
 
-##### [ѧֱѧ](https://v.blog.sohu.com/)
+“想表达想法，就得不停呐喊。”2月底，信孚教育集团董事长信力建，通过向一位全国人大代表提供议案的方式，用行动表达了自己的“呐喊”。
 
-[![ϰֻ˧Ķ](https://i2.itc.cn/20090601/6aa_65dd200c_7c28_44e1_9f10_7b799b63de8a_0.jpg)](https://q.sohu.com/hot.do)
+信力建的建议之一是，义务教育经费应由中央统一转移支付，覆盖所有的中小学教育机构，其中民办中小学也应享受相应的学杂费补贴。在过去的10年，信力建在广东开办的30多所学校，已经陆续倒闭了三分之一。
 
-![ϰֻ˧Ķ](https://i2.itc.cn/20090601/6aa_65dd200c_7c28_44e1_9f10_7b799b63de8a_0.jpg)
+眼下，信力建们正试图通过人大代表和政协委员，在“两会”中反映自身的利益诉求，以改变当前政府垄断教育资源分配的单一格局。
 
-##### [ԲԲͬع](https://q.sohu.com/hot.do)
+**民间游说集团浮现**
+信力建最早听到教育改革的风声，是在2008年春天。
 
-| [**ϣΪǸͷԶ**](https://blog.sohu.com/news/) |  |
-| --- | --- |
-| [ʷ](https://ilishi.blog.sohu.com/) | [ʱë(ͼ)](https://ilishi.blog.sohu.com/117254897.html) |
-| [](https://xiaofeidao.blog.sohu.com/) | [ˣھԳί](https://xiaofeidao.blog.sohu.com/117166719.html) |
-| [ʷ](https://ilishi.blog.sohu.com/) | [1977껪Ӳ](https://ilishi.blog.sohu.com/117177525.html) |
-| [](https://hanhaoyue.blog.sohu.com/) | [йˣ](https://hanhaoyue.blog.sohu.com/117179357.html) |
-| [](https://feihuayikuang.blog.sohu.com/) | [麣¼:µ˭](https://feihuayikuang.blog.sohu.com/117201482.html) |
-| [˳](https://kaiqishufang.blog.sohu.com/) | [ΰ̰ٹؽ](https://kaiqishufang.blog.sohu.com/117145539.html) |
-| [ԭ](https://zysx9091.blog.sohu.com/) | [쭳и׽ɫȱʧ](https://zysx9091.blog.sohu.com/117155781.html) |
-| [](https://caitianxin.blog.sohu.com/) | [ǻ(ͼ)](https://caitianxin.blog.sohu.com/117170169.html) |
-| [](https://wangpansh.blog.sohu.com/) | [س֮Ůʩ](https://wangpansh.blog.sohu.com/117206266.html) |
+这一年，四川、山西、湖南、湖北、内蒙古等地，接连发生要求涨薪的教师罢课事件，这在以往并不多见。在新公民之友志愿者服务计划的项目主管陈江华看来，这一系列事件无疑加速了教改的进度。与医改、房改一样，教改也是中国关注度最高的民生议题之一。
 
-ȵǩ[](https://tag.blog.sohu.com/%D5%C2%D7%D3%E2%F9/) [](https://tag.blog.sohu.com/%B4%BA%D4%CB/) [¸](https://tag.blog.sohu.com/%B9%F9%B5%C2%B8%D9/) [315](https://tag.blog.sohu.com/315/) [Ǵ](https://tag.blog.sohu.com/%C3%F7%D0%C7%B4%FA%D1%D4/) [](https://tag.blog.sohu.com/%BA%CE%D6%C7%C0%F6/) [Ҷ](https://tag.blog.sohu.com/%D2%B6%D3%C0%C1%D2/) [⾴](https://tag.blog.sohu.com/%CE%E2%BE%B4%E7%F6/) [ѩ](https://tag.blog.sohu.com/%B1%A9%B7%E7%D1%A9/) [ڵ](https://tag.blog.sohu.com/%D3%DA%B5%A4/) [](https://tag.blog.sohu.com/%B3%C2%CF%FE%D0%F1/) [Ļ](https://tag.blog.sohu.com/%CE%C4%BB%AF/) [Ʊ](https://tag.blog.sohu.com/%C6%B1%BC%DB/) [](https://tag.blog.sohu.com/%BF%D7%D7%D3/) [](https://tag.blog.sohu.com/%B7%BF%BC%DB/)
+随后，2008年8月，《国家中长期教育改革和发展规划纲要》(以下简称《纲要》)正式列入政府工作计划，由教育部牵头负责。
 
-## [˵ ](https://news.sohu.com/)[>>](https://news.sohu.com/)
+这份勾勒了中国未来12年教改路线图的纲领性文件，涵盖11个重大专题、36个子课题。起草者之一的国家教育发展研究中心教育体制改革研究室副主任王烽说，《纲要》将从教育理念、教育体制、具体问题这三个层次实施教育改革。
 
-![](/images/logo1227/sogou1.gif)
+2008年底，在得知教育部要制定《纲要》的消息后，信力建就开始行动了。他草拟了义务教育由中央财政投资、放宽民间资本办学门槛等10个建议。
 
-### ˵   
+信力建的这些建议，相当程度上代表了中国民办教育企业家群体的利益诉求，即要求民办学校与公立学校享有同等待遇。目前，中国拥有近万所民办小学和中学，分别吸纳了全国6%和3%的在校中小学生，其中相当一部分为农民工子弟学校，这些学校从硬件到师资，均远远落后于当地的公立学校。
 
-## [   Ƶ](https://v.sohu.com/)[>>](https://v.sohu.com/)
+与信力建一样，对《纲要》内容同样感兴趣的，还有一批学者和公益人士。尽管民办教育企业家和学者的关注点稍有不同，比如信力建的政策建议主要集中在民办教育的议题上，而学者更关注教育体制改革的制度性内容。
 
-![](https://photocdn.sohu.com/20080204/Img255072989.gif)
+但是，在教育公平问题上，民间教育企业家和学者存在共识。他们均认为政府应当下放部分教育权力，不能既当管理者，又做监督员。陈江华在接受《中国新闻周刊》采访时，将中国教育最大的问题，归咎于教育权力的政府垄断。
 
-[![](https://i1.itc.cn/20091117/394_289997af_f102_48f8_a8a4_3b5c6a853934_0.jpg)](https://tv.sohu.com/hdtv/)
+2009年1月，教育部就《纲要》起草征集社会意见。不到一个月时间，教育部收到了100多万条意见。有别于这些分散的声音，民办教育企业家、学者和公益人士结合成了一个松散的联盟，开始以游说集团的面目，浮出水面。
 
-![](https://i1.itc.cn/20091117/394_289997af_f102_48f8_a8a4_3b5c6a853934_0.jpg)
+其实，民办教育企业家和公益组织在近年早已联系密切。在信力建起草建议书的同时，他的朋友、北京理工大学教授杨东平受一些中央部委委托，正在就《纲要》制定征求民间意见。
 
-##### [սƬ-](https://tv.sohu.com/hdtv/)
+对信力建来说，这个消息无疑等于多了一种利益表达的渠道。身为教授的杨东平，同时还兼任其他身份——杨不仅是中组部、教育部的专家组成员，同时也是国内最早的公益组织自然之友、北京西部阳光农村发展基金会、21世纪教育研究院等公益组织的倡导者之一。
 
-[![](https://i0.itc.cn/20090604/607_f94c6e82_187d_4c23_a0c7_9fd9340c7cd3_0.jpg)](https://v.sohu.com/08vcountdown/)
+“两会”召开前一周，信力建就将有关民办教育的建议传给杨东平，最后由杨东平汇总其他方面的意见，交给前述中央部委的领导。
 
-![](https://i0.itc.cn/20090604/607_f94c6e82_187d_4c23_a0c7_9fd9340c7cd3_0.jpg)
+**隐秘的游说活动**
+截至2009年3月份，《国家中长期教育改革和发展规划纲要》仍然是一长串等待答案的提纲。2009年1月7日，教育部就研究制定《纲要》进程情况举行2009年第一次例行新闻发布会，其新闻发言人续梅预计，完整的草案要到年中才能出台。
 
-##### [뷿Ƶع](https://v.sohu.com/08vcountdown/)
+此间，正是游说集团院外活动的黄金时期。
 
-[![](https://i5.itc.cn/20090602/607_12aa8774_ce79_4f47_8e06_0790b61388d7_0.jpg  )](https://v.sohu.com/20090602/n264286218.shtml)
+与信力建一样，北京西部阳光农村发展基金会秘书长梁晓燕也担心，她的建议会与其他民间组织的建议一样，淹没在100万条浩如烟海的建议中，变得毫不起眼。
 
-![](https://i5.itc.cn/20090602/607_12aa8774_ce79_4f47_8e06_0790b61388d7_0.jpg  )
+2009年2月，梁晓燕草拟了一份关于要求暂缓推广农村寄宿制学校的提案，通过一个朋友直接递给了教育部的一位领导。“我更希望通过一些私人关系，直接向有关领导反映问题。”梁认为，私下投书更有效。
 
-##### [Ա׽β](https://v.sohu.com/20090602/n264286218.shtml)
+教育公益组织与教育部之间缺乏制度性联系渠道，是游说活动活跃的重要原因之一。受制于这一体制现实，民办教育企业家、学者和公益人士抱团取暖，也在情理之中。与公开投书等方式相比，游说集团更愿意另辟蹊径，对决策者施加更为直接的影响。
 
-|  |
-| --- |
-| [ײ:ص۹](https://tv.sohu.com/s2009/daqindiguo/) [-](https://tv.sohu.com/s2009/jdb/) |
-| [**߿ӴϷ:**](https://tv.sohu.com/hdtv/)[**Ͼ()**](https://tv.sohu.com/s2009/woju/) |
-| [ǿܲ](https://tv.sohu.com/20091130/n268582593.shtml) [](https://tv.sohu.com/s2009/maitian/) [ϱʱ](https://tv.sohu.com/s2009/xfdmhsd/) |
-| [̽鹷](https://tv.sohu.com/20090907/n266535674.shtml)[Ƽ-](https://tv.sohu.com/s2009/mlds/) |
-| [̨ׯս վʬװ࿨](https://tv.sohu.com/real/) |
-| [ϣһٴΰɱ](https://tv.sohu.com/20090731/n265629021.shtml) |
-| [1982ۻعӢ̸Ϊ֪Ļ](https://tv.sohu.com/20090805/n265728430.shtml) |
+信力建、杨东平等人游说的方式，不外乎以下几种：一是直接找相关部委的领导；二是组织论坛、会议，邀请包括政府智囊在内的人士参加；三是向人大代表、政协委员提供议案和提案；四是通过新闻媒体制造舆论。
 
-|  |
-| --- |
-| [εŹ̫](https://v.sohu.com/20090601/n264272891.shtml) |
-| [ľջ](https://v.sohu.com/) |
-| [**ν2͵ӰƱ**](https://v.sohu.com/s2009/8015/s264152387/index.shtml) |
-| [׶](https://v.sohu.com/) |
-| [˻дع 30̥](https://v.sohu.com/20090601/n264274189.shtml) |
-| [ϣ:ҵ](https://v.sohu.com/20090601/n264263251.shtml) |
-| [ž޻涼һ](https://v.sohu.com/20090601/n264263266.shtml |
+“直接找领导是最有效的办法。”杨东平对《中国新闻周刊》说，但这一方法，“不宜频繁使用”。
 
- ) |
+另一个重要的游说手段，是直接找人大代表和政协委员，将自己的建议变为人大议案和政协提案。
 
-[![](https://i1.itc.cn/20091112/40c_72a8d40f_cc2f_4233_92ad_ead2c6f5c30b_0.jpg)](https://s.sohu.com/s.shtml)
+早在几年前，信力建开始参与关于教育问题的讨论。2002年，21世纪教育研究院成立，信力建成为研究院理事之一。“每次开研讨会都自己买飞机票参加。”信力建也因此结识了一些人大代表和政协委员。他关于义务教育经费的一份建议，就直接递送给了一位民主党派负责人，该负责人的身份，是十一届全国人大代表。
 
-![](https://i1.itc.cn/20091112/40c_72a8d40f_cc2f_4233_92ad_ead2c6f5c30b_0.jpg)
+不过，无论是杨东平，还是信力建，都尽量回避提及那些接受他们议案和提案的人大代表和政协委员。“如果公布这些代表和委员的名字，我们的工作就不好做了。”信力建只肯透露，这些代表和委员，大部分来自教育界。
 
-##### [ǽ](https://s.sohu.com/s.shtml)
+杨东平和信力建的谨慎表明，两会代表和政协委员作为不同声音的利益代言人，结构是如此脆弱。而在梁晓燕看来，这一渠道不仅脆弱，其实也并不可靠。
 
-|  |
-| --- |
-| [**˹22 104-79**](https://s.sohu.com/lanqiu/) |
-| [ŷԽ תս˹](https://s.sohu.com/20091112/n268142993.shtml) |
-| [NBA5-ʶ౳](https://s.sohu.com/20091223/n269163158.shtml) |
-| [רңйͷץ](https://s.sohu.com/20091111/n268136785.shtml) |
-| [ָ һἸ](https://s.sohu.com/20091113/n268175059.shtml) |
+梁晓燕说，由于每年人大和政协接受的议案和提案高达数百件，能够进入大会讨论的非常少。她暗示，信力建的建议，在送出之后很可能从此了无下文。
 
-## [Ѱҽҩ](https://doc.go.sohu.com/200801/e99fc6821fa9e1ba1aedc8fd89beb839.php)
+此前，“游说”人大代表并非没有成功的先例。2006年，在民间力量的连续3年的推动下，十届全国人大一次会议上，376名代表联合提交了关于加快修改《中华人民共和国义务教育法》的议案，成为当年会议联名人数最多的议案，并最终促成《教育法》的修改。
 
-[![׳׳췫ʷ](https://images.sohu.com/sms/online/tg/091209_100x100.jpg)](https://goto.sms.sohu.com/goto.php?aid=218&pid=2268)
+**阳光化的公开游说**
+但在现实中，与直接与相关部委沟通和游说人大委员等直接渠道相比，间接的渠道显然更为普遍和可行。游说集团为外界所能直接观察到的游说方式，往往是举办各种论坛和专题性会议。
 
-![׳׳췫ʷ](https://images.sohu.com/sms/online/tg/091209_100x100.jpg)
+2009年元旦，信力建与一位媒体界的朋友一起开始着手筹备为《国家中长期教育改革和发展规划纲要》建言献策的“第三届信孚公益论坛”。这已是两人的第三次合作：由信力建倡导主题、提供资金支持；朋友依靠平时的人脉关系邀请各方面的学者，负责具体的操作。
 
-##### [׳׳췫ʷ](https://goto.sms.sohu.com/goto.php?aid=218&pid=2268)
+2009年1月20日，建言献策讨论会在中国青年政治学院举行。这一天，特地从广州乘飞机赶来北京的信力建早早地就出现在了会场。会议中作为主办方的信力建发表了对于民办教育的看法，再次表达了自己的诉求。
 
-[![ѻ](https://images.sohu.com/sms/online/tg/091203_100x100_1.jpg)](https://goto.sms.sohu.com/goto.php?aid=218&pid=2258)
+在这次会议上，除了可以看见杨东平等学者和公益人士活跃全场外，还可以不时看见李成贵和王渝生等全国政协委员、以及中央教育研究所、国家教育发展研究中心等官方智囊机构的研究人员身影，其中不乏制定《纲要》草案的参与者。
 
-![ѻ](https://images.sohu.com/sms/online/tg/091203_100x100_1.jpg)
+尽管出席者大都即席发言，会议并未设置更为细化的议事日程，但在会议主持人杨东平看来，这已经达到了游说的初步目的。
 
-##### [ѻ](https://goto.sms.sohu.com/goto.php?aid=218&pid=2258)
+杨东平说，“制定《纲要》，不能再像过去那样，由政府部门及教育研究的内部人员"一言堂"，而事后公众只能毫无发言权地被牵着走。”事实上，信力建等人邀请政府、学界和民办教育界等多方人士参与座谈，也意在彼此交流，打破官方过去一言九鼎的格局。
 
-[![Ļ](https://images.sohu.com/sms/online/tg/091203_100x100_2.jpg)](https://goto.sms.sohu.com/goto.php?aid=218&pid=2261)
+除了论坛和会议，媒体公开报道被杨东平、信力建和梁晓燕们视为影响面最广、也最阳光的游说方式。
 
-![Ļ](https://images.sohu.com/sms/online/tg/091203_100x100_2.jpg)
+按照梁晓燕的说法，她所在的北京西部阳光农村发展基金会的一个重要职责是，按特定议题收集材料、调研，形成报告，然后通过与媒体联系，形成公开报道，使议题成为公共话题，进而形成公共舆论，进而对公共决策施加影响。
 
-##### [Ļ](https://goto.sms.sohu.com/goto.php?aid=218&pid=2261)
+对于公共舆论的力量，杨东平有切身感受。
 
-##    [>>](https://yule.sohu.com)
+2009年3月1日，21世纪教育研究院在《中国教育蓝皮书2009》发布会中，首次公布了针对对6省市8所高中学生的“中国城市高中生的家庭背景调查”，结果显示，政府管理者、企业管理者与专业技术人员等传统和新兴的优势阶层获得了最多重点高中的机会，而社会弱势阶层享受优质教育资源的机会则逐渐减少，尤以工人、农民的子女下降最为显著。该消息经过数家国内门户网站和各地都市报转载后，教育公平问题，再次成为舆论热点。
 
-![Ƶ](https://yule.sohu.com/upload/20071009entpp/images/video.gif)
-![Ƶ](https://yule.sohu.com/upload/20071009entpp/images/video.gif)
-![Ƶ](https://yule.sohu.com/upload/20071009entpp/images/video.gif)
-![Ƶ](https://yule.sohu.com/upload/20071009entpp/images/video.gif)
+**游说效果待考**
+对于游说的效果，信力建心里没有底。
 
-[![°桰Ρ](https://i1.itc.cn/20090917/5e2_ae2ed474_1f59_47a2_8ace_b14ae140315b_0.jpg)](https://pic.yule.sohu.com/group-174562.shtml)
+一些更为悲观的想法则认为，即将起草的《纲要》难以从根本上革除中国教育的弊病。
 
-![°桰Ρ](https://i1.itc.cn/20090917/5e2_ae2ed474_1f59_47a2_8ace_b14ae140315b_0.jpg)
+“自己如何给自己开刀？”新公民之友志愿者服务计划的项目主管陈江华则认为，目前需要改革的是教育部，然而牵头组织《纲要》的又恰恰是教育部。
 
-##### [°桰Ρ](https://pic.yule.sohu.com/group-174562.shtml)
+教育部也有一肚子苦水要倒，首当其冲的是教育经费问题。
 
-[![СŮع](https://i2.itc.cn/20090917/85b_c9b08a0b_9f85_408c_909c_470004351752_0.jpg)](https://pic.yule.sohu.com/group-174561.shtml)
+早在1993年，《中国教育改革和发展纲要》明确提出，逐步提高国家财政性教育经费占国民生产总值的比例，到2000年达到4%。但时至2009年，这一比例仅刚刚超过3%。
 
-![СŮع](https://i2.itc.cn/20090917/85b_c9b08a0b_9f85_408c_909c_470004351752_0.jpg)
+在信力建组织的前述座谈会上，教育部教育体制改革研究中心副主任王烽直言不讳地指出，教育改革之所以不顺畅，与政府的公共财政分配大有关系。
 
-##### [СŮع](https://pic.yule.sohu.com/group-174561.shtml)
+(声明：刊用《中国新闻周刊》稿件务经书面授权)
 
-[![ƾʹл](https://i3.itc.cn/20090917/85b_c9b08a0b_9f85_408c_909c_470004351752_1.jpg)](https://pic.yule.sohu.com/group-174704.shtml)
+能量强大的房地产商用各种方式表达自己的利益诉求，但今年他们更多寄希望于两会各级省代表团。他们会结合各地实际，提出房地产方面的政策建议
 
-![ƾʹл](https://i3.itc.cn/20090917/85b_c9b08a0b_9f85_408c_909c_470004351752_1.jpg)
+本刊记者/孙春艳
 
-##### [ƾʹл](https://pic.yule.sohu.com/group-174704.shtml)
+“昨天，国务院总理温家宝主持的常务会议上，审议并原则上通过了有色金属产业、物流振兴规划，房地产最终没有入围。”住房和城乡建设部(下简称“建设部”)政策研究中心主任陈淮在2月26日“2009中国房地产变革之路”论坛上的开场白，令场下一片哗然。
 
-## [>>](https://club.sohu.com/)
+来自广东、吉林、甘肃等600余位地产业界代表，无一不透出失望的表情。这个消息，也让近一个多月来围绕房地产业进“十大规划”的激烈角力，暂告一段落。
 
-![](/images/logo1227/club.gif)
+**纠结“振兴规划”**
+抢搭产业振兴末班车，成为两会前地产业界奔走游说的重头戏。
 
-[![](https://i4.itc.cn/20090527/31c_bac415f0_c52b_43ec_a09b_a8ac1423f646_0.jpg)](https://lz.club.news.sohu.com/lz/serialise_details.php?serialise=29504)
+为贯彻落实国家经济增长“保八”目标，进入2009年以来，产业振兴规划陆续出台。1月初，钢铁和汽车的产业振兴规划已经制定出来了，其他如纺织、有色金属、能源等的振兴规划也在加紧制定中。
 
-![](https://i4.itc.cn/20090527/31c_bac415f0_c52b_43ec_a09b_a8ac1423f646_0.jpg)
+根据国务院的工作安排 ，共有十大产业振兴规划，但当时完全确定的只有八个，尚有1～2个“振兴规划”名额未定。
 
-##### [ץĺ˿ۻ](https://lz.club.news.sohu.com/lz/serialise_details.php?serialise=29504)
+这意味着，一旦某个行业进入“十大产业振兴计划”，逆势走出目前的经济衰退趋势，也将成为可能。
 
-## [>>](https://news.sohu.com/)
+“过冬”已经一年有余的房地产商和各种房地产协会组织，在2009年年初变得空前活跃。包括全国工商联房地产商会、中国房地产协会在内的行会组织，极力为房地产行业争取“产业振兴规划”最后一席。不断召开相关会议、开办沙龙、起草文字方案，诸多行动由此展开。
 
-![](https://news.sohu.com/images/logo1227/chinaren.gif)
+一位接近建设部并不愿意透露姓名的人士对《中国新闻周刊》表示，1月初，建设部召开了一次由相关部门、房地产行业协会组织等人士参加的会议。当时与会代表提出，是否可以为房地产业争取国务院产业振兴规划。建设部出席此次会议的官员当时没有做出明确表态，只要求与会主要代表就下一步的市场走势、政策方向等“拿出几套方案来”。
 
-[![](https://i0.itc.cn/20100105/890_bd1db636_d2ea_4cf4_9475_db7317560430_0.jpg)](https://news.sohu.com/13/158750689)
+“1月10日，我们接到住房和城乡建设部的通知，征集地产商会的意见，并要求编制详细规划，1月15日，我们向部里提交了一份"房地产规划报告"。”全国工商联地产商会(下称“地产商会”)会长聂梅生对《中国新闻周刊》表示。
 
-![](https://i0.itc.cn/20100105/890_bd1db636_d2ea_4cf4_9475_db7317560430_0.jpg)
+这份报告除强调房地产市场衰退是导致国民经济深幅调整的重要原因外，还提出了振兴房地产业的一系列政策建议。其中包括，降低住房交易税费、取消“二套房”限制政策、拓宽房地产投融资渠道、改善投融资环境、促进商业地产发展等建议。
 
-##### [ÿ̱˿ˮ](https://news.sohu.com/13/158750689)
+“实在拗不过协会的反复要求，先搜集上来相关建议再说。”前述接近建设部的人士说。但戏剧性的一幕却发生了：2月9日，聂梅生在接受《国际金融报》采访时表示，住房和城乡建设部已向国务院提交了房地产业振兴规划方案；但紧随其后，2月10日，建设部宣传部人士却对媒体公开否认了这一说法。
 
-![](https://news.sohu.com/images/20061223/yj.gif)
+其实关于地产界的上述诉求，在建设部内部也发生了很大的分歧。据悉，一些部委领导就不太同意给刚刚“降温”的房地产业冠上“振兴”二字。因为此举很可能“好心办坏事”，被国务院驳回；而不提振兴的事情，却意味着搭不上“十大产业振兴规划”这班快车，对房地产业也是个损失。
 
-|  |
-| --- |
-|  |
+前述人士称，最终在汇总了多个行业协会提出的方案后，一位住房和城乡建设部高层领导特别指示，删去“振兴”两字，以“房地产中长期发展规划”的形式上报国务院。
 
-|  |
-| --- |
-|  |
+“据我所知，上报的房地产中长期发展规划重点之一是以发展保障房为主，而保障房的供应，对商品房市场冲击很大。”中原地产董事总经理李文杰对《中国新闻周刊》表示。
 
-## [Ƽ](https://doc.go.sohu.com/200801/e99fc6821fa9e1ba1aedc8fd89beb839.php)
+但2月26日陈淮的发言却证明，房地产业最终失去了进入“十大规划”的可能。
+
+**地方两会房产商活跃**
+陈淮话音刚落，2月26日下午，住房和城乡建设部部长姜伟新亲自主持会议，邀请房地产领域相关专家学者，就尚未出台的“房地产业发展和调整规划”收集建议。
+
+看来，由中央层面近期出台关于房地产发展和规划方案几无可能，地产振兴寄希望于地方操刀。事实上，在各地地产协会的大力推动下，各地的振兴措施早已出手。
+
+去年12月份，中房协和全国工商联房地产商会分别递交给国务院有关部门的一份报告中，都反映要给地方政府一定权限，各地应根据各自实际情况，灵活、适度实行自主调控，不应全国“一刀切”。
+
+与石油、汽车、钢铁等行业以国有大型企业为主不同的是，地产行业中民营企业占到80%以上，且经过多年的发展已经形成了一条多个行业紧密依存的产业链，反映自身利益诉求的呼声日高，这更加凸显了行业协会的作用。成立于1985年的中国房地产业协会(以下简称中房协)和成立于2001年的全国工商联地产商会，正是担当了此任。
+
+在各地商会中，广东地产商会较有代表性。“去年年底，广东地产商会按照全国地产商会的文件和指导，结合广东实际也写了份文件，呈给了广东省省委书记汪洋和广东省省长黄华华。”广东省地产商会副会长黄朝辉对《中国新闻周刊》记者说。
+
+这份题为“当前房地产市场形势分析和八大政策建议”的文件，目前已经得到省政府的积极反馈。
+
+作为地产大省的广东，目前已经有广东省房地产协会、广东省房地产研究会等多个协会。成立于2008年3月的广东省地产商会，成立仅几个月就吸纳了近百家主流地产集团会员。会长兼主席是业界颇具号召力的富力地产董事长李思廉，碧桂园、合生创展、恒大地产、星河湾等大型房地产企业的董事长、总裁也都位列副会长之列。
+
+在2月召开的广东省十一届人大二次会议上，广东省地产商会首度获邀列席会议并将小组发言。黄朝辉将前述“八大政策建议”抛出，称代表全省各地主要房地产商。
+
+这八大建议主要包括，在省内有条件地区，如广州、深圳、东莞、佛山、珠海等地启动购房入户政策，刺激购房欲望；建议政府团购普通商品房作为廉租房，允许地产商以房代税；在金融领域增加开发信贷规模和购房者贷款比例，适当延缓还贷期限并在利息上适当优惠；对土地增值税和企业所得税的缴纳考虑予以一定期限的延缓，以“放水养鱼”稳定税源等。
+
+这些建议在广东省的两会上引起了争议，尤其是“购房入户”建议。但很快地，2月27日，广东省召开常务工作会议研究促进广东房地产市场平稳健康发展的意见，3月3日，几乎与广东“两会”代表抵达北京同步，广东火线出台15条刺激楼市新政，即广东《关于促进省房地产市场平稳健康发展的若干意见》。新政很大部分采纳了前述广东地产商会的政策建议，正如黄朝辉们所愿。
+
+类似广东这样由地产协会建议，最终影响决策的一幕，在各地并非鲜见。去年12月中旬，重庆市工商联房地产商会向重庆市工商联、市委统战部呈递“紧急报告”，吁请政府加快出台包括“购房入户”等在内的22条措施政策，缓解房企压力，重振楼市信心。今年1月20日，重庆市出台政策，规定重庆新购房户，如在主城区购买建筑面积90平方米以上商品房，可将户口迁入主城区。
+
+很快地，武汉、厦门等地也随即发布了购房入户的细则。目前购房退税、购房入户以及取消二套房贷和外资购房限制等政策，纷纷现身不同城市。而据本刊记者从多位地产商处了解到，一些地方的新一轮救市政策，也正呼之欲出。
+
+**两会前集中游说**
+早在2003年，“18号文件”PK掉“121号文件”的事情，就证明了房地产商们的游说能力。
+
+2003年6月，央行出台“121号文件”，要求警惕房地产出现过热的情况，并希望各地收紧信贷。北京的房地产商如任志强等，在文件出台之后开始频繁“上书”、资助论坛、开研讨会，以期改变政策的取向。
+
+时隔两个月之后，2003年8月，国务院出台第“18号文件”，认为全国房地产市场是健康的，并明确提出“房地产业已经成为国民经济的支柱产业”。这引来开发商一片欢呼，并称之为市场化的胜利。
+
+每年两会前，房地产商的游说都会空前活跃。在处于寒冬的地产界，今年似乎加快了节奏。
+
+两会前的最后一个周末，2月26日，北京春寒料峭的清晨，近千位来自各个地方的房地产企业代表，齐集“2009中国房地产变革之路”论坛”。
+
+由全国工商联地产商会主办的这次会议，被房地产商誉为“两会前一个重要声音”。
+
+与会地产代表，虽然来自不同地区，但相同的是几乎都携带一个公文包，里面装着厚厚的各种意见建议书。建议书发送的对象，则主要是建设部政策研究中心主任陈淮、国务院发展研究中心原局长李泊溪和地产商会会长聂梅生。
+
+会议还没开始，甘肃省房地产业协会副会长、甘肃万盛置业董事长陈万智就忙着把他们最新起草的一份关于取消经济适用房、发展普通商品房的意见书，早早地送到了相关人士的手里。而陈淮一出现，就有几位地方商会代表围过去，倾诉当地房地产业发展的实际困难，比如房地产信贷难、空置率上升、交易萎缩等。
+
+身为北京市两会代表的潘石屹，则在1月召开的北京市两会上，提出了建议降低商业物业出租税，取消“双限房”，让土地交易市场更加透明化等提案。北京市政协委员的任志强则建议，政策应让更多富人来京购房等。
+
+据本刊了解，全国工商联房地产商会已经通过全国工商联向全国政协提交了三份议题，一个是《积极促进绿色建筑的发展的提案》和《关于振兴房地产市场、拉动消费促进经济增长》《我国房价何以居高不下——房地产开发的总费用支出一半流向政府》两个书面发言。
+
+递交提案是作为全国工商联下属商会的正常工作之一。“2008年两会我们提出建立小产权的提案，因为过于敏感，最终没有通过全国工商联主席联席的审议。”负责两会提案工作的商会、全国房地产设计联盟执委会主任王玉清对《中国新闻周刊》说。
+
+“我们反映诉求的渠道非常畅通，一个是建设部、发改委，一个是全国工商联、统战部。”聂梅生说，像地产商会副会长、万达集团董事长王建林和今典投资集团董事长张宝全本身就是两会代表，每次会前他们会主动收集业内的意见想法。
+
+多位协会人士表示，今年更多地寄希望于两会地方上的各级省代表团。他们会结合各地实际，提出地产方面的政策建议；而房地产振兴规划很可能“换身妆容”，以提案议案形式在今年全国“两会”上讨论。
+
+事实上，据《中国房地产报》日前报道称，前述地产商会提出的《关于振兴房地产市场、拉动消费促进经济增长》，作为全国工商联日前向全国政协提交的团体提案中的一个，已经在两会上引起关注；一份来自下属房地产商会的调研报告，也格外引人注目。这份报告原为“申请将房地产列入十大产业振兴规划”草案稿的一部分，在落选“十大产业振兴规划”后，最终变身为政协提案。
+
+3月5日上午，国务院总理温家宝的政府工作报告中明确指出，在对保障房的民生力度加大之际，对符合条件的第二套普通自住房购买者，比照执行首次贷款购买普通自住房的优惠政策；同时加大对中小套型、中低价位普通商品房建设的信贷支持。
+
+(声明：刊用《中国新闻周刊》稿件务经书面授权)
+
+“我们代表权限有限，国家要有一个更好的体制来处理这些民间的建议，我们应该有更多渠道采纳并倾听到民间的声音”
+
+本刊记者/杨正莲
+
+2000年，阿来的长篇小说《尘埃落定》荣获第五届茅盾文学奖。阿来说：“文学对我而言，具有更为深广的意义：它是自我教育、自我提升的途径；更是我从自我狭小的经验通往广大世界、进而融入大千世界的唯一方式。”
+
+不过，作家阿来现在融入世界的方式似乎有了更多的选择和可能。比如，2009年3月，全国两会召开前夕，他当选为四川省作协主席，然后风尘仆仆地赶赴北京参加一年一度的政治盛会。这是阿来第二次以人大代表的身份赴会，2008年第一次以这个身份参加“两会”时，他满怀期望地提交了议案。
+
+这一次，他说，“我没有议案。”
+
+阿来以为，在当前环境下尚不能脱离自己熟悉的文化界去提议案。然而，在参会之前，他还是收到了五六份来自法律、经济等领域的建议，这些行家里手在各自的立场上殷切希望能通过阿来把他们的声音带到人大，引起更多人的关注。
+
+3月9日晚，接受《中国新闻周刊》专访时，阿来发现自己没有权限去对这些提交上来的建议进行调研，他甚至不能去调查提交者的背景，当然他也没有专门去做这个的时间和精力，“我没法把他的建议变成我的议案。”
+
+**“应该向政府提一些相对更宏观的意见”**
+中国新闻周刊：今年两会你提交了什么议案？
+
+阿来：我没有提交议案。因为我觉得，现在有一部分议案有点像拾遗补缺，有些政府其实已经很强调了，比如扩大就业、中小企业的问题等，这些经济方面的问题公众比较关注，政府也重视，现在各地提的也有好多。
+
+人大这边提交的叫议案，议案是不能一个人提的，可以由一个人提出，但是必须要有多人附议才能成为议案，我们对有些比较关心的问题，可以附议。
+
+人大代表表达意见有两个层次，一个是议案，还有一个是工作建议，工作建议你可以写很多，主要就是反映这种当下政府急于处理的问题。
+
+但是，我们恰好既不是政府官员，也不是经济学家。如果我们自己要提议案，我觉得作为人大代表，我自己的理解就是不要那么具体也不要那么微观，而应该向政府提一些相对更宏观的意见。
+
+中国新闻周刊：在参会之前，会不会有人主动向你提交一些议案的雏形或者建议？
+
+阿来：有。我还没来开会，就有社会上的一些非官方的研究机构和一些团体比如行业协会等，他们都在准备这种东西。他们帮你准备议案，主动跟你联系，说我们准备了某一个方面的东西，已经做好了，能不能经过你们，希望提出来引起有关方面的注意，引起政府重视。
+
+今年参会前，我就接收了五六件这种文件，主要是法律方面的和经济政策方面的，有些可能是想补充目前法律的不足，有些就是弥补法律空白等等。
+
+**“我们缺乏专门知识和时间”**
+中国新闻周刊：收到各种不同的建议之后你会怎么处理？
+
+阿来：一般我收到这种议案的初稿就会向他们解释说明，这个行业离我太远了，即使专门去学习，我也只能获得这个行业的基本知识，对于行业内部的东西并不能很确切地知道。
+
+而且我觉得，我们不光缺乏专业知识和专门时间，更重要的是没有这种权限。
+
+作为人大代表，在我自己看来，这个身份既不是西方议员，也不是官员。我们是兼职的，我们都有自己的一份工作，干这个工作是既没有薪水又没有一分钱的补助。除了这个会议之外，平常也没有专门的时间，不能参与处理事情、调查一些事情。
+
+人大代表通过会议的方式，依法集体行使职权，就是两会期间你来行使职权，审议政府工作报告、提议案、提建议，而不是每个代表个人直接处理问题，这个是有限定的。
+
+我们拿到别的行业的很多议案觉得很好，但是我对这个行业不了解，如果我把这个提案当作我的成果提上去，这个时候就会出现问题：第一，我有没有这个精力；第二，我要了解到这个行业的方方面面，我有没有这个权限？如果我连这些东西都不具备的时候，我凭什么提出一个我不太知道的领域当中的情况呢？万一它有什么问题呢？我必须要有怀疑精神。但我没有办法通过调查通过什么手段来证实或者证伪，我没有办法。
+
+另外，对于上交“议案”的人本身，我们也往往缺乏了解。我没有办法证实他的身份，也没有人赋予我这样的权力。
+
+**“应该还能有很多渠道采纳民间的声音”**
+中国新闻周刊：你怎么看待这些提交到你这里的这些未成形的“议案”？
+
+阿来：提交“议案”本身就是一个很积极的信号。不管来自民间的动机是什么，他希望在中国今天这种民主法治进程中看到一种希望，看到民间的力量，民间的声音，有些时候甚至可以影响到政府的决策。
+
+如果从来就没有这种先例，他也不会去做这样的努力，他之所以做出这样的努力，也正说明了，之前有这样的民间力量成功影响到政府决策，甚至修正了他们的决策方式，或者是施行政策方式的可能性。我觉得这也是民间参政议政，关心国家政治的一个表现。
+
+但是，因为我们代表权限有限，国家要有一个更好的体制来处理这些民间的建议，我们应该有更多渠道采纳并倾听到民间的声音，尤其是那些经过深思熟虑的声音。
+
+**“人大代表只是途径之一”**
+中国新闻周刊：你去年提交了关于文化方面的议案，这个议案是怎么形成的呢？最后的结果是怎样的？
+
+阿来：去年我们提交了一个有关知识产权法的议案。
+
+现在中国整个的知识产权保护是很不理想的。这种状态下，我们自己的发明创造、自己的知识产权也得不到保护，造成中国现在谁都不愿意原创。作为作家，我自己的作品也不断被盗版，感同身受。毫不客气地说，这个行业里面我是专家，专家就是给别人提建议的，所以我可以提出这方面的议案。
+
+在文化界，平时也会有人希望通过你的这个渠道帮忙反映一下各种问题。其实每个行业都是倾向于要一些对这个行业比较有利的政策，而任何一个行业也并不都是只有人大这一个途径，他还可以向领导部门反映他的问题，或者其他有效的途径，人大代表只是途径之一。
+
+人大有一个专门负责议案的委员会，他们会把你的建议发给相应的部门。其实，一个国家机关的运行已经按照它自己的计划运行了，你提的意见如果完全和它的计划相悖，它会答复你，说这是我们今后工作当中要注意的；还有一些建议，它会具体说我们正在做某些事情，其中有一部分已经采纳了你的建议等等。这些都是他们处理问题的方式，具体到每个人的情况都不一样。
+
+关于国家知识产权方面，现在国家都很重视的，理论上没有问题，具体实施呢？我们看到的情况有没有改善？他一定会告诉你是改善了。
+
+(声明：刊用《中国新闻周刊》稿件务经书面授权)
+
+文/秋风
+
+长期以来，中国的社会治理图景中多行政，寡政治。当然，人们也经常讲到政治一词，但那种政治更多地是与意识形态相关，而不是指严格意义上的政治，这种政治，按照“维基百科”的定义，是指多个群体的人们透过公共程序作出决策的过程。重要的正是这个开放的过程——各级官员就某个问题作出决策，那不是政治。唯有当民众得以参与，才有政治可言。
+
+可喜的是，过去若干年来，围绕着各级人大，在全国与地方层面上，初步形成了人大政治的雏形。人大政治成为中国民主政治的一个重要方面，也是未来进一步完善民主的重要渠道。
+
+**民主离不开游说**
+现代政治的基本原则是“人民主权”，通俗的表达就是“人民当家做主”。但是，人民如何当家做主？很显然，不大可能几千万、几亿人民聚集到一起讨论公共问题。因而，人民主权原则在现实中的实现形态必然是“代表制”。
+
+这种代表制有多种形态，大体不外两种，一种是很多国家采用的议会制。人民通过某种方式选举产生议会议员，这些议员常年聚集在一起开会，就公共问题进行决策，包括制定法律。
+
+另外一种形态是中国等若干国家采取的人民代表大会制度。宪法规定，它就是最高国家权力机构。这种主权性会议的代表数量远远超出代议制国家的议员数量，而且，通常情况下，它一年只召开一次短期的会议。这就面临一个问题，代表会议休会期间，谁代表国家权力？于是就设立它的常委会，这个常委会经常召开会议，审议法律和政府的决策。
+
+不管是议会，还是人大及其常委会，都享有立法权，同时也享有控制行政部门的诸多权力，其中最为重要的是预算审议权和人事任免权。
+
+但是，按照人民主权原则，又会产生另一层问题：如何保证这些代表机构按照民意活动？而当涉及到“民意”的时候，“人民”这个抽象的概念必然分解为具体的一个一个人、一个一个社团。“人民”只是一个抽象的政治概念，在具体的立法、决策过程中，“人民”是不可能发言的。真正具有权利诉求、具有利益主张、能够表达意见的，只能是具体的人和他们组成的团体。因而，民意只能是个体意见的聚合。于是，如何保证代表机构按照民意立法、决策的问题，就转化成各个人、各个群体能不能参与立法与政府决策及如何参与的问题。
+
+这样，民主政治必然存在“院外”政治，人大制度也必然衍生出人大政治。人大政治恰恰是政治民主的象征。只要人大在立法与决策活动中确实扮演着重要角色，那各个领域、各个方面的人们、群体，就会想办法向人大陈述自己的意见，影响人大的立法与决策，使之保障自己的权利，至少是不侵害这些权利；使之能够增进自己的利益，至少是不减少这些利益。可以说，向人大及其常委会游说，乃是民众的权利。
+
+其实，因为权力会对人们的权利、利益产生巨大影响，所以，任何时代的任何政府都会遭遇游说活动。区别在于，当游说活动进行于密室，唯有那些“有关系”“有门路”的人才有能力、有资格进行游说活动，游说便成为一种特权，特权游说者甚至可以操纵政府。再加上这样的游说当然会使政府腐败，权力被滥用，某些人的利益之增进以另一些人的利益被损害为代价。
+
+民主政治的游说则是公开的，也没有太高门槛，任何人和群体都可以进行。同时，民主的立法、决策本身有比较严格的公开程序。这样，不同的群体、站在不同立场的游说，会展开某种竞争。与商业竞争不同的是，立法机构受这样的院外政治影响而达成的立法或政策，不是一群人得到全部而其他人一无所获，而经常是各个群体、各种不同立场的妥协折中。人们常说，民主是妥协的政治，但妥协正是以各个不同群体围绕着立法与决策进行游说为制度前提的。
+
+**面对游说的人大**
+在中国，“游说”人大及其常委会，亦是一个渐进的过程。因为，在此之前，各级人大及其常委会尽管有宪法授予的广泛权利，但在现实中权利与作用并不十分匹配。立法经常是行政部门主导，预算也由行政部门决定。那些试图保障、增进自己利益的部门更热衷于跑“部”进京。随着人大及其常委会在立法与决策结构中的角色强化之后，人们才开始转而在这个方向进行游说。
+
+促成人大“游说”发育的另一重要因素是，过去二十多年来，随着行政控制放松，自愿性公民组织、私人企业部门逐渐发育、扩展。这些组织基于各种各样的目的试图影响立法、政策。但他们在行政部门那里没有门路，同时，他们也更相信公共政治。因而，他们就选择了“游说”人大。
+
+事实上，全国和地方各级人大代表中，也有不少出自这些新兴社会群体和组织，他们具有较强的公共政治意识，甚至有强烈的政治家角色意识。他们乐于与民众进行沟通，也乐于以公共利益代言人的身份在人大立法过程中发挥作用，或者对行政部门进行监督。
+
+这样，新兴的社会群体中的游说者，与被游说的对象之间，具有共同的利益诉求、共同的价值和语言，容易进行沟通。尽管他们都意识到，目前人大的功能尚没有全部发挥出来，但游说者知道，透过游说活动，可以使自己的诉求、主张引起舆论关注，可以在公共空间创造出引人注目的公共议题。对于很多游说者，能够达到这样的效果，就已经相当满足了。
+
+面对社会的殷切参政需求，人大及其常委会应当保持开放心态。因为，这是代表的法律与道德义务。人大代表是民众的代表，他当然有义务倾听民众的声音，不论这民众是一个人、一群人还是某个地区的人或全国人，也不论他的诉求、主张是否正确。这是政治家的首要责任，政治家不是自己闭门造车的。而人大常委会作为人代会的常设机构，当然同样应当对那些表达自己诉求、主张的游说者开放。
+
+事实上，民众及相关社会团体的游说活动，也是人大代表及常委会组成人员获得有关社会事实之知识的便利渠道。人大及其常委会的立法和决策是需要知识支持的：立法和政策要符合民意，立法机构成员就必须了解民众在想什么，他们希望得到什么，希望取消什么政策，越具体越好。立法机构成员可以通过多种渠道获知这样的具体民意，但游说者主动提供信息当然也是一个重要而低成本渠道。而且，游说者会比较理性地、全面地陈述自己的诉求、主张，这样的社会事实知识是通过座谈会、专家论证等方式无法获取的。比如，五十位名人关于国家教育发展规划纲要的意见，就具有很高的立法针对性。
+
+因此，人大代表及其常委会组成人员应当具有吸纳民意的意愿和能力。有些具有政治意识的人大代表曾经自费设立办公室，征集民意。参照这一经验，各级人大常委会似乎也可以为其组成人员设立办公室，使之可以与民众及相关社会组织广泛地打交道。
+
+不过，对于“游说”，人大及其常委会肯定不可能照单全收。面对同一议题，不同游说者提出多元的、甚至相互矛盾的主张、诉求，这种局面本身就要求立法机构成员具有判断力。只有借助这种能力，立法机构成员才能作出理性的权衡取舍。事实上，游说活动也是在众多人大代表、常委会组成人员中间进行的，这些立法者之间也会展开竞争。这种竞争将各种不同主张、诉求达成妥协，从而使各个社会群体的利益都有所照顾，使之尽量接近于公共利益。
+
+总之，如果民众与人大都有开放而理性的心态，人大政治将是中国民主政治发育的一个重要看点。
+
+(责任编辑：杨笑)

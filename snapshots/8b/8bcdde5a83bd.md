@@ -1,78 +1,20 @@
 ---
 source_url: "http://gz.people.com.cn/n2/2020/0330/c344102-33912744.html"
-captured_at: 2026-11-08T13:35:04Z
-title: "庽迣̱泭ϮпԺϺоӦ"
-tool: tavily
+captured_at: 2026-11-16T10:07:44Z
+title: "深圳湾航道疏浚工程报告抄袭？中科院南海海洋研究所回应"
+tool: native-http
 ---
 
-> **网页快照**：2026-11-08 13:35 UTC 抓取自 [原始页面](http://gz.people.com.cn/n2/2020/0330/c344102-33912744.html)（工具：tavily）。
+> **网页快照**：2026-11-16 10:07 UTC 抓取自 [原始页面](http://gz.people.com.cn/n2/2020/0330/c344102-33912744.html)（工具：native-http）。
 
-# 庽迣̱泭ϮпԺϺоӦ
+# 深圳湾航道疏浚工程报告抄袭？中科院南海海洋研究所回应
 
-¼֤ͨ    [ע](http://sso.people.com.cn/u/reg?appCode=ENw9NE44)
+中新网3月29日电 近日，深圳湾航道疏浚工程(一期)环评报告书被指涉嫌抄袭，引发关注。中国科学院南海海洋研究所网站29日发布情况说明称，对该项目环评工程师在编制报告过程中出现的严重错误致以诚挚歉意，将对该项目执行情况作进一步深入调查，对相关责任人进行严肃处理，并及时公布处理结果。
 
-[룿](http://sso.people.com.cn/u/findpwd/user)
+中国科学院南海海洋研究所网站截图
 
-![](http://www.people.com.cn/img/2016wb/images/logo01.png)
-![](http://www.people.com.cn/img/2016wb/images/logo2.png)
-![](http://www.people.com.cn/img/2016wb/images/icon01.gif)
-![](http://www.people.com.cn/img/2016wb/images/icon02.gif)
+有媒体近日报道称，据环评显示，深圳湾航道疏浚工程(一期)环境影响报告书多处出现湛江字眼，涉嫌抄袭湛江航道疏浚项目环评。
 
-### 
+中国科学院南海海洋研究所网站29日发布情况说明称，经初步调查，中国科学院南海海洋研究所承担深圳湾航道疏浚工程(一期)环境影响评价工作的团队，虽然在项目实施过程中按规定程序开展了现场踏勘，调查和收集了深圳湾的海洋环境、生态现状资料，进行了相关数值模拟计算，但在部分定性分析部分，因采用该所以前完成的报告作为模板，并提交了未完成的报告过程稿作为公示材料，导致存在较多“湛江”字眼等，部分分析内容中还有湛江港及相关规划等内容。
 
-# 庽迣̱泭ϮпԺϺоӦ
-
-#### 
-
-![](http://www.people.com.cn/img/2016wb/images/icon04.jpg)
-
-329յ գ庽迣(һ)鱻ָӳϮעйѧԺϺоվ29շ˵ƣԸĿʦڱƱгֵشԳֿǸ⣬ԸĿִһ飬˽ദʱ
-
-![](http://www.people.com.cn/mediafile/pic/20200330/33/9741994472595724261.jpg)
-
-![](http://www.people.com.cn/mediafile/pic/20200330/33/9741994472595724261.jpg)
-
-йѧԺϺоվͼ
-
-ýձƣݻʾ庽迣(һ)Ӱ챨ദտۣӳϮտ迣Ŀ
-
-йѧԺϺоվ29շ˵ƣ飬йѧԺϺое庽迣(һ)Ӱ۹ŶӣȻĿʵʩа涨չֳ̤ռĺ󻷾̬״ϣֵģ㣬ڲֶԷ֣øǰɵıΪģ壬ύδɵı̸Ϊʾϣ´ڽ϶ࡰտ۵ȣַлտۼع滮ݡ
-
-йѧԺϺоԸĿʦڱƱгֵشԳֿǸ⣬ʾԸĿִһ飬˽ദʱԵ鷢ֵʵǿģž
-
-|  |
-| --- |
-|  |
-
-![](/img/2020wbc/imgs/icon_download_rmrb.png)
-![](/img/2020wbc/imgs/icon_download_rmwj1.png)
-![](/img/2020wbc/imgs/icon_download_rmw.png)
-![](/img/2020wbc/imgs/icon_download_ly.png)
-![](/img/2020wbc/imgs/icon_download_video.png)
-![](/img/2020wbc/imgs/icon_download_zy.png)
-![](/img/2020wbc/imgs/icon_download_zz.png)
-![](http://www.people.com.cn/img/2016wb/images/icon04.jpg)
-
-## ͼ
-
-![ѧԺʵؽ](/NMediaFile/2021/0629/LOCAL202106291101527703308925481.jpg)
-![߲˷ղժæ ˲ҵ](/NMediaFile/2021/0629/LOCAL202106291101521704322015199.jpg)
-![̨硶ɡڰ˳ѧԺ](/NMediaFile/2021/0629/LOCAL202106291101522141138340802.jpg)
-![нľһ˾к](/NMediaFile/2021/0629/LOCAL202106291101530146694731618.jpg)
-![ҾСһ̵л](/NMediaFile/2021/0629/LOCAL202106291101525531324600284.jpg)
-![ǧȺ̵ɫҫҡ](/NMediaFile/2021/0629/LOCAL202106291101516475353300840.jpg)
-
-## Ƽ
-
-## 
-
-## ƶý
-
-![Ƶ΢Źں](/NMediaFile/2020/0812/LOCAL202008121102598296277688865.jpg)
-![Ƶֻ](/NMediaFile/2016/0701/LOCAL201607011722016346309878969.png)
-![Ƶ΢](/NMediaFile/2016/0701/LOCAL201607011722011788941558232.png)
-![Ƶͷǭ](/NMediaFile/2020/0812/LOCAL202008121105110346342359058.jpg)
-
-## ȵ
-
-![](http://counter.people.cn:8000/f.gif?id=33912744)
+中国科学院南海海洋研究所对该项目环评工程师在编制报告过程中出现的严重错误致以诚挚歉意，表示将对该项目执行情况作进一步深入调查，对相关责任人进行严肃处理，并及时公布处理结果；将针对调查发现的问题切实加强整改，坚决杜绝类似情况。

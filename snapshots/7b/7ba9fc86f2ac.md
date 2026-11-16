@@ -1,50 +1,67 @@
 ---
 source_url: "https://www.scdl.gov.cn/info/1108/255181.htm"
-captured_at: 2026-11-08T16:03:33Z
+captured_at: 2026-11-16T10:01:30Z
 title: "了解中国残疾人数量和残疾人事业统计调查制度-丹棱县人民政府"
 tool: tavily
 ---
 
-> **网页快照**：2026-11-08 16:03 UTC 抓取自 [原始页面](https://www.scdl.gov.cn/info/1108/255181.htm)（工具：tavily）。
+> **网页快照**：2026-11-16 10:01 UTC 抓取自 [原始页面](https://www.scdl.gov.cn/info/1108/255181.htm)（工具：tavily）。
 
 # 了解中国残疾人数量和残疾人事业统计调查制度-丹棱县人民政府
 
-[![](../../images/zcwzdh.png)](../../index/wzdt.htm)
-
-[![](../../images/cyyq_sy.png)](../../index.htm)
-
-* [眉山市委市政府](http://www.ms.gov.cn/)
-* [无障碍浏览](javascript:void(0);)
-* [适老化](javascript:EsdToolbarInit.elderly.open();)
-* [丹棱县人大](../../dlxrd/xrd.htm)
-
-简体版 | 繁体版
-
-2026年11月1日  星期日  丙午年九月廿三
-
-[![丹棱县政府](../../images/logo.png "丹棱县政府")](../../index.htm "丹棱县政府")
+![](../../images/zcwzdh.png)
+![](../../images/cyyq_sy.png)
+![丹棱县政府](../../images/logo.png "丹棱县政府")
 
 |  |  |
 | --- | --- |
 |  |  |
 
-* [党务之窗](../../dwzc.htm)
-* [新闻中心](../../xwzx.htm)
-* [政府信息公开](../../zfxxgk/zfxxgkzn.htm)
-* [政务服务](http://mssdlx.sczwfw.gov.cn/?areaCode=511424000000)
-* [政民互动](../../zmhd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1012)
-* [丹棱印象](../../dlyx.htm)
-* [丹棱概况](../../dlgk.htm)
+**中国残疾人数量及分布**
 
-当前位置: [首页](../../index.htm) -> [党务之窗](../../dwzc.htm) -> [群团部门](../../dwzc/qtbm.htm) -> [县残联](../../dwzc/qtbm/xcl.htm) -> [最新动态](../../dwzc/qtbm/xcl/zxdt.htm) -> 正文
+2006年第二次全国残疾人抽样调查显示，残疾人口占全国总人口的比例是6.34%。根据第六次全国人口普查中国总人口数，推算出2010年底中国残疾人总人数为8502万。
 
-[![](../../images/red.png)](https://bszs.conac.cn/sitename?method=show&id=09EC617259C3410EE053022819AC6E0C)
+![](/__local/9/0A/66/4E50FFD189D2389D4E3D8D645AA_9B4B2E1D_2DF09.png)
 
-[![](../../images/18/09/09/12roopizyc/jiucuo.png)](http://121.43.68.40/exposure/jiucuo.html?site_code=5114240004&url=http%3A%2F%2Fwww.scdl.gov.cn%2Fxxgk%2Fzcjd1%2Fbmjd1.htm)
+![](/__local/9/0A/66/4E50FFD189D2389D4E3D8D645AA_9B4B2E1D_2DF09.png)
 
-[![](../../images/wzatb.jpg)](http://wza.isc.org.cn/rzpt/bsgl/dt/20231214/2867.html)
+各类残疾人的人数分别为：视力残疾1263万人；听力残疾2054万人；言语残疾130万人；肢体残疾2472万人；智力残疾568万人；精神残疾629万人；多重残疾1386万人。各残疾等级人数分别为：重度残疾2518万人；中度和轻度残疾人5984万人。
 
-[设为首页](javascript:setHomepagea194789a())   |     [加入收藏](javascript:void(0);)
+![](/__local/7/3A/BB/AA791CD617B84D02B8E9F9BABE9_81006C0D_74A7C.png)
+
+![](/__local/7/3A/BB/AA791CD617B84D02B8E9F9BABE9_81006C0D_74A7C.png)
+
+2010年发布的全国残疾人口8502万的数据，是依据2006年第二次全国残疾人抽样调查残疾人占全国总人口的比例（6.34%）和2010年第六次全国人口普查基数（137054万人）推算而来的，这个数据主要用于预测残疾人口变化趋势、宏观研究残疾人事业发展。此外，全国残疾人基础信息数据库中实名制的持证残疾人数据，是由基层采集、部门验证得来，数据本身处于动态变化之中，对制定落实残疾人政策、不断改进残疾人服务至为重要。
+
+截至2022年底，中国残疾人人口基础数据库有持证残疾人3768.166万。由2009—2021年持证残疾人数量变化情况可知，中国持证残疾人总数呈现逐年递增趋势。
+
+![](/__local/2/B7/DC/7FDC523B0B1024C6B2A6EF6C763_D2F50F29_3E9AC.png)
+
+![](/__local/2/B7/DC/7FDC523B0B1024C6B2A6EF6C763_D2F50F29_3E9AC.png)
+
+**残疾人事业统计调查制度**
+
+《中华人民共和国残疾人保障法》规定，国家建立健全残疾人统计调查制度，开展残疾人状况的统计调查和分析。
+
+国家加强残疾人事业统计调查，规范和完善残疾人权益保障的统计指标，实现残疾人权益保障精细化管理、精准化服务。
+
+2001年9月，中国“残疾人事业基本情况”表纳入《中国统计年鉴》，残疾人事业统计数据首次出现在国家统计年鉴中，表明残疾人事业统计正式纳入国家统计体系。
+
+关于残疾人的调查制度有全国残疾人抽样调查、全国残疾人小康状况监测、全国残疾人基本服务状况和需求调查、全国残疾人家庭收入调查等。
+
+关于残疾人的统计制度有残疾人事业统计年报、快报、台账制度，残疾人人口基础数据库和残疾人专项业务统计等。
+
+关于残疾人的统计调查介绍
+
+![](/__local/F/E7/99/E7196D9D03A1D9820F8BF225A18_2C1A7181_93BE7.png)
+
+![](/__local/F/E7/99/E7196D9D03A1D9820F8BF225A18_2C1A7181_93BE7.png)
+
+来源：《中国残疾人发展与社会进步年度纵览（2023）》
+
+![](../../images/red.png)
+![](../../images/18/09/09/12roopizyc/jiucuo.png)
+![](../../images/wzatb.jpg)
 
 [![](/__local/D/02/89/DC0A46FC5B15B3363FFA78CF6C7_C267B386_4B38.png?e=.png)](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51142402000001)[川公网安备 51142402000001号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51142402000001)
 
@@ -52,4 +69,16 @@ tool: tavily
 
 网站标识码：5114240004   [ICP备案编号：蜀ICP备09041535号](https://beian.miit.gov.cn/#/Integrated/index)
 
-网站维护电话：028-37209916    传真：028-37202382
+网站维护技术联系电话：028-37209916    传真：028-37202382
+
+本页面执行时间为0.04秒
+
+[![](/__local/D/02/89/DC0A46FC5B15B3363FFA78CF6C7_C267B386_4B38.png?e=.png)](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51142402000001)[川公网安备 51142402000001号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51142402000001)
+
+![](/__local/D/02/89/DC0A46FC5B15B3363FFA78CF6C7_C267B386_4B38.png?e=.png)
+
+主办单位：丹棱县人民政府办公室    责任单位：丹棱县人民政府电子政务服务中心
+
+网站标识码：5114240004   [ICP备案编号：蜀ICP备09041535号](https://beian.miit.gov.cn/#/Integrated/index)
+
+网站维护技术联系电话：028-37209916    传真：028-37202382

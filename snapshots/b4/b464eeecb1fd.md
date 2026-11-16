@@ -1,72 +1,191 @@
 ---
 source_url: "https://m.huxiu.com/article/2321.html"
-captured_at: 2026-11-08T14:37:08Z
+captured_at: 2026-11-16T09:57:22Z
 title: "就这样洒落一地狗血，广电总局历年禁令史-虎嗅网"
-tool: tavily
+tool: firecrawl
 ---
 
-> **网页快照**：2026-11-08 14:37 UTC 抓取自 [原始页面](https://m.huxiu.com/article/2321.html)（工具：tavily）。
+> **网页快照**：2026-11-16 09:57 UTC 抓取自 [原始页面](https://m.huxiu.com/article/2321.html)（工具：firecrawl）。
 
 # 就这样洒落一地狗血，广电总局历年禁令史-虎嗅网
 
-![虎嗅logo](https://static.huxiucdn.com/common/image/logo/logo_200.png)
-![虎嗅]()
+APP1X主页
+
+2012-08-03 02:20
 
 # 就这样洒落一地狗血，广电总局历年禁令史
 
-![author_path]()
-![icon_path]()
+[![author_path](https://img.huxiucdn.com/auth/data/avatar/000/00/00/19.jpg?imageView2/1/w/50/h/50/|imageMogr2/strip/interlace/1/quality/85/format/webp)虎嗅![icon_path](https://img.huxiucdn.com/icon/team.png?imageView2/1/w/28/h/28/|imageMogr2/strip/interlace/1/quality/85/format/webp)](https://m.huxiu.com/member/19.html)
+
 ![头图](https://img.huxiucdn.com/portal/201208/05/182422kg1hlsllbc1opit3.jpg?imageView2/1/w/600/h/336/|imageMogr2/strip/interlace/1/quality/85/format/webp)
 
-[![](https://img.huxiucdn.com/portal/201208/03/135220zr6jwlmkyt4kqgo6.jpg)](https://img.huxiucdn.com/portal/201208/03/135220zr6jwlmkyt4kqgo6.jpg)
+广电总局又祭出杀招，新对电视剧创作提出六不禁令：1，革命历史题材要敌我分明；2，不能无限制放大家庭矛盾；3，古装历史剧不能捏造戏说；4，商战剧需要注意价值导向；5，翻拍克隆境外剧不能播出；6不提倡网络小说改编，网游不能改拍。
+
+禁令的消息一出立马得到网友的热烈拥护，如微博网友 [@徐卡](http://weibo.com/1403392780/yvqadm4Fp): 支持广电总局！我揭发《喜羊羊与灰太狼》违反禁令。灰太狼迄今没有消灭羊村，明显敌我不分。红太郎集集都用平底锅，无限制放大了家庭矛盾。
+
+其实直接中枪的就是湖南卫视正在播出的游戏改编剧《轩辕剑之天之痕》，尽管轩辕剑和仙剑都是经典的单机游戏而非网游。从超女开始，反观近些年的广电总局的禁令史，我们很容易得出这样的印象：湖南卫视现在差不多是广电发文的风向标了。芒果台火什么，广电就跟着打什么，动一次，打一次，动一次，打一次，动次，打次，苍茫的天涯是我的爱……
+
+虎嗅收集整理了广电总局历年禁令史，来看这电视里的中国的变迁：
+
+2000年3月，发出《关于加强动画片引进和播放管理的通知》，要求每个电视台每天必须播出10分钟以上的动画片(省台要求30分钟以上)，其中60%必须是国产片。
+
+2002年 全民热捧《流星花园》的时候，广电总局下令停播。
 
 ![](https://img.huxiucdn.com/portal/201208/03/135220zr6jwlmkyt4kqgo6.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/135220n6mgl716z1yzjv3g.jpg)](https://img.huxiucdn.com/portal/201208/03/135220n6mgl716z1yzjv3g.jpg)
+2004年 广电总局规定黄金时间不得播放“凶杀暴力涉案剧”、禁止网络游戏类节目播出、“红色经典”不许戏说。
+
+2006年3月 广电总局规定跨省赛事参赛选手年龄必须年满18岁，这给了“超女”等选秀节目当头一棒。
 
 ![](https://img.huxiucdn.com/portal/201208/03/135220n6mgl716z1yzjv3g.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/160815v4sk8z6gvzvse99g.jpg)](https://img.huxiucdn.com/portal/201208/03/160815v4sk8z6gvzvse99g.jpg)
+2006年3月 广电总局要求停播地方方言译制的境外广播电视节目，说方言的《猫和老鼠》等只能通过碟市求生。
+
+2006年4月 广电总局规定《超级女声》主持人不得有倾向性、要张扬主旋律等。
+
+2006年8月 广电总局下令9月1日起各级电视台黄金时间不得播出境外动画片。
 
 ![](https://img.huxiucdn.com/portal/201208/03/160815v4sk8z6gvzvse99g.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/135213wfnnv44v7n0h2cn8.jpg)](https://img.huxiucdn.com/portal/201208/03/135213wfnnv44v7n0h2cn8.jpg)
+**2007年广电禁令关键词：选秀，三俗，主旋律**
+
+1.2007年1月 规定卫视黄金档只能播放主旋律影视作品。
 
 ![](https://img.huxiucdn.com/portal/201208/03/135213wfnnv44v7n0h2cn8.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/135220dz61hg1d84dcaidm.jpg)](https://img.huxiucdn.com/portal/201208/03/135220dz61hg1d84dcaidm.jpg)
+2.2007年2月广电总局下令港台主持人内地主持不得连续超过3期。
+
+3.2007年4月 广电总局批准“快乐男声”举办后，要求其设计一些公益性内容，参赛曲目要积极健康，弘扬主旋律，尽可能不出现落选歌手泪流满面、亲友抱头痛哭、歌迷狂热呼叫等场面和镜头。
+
+4.2007年6月18日，以播放丰胸等违规广告而著称的宁夏电视台和甘肃电视台综合频道被禁播所有商业广告；
+
+5.2007年8月15日，广电总局下发通报认为，重庆电视台《第一次心动》比赛环节设计丑陋粗糙，评委言行举止失态，节目设计缺乏艺术水准、内容格调低下，演唱曲目庸俗媚俗，要求立即停播《第一次心动》选拔活动。
 
 ![](https://img.huxiucdn.com/portal/201208/03/135220dz61hg1d84dcaidm.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/135219xp9p3gp32p5glp77.jpg)](https://img.huxiucdn.com/portal/201208/03/135219xp9p3gp32p5glp77.jpg)
+6.2007年8月23日，广电总局叫停广东电视台女性整容真人秀节目《美丽新约》。
+
+7.2007年9月5日，四川成都两家电台“低俗下流”的“五性”节目被叫停，禁止各广播电视播出机构策划、制作、播出涉“性”节目。
+
+8.2007年9月13日，湖北、湖南等5家电台的11套广播“五性”节目被禁播。
+
+9.2007年9月24日 停播电视剧《红问号》，并要求全国各级广电主管部门严格把关，杜绝集中展示犯罪案件、制作粗劣、格调低下的电视剧播出。
+
+10.2007年，国家工商总局和广电总局就曾联合宣布所有广播电视机构暂停播出药品、医疗器械、丰胸、减肥、增高等5类电视购物广告。
+
+**2008年广电禁令关键词：国产动画，奥运，低俗**
+
+1.2008年2月 再次发出通知要求，自5月1日起，全国各级电视台所有频道不得播出的境外动画片、介绍境外动画片的资讯节目以及展示境外动画片的栏目的时段，由原来的17时至20时延长至17时至21时。
 
 ![](https://img.huxiucdn.com/portal/201208/03/135219xp9p3gp32p5glp77.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/140658izs5u45n9mks0ng3.jpg)](https://img.huxiucdn.com/portal/201208/03/140658izs5u45n9mks0ng3.jpg)
+2.2008年3月25日广电总局下发了关于全国拍摄制作电视剧备案公示的通知。通知提醒各制作单位要避免渲染恐怖、暴力、猎奇、刺激、惊悚、怪异。
+
+3.2008年7月28日的广电总局要求，除央视外，地方台节目尤其是娱乐节目一律禁用“奥运”字眼。湖南卫视“奥运向前冲“被迫更名为”快乐向前冲。”
 
 ![](https://img.huxiucdn.com/portal/201208/03/140658izs5u45n9mks0ng3.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/164257fyk99yy8qfhch71x.jpg)](https://img.huxiucdn.com/portal/201208/03/164257fyk99yy8qfhch71x.jpg)
+4.2008年12月25日，广电总局向全国各地方台下发了一则“整改令”，禁止情感类节目低俗化。而此“整改令”也是继去年“叫停”深圳卫视《超级情感对对碰》后，对低俗情感类节目的又一次严打。
+
+**2009年广电关键词：献礼，选秀，互联网电视**
+
+1.2009年3月2日，广电总局下发通知:情感类节目禁止使用测谎仪。
+
+2.2009年4月2日，广电总局出台《关于加强互联网视听节目内容管理的通知》，规定：“未取得许可证的电影、电视剧、动画片、理论文献影视片，一律不得在互联网上传播”。
+
+3..2009年4月底，广电总局近日发出一道禁播令，严禁各类综艺、娱乐、访谈节目炒作名人绯闻秘史、劣迹丑闻，以净化荧屏声频，避免“有丑闻劣迹的名人”误导观众听众。
+
+4.2009年5月到11月期间，广电总局传达精神，地方卫视台黄金时段(20：00-22：00)只能播出国庆献礼题材电视剧。
 
 ![](https://img.huxiucdn.com/portal/201208/03/164257fyk99yy8qfhch71x.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/1352160j2n2tfe2v002jjo.jpg)](https://img.huxiucdn.com/portal/201208/03/1352160j2n2tfe2v002jjo.jpg)
+5.2009年广电总局批准“快乐女声”举办后，要求其海选到总决赛播出时间最多控制在两个半月内，取消短信投票，直播不得超过十次，每次不得超过90分钟，必须在10点30分后直播。
+
+**2010年广电关键词：非诚勿扰**
+
+1.2010年3月广电总局下令禁用英文缩略词。在主持人口播、记者采访和字幕中，不能再使用诸如NBA、GDP、WTO、CPI等外语和缩略词。有网友表示，如果要屏蔽“NBA”，首先应该屏蔽掉“CCTV”。
+
+2.2010年6月，国家广电总局正式下发了《关于进一步规范婚恋交友类电视节目的管理通知》及《广电总局办公厅关于加强情感故事类电视节目管理的通知》两份正式文件，对已经引起极大社会公愤的“相亲类节目泛滥、造假、低俗”等倾向着手整饬。
 
 ![](https://img.huxiucdn.com/portal/201208/03/1352160j2n2tfe2v002jjo.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/135211zkxy3kdufnsykuvp.jpg)](https://img.huxiucdn.com/portal/201208/03/135211zkxy3kdufnsykuvp.jpg)
+3.2010年7月，广电总局下发了《关于切实加强广播电视证券节目管理的通知》，要求证券节目禁与证券咨询机构进行商业化合作。
+
+4.2010年11月12日，国家广电总局下发《广播影视知识产权战略实施意见》，明确规定，严厉打击互联网侵权盗版，重点打击影视剧作品侵权盗版行为，再次强化了对盗版美剧、日韩剧的打击力度。
+
+**2011年广电禁令关键词：广告，限娱令，宫斗，非诚勿扰，四大名著**
+
+1.广电总局：全国电视台自2012年起，每集电视剧中间不得再以任何形式插播广告。
 
 ![](https://img.huxiucdn.com/portal/201208/03/135211zkxy3kdufnsykuvp.jpg)
+
+2.广电总局“省级卫视限娱令”正式发布
+
+10月25日，广电总局正式下发通知管理上星频道。2012年1月1日起，婚恋、涉案等7类节目被限；卫视晚7:30-10:00黄金档每周娱乐节目不超两档；全国省级卫视一年选秀类节目不超10档，类型不得重复；省级卫视须设一档道德节目，倡和谐主旋律。央视不在此次规范管辖之列。
+
 ![](https://img.huxiucdn.com/portal/201208/03/141613iarees5aaqef2pfa.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/135211siqspmmpw6gwizmg.jpg)](https://img.huxiucdn.com/portal/201208/03/135211siqspmmpw6gwizmg.jpg)
+3.广电总局：禁止用贴片广告覆盖演职人员表
+
+广电总局负责人表示将禁止在电视剧片头之后和片尾之前插播广告，禁止用贴片广告覆盖演职人员表。同时，建立“黑名单”制度。5月10日，44条违规电视购物短片广告被广电总局停播，为叫停违规广告数量最多的一次。
+
+4.广电总局：时政新闻节目禁用企业冠名
+
+广电总局10月12日发通知要求，影视剧片头片尾禁止插播广告，中间插播广告需限制时长。时政新闻类节目禁止使用企业或商品冠名，新闻主持人不得代言商业广告。广电总局要求各播出机构自查自纠，今起将对重点地区、重点播出机构进行抽查。
+
+5.广电总局叫停四大名著翻拍，短期内不能再拍，也不提倡简单克隆国外剧。
 
 ![](https://img.huxiucdn.com/portal/201208/03/135211siqspmmpw6gwizmg.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/1357199cujv8r9gri8ju9o.jpg)](https://img.huxiucdn.com/portal/201208/03/1357199cujv8r9gri8ju9o.jpg)
+6.广电总局发文要求严控影视作品中吸烟镜头
+
+7.国家广电总局发出禁令，要求从2012年1月1日禁止宫斗戏、涉案剧、穿越剧在上星频道黄金档（19:00-21:00）播出。
 
 ![](https://img.huxiucdn.com/portal/201208/03/1357199cujv8r9gri8ju9o.jpg)
 
-[![](https://img.huxiucdn.com/portal/201208/03/1352118s2mk3gu8n8zit3j.jpg)](https://img.huxiucdn.com/portal/201208/03/1352118s2mk3gu8n8zit3j.jpg)
+**2012年广电关键词：禁令**
+
+1.2012年2月底，国家广电总局电影局发布的《关于进一步规范电影市场票务管理的指导意见》，意见指出：“会员价、团购价等优惠票价不低于影院挂牌价的70%”。
+
+2.2012年7月19日广电总局通报，总局办公厅13日下发通知，要求停止播出“祛毒复肝组合”等33条资讯服务和电视购物短片广告。
+
+3.2012年8月，广电总局日前对于电视剧创作提出六项要求，其中包括革命历史题材要敌我分明；不能无限制放大家庭矛盾；古装历史剧不能捏造戏说；商战剧需要注意价值导向；翻拍克隆境外剧不能播出；不提倡网络小说改编，网游不能改拍。
 
 ![](https://img.huxiucdn.com/portal/201208/03/1352118s2mk3gu8n8zit3j.jpg)
+
+本内容未经允许不得转载。授权事宜请联系 hezuo@huxiu.com。
+
+频道： [书影音](https://m.huxiu.com/channel/119.html)
+
+支持一下
+
+赞赏
+
+_0_
+
+_10_
+
+## 读过本文，Ta们还读了
+
+[![video_path](https://img.huxiucdn.com/portal/201310/20/11405255868rls875xi5bd.jpg?imageView2/1/w/306/h/200/|imageMogr2/strip/interlace/1/quality/85/format/webp)\\
+\\
+加强版限娱令：每季歌唱类节目最多4档，各卫视每年引进版权节目最多1个！\\
+\\
+虎嗅](https://m.huxiu.com/article/21749.html?type=text) [![video_path](https://img.huxiucdn.com/portal/201404/15/180226cruvu5r5rulagrct.jpg?imageView2/1/w/306/h/200/|imageMogr2/strip/interlace/1/quality/85/format/webp)\\
+\\
+广电总局“一剧两星”出台，电视剧圈炸锅啦！会咋整？\\
+\\
+虎嗅](https://m.huxiu.com/article/31869.html?type=text) [![video_path](https://img.huxiucdn.com/portal/201408/13/134715q99997y17wv9pcto.jpg?imageView2/1/w/306/h/200/|imageMogr2/strip/interlace/1/quality/85/format/webp)\\
+\\
+广电总局被削权乌龙：国务院仅取消海外合作游戏前置审批职能？\\
+\\
+虎嗅](https://m.huxiu.com/article/40047.html?type=text)
+
+## 大 家 都 在 搜
+
+思考
+人形机器人
+具身智能
+习惯
+
+APP内打开

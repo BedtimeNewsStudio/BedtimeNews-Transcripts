@@ -1,31 +1,24 @@
 ---
 source_url: "https://fidic.org/about-fidic/fidic-awards/fidic-awards-2017/fidic-awards-2017-results"
-captured_at: 2026-11-08T14:16:37Z
+captured_at: 2026-11-16T10:02:48Z
 title: "FIDIC | FIDIC Awards 2017 - Results | International Federation of Consulting Engineers"
-tool: tavily
+tool: firecrawl
 ---
 
-> **网页快照**：2026-11-08 14:16 UTC 抓取自 [原始页面](https://fidic.org/about-fidic/fidic-awards/fidic-awards-2017/fidic-awards-2017-results)（工具：tavily）。
+> **网页快照**：2026-11-16 10:02 UTC 抓取自 [原始页面](https://fidic.org/about-fidic/fidic-awards/fidic-awards-2017/fidic-awards-2017-results)（工具：firecrawl）。
 
 # FIDIC | FIDIC Awards 2017 - Results | International Federation of Consulting Engineers
 
-![Home](/sites/all/themes/fidic/images/header/FIDIC_logo_293-text.jpg)
-![Home](/sites/all/themes/fidic/images/FIDIC_logo_293.svg)
+[Jump to navigation](#main-menu)
 
 # FIDIC Awards 2017 - Results
 
-## 
+FIDIC is pleased to recognise the following projects which received an Award at the FIDIC Awards Gala Dinner celebrated on Monday, the 2nd of October in Jakarta, Indonesia. The award categories recognised were, "Outstanding Project of the Year", "Award of Special Merit" and "Award of Merit". Congratulations to all projects awarded!
 
-## Recipients of the *FIDIC Outstanding Project of the Year 2017* Awards
+## Recipients of the _FIDIC Outstanding Project of the Year 2017_ Awards
 
-| Country | Project Name | Member Association |
+| ## Country | ## Project Name | ## Member Association |
 | --- | --- | --- |
-
-## Country
-
-## Project Name
-
-## Member Association
 
 |  |  |  |
 | --- | --- | --- |
@@ -33,30 +26,20 @@ tool: tavily
 | Japan | [Gebze-Haydarpasa, Sirkeci-Halkali Commuter Rails Upgrading and Railway Bosphorus Tube Crossing Construction (Marmaray)](http://fidic.org/node/13136) | Engineering and Consulting Firms Association, Japan |
 | China | [Phoenix Center](http://fidic.org/node/13122) | CNAEC - China National Association of Engineering Consultants |
 
-## 
-
-## 
-
-## Recipients of the*FIDIC* *AWARD of SPECIAL MERIT*
+## Recipients of the _FIDIC_ _AWARD of SPECIAL MERIT_
 
 |  |  |  |
 | --- | --- | --- |
-| Country | Project Name | Member Association |
+| ## Country | ## Project Name | ## Member Association |
 | USA | [Biosolids Main Process Train](http://fidic.org/node/13141) | American Council of Engineering Companies |
 | China | [Regulation of Water Resources in the Middle and Lower Reaches of Hanjiang River](http://fidic.org/node/13128) | CNAEC - China National Association of Engineering Consultants |
 | China | [Jiashao Bridge](http://fidic.org/node/13111) | CNAEC - China National Association of Engineering Consultants |
 
-## Country
-
-## Project Name
-
-## Member Association
-
-## Recipients of the*FIDIC* *AWARD of MERIT*
+## Recipients of the _FIDIC_ _AWARD of MERIT_
 
 |  |  |  |
 | --- | --- | --- |
-| Country | Project Name | Member Association |
+| ## Country | ## Project Name | ## Member Association |
 | Australia | [5 Martin Place](http://fidic.org/node/13108) | Consult Australia |
 | China | [Chongqing Straddle-type Monorail Transit (Line 3)](http://fidic.org/node/13118) | CNAEC - China National Association of Engineering Consultants |
 | China | [Tunnelling Project of Slender West Lake in Yangzhou](http://fidic.org/node/13119) | CNAEC - China National Association of Engineering Consultants |
@@ -73,23 +56,12 @@ tool: tavily
 | Spain | [North-Northwest High-Speed Corridor Sub section Venta de Baños Junction](http://fidic.org/node/13138) | Asociación española de empresas de Ingeniería, Consultoría y Servicios Tecnológicos (TECNIBERIA) |
 | USA | [Harnessing Geothermal Power for Airports](http://fidic.org/node/13142) | American Council of Engineering Companies |
 
-## Country
-
-## Project Name
-
-## Member Association
-
-Working in partnership with:
-
-![CBD](/sites/all/themes/fidic/images/CDB_logo_white.png)
-![IDB](/sites/all/themes/fidic/images/IDB_logo_white.png)
-![CERN](/sites/all/themes/fidic/images/cern.png)
-![FIDIC](/sites/all/themes/fidic/images/FIDIC-logo-White.png)
-
-World Trade Center II | Geneva Airport Box 311  
-29 Route de Pré-Bois | CH-1215 Geneva 15  
-+41 22 568 0500 | [[email protected]](/cdn-cgi/l/email-protection)
-
 Copyright 2026 - All rights reserved
 
-![FIDIC](/sites/all/themes/fidic/images/payment-footer.png)
+![FIDIC](https://fidic.org/sites/all/themes/fidic/images/payment-footer.png)
+
+[Close](# "Close")
+
+[Previous](# "Previous")[Next](# "Next")
+
+[Pause Slideshow](# "Pause Slideshow")[Play Slideshow](# "Play Slideshow")

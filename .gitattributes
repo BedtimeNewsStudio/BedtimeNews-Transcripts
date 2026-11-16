@@ -1,0 +1,19 @@
+# Preserve archived source files byte for byte.
+snapshots/**/*.pdf binary
+snapshots/**/*.doc binary
+snapshots/**/*.docx binary
+snapshots/**/*.xls binary
+snapshots/**/*.xlsx binary
+snapshots/**/*.ppt binary
+snapshots/**/*.pptx binary
+snapshots/**/*.csv binary
+snapshots/**/*.txt binary
+snapshots/**/*.jpg binary
+snapshots/**/*.jpeg binary
+snapshots/**/*.png binary
+snapshots/**/*.gif binary
+snapshots/**/*.webp binary
+snapshots/**/*.tif binary
+snapshots/**/*.tiff binary
+snapshots/**/*.zip binary
+snapshots/**/*.bin binary

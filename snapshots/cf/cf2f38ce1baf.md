@@ -1,183 +1,31 @@
 ---
 source_url: "http://opinion.people.com.cn/n1/2022/1010/c1003-32541819.html"
-captured_at: 2026-11-08T13:39:37Z
-title: "ǿԵǰߵĺ--۵--"
-tool: tavily
+captured_at: 2026-11-16T10:30:41Z
+title: "增强对当前疫情防控政策的信心和耐心--观点--人民网"
+tool: native-http
 ---
 
-> **网页快照**：2026-11-08 13:39 UTC 抓取自 [原始页面](http://opinion.people.com.cn/n1/2022/1010/c1003-32541819.html)（工具：tavily）。
+> **网页快照**：2026-11-16 10:30 UTC 抓取自 [原始页面](http://opinion.people.com.cn/n1/2022/1010/c1003-32541819.html)（工具：native-http）。
 
-# ǿԵǰߵĺ--۵--
+# 增强对当前疫情防控政策的信心和耐心
 
-![](http://www.people.com.cn/img/2020peopleindex/img/logo_share_ap.jpg)
-![](/img/2020wbc/imgs/logo.png "")
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/dyz/01.png)
-![](/img/2020peopleindex/img/dyz/02.png)
-![](/img/2020peopleindex/img/dyz/03.png)
-![](/img/2020peopleindex/img/dyz/04.png)
-![](/img/2020peopleindex/img/dyz/05.png)
-![](/img/2020peopleindex/img/dyz/06.png)
-![](/img/2020peopleindex/img/dyz/07.png)
-![](/img/2020peopleindex/img/dyz/08.png)
-![](/img/2020peopleindex/img/dyz/09.png)
-![](/img/2020peopleindex/img/dyz/10.png)
-![](/img/2020peopleindex/img/dyz/11.png)
-![](/img/2020peopleindex/img/dyz/12.png)
-![](/img/2020peopleindex/img/dyz/13.png)
-![](/img/2020peopleindex/img/dyz/14.png)
-![](/img/2020peopleindex/img/dyz/15.png)
-![](/img/2020peopleindex/img/dyz/16.png)
-![](/img/2020peopleindex/img/dyz/17.png)
-![](/img/2020peopleindex/img/dyz/19.png)
-![](/img/2020peopleindex/img/dyz/20.png)
-![](/img/2020peopleindex/img/dyz/21.png)
-![](/img/2020peopleindex/img/arrow2.png)
-![](/img/2020peopleindex/img/rmwjia1.png)
-![](/img/2020peopleindex/img/wza.png)
-![](/img/2020peopleindex/img/more2.png)
-![](/img/2020peopleindex/img/sou1.png)
-![](/img/2020peopleindex/img/dltx1.png)
+*小字号*
 
-# 
+推行“落地检”，一些地区在车站、公园、商圈周边等增设核酸检测点，不少景区严格落实“限量、预约、错峰”要求……今年国庆假期，全国各地认真落实常态化疫情防控举措，引导人员有序流动，为广大群众度过一个健康平安的国庆假期提供了有力保障。这再次说明，我国当前疫情防控政策符合国情、符合科学，是行之有效的。
 
-![](/img/2020peopleindex/img/logo_red.png)
-![](/img/2020peopleindex/img/icon_more0.png)
-![](/img/2020peopleindex/img/icon_more1.png)
-![](/img/2020peopleindex/img/icon_more2.png)
-![](/img/2020peopleindex/img/icon_more3.png)
-![](/img/2020peopleindex/img/icon_more4.png)
+行百里者半九十，只要没抵达胜利的终点，就不能轻言成功、歇脚停步。从国际看，全球新冠肺炎疫情仍处于高位，周边国家疫情持续发酵，我国外防输入压力明显增大。世界卫生组织近日发出警告：多个国家近期新冠感染、住院和死亡人数增加，随着北半球流感季的到来，预计未来将出现新冠与流感等其他病毒同时传播的局面，各国不应掉以轻心。从国内来看，当前，全国疫情仍然呈现出“点多、面广”的特点，我国持续面临着境外疫情输入和本土疫情传播的风险，发生多地聚集性疫情风险依然存在。从病毒本身看，病毒持续变异，国内部分地区新冠肺炎感染者的基因测序结果显示，病毒分别属于奥密克戎变异株的多个不同亚分支，与此前流行的奥密克戎毒株相比，传播力和致病力并未减弱，对老年人和基础病人群仍具较大威胁。正因此，我们必须继续保持对疫情传播的警惕，增强对我国疫情防控政策的信心和耐心，克服麻痹思想、厌战情绪、侥幸心理、松劲心态，抓实抓细疫情防控各项工作。
 
-### ձϵ
+抗击疫情，信心比黄金更重要。奥密克戎变异株具有传染性强、传播速度快、隐匿性高等特点，无症状和轻症感染者较多，导致一些早期的感染者不易被发现，确实给当前疫情防控增加了不少难度和挑战，但这并不意味着做不到早发现、早报告、早隔离、早治疗。从防控情况来看，各地都按照第九版防控方案的要求，立足于快速精准做好风险管控，积极应对。实践充分证明，第九版防控方案对奥密克戎变异株是行之有效的，我们完全有基础、有条件、有能力实现动态清零。
 
-### վ
+高效统筹疫情防控和经济社会发展，落实好“疫情要防住、经济要稳住、发展要安全”的要求，“精准”是道必答题。必须深刻认识到，常态化疫情防控不是孤立的政策，而是一套复杂的运行体系。一方面，必须严格落实第九版防控方案和“九不准”要求，坚决防止简单化、“一刀切”和层层加码；另一方面，也决不能放松防控、导致前功尽弃。不断提高科学精准防控水平，不断优化疫情防控举措，进一步提高防控措施的科学性、精准性、有效性，才能尽可能减轻对经济发展和群众正常生活的影响，增强对当前疫情防控政策的信心和耐心。
 
-### 
+疫情尚未远去，大考仍在继续。实践深刻启示我们，“躺平”没有出路，坚持就是胜利。保持战略定力，坚定必胜信心，坚持科学精准、动态清零，慎终如始抓好疫情防控工作，我们一定能维护和巩固来之不易的疫情防控成果，有力有效保障人民群众生命健康和经济社会发展。
 
-# ǿԵǰߵĺ
+《 人民日报 》（ 2022年10月10日 02 版）
 
-#### 
+**相关报道：**
 
-![](/img/2020wbc/imgs/icon_type.png)
+*分享让更多人看到*
 
-Сؼ족һЩڳվ԰Ȧܱߵ㣬پϸʵԤԼ塱Ҫ󡭡ڣȫʵ̬ؾٴ룬ԱΪȺڶȹһƽĹṩϡٴ˵ҹǰ߷Ϲ顢Ͽѧ֮Чġ
-
-а߰ʮֻҪûִʤյ㣬ͲԳɹЪͣӹʿȫ¹ڷԴڸλܱ߹ͣҹѹ֯շ棺ҽ¹ڸȾסԺӣűмĵԤδ¹еͬʱľ棬ӦġӹǰȫȻֳࡢ㡱ص㣬ҹžͱ鴫ķգؾۼȻڡӲ죬ڲֵ¹ڷ׸ȾߵĻʾֱڰֱܿĶͬǷ֧ǰеİֶܿȣ²δ˺ͻȺԾ߽ϴвˣǱֶ鴫ľ裬ǿҹߵĺģ˷˼롢սɾ̬ץʵץϸظ
-
-飬ıȻƽҪֱܿдȾǿٶȿ졢Ըߵص㣬֢״֢Ⱦ߽϶࣬һЩڵĸȾ߲ױ֣ȷʵǰ˲ѶȺսⲢζ緢֡籨桢롢ơӷضյھŰطҪڿپ׼÷չܿأӦԡʵ֤ھŰط԰ֱ֮ܿЧģȫлʵֶ̬㡣
-
-Чͳغ;ᷢչʵáҪסҪסչҪȫҪ󣬡׼ǵش⡣ʶ̬زǹߣһ׸ӵϵһ棬ϸʵھŰط͡Ų׼Ҫ󣬼ֹ򵥻һСͲ룻һ棬Ҳܷɷءǰ߿ѧ׼ˮƽŻؾٴ룬һ߷شʩĿѧԡ׼ԡЧԣܾܼԾ÷չȺӰ죬ǿԵǰߵĺġ
-
-δԶȥڼʵʾǣƽûг·־ʤսԶᶨʤģֿѧ׼̬㣬ʼץعһά͹֮׵سɹЧȺ;ᷢչ
-
- ձ  20221010 02 棩
-
-**ر**
-
-[סģĵ](http://opinion.people.com.cn/n1/2022/1007/c1003-32540042.html)
-
-[ѧ׼ع](http://opinion.people.com.cn/n1/2022/1008/c1003-32540275.html)
-
-|  |
-| --- |
-|  |
-
-*ø˿ *![](/img/2020wbc/imgs/share.png)**
-
-![](/img/2020wbc/imgs/share.png)
-
-##### 
-
-##### ͻ
-
-![](/img/2020wbc/imgs/icon_download_rmrb.png)
-![](/img/2020wbc/imgs/icon_download_rmwj1.png)
-![](/img/2020wbc/imgs/icon_download_rmw.png)
-![](/img/2020wbc/imgs/icon_download_ly.png)
-![](/img/2020wbc/imgs/icon_download_video.png)
-![](/img/2020wbc/imgs/icon_download_zy.png)
-![](/img/2020wbc/imgs/icon_download_zz.png)
-
-### 
-
-[ձſ](http://www.people.com.cn/GB/1018/22259/index.html)
-
-|
-
-[](http://www.people.com.cn/GB/50142/420117/index.html)
-
-|
-
-[Ƹ](http://hr.peopledaily.com.cn/)
-
-|
-
-[ƸӢ](http://job.people.com.cn/)
-
-|
-
-[](http://www.people.com.cn/GB/208743/403202/index.html)
-
-|
-
-[](http://www.people.com.cn/GB/208743/403202/403212/index.html)
-
-|
-
-[](http://gonggao.people.com.cn/)
-
-|
-
-[ݷ](http://data.people.com.cn/)
-
-|
-
-[վ](http://www.people.com.cn/n/2013/1227/c373005-23961344.html)
-
-|
-
-[վʦ](http://www.people.com.cn/n1/2019/0308/c420117-30965009.html)
-
-|
-
-[Ϣ](http://sso.people.com.cn/resource/html/userInforPro.html)
-
-|
-
-[ϵ](http://kf.people.com.cn/)
-
-ձΥͲϢٱ绰010-65363263    ٱ䣺[jubao@people.cn](mailto:jubao@people.cn)
-
-䣺[kf@people.cn](mailto:kf@people.cn)    ΥͲϢٱ绰010-65363636    ٱ䣺[rmwjubao@people.cn](mailto:rmwjubao@people.cn)
-
-[Ϣ֤10120170001](http://www.people.com.cn/img/2014xuke/2018hlwxw.html)  |  [ֵҵӪ֤B1-20060139](http://www.people.com.cn/img/2014xuke/2018zzdxxkz.html)  |  [㲥ӽĿӪ֤ýֵ172](http://www.people.com.cn/img/2019peopleindex/html/gbds2019.html)
-
-[Ϣ紫Ŀ֤0104065](http://www.people.com.cn/img/2011zzzs/2018xxwlcb.htm) | [ĻӪ֤ [2020]5494-1075](http://www.people.com.cn/img/2014xuke/2018wlwh.html) | [֤121](http://www.people.com.cn/img/2014xuke/2018wlcb.html) | [ICP֤000006](http://www.people.com.cn/img/2014xuke/2018icp.html) | [11000002000008](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000008)
-
-    Ȩ   δ     Ȩ  ֹ ʹ   
-Copyright © 1997-2022 by www.people.com.cn. all rights reserved
-
-[![](/img/2020peopleindex/img/copy_py2.png)](http://www.piyao.org.cn/)
-[![](/img/2020peopleindex/img/copy_icon1.png)](http://www.people.com.cn/img/2014xuke/2018icp.html)
-[![](/img/2020peopleindex/img/copy_icon2.png)](https://ss.knet.cn/verifyseal.dll?sn=e12050911010020686307708&ct=df&a=1&pa=980951)
-[![](/img/2020peopleindex/img/copy_icon3.png)](http://si.trustutn.org/info?sn=470170320027574551118&certType=1)
-[![](/img/2020peopleindex/img/copy_icon4.png)](http://www.itrust.org.cn/home/index/itrust_certifi/wm/2710933198.html)
-[![](/img/2020peopleindex/img/wzahg.png)](#)
-
-![](/img/2020peopleindex/img/copy_py2.png)
-![](/img/2020peopleindex/img/copy_icon1.png)
-![](/img/2020peopleindex/img/copy_icon2.png)
-![](/img/2020peopleindex/img/copy_icon3.png)
-![](/img/2020peopleindex/img/copy_icon4.png)
-![](/img/2020peopleindex/img/wzahg.png)
-![](/img/2020wbc/imgs/share_bbs.png)
-![](/img/2020wbc/imgs/sj_wx.jpg)
-![](/img/2020wbc/imgs/sj_wb.jpg)
-![](/img/2020wbc/imgs/sj_ks.png)
-![](http://counter.people.cn:8000/c.gif?id=32541819)
+- 评论
+- 关注

@@ -1,44 +1,21 @@
 ---
 source_url: "https://finance.yahoo.com/news/1-tesla-cuts-prices-china-020846984.html"
-captured_at: 2026-11-08T07:35:21Z
+captured_at: 2026-11-16T10:05:24Z
 title: "UPDATE 11-Tesla slashes prices in China, other Asian markets as sales stumble"
-tool: firecrawl
+tool: native-http
 ---
 
-> **网页快照**：2026-11-08 07:35 UTC 抓取自 [原始页面](https://finance.yahoo.com/news/1-tesla-cuts-prices-china-020846984.html)（工具：firecrawl）。
+> **网页快照**：2026-11-16 10:05 UTC 抓取自 [原始页面](https://finance.yahoo.com/news/1-tesla-cuts-prices-china-020846984.html)（工具：native-http）。
 
 # UPDATE 11-Tesla slashes prices in China, other Asian markets as sales stumble
-
-Oops, something went wrong
-
-[Skip to navigation](#navigation-container) [Skip to main content](#nimbus-app) [Skip to right column](#right-rail)
-
-[![Reuters](https://s.yimg.com/lo/mysterio/api/d6622a16f3046f7d100f8a094f11241e847e0a6fefdd46d0a8fb897f3aa18ff3/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F62e21440-2fbd-11eb-95ff-5673fa3d2f9f)](http://www.reuters.com/ "Reuters")
-
-# UPDATE 11-Tesla slashes prices in China, other Asian markets as sales stumble
-
-Reuters
-
-January 6, 20234 min read
-
-- [TSLA \\
-+4.57%](https://finance.yahoo.com/quote/TSLA/ "TSLA")
-
-- [BYDDF \\
-+0.42%](https://finance.yahoo.com/quote/BYDDF/ "BYDDF")
-
-- [BYDDY \\
-+0.85%](https://finance.yahoo.com/quote/BYDDY/ "BYDDY")
-
-\\*
 
 Tesla's first major move since Zhu appointment to oversee output
 
-\\*
+\*
 
 Prices down 13% to 24% from Sept in China - Reuters calculations
 
-\\*
+\*
 
 EV maker also cuts prices in Japan, South Korea and Australia
 
@@ -63,8 +40,6 @@ Tesla slashed prices for all its Model 3 and Model Y cars in China by between 6%
 Grace Tao, Tesla's vice president in charge of external communications in China, said on Weibo that the price cuts in China reflected engineering innovation and answered Beijing's call to encourage economic development and consumption.
 
 Deliveries of Tesla's China-made cars hit their lowest in five months in December. Tesla's Shanghai plant, which was expanded last year, also exports vehicles to Europe.
-
-Story Continues
 
 So far, there has been no sign of Tesla cutting prices in Europe, where sales jumped 93% in November year-on-year, according to sales data from research group JATO Dynamics, and the Model Y was the top-selling car for the second time in 2022.
 
@@ -103,27 +78,3 @@ In the United States, the Model Y and Model 3 are eligible for up to $7,500 in c
 In 2021, China accounted for just over a third of Tesla's overall sales. ($1 = 6.8775 Chinese yuan) ($1 = 133.9200 yen)
 
 (Reporting by Zhang Yan and Brenda Goh; Additional reporting by Nick Carey; Graphics by Vincent Flasseur; Editing by Kim Coghill, Muralikumar Anantharaman, Alexander Smith and Diane Craft)
-
-View Comments
-
-[Terms](https://guce.yahoo.com/terms?locale=en-US) and [Privacy Policy](https://guce.yahoo.com/privacy-policy?locale=en-US)
-
-[Your Privacy Choices ![](https://s.yimg.com/dv/static/siteApp/img/privacy-choice-control.png)](https://guce.yahoo.com/state-controls?locale=en-US&state=VA)
-
-[More Info](https://finance.yahoo.com/more-info)
-
-* * *
-
-- * * *
-
-- * * *
-
-- * * *
-
-- * * *
-
-- * * *
-
-- * * *
-
-Yahoo Finance Pushly

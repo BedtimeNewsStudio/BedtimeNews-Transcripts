@@ -1,68 +1,22 @@
 ---
 source_url: "http://cpc.people.com.cn/pinglun/n/2013/1028/c78779-23346715.html"
-captured_at: 2026-11-08T13:33:00Z
-title: "»߶ΪγˡѿеĹͷ---"
-tool: tavily
+captured_at: 2026-11-16T10:07:49Z
+title: "新华网：高尔夫球场为何成了“难啃的骨头”--评论-人民网"
+tool: native-http
 ---
 
-> **网页快照**：2026-11-08 13:33 UTC 抓取自 [原始页面](http://cpc.people.com.cn/pinglun/n/2013/1028/c78779-23346715.html)（工具：tavily）。
+> **网页快照**：2026-11-16 10:07 UTC 抓取自 [原始页面](http://cpc.people.com.cn/pinglun/n/2013/1028/c78779-23346715.html)（工具：native-http）。
 
-# »߶ΪγˡѿеĹͷ---
+# 新华网：高尔夫球场为何成了“难啃的骨头”--评论-人民网
 
-* **[߲  
-  ̬](http://cpc.people.com.cn/GB/64093/64094/index.html)**[֯ṹ](http://cpc.people.com.cn/GB/64162/351757/index.html)[ɲ](http://cpc.people.com.cn/GB/64093/117005/index.html)  
-  [벿](http://cpc.people.com.cn/GB/64114/)[̳](http://cpc.people.com.cn/GB/64093/64102/index.html)
-* **[  
-  ](http://cpc.people.com.cn/GB/64093/64387/index.html)** [](http://renshi.people.com.cn/)[](http://fanfu.people.com.cn/)[ԭ](http://cpc.people.com.cn/GB/164113/index.html)  
-  [](http://cpc.people.com.cn/GB/64107/64110/index.html)[ͳս](http://cpc.people.com.cn/GB/64107/64111/index.html)[](http://cpc.people.com.cn/GB/64107/64112/index.html)
-* **[  
-  ](http://dangjian.people.com.cn/)**[̬](http://dangjian.people.com.cn/GB/219967/index.html)[](http://dangjian.people.com.cn/GB/78694/index.html)[](http://dangjian.people.com.cn/GB/117094/index.html)  
-  [](http://dangjian.people.com.cn/gq/)[ǹ](http://dangjian.people.com.cn/fg/)[ѧУ](http://dangjian.people.com.cn/xx/)
-* **[ѧϰ  
-  ο](http://theory.people.com.cn/)**[](http://theory.people.com.cn/)[](http://cpc.people.com.cn/pinglun/)[ظ](http://theory.people.com.cn/GB/148980/index.html)  
-  [ʷ](http://dangshi.people.com.cn/)[廳](http://cpc.people.com.cn/GB/69112/index.html)[](http://cpc.people.com.cn/GB/64162/index.html)
-* **[  
-  ](http://71.people.com.cn/)**[](http://cpc.people.com.cn/pinglun/GB/241220/index.html)[Ե˵](http://cpc.people.com.cn/GB/67481/103050/)  
-  [ר](http://cpc.people.com.cn/GB/67481/index.html)[ƽ̨](http://71.people.com.cn/GB/368918/index.html)
+马涤明
 
-[й](http://cpc.people.com.cn/)
+不久前，北京市政府下发《北京市地下水保护和污染防控行动方案》，研究制定6家位于饮用水源保护区的高尔夫球场退出方案。然而至今未见官方公布名单。本周，记者在北京重要水源地密云水库调查时发现，水库周边就有两家大型高尔夫球场，威胁着密云水库的水质保护，但它们都向记者保证，目前没接到关停或者退出的通知，这意味着球场会继续存在运营。（10月25日 《北京青年报》）
 
-# »߶ΪγˡѿеĹͷ
+早在2004年1月10日，国务院办公厅就已下发关于暂停新建高尔夫球场的通知，要求各级政府部门一律不得批准建设新的高尔夫球场项目，尚未开工的项目一律不许动工建设。国土部也将高尔夫球场项目列入《禁止供地目录》。然而，近十年来的情况却是，各地区一个又一个高尔夫球场“顶风而起”，要么是只见曝光不见查处，要么是相关部门严厉表态之后再无下文。比如，几年前湖北宜昌龙盘湖违建别墅和高尔夫球场项目被国土部挂牌督办，督办了一年之后，项目不但没停下来，反而开张营业；2011年，国土部称再次派员督导，但之后便再无下文；而从网上“龙盘湖国际高尔夫球会招聘 ”之类的信息来看，这个被督办督导了几年的高尔夫球场依旧活得滋润。
 
-##### 2013102809:25   Դ[»](http://news.xinhuanet.com/comments/2013-10/27/c_117885760.htm)
+2011年国家发改委等11个部委联合签发“特急”《关于开展全国高尔夫球场综合清理整治工作的通知》，遗憾的是，我们并没有听到有高尔夫球场被清查的消息。倒是一年以后《瞭望》周刊一篇《11部委整治高尔夫一年追踪》的新闻调查说，“硬政令遭遇软抵抗”，“多地企业顶风建球场”。北京密云水库附近的高尔夫球场的工作人员就对记者说，“前年北京市查封高尔夫球场时都没事”。难道，每一个高尔夫球场的背后都存在着“神秘的能量”，能把国家禁令变成废纸、违规而上，也能经得住各种清查？
 
-ԭ⣺һ׷ʣ߶ΪγˡѿеĹͷ
+部分高尔夫球场污染、威胁地下水源，甚至一些球场采空地下水。有专家称，因滥采造成的破坏和污染，深层地下水几乎不能恢复，恢复的年份往往以万年来做单位。然而，不管是高尔夫球场顶风违建，还是威胁、污染水源，采空地下水等问题，在相关执法部门那里全都成了“啃不动的骨头”。北京市制定6家球场退出方案后名单成迷，威胁密云水库水源的球场仍底气十足，这些就是例证。
 
-ǰ·еˮȾжоƶ6λˮԴĸ߶˳ȻδٷܣڱҪˮԴˮʱ֣ˮܱ߾Ҵ͸߶򳡣вˮˮʱǶ֤߱Ŀǰûӵͣ˳֪ͨζ򳡻Ӫ1025 걨
-
-2004110գԺ칫·ͣ½߶򳡵֪ͨҪһɲ׼µĸ߶ĿδĿһɲ衣Ҳ߶Ŀ롶ֹĿ¼Ȼʮȴǣһһ߶򳡡𡱣Ҫôֻعⲻ鴦Ҫôز̬֮ġ磬ǰ˲̺Υ͸߶Ŀƶ죬һ֮ĿûͣӪҵ2011꣬ٴԱ֮ģϡ̺ʸ߶Ƹ ֮Ϣ춽˼ĸ߶ɻ
-
-2011ҷί11ίǩؼڿչȫ߶ۺι֪ͨźǣǲûи߶򳡱ϢһԺ󡶲tܿһƪ11ίθ߶һ׷١ŵ˵Ӳֿҵ罨򳡡ˮ⸽ĸ߶򳡵ĹԱͶԼ˵ǰ걱в߶ʱû¡ѵÿһ߶򳡵ı󶼴šصܰѹҽɷֽΥϣҲܾס飿
-
-ָ߶ȾвˮԴһЩ򳡲ɿյˮרҳƣĲɵƻȾˮָָܻλȻǸ߶򳡶ΥвȾˮԴɿյˮ⣬ִȫˡвĹͷƶ6˳ԣвˮˮԴԵʮ㣬Щ֤
-
-߶顰ӲͷҪӲʲôʱأ
-
-ʹ΢šɨһɨӡѧϰ΢ƽ̨
-
-[](#)
-
-(ࣺꡢл)
-
-### ϲ
-
-* [ȫεϰƽǿЩؼ](http://fanfu.people.com.cn/n1/2018/0308/c64371-29855447.html)
-* [ϰƽǣЩ¶](/xuexi/n1/2018/0306/c385474-29850164.html)
-* [ͼ⣺ϰƽϵ](/xuexi/n1/2018/0302/c385474-29844361.html)
-* [ϰƽȥĵһ顱Щ](/n1/2018/0302/c164113-29842945.html)
-* [عˣϰƽġ䡱](/xuexi/n1/2018/0301/c385474-29840651.html)
-* [ϰƽһ](/xuexi/n1/2018/0307/c385476-29852988.html)
-* [ͼϰƽʾͷȫ¼](/xuexi/n1/2018/0228/c385474-29838291.html)
-* [ϰƽ2018괺Űݻὲʮ](/xuexi/n1/2018/0214/c385474-29824635.html)
-
-* 
-* 
-
-鿴ȫ
-
-[95](http://cpc.people.com.cn/GB/404684/index.html)[ѧϰ·](http://cpc.people.com.cn/GB/67481/385474/index.html)[ĸﴴ°](http://theory.people.com.cn/GB/40557/401815/index.html)[йҪϿ](http://cpc.people.com.cn/GB/64162/394696/index.html)[ѧһ](http://lxyz.people.cn/GB/index.html)[ƽ̨](http://cpc.people.com.cn/yun/)
+究竟，高尔夫球场这块“硬骨头”要硬到什么时候呢？

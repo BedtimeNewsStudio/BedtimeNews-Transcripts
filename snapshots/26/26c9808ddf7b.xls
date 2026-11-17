@@ -1,0 +1,582 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 9">
+<link rel=File-List href="./fm_g17b_fichiers/filelist.xml">
+<link rel=Edit-Time-Data href="./fm_g17b_fichiers/editdata.mso">
+<link rel=OLE-Object-Data href="./fm_g17b_fichiers/oledata.mso">
+<title>SAS Output</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>jsl</o:LastAuthor>
+  <o:LastSaved>2018-06-25T10:36:15Z</o:LastSaved>
+  <o:Version>9.6926</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="msowc.cab"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:" ";}
+@page
+	{margin:.98in .79in .98in .79in;
+	mso-header-margin:.49in;
+	mso-footer-margin:.49in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	text-align:center;}
+.xl25
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:1.0pt solid black;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid black;
+	border-right:1.0pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:1.0pt solid black;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:right;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl30
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:right;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:.5pt solid black;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl31
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:1.0pt solid black;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl32
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:right;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl33
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:right;
+	vertical-align:top;
+	border-top:none;
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid black;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl34
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;}
+.xl35
+	{mso-style-parent:style0;
+	color:black;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>G17B</x:Name>
+    <x:WorksheetOptions>
+     <x:FitToPage/>
+     <x:DefaultColWidth>10</x:DefaultColWidth>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:FreezePanes/>
+     <x:FrozenNoSplit/>
+     <x:SplitHorizontal>3</x:SplitHorizontal>
+     <x:TopRowBottomPane>27</x:TopRowBottomPane>
+     <x:SplitVertical>1</x:SplitVertical>
+     <x:LeftColumnRightPane>1</x:LeftColumnRightPane>
+     <x:ActivePane>2</x:ActivePane>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+      </x:Pane>
+      <x:Pane>
+       <x:Number>1</x:Number>
+      </x:Pane>
+      <x:Pane>
+       <x:Number>2</x:Number>
+       <x:ActiveRow>0</x:ActiveRow>
+       <x:RangeSelection>A1:E1</x:RangeSelection>
+      </x:Pane>
+      <x:Pane>
+       <x:Number>0</x:Number>
+       <x:ActiveRow>3</x:ActiveRow>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>11010</x:WindowHeight>
+  <x:WindowWidth>17490</x:WindowWidth>
+  <x:WindowTopX>60</x:WindowTopX>
+  <x:WindowTopY>45</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple class=xl24>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=460 style='border-collapse:
+ collapse;table-layout:fixed;width:345pt'>
+ <col class=xl24 width=92 span=5 style='mso-width-source:userset;mso-width-alt:
+ 3364;width:69pt'>
+ <col class=xl24 width=62 span=251 style='mso-width-source:userset;mso-width-alt:
+ 2267;width:47pt'>
+ <tr height=35 style='mso-height-source:userset;height:26.45pt'>
+  <td colspan=5 height=35 class=xl35 width=460 style='height:26.45pt;
+  width:345pt'>DONNÉES DU GRAPHIQUE 17B - ÉVOLUTION DES NAISSANCES VIVANTES
+  SELON LE LIEU DE NAISSANCE COMBINÉ DES PARENTS</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 colspan=5 class=xl24 style='height:13.5pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=68 style='height:51.0pt'>
+  <td height=68 class=xl25 width=92 style='height:51.0pt;width:69pt'><!--BEGINTABLE--></colgroup>Année</td>
+  <td class=xl26 width=92 style='width:69pt' scope=col>Total des naissances
+  vivantes</td>
+  <td class=xl26 width=92 style='width:69pt' scope=col>Deux parents nés en
+  France</td>
+  <td class=xl26 width=92 style='width:69pt' scope=col>Un parent né en France,
+  l'autre à l'étranger</td>
+  <td class=xl27 width=92 style='width:69pt' scope=col>Deux parents nés à
+  l'étranger</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1987</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="767828">767 828</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="531025">531 025</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="85389">85 389</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="80129">80 129</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1988</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="771268">771 268</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="528281">528 281</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="86383">86 383</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="79962">79 962</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1989</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="765473">765 473</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="525879">525 879</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="84735">84 735</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="79349">79 349</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1990</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="762407">762 407</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="522788">522 788</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="84676">84 676</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="79399">79 399</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1991</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="759056">759 056</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="522242">522 242</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="83619">83 619</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="78261">78 261</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1992</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="743658">743 658</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="510866">510 866</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="81443">81 443</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="77340">77 340</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1993</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="711610">711 610</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="510244">510 244</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="80997">80 997</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="76029">76 029</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1994</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="710993">710 993</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="515032">515 032</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="81446">81 446</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="73505">73 505</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1995</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="729609">729 609</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="541230">541 230</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="83651">83 651</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="71077">71 077</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1996</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="734338">734 338</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="548027">548 027</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="82825">82 825</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="68229">68 229</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1997</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="726768">726 768</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="539238">539 238</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="80911">80 911</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="66035">66 035</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1998</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="738080">738 080</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="566447">566 447</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="101511">101 511</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="70122">70 122</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>1999</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="744791">744 791</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="576537">576 537</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="98687">98 687</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="69567">69 567</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2000</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="774782">774 782</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="601268">601 268</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="101498">101 498</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="72016">72 016</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2001</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="770945">770 945</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="595286">595 286</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="102013">102 013</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="73646">73 646</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2002</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="761630">761 630</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="580999">580 999</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="103930">103 930</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="76701">76 701</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2003</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="761464">761 464</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="575985">575 985</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="106677">106 677</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="78802">78 802</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2004</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="767816">767 816</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="574687">574 687</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="110258">110 258</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="82871">82 871</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2005</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="774355">774 355</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="575659">575 659</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="114090">114 090</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="84606">84 606</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2006</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="796896">796 896</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="590163">590 163</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="119159">119 159</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="87574">87 574</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2007</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="785985">785 985</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="579515">579 515</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="119587">119 587</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="86883">86 883</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2008</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="796044">796 044</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="585427">585 427</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="121845">121 845</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="88772">88 772</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2009</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="793420">793 420</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="578052">578 052</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="125058">125 058</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="90310">90 310</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2010</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="802224">802 224</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="583600">583 600</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="129025">129 025</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="89599">89 599</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2011</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="792996">792 996</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="580756">580 756</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="115018">115 018</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="97222">97 222</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2012</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="790290">790 290</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="575041">575 041</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="115801">115 801</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="99448">99 448</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2013</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="781621">781 621</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="560903">560 903</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="115766">115 766</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="104952">104 952</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2014</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="781167">781 167</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="554419">554 419</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="117547">117 547</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="109201">109 201</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2015</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="760421">760 421</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="535302">535 302</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="114367">114 367</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="110752">110 752</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=92 style='height:12.75pt;width:69pt' x:num>2016</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="744697">744 697</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="518515">518 515</td>
+  <td class=xl29 width=92 style='width:69pt' x:num="113317">113 317</td>
+  <td class=xl30 width=92 style='width:69pt' x:num="112865">112 865</td>
+ </tr>
+ <tr height=18 style='height:13.5pt'>
+  <td height=18 class=xl31 width=92 style='height:13.5pt;width:69pt' x:num>2017</td>
+  <td class=xl32 width=92 style='width:69pt' x:num="730242">730 242</td>
+  <td class=xl32 width=92 style='width:69pt' x:num="504177">504 177</td>
+  <td class=xl32 width=92 style='width:69pt' x:num="111405">111 405</td>
+  <td class=xl33 width=92 style='width:69pt' x:num="114660">114 660</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=5 class=xl24 style='height:12.75pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=88 style='mso-height-source:userset;height:66.0pt'>
+  <td colspan=5 height=88 class=xl35 width=460 style='height:66.0pt;width:345pt'><!--ENDTABLE-->Lecture
+  : En 2017, 730 242 naissances vivantes ont été comptabilisées. 504 177 sont
+  issues de deux parents nés en France, 111 405 d'un parent né en France et un
+  parent né à l'étranger et 114 660 de deux parents nés à l'étranger. En 1987,
+  30 ans plus tôt, sur les 767 828 naissances vivantes, les effectifs étaient
+  respectivement de 531 025, 85 389 et 80 129.</td>
+ </tr>
+ <tr height=105 style='mso-height-source:userset;height:79.15pt'>
+  <td colspan=5 height=105 class=xl35 width=460 style='height:79.15pt;
+  width:345pt'>N.B.1. Avant 1998, le lieu de naissance du père n'étant pas
+  toujours disponible, l'égalité « ensemble des mères nées à l'étranger » = «
+  père né en France, mère née à l'étranger » + « deux parents nés à l'étranger
+  » n'est pas vérifiée. Idem pour « ensemble des mères nées en France ». Cet
+  écart n'existe plus à partir de 1998 car les informations manquantes sur le
+  lieu de naissance ont été redressées.</td>
+ </tr>
+ <tr height=35 style='mso-height-source:userset;height:26.45pt'>
+  <td colspan=5 height=35 class=xl35 width=460 style='height:26.45pt;
+  width:345pt'>N.B.2. À la suite de l'évolution de la méthode de traitement des
+  données, les séries présentent une légère rupture en 2011.</td>
+ </tr>
+ <tr height=35 style='mso-height-source:userset;height:26.45pt'>
+  <td colspan=5 height=35 class=xl35 width=460 style='height:26.45pt;
+  width:345pt'>N.B.3. Les parents nés en France comprennent les parents nés
+  dans les collectivités d'outre-mer (COM).</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl34 colspan=2 style='height:12.75pt;mso-ignore:colspan'>Champ
+  : France métropolitaine</td>
+  <td colspan=3 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl34 colspan=3 style='height:12.75pt;mso-ignore:colspan'>Source
+  : Insee, statistiques de l'état civil</td>
+  <td colspan=2 class=xl24 style='mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=92 style='width:69pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=92 style='width:69pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

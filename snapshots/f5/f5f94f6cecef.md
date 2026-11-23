@@ -1,0 +1,894 @@
+---
+source_url: "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%AE%AE%E5%BB%9F%E5%A0%82%E4%B8%BB%E6%94%B6%E9%99%A3%E9%A0%AD%E7%95%B6%E5%B0%8F%E5%BC%9F-%E4%B8%8D%E6%92%A4%E5%91%8A%E5%B0%B1%E6%89%93-%E9%97%96%E8%B6%85%E5%95%86%E7%8B%82%E6%AF%86%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%91%BD%E5%8D%B1-060045721.html"
+captured_at: 2026-11-23T13:16:15Z
+title: "Yahoo"
+tool: firecrawl
+---
+
+> **网页快照**：2026-11-23 13:16 UTC 抓取自 [原始页面](https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%AE%AE%E5%BB%9F%E5%A0%82%E4%B8%BB%E6%94%B6%E9%99%A3%E9%A0%AD%E7%95%B6%E5%B0%8F%E5%BC%9F-%E4%B8%8D%E6%92%A4%E5%91%8A%E5%B0%B1%E6%89%93-%E9%97%96%E8%B6%85%E5%95%86%E7%8B%82%E6%AF%86%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%91%BD%E5%8D%B1-060045721.html)（工具：firecrawl）。
+
+# Yahoo
+
+廣告
+
+![](https://s.yimg.com/cv/apiv2/twfrontpage/galaxy/icon/404-small.png)
+
+嗯....驚！您要找的頁面已不存在，請嘗試在上面放大鏡的地方搜尋看看。
+
+## 焦點新聞
+
+焦點運動娛樂財經生活FUNAI 隨堂考挑戰AI 隨堂考
+
+- ![](https://s.yimg.com/lo/mysterio/api/8589F851F49A43A2FB50DA689504CD3184C5709BDAA285B82A1EE4DF8099681F/subgraphmysterio/smartcrop_w808_h472_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fftvn_finance_535%2F717f26af8ccee367439db09ee7f7766e.jpg)
+
+### [黃仁勳回鍋？貝森特微妙表態 輝達夜盤強彈](https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%86%8D%E6%8C%BA%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E4%BB%BB-%E7%BE%8E%E8%B2%A1%E9%95%B7-1%E5%8F%A5%E8%A9%B1-%E7%95%99%E4%BC%8F%E7%AD%86-%E8%BC%9D%E9%81%94%E5%A4%9C%E7%9B%A4%E5%BC%B7%E5%BD%8810-095752267.html)
+
+- ![牛頭牌、三媽臭臭鍋醬料出包 食藥署開罰](https://s.yimg.com/lo/mysterio/api/6A78D9A26766FF33058D7DF43DDA43BBA4E63F4D3085BCB86F7A349FE8A84DCD/subgraphmysterio/smartcrop_w180_h120_faces;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F127c2020-7d2a-48cf-bc9c-fafa10792ccf_5b6e445ce4d62c304687591ff53dabd99bf8ac27acf2ee2b1125d6c192764fcb.jpg)
+
+### [牛頭牌、三媽臭臭鍋醬料出包 食藥署開罰](https://tw.news.yahoo.com/%E9%A3%9F%E8%97%A5%E7%BD%B2%E9%96%8B%E7%BD%B0-%E7%89%9B%E9%A0%AD%E7%89%8C%E6%B2%99%E8%8C%B6%E9%86%AC-%E4%B8%89%E5%AA%BD%E8%87%AD%E8%87%AD%E9%8D%8B-%E8%AA%BF%E5%91%B3%E9%86%AC%E6%A8%99%E7%A4%BA%E5%87%BA%E5%8C%85-085810507.html)
+
+查出7家業者違規，其中6件產品標示不符規定，1家業者未依規定設置專門職業人員
+
+- ![卡了13年！布萊德彼特曝續集進度](https://s.yimg.com/lo/mysterio/api/116D1EA2ABF33D7B1D2B946F84625B82C17D390755E5248FBACC31FDDA3B9AE8/subgraphmysterio/smartcrop_w180_h120_faces;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fupload_9635.jpg_c8cc6c868ac1a3300863df418601702ec0de370bc483645064b041a13c98836c.jpg)
+
+### [卡了13年！布萊德彼特曝續集進度](https://tw.news.yahoo.com/%E3%80%8A%E6%9C%AB%E6%97%A5%E4%B9%8B%E6%88%B0%E3%80%8B%E7%BA%8C%E9%9B%86%E7%9C%9F%E7%9A%84%E5%9C%A8%E7%B1%8C%E5%82%99%E4%B8%AD%EF%BC%81%E5%8D%A1%E4%BA%8613%E5%B9%B4%E2%8B%AF%E5%B8%83%E8%90%8A%E5%BE%B7%E5%BD%BC%E7%89%B9%E6%9B%9D%E6%98%8E%E5%B9%B4%E6%9C%89%E6%A9%9F%E6%9C%83%E9%96%8B%E6%8B%8D-223000778.html)
+
+《末日之戰》當年全球開出5.4億美元票房，派拉蒙今年證實，計畫已重新進入積極開發階段
+
+- ![外資提款289億 前10大賣超榜出爐](https://s.yimg.com/lo/mysterio/api/E259481459A6D19437DCEEB86B34733290CD0AE4F63F397452ED89345200C3E6/subgraphmysterio/smartcrop_w180_h120_faces;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ff94c53eebeb131c6489537cfe774d3e8_71c85eefb0a760b06f829f027896c95a7093b04d217f8f263fb9d720a40940e9.jpg)
+
+### [外資提款289億 前10大賣超榜出爐](https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8F%88%E9%81%AD%E5%A4%96%E8%B3%87%E6%8F%90%E6%AC%BE224%E5%84%84%E5%85%83-%E5%8F%8D%E6%89%8B%E8%B2%B7%E9%80%B2%E8%90%AC%E5%BC%B5%E5%8A%9B%E7%A9%8D%E9%9B%BB-084933212.html)
+
+台股雖然反彈，外資仍連續6個交易日賣超，累計金額達2,476億元，投信也連2日賣超
+
+- ### [兩階段變天 全台澆雨低溫下探16℃](https://tw.news.yahoo.com/%E6%98%8E%E8%B5%B72%E9%9A%8E%E6%AE%B5%E8%AE%8A%E5%A4%A9-%E9%9B%A8%E5%BD%88%E7%82%B83%E5%A4%A9-%E9%80%B1%E4%B8%89%E4%BD%8E%E6%BA%AB%E4%B8%8B%E6%8E%A216%E5%BA%A6-%E6%8A%95%E7%A5%A8%E6%97%A5%E5%A4%A9%E6%B0%A3%E6%9B%9D%E5%85%89-100900980.html)
+
+未來一周低溫將下探，直到周五才轉乾，但隨即又有東北季風南下
+
+- ### [「最難訂Buffet」掀退訂？業者吐實](https://tw.news.yahoo.com/%E8%82%A1%E5%B8%82%E8%A1%80%E6%B4%97-%E5%85%A8%E5%8F%B0%E6%9C%80%E9%9B%A3%E8%A8%82buffet-%E7%88%86%E9%80%80%E8%A8%82%E6%BD%AE-%E5%B3%B6%E8%AA%9E%E6%8F%AD%E7%8B%80%E6%B3%81-071900642.html)
+
+「島語」被發現突然多出可訂位時段，被聯想到股市「崩盤沒錢」
+
+- ### [教授失智⋯前副市長弟弟首吐心聲](https://tw.news.yahoo.com/%E5%90%8D%E6%95%99%E6%8E%88%E5%A4%B1%E6%99%BA%E7%85%A7%E9%A1%A7%E6%88%90%E9%9B%A3%E9%A1%8C-%E5%89%8D%E5%8F%B0%E5%8C%97%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%B7%E6%AD%90%E6%99%89%E5%BE%B7%E9%A6%96%E5%90%90%E5%BF%83%E8%81%B2-%E6%88%91%E5%80%91%E4%B9%9F%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E9%BA%BC%E8%BE%A6-000000415.html)
+
+歐茵西辭世前出現記憶混亂，原本由先生長期照顧，但摯愛驟然離世，她病情急轉直下
+
+- ### [台股震盪翻車 5檔違約交割近2億元](https://tw.stock.yahoo.com/news/%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2%E7%9C%9F%E7%9A%84%E5%8F%88%E7%99%BC%E7%94%9F%E4%BA%86%EF%BC%81%E6%99%AF%E7%A2%A9%E3%80%81%E9%87%91%E5%83%8F%E9%9B%BB%E3%80%81%E5%AF%8C%E5%96%AC5%E6%AA%94%E7%88%86%E8%BF%912%E5%84%84%E5%85%83-105341929.html)
+
+上周股市重挫，餘震發酵，包含愛普\*、創意、金像電、景碩、富喬
+
+- ### [入境美國英文不好惹禍 日女遭上銬遣返](https://tw.news.yahoo.com/18%E6%AD%B2%E5%A5%B3%E8%B5%B4%E7%BE%8E%E6%97%85%E9%81%8A%E5%87%BA%E4%BA%8B-%E5%85%A5%E5%A2%83%E5%9B%9E-%E5%8F%A5%E8%A9%B1-%E6%83%B9%E7%A6%8D-%E9%81%AD%E4%B8%8A%E9%8A%AC-052219617.html)
+
+移民官詢問職業，她回答「Very very sexy job」，最後遭拒絕入境，返國後她認真鑽研法律
+
+- ![](https://s.yimg.com/zz/nn/lib/metro/g/my/anim_loading_sm.gif)
+
+- ### [逆風？前輝達AI總監預言黃仁勳動向](https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A0%BB%E7%88%86%E8%B2%A0%E9%9D%A2%E6%96%B0%E8%81%9E-%E5%89%8D%E8%BC%9D%E9%81%94ai%E7%B8%BD%E7%9B%A3%E9%80%86%E9%A2%A8%E7%99%BC%E8%81%B2%E9%82%84%E5%8E%9F-%E7%A7%81%E4%B8%8B%E8%B6%85%E6%9A%96%E4%BD%9C%E9%A2%A8-%E9%A0%90%E8%A8%80-%E7%9B%B4%E8%A6%BA%E5%91%8A%E8%A8%B4%E6%88%91%E4%BB%96%E6%9C%83%E5%9B%9E%E4%BE%86-065800158.html)
+
+透露黃私下作風，在走廊巧遇會閒聊，還送一份嬰兒禮盒給賈邁勒，並寫下祝福
+
+- ![](https://s.yimg.com/lo/mysterio/api/444DD7C47FBE6080D41A4F30FE5F50B3DEAFD4E46451BECE1256D7A7FE045313/subgraphmysterio/resizefill_w808_h472;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F0afea81234812ed2932adccf3adbca94.png_up.jpg_36f478dd14e1a1378c97331c810d20d6f9ea800b58540cac7cc58daf06f48628.jpg)
+
+### [抱怨日職「學長學弟制」退役投手揭內幕](https://tw.sports.yahoo.com/news/%E6%97%A5%E8%81%B7-%E5%A4%A7%E9%BD%A1%E8%8F%9C%E9%B3%A5%E5%8D%BB%E8%A6%81%E8%AB%8B%E5%90%83%E9%A3%AF-%E9%80%80%E5%BD%B9%E6%8A%95%E6%89%8B%E5%98%86%E5%AD%B8%E9%95%B7%E5%AD%B8%E5%BC%9F%E5%88%B6-%E4%BB%96%E5%80%91%E9%83%BD%E6%8C%91%E8%B2%B4%E7%9A%84-060330707.html)
+
+- ![史庫柏轉戰大都會 外媒爆道奇搶輸原因](https://s.yimg.com/lo/mysterio/api/6B8F88D446A70427878A33476F93A557CC6BC0D957F23228869CF366A25B65BA/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F12962fd0-e459-4996-86f0-a23d99c47500)
+
+### [史庫柏轉戰大都會 外媒爆道奇搶輸原因](https://tw.sports.yahoo.com/news/mlb-%E6%AD%A3%E5%BC%8F%E5%A0%B1%E5%83%B9%E9%83%BD%E6%B2%92%E6%8F%90-%E9%81%93%E5%A5%87%E6%90%B6%E5%8F%B2%E5%BA%AB%E6%9F%8F%E5%A4%B1%E6%95%97%E5%8E%9F%E5%9B%A0%E6%9B%9D-%E5%8E%9F%E6%83%B3%E8%A4%87%E8%A3%BD%E9%80%992%E4%BA%BA%E7%B0%BD%E7%B4%84%E6%A8%A1%E5%BC%8F-032000342.html)
+
+球團考量未來薪資空間，保留財務彈性，最終不跟進天價合約搶人失敗
+
+- ![躍時尚雜誌版面「斯文費仔」引熱議](https://s.yimg.com/lo/mysterio/api/F501EEBB8411E3DCA1B711A0E501CA7177086215EAF84EEA1F222D05F0AC7C33/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F524bc4543adc210a36f1684af0522d60.jpg_2b07b0613ea21e7c06a72977f8b700a51620498cc40c540d7b60dcb90e14db05.jpg)
+
+### [躍時尚雜誌版面「斯文費仔」引熱議](https://tw.sports.yahoo.com/news/%E5%B8%A5%E5%BA%A6%E7%A0%B4%E8%A1%A8-%E6%96%AF%E6%96%87%E8%B2%BB%E4%BB%94-%E8%BA%8D%E5%9C%8B%E9%9A%9B%E6%99%82%E5%B0%9A%E4%B8%AD%E6%96%87%E7%89%88-%E6%8A%8A%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D%E6%8F%B9%E4%B8%8A%E8%82%A9-%E7%B6%B2%E7%BE%A8%E6%85%95%E6%A5%B5%E4%BA%86-072036168.html)
+
+攜手世界冠軍東園少棒球員，跟小球員互動，還把其中一位小朋友揹上肩
+
+- ![葉君璋傳將交出兵符 林岳平：敢於改變](https://s.yimg.com/lo/mysterio/api/00F4B426E86EDD59B156DC621E6BB23641AEC7B1D0A5E1BF6ACB1E541817068B/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fmirrordaily_390%2Fc405242f275e2a701b6f4006e781274d.jpg)
+
+### [葉君璋傳將交出兵符 林岳平：敢於改變](https://tw.sports.yahoo.com/news/%E8%91%89%E5%90%9B%E7%92%8B%E5%82%B3%E5%8D%B8%E4%B8%8B%E5%91%B3%E5%85%A8%E9%BE%8D%E6%95%99%E9%A0%AD-%E9%A4%85%E7%B8%BD%E6%8E%A8%E5%B4%87%E6%95%A2%E6%96%BC%E6%94%B9%E8%AE%8A-%E7%90%83%E9%9A%8A%E8%A6%81%E7%9B%B8%E4%BF%A1%E4%BB%96%E7%9A%84%E5%B8%83%E5%B1%80-010509266.html)
+
+餅總表示總冠軍是成功的附加證明，味全龍要相信他的布局，讓球隊更有競爭力
+
+- ### [李灝宇新隊友 前洋基新人王轉戰老虎](https://tw.sports.yahoo.com/news/%E6%9D%8E%E7%81%9D%E5%AE%87%E6%96%B0%E9%9A%8A%E5%8F%8B%E4%BE%86%E4%BA%86-%E6%9B%BE%E5%96%AE%E5%AD%A3%E7%8B%82%E6%8B%BF15%E5%8B%9D-%E6%B4%8B%E5%9F%BA%E6%96%B0%E4%BA%BA%E7%8E%8B-%E8%BD%89%E6%88%B0%E5%BA%95%E7%89%B9%E5%BE%8B-013557553.html)
+
+以1年230萬美元的合約簽下希爾，今年僅有9場出賽繳出1勝2敗、防禦率4.61的成績
+
+- ### [嘲諷Russell撞上護欄 Verstappen：報應](https://tw.sports.yahoo.com/news/f1-verstappen%E7%97%9B%E6%89%B9russell%E9%81%A0%E4%B8%8D%E5%A6%82%E4%BB%96-%E6%9C%80%E5%BE%8C%E9%97%9C%E9%A0%AD%E4%BA%8B%E6%95%85%E6%98%AF%E5%A0%B1%E6%87%89-004542713.html)
+
+F1拉斯維加斯大獎賽後，表示「他的水準遠不如我，根本不值得我跟他針鋒相對」
+
+- ### [兄弟打擊教練回日職 談在台工作不容易](https://tw.sports.yahoo.com/news/%E6%97%A5%E8%81%B7%E3%80%8B%E3%80%8C%E6%B2%92%E6%9C%89%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E8%BC%95%E9%AC%86%E6%84%89%E5%BF%AB%E3%80%8D-%E5%BE%8C%E8%97%A4%E9%A7%BF%E5%A4%AA%E8%AB%87%E5%9C%A8%E5%8F%B0%E7%81%A3%E8%81%B7%E6%A3%92%E6%93%94%E4%BB%BB%E6%95%99%E7%B7%B4%E7%9A%84%E6%8C%91%E6%88%B0-064829423.html)
+
+後藤駿太坦言幾乎沒有私人時間，台灣職棒重視數據加上語言隔閡，經歷不少挑戰
+
+- ### [年收粗估破八億 味全龍領隊曝還是虧錢](https://tw.sports.yahoo.com/news/%E5%91%B3%E5%85%A8%E5%B9%B4%E6%94%B6%E7%A0%B48%E5%84%84-%E5%B1%85%E7%84%B6%E9%82%84%E8%99%A7%E9%8C%A2-213000393.html)
+
+丁仲緯強調球隊投入非常多資源，含洋將、戰力補強和球迷觀賽體驗等
+
+- ### [旅美被酸「水貨」日160公里火球男有新東家](https://tw.sports.yahoo.com/news/%E6%97%A5%E8%81%B7%E6%97%85%E7%BE%8E-%E6%B0%B4%E8%B2%A8-160%E5%85%AC%E9%87%8C%E7%81%AB%E7%90%83%E7%94%B7%E6%88%B0%E5%8A%9B%E5%A4%96%E5%BE%8C%E5%8A%A0%E7%9B%9F%E6%96%B0%E6%9D%B1%E5%AE%B6-075409208.html)
+
+藤浪晉太郎加盟歐力士，表示「能夠在家鄉的球隊打球，這一點讓我非常期待」
+
+- ![](https://s.yimg.com/zz/nn/lib/metro/g/my/anim_loading_sm.gif)
+
+- ### [K湯代言中國球鞋「解體」比賽中斷掀議](https://tw.sports.yahoo.com/news/k%E6%B9%AF%E6%99%AE%E6%A3%AE%E7%90%83%E9%9E%8B%E7%95%B6%E5%A0%B4%E8%A7%A3%E9%AB%94-%E9%9E%8B%E5%A2%8A%E5%99%B4%E9%A3%9B%E7%90%83%E5%A0%B4-%E4%BB%A3%E8%A8%80%E7%9A%84%E9%80%99%E5%80%8B-%E4%B8%AD%E5%9C%8B%E5%93%81%E7%89%8C-%E6%88%90%E7%84%A6%E9%BB%9E-033125476.html)
+
+疑似鞋墊或鞋底零件直接脫落，引發外界對耐用性與安全性的討論
+
+- ![](https://s.yimg.com/lo/mysterio/api/FBDB65D306776A587314D62FE8E09CDCA4234B3BD3ADF2AC9243E8C419A7C149/subgraphmysterio/resizefill_w808_h472;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F6dd7f5b30e6ff3a6aabec3e1165f9708_0bd848762a5ae0fb88a06dcc13402dd34df3bb234bbfe07b59b10931bf5fc44c.jpg)
+
+### [業者邀尾牙主持 劉涵竹見金額秒拒絕](https://tw.news.yahoo.com/%E5%89%8D%E4%B8%BB%E6%92%AD%E5%8A%89%E6%B6%B5%E7%AB%B9%E6%94%B6%E5%B0%BE%E7%89%99%E4%B8%BB%E6%8C%81%E9%82%80%E7%B4%84-%E6%A5%AD%E8%80%85%E9%96%8B-%E9%80%99%E5%83%B9%E7%A2%BC-%E5%A5%B9%E7%A7%92%E6%8B%92%E7%B5%95-%E8%90%BD%E5%B7%AE%E5%A4%AA%E5%A4%A7-102502886.html)
+
+- ![導演15分鐘致詞不停 鄭人碩「出手」獲讚](https://s.yimg.com/lo/mysterio/api/E3EABDD520914EE15A86EF88A1AFA0B4860954A4B2B0D65CF88F62BF010D4F87/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fmirrordaily_390%2Fa9232ddf0fe486ed3b7e448433d977ff.jpg)
+
+### [導演15分鐘致詞不停 鄭人碩「出手」獲讚](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC%E8%87%B4%E8%A9%9E-%E8%AC%9B15%E5%88%86%E9%90%98-%E9%84%AD%E4%BA%BA%E7%A2%A9%E5%8F%B0%E4%B8%8A-1%E8%88%89%E5%8B%95-%E7%A5%9E%E6%95%91%E6%8F%B4-050600387.html)
+
+虞戡平獲頒終身成就獎後，話匣子停不下來，鄭在遞獎時順勢收走講稿
+
+- ![手指麻到肩頸 劉芯彤就醫「吊脖子」](https://s.yimg.com/lo/mysterio/api/8BC5482C7B489651732669858A7C6EF84FAA2457EBFC3812158F64F003BD2E3A/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fchinatimes.com.tw%2Fe48bb0a8d701a7999cd24056eb6c5668.jpg)
+
+### [手指麻到肩頸 劉芯彤就醫「吊脖子」](https://tw.news.yahoo.com/%E5%89%8D%E4%B8%BB%E6%92%AD%E6%89%8B%E6%8C%87%E9%BA%BB%E5%88%B0%E8%82%A9%E9%A0%B8%E8%A2%ABai%E7%A4%BA%E8%AD%A6%E4%B8%AD%E9%A2%A8-%E5%90%8A%E8%84%96%E5%AD%90-%E5%BE%A9%E5%81%A5%E5%90%90%E7%9C%9F%E5%AF%A6%E7%97%85%E6%B3%81-043645318.html)
+
+被AI提醒留意中風，被醫師建議進行「頸椎牽引」的復健療程
+
+- ![高庚杓酒駕停工仍入圍獎項 製作單位急撤](https://s.yimg.com/lo/mysterio/api/20ACCAF701897B0B63057D1C449BACE76B04840EBC04194F2ED1F2E331587675/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fa25b2ab2b04078d77bd60890b60042c0.jpg_d9f356797b5ab3b86a2a4697dee6311b7f3d9e3ccb67ba5dcf56d9eb31ef056b.jpg)
+
+### [高庚杓酒駕停工仍入圍獎項 製作單位急撤](https://tw.news.yahoo.com/%E9%85%92%E9%A7%95%E5%81%9C%E5%B7%A5%E4%BB%8D%E5%85%A5%E5%9C%8D-%E9%9F%93%E6%98%9F%E9%AB%98%E5%BA%9A%E6%9D%93%E7%8D%B2%E4%BA%BA%E6%B0%A3%E6%98%8E%E6%98%9F%E7%8D%8E%E6%8F%90%E5%90%8D-%E8%A3%BD%E4%BD%9C%E5%96%AE%E4%BD%8D%E9%81%AD%E8%BD%9F%E6%80%A5%E6%92%A4%E5%90%8D%E9%81%93%E6%AD%89-054900599.html)
+
+獲「藉口Go」提名新銳人氣明星獎，引發眾怒，官方道歉稱會更加謹慎
+
+- ### [五月天休團震撼彈 阿信宣布個人開唱](https://tw.news.yahoo.com/%E4%BA%94%E6%9C%88%E5%A4%A9%E9%98%BF%E4%BF%A1%E7%AA%81%E6%8B%8B%E9%9C%87%E6%92%BC%E5%BD%88-%E7%84%A1%E9%A0%90%E8%AD%A6%E5%AE%A3%E5%B8%83%E5%80%92%E6%95%B82%E5%91%A8%E9%96%8B%E5%94%B1-%E4%BC%91%E5%9C%984%E5%80%8B%E6%9C%88%E5%BF%83%E8%81%B2%E6%9B%9D%E5%85%89-101500400.html)
+
+出道至今已創作超過246首歌曲，將帶歌迷重溫不同人生階段的經典作品
+
+- ### [美國住家兩度遭竊損失數千萬 劉玥霏開轟](https://tw.news.yahoo.com/%E6%AD%A5%E6%AD%A5%E9%A9%9A%E5%BF%83-%E5%A5%B3%E6%98%9F%E7%BE%8E%E5%9C%8B%E4%BD%8F%E5%AE%B6%E5%86%8D%E9%81%AD%E7%AB%8A-%E6%90%8D%E5%A4%B1%E6%95%B8%E5%8D%83%E8%90%AC-%E5%A5%B9%E5%B4%A9%E6%BD%B0-%E8%83%BD%E5%90%A6%E5%BE%9E%E4%B8%AD%E5%9C%8B%E6%B4%BE%E8%AD%A6%E5%AF%9F%E4%BE%86%E4%B8%8A%E8%AA%B2-074900476.html)
+
+時隔兩年又被偷，不滿報警後，警方約2個小時後才趕到現場
+
+- ### [金馬獎收視出爐「調光師」一登台衝高峰](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC%E7%8D%8E%E6%94%B6%E8%A6%96%E5%87%BA%E7%88%90-%E6%9C%80%E9%AB%982-44%E8%90%BD%E5%9C%A8-%E9%80%99%E6%AE%B5-%E5%AE%98%E6%96%B9%E7%A4%BE%E7%BE%A4%E5%90%B8730%E8%90%AC%E6%B5%81%E9%87%8F-075031854.html)
+
+周佳聖獲得年度傑出電影工作者，吸引51萬人觀看，聽他分享心路歷程
+
+- ### [忍耐謠言23年 蔡琴引退前首度澄清](https://tw.news.yahoo.com/%E8%94%A1%E7%90%B4%E9%A6%96%E5%BA%A6%E5%90%A6%E8%AA%8D-%E7%84%A1%E6%80%A7%E5%A9%9A%E5%A7%BB%E5%8D%94%E8%AD%B0-%E5%BF%8D23%E5%B9%B4%E7%B5%82%E6%96%BC%E7%88%86%E7%99%BC-%E7%9B%B4%E6%96%A5-%E8%AA%B0%E6%9C%83%E5%81%9A%E9%80%99%E7%A8%AE%E7%A5%9E%E7%B6%93%E7%97%85%E7%9A%84%E4%BA%8B-072314251.html)
+
+長年流傳「無性婚姻協議」，她直言，「誰會去做這種神經病的事啊？」
+
+- ### [舒華參加金馬「公司0宣傳」粉絲抱不平](https://tw.news.yahoo.com/%E8%88%92%E8%8F%AF%E5%8F%83%E5%8A%A0%E9%87%91%E9%A6%AC%E7%8D%8E-%E5%85%AC%E5%8F%B80%E7%99%BC%E6%96%87-%E9%BB%91%E7%99%BD%E7%85%A7%E9%BB%9E%E5%90%8Dcube-%E6%88%91%E5%BE%88%E9%9B%A3%E9%81%8E-075117153.html)
+
+她轉發多張現場畫面，突然夾雜一張黑白照，寫下「CUBE啊…我好傷心」
+
+- ![](https://s.yimg.com/zz/nn/lib/metro/g/my/anim_loading_sm.gif)
+
+- ### [公開驗傷單 主播曾鈴媛認遭前夫家暴](https://tw.news.yahoo.com/%E4%B8%BB%E6%92%AD%E6%9B%BE%E9%88%B4%E5%AA%9B%E6%9B%AC%E9%A9%97%E5%82%B7%E5%96%AE%E8%AA%8D%E9%81%AD%E5%AE%B6%E6%9A%B4-%E6%8F%AD%E5%89%8D%E5%A4%AB%E6%83%A1%E8%A1%8C-%E5%AF%A1%E5%BB%89%E9%AE%AE%E6%81%A5%E8%B7%9F%E4%B8%8D%E4%B8%8A%E6%83%A1%E6%AF%92%E7%A8%8B%E5%BA%A6-044110981.html)
+
+3月離婚後，對夫家的抹黑攻擊忍無可忍，發現「以和為貴」成了最錯誤的決定
+
+- ![](https://s.yimg.com/lo/mysterio/api/93A17C72E297955205D27E8762E8614C25662575B3877A910045007040D702C7/subgraphmysterio/resizefill_w808_h472;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-02%2F5686f5f0-c405-11ee-9f7f-14537abf51b4)
+
+### [台股崩、預售解約新高「股房雙殺」來了嗎](https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%A1%80%E5%B4%A9%E5%BC%95%E7%88%86%E8%B3%87%E7%94%A2%E9%80%A3%E5%8B%95%E7%84%A6%E6%85%AE%E3%80%81%E6%83%B3%E8%B3%A3%E6%88%BF%E6%95%91%E6%80%A5%E9%83%BD%E4%BE%86%E4%B8%8D%E5%8F%8A%EF%BC%81%E9%A0%90%E5%94%AE%E8%A7%A3%E7%B4%84%E5%89%B53%E5%B9%B4%E6%96%B0%E9%AB%98%E6%9C%83%E4%B8%8A%E6%BC%94%E8%82%A1%E6%88%BF%E9%9B%99%E6%AE%BA%EF%BC%9F%E5%B0%88%E5%AE%B6%EF%BC%9A%E7%9C%8B%E4%B8%80%E6%95%B8%E5%AD%97-003700035.html)
+
+- ![馬斯克示警 「AI產業恐掀資金斷鏈海嘯」](https://s.yimg.com/lo/mysterio/api/56E88A87289218575125FD4FE26CD671831191E7E1587981881D987DDFC44A82/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsunmedia_664%2F566e5d87b84704d36efbf79589136a25.jpg_up.jpg)
+
+### [馬斯克示警 「AI產業恐掀資金斷鏈海嘯」](https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B%E7%A4%BA%E8%AD%A6-ai%E7%94%A2%E6%A5%AD2027%E5%B9%B4%E6%81%90%E6%8E%80%E8%B3%87%E9%87%91%E6%96%B7%E9%8F%88%E6%B5%B7%E5%98%AF-013332072.html)
+
+主因在於運算基礎建設，從採購到實際運轉的過程有多項瓶頸
+
+- ![股民帳面平均縮水89萬 學者分析喊：有信心](https://s.yimg.com/lo/mysterio/api/F6A34185C8F8F16568DC318D0E8F8D3DCE40F4544D789447A1C7006DB2E84FD4/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F432171c2327a4f8a0f176b5cb7a0a7ee.jpg_6e906e942c62292c5d495da5a9292dde17fe99201c71fc09f875b9155c44f383.jpg)
+
+### [股民帳面平均縮水89萬 學者分析喊：有信心](https://tw.news.yahoo.com/%E8%82%A1%E7%81%BD%E9%80%83%E7%94%9F%E7%A5%95%E7%AC%881-%E5%8F%B0%E8%82%A1%E8%92%B8%E7%99%BC25%E5%85%86%E5%93%80%E9%B4%BB%E9%81%8D%E9%87%8E-%E7%9B%A4%E9%BB%9E%E7%BE%8E%E5%8F%B0%E8%82%A1%E5%B8%82%E5%B4%A9%E8%B7%8C6%E5%A4%A7%E5%8E%9F%E5%9B%A0-222858921.html)
+
+外資大賣台股、美國加強管制AI晶片出口、黃仁勳離開輝達
+
+- ![金管會祭禁空令真能救市？歷史經驗揭密](https://s.yimg.com/lo/mysterio/api/49E45E117AF7D4FDD9B11EF47999D2BF382E1C3CF9D659FD666064801E48DA9B/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fudn.com%2Fd576e120acdb3e42ee80f961337eca3d.jpg)
+
+### [金管會祭禁空令真能救市？歷史經驗揭密](https://tw.news.yahoo.com/%E7%A6%81%E7%A9%BA%E4%BB%A4%E6%93%8B%E4%B8%8D%E4%BD%8F%E8%82%A1%E7%81%BD-%E6%AD%B7%E5%8F%B23%E6%AC%A1%E5%83%851%E6%AC%A1%E5%BF%AB%E5%8F%8D%E8%BD%89-%E9%97%9C%E9%8D%B5%E6%9B%9D%E5%85%89-150514836.html)
+
+回顧1998、2008及2015年三次強力禁空，僅有一次較快反轉
+
+- ### [市值ETF越跌越買有訣竅 回測10年最賺操作](https://tw.stock.yahoo.com/news/0050%E8%B6%8A%E8%B7%8C%E8%B6%8A%E8%B2%B7%E6%9C%89%E8%A8%A3%E7%AB%85-%E9%81%94%E4%BA%BA3%E7%A8%AE%E7%AD%96%E7%95%A5%E5%AF%A6%E6%B8%AC-%E9%80%99%E6%8B%9B-%E6%9C%80%E5%BC%B7-10%E5%B9%B4%E5%9B%9E%E6%B8%AC%E5%A0%B1%E9%85%AC377-232030498.html)
+
+「超馬芭樂」說明，若以均線做為加碼參考，修正5～6%買進
+
+- ### [資產縮水別慌！老手揭股災解方 漲回50%](https://tw.stock.yahoo.com/news/%E6%85%98%E8%B3%A01300%E8%90%AC%E6%B2%92%E5%9C%A8%E6%80%95-%E9%81%94%E4%BA%BA%E6%9B%9D-%E9%80%99%E6%8B%9B%E8%B6%85%E6%9C%89%E7%94%A8-%E6%8C%81%E8%82%A1%E6%BC%B2%E5%9B%9E50-100400405.html)
+
+華倫老師透露手上股票已蒸發1300萬，他建議股民不要看盤
+
+- ### [勞退自提vs買ETF哪個好 20年滾出8倍攻略](https://tw.news.yahoo.com/%E5%8B%9E%E9%80%80%E9%81%B8%E8%87%AA%E6%8F%90%E9%82%84%E6%98%AF%E8%B2%B70050-%E6%95%99%E6%8E%88%E6%8F%AD-12-%E7%A8%85%E7%8E%87-%E5%88%86%E6%B0%B4%E5%B6%BA-000000803.html)
+
+所得稅率在5%以下族群，可採取自行定期定額，買進台股基金
+
+- ### [高息ETF較抗跌？實測結果 2老牌輸給0050](https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%85%98%E5%B4%A9%E8%B2%B7%E9%AB%98%E8%82%A1%E6%81%AFetf%E8%BC%83%E6%8A%97%E8%B7%8C-%E5%B0%88%E5%AE%B6%E6%94%A4%E9%96%8B5%E6%AA%94%E8%B7%8C%E5%B9%85%E5%B0%8D%E6%B1%BA0050-2%E8%80%81%E7%89%8C%E6%A8%99%E7%9A%84%E5%8F%8D%E8%80%8C%E6%9B%B4%E6%85%98-123149758.html)
+
+0056、00929反倒跌更多，清流君分析，關鍵在背後的持股
+
+- ### [「交屋才知沒自來水」買家要求扣款卻敗訴](https://tw.stock.yahoo.com/news/%E8%B2%B7%E9%80%8F%E5%A4%A9%E5%8E%9D%E3%80%8C%E6%B2%92%E8%87%AA%E4%BE%86%E6%B0%B4%E3%80%8D%E6%8B%92%E9%BB%9E%E4%BA%A4%EF%BC%81%E8%B2%B7%E6%96%B9%E6%89%A3%E6%AC%BE%E6%85%98%E6%95%97%E8%A8%B4-%E6%B3%95%E9%99%A2%EF%BC%9A%E4%B8%8D%E8%83%BD%E6%89%A3%E7%95%99%E5%85%A8%E9%83%A8%E5%83%B9%E6%AC%BE-000000099.html)
+
+法院判決指出，拒絕給付的範圍應與瑕疵相當，不能扣留全部價款
+
+- ![](https://s.yimg.com/zz/nn/lib/metro/g/my/anim_loading_sm.gif)
+
+- ### [外資乘機再砍289億 空單重回10萬口](https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8F%88%E9%81%AD%E5%A4%96%E8%B3%87%E6%8F%90%E6%AC%BE224%E5%84%84%E5%85%83-%E5%8F%8D%E6%89%8B%E8%B2%B7%E9%80%B2%E8%90%AC%E5%BC%B5%E5%8A%9B%E7%A9%8D%E9%9B%BB-084933212.html)
+
+台股今雖成功反彈778點，但三大法人合計仍是賣超511億，
+
+- ![](https://s.yimg.com/lo/mysterio/api/2B2C82D2A3FA69BF9BDC4B6C37F6CA61FA83546A20E05115E6BD188D4D7E6971/subgraphmysterio/resizefill_w808_h472;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F3_1581.jpg_f006de84b3c3e3f237003dcd675705318ebf00640e4be9f1f2fc6e7ce35bdd7b.jpg)
+
+### [媽媽當陪駕教練 世家千金開肌肉車圓夢](https://autos.yahoo.com.tw/news/%E3%80%90%E6%98%8E%E6%98%9F%E8%81%8A%E6%84%9B%E8%BB%8A%E3%80%91%E5%8F%B0%E5%85%AB%E5%A5%B3%E6%98%9F%E5%BE%90%E5%8D%83%E4%BA%AC%E8%B3%BC%E5%85%A5%E3%80%8C%E9%87%8E%E9%A6%AC%E3%80%8Dford-mustang-ecoboost-premium-%E5%9C%93%E5%A4%A2%E6%93%81%E7%BE%8E%E5%BC%8F%E8%82%8C%E8%82%89%E8%B7%91%E8%BB%8A-%E5%A4%A7%E8%AE%9A%E3%80%8C%E5%B9%B3%E6%99%82%E5%A5%BD%E9%96%8B%E3%80%81%E8%A6%81%E5%BF%AB%E4%B9%9F%E5%BE%88%E7%8C%9B%E3%80%8D-232600325.html)
+
+- ![雞蛋、生菜沙拉都中 毒物科醫：千萬別碰](https://s.yimg.com/lo/mysterio/api/50E9E2EB34EF4AAB439A6E00DD48AEFCACFA074F622E7F476AB549FF90AE0ABF/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-01%2F840a71f0-ce4f-11ef-b7e3-256a9f8ae4ac)
+
+### [雞蛋、生菜沙拉都中 毒物科醫：千萬別碰](https://tw.news.yahoo.com/%E8%B6%85%E5%95%86%E7%94%9F%E8%8F%9C%E6%B2%99%E6%8B%89%E6%9A%97%E8%97%8F%E9%A3%9F%E5%AE%89%E9%A2%A8%E9%9A%AA-%E6%AF%92%E7%89%A9%E9%86%AB-%E6%8A%B5%E6%8A%97%E5%8A%9B%E5%B7%AE%E5%88%A5%E5%90%83-021315766.html)
+
+顏宗海提醒，看似健康的生菜沙拉藏食安風險，抵抗力差的人
+
+- ![充一次電跑310km 日本上市45萬有找](https://s.yimg.com/lo/mysterio/api/D1CF9205999F0566341C1E9AF7C72984950E4A1CF3EA5A23187E8AF4A1CE6B11/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftwautos.carnews.com%2Fcf75674d5fa7f557b98a60dc17b9c6e4.jpg)
+
+### [充一次電跑310km 日本上市45萬有找](https://autos.yahoo.com.tw/news/%E9%88%B4%E6%9C%A8%E9%A6%96%E6%AC%BE%E8%BC%95%E5%9E%8B%E9%9B%BB%E5%8B%95%E8%BB%8A-e-sky-11%E6%9C%8816%E6%97%A5%E9%96%8B%E8%B3%A3-%E6%90%B6%E5%85%88%E5%9C%A8fieldstyle-231000295.html)
+
+鈴木首款輕電動車e SKY四人乘坐，售價44.5萬起，日本開賣了
+
+- ![28歲女會計忙出一身病找不到原因 醫揪凶](https://s.yimg.com/lo/mysterio/api/AECB93FEAF1814B195F6C75E5ADC71FD30FFB201BB40EB185ABB2FA604855928/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-08%2F382d40a0-5faf-11ef-bfff-49468773de72)
+
+### [28歲女會計忙出一身病找不到原因 醫揪凶](https://tw.news.yahoo.com/%E5%B7%A5%E4%BD%9C%E5%BF%99%E5%88%B0%E7%9D%A1%E5%85%AC%E5%8F%B8-%E5%A0%B1%E7%A8%85%E5%AD%A3%E6%9B%B4%E6%98%AF%E9%80%A3%E6%97%A5%E7%86%AC%E5%A4%9C-28%E6%AD%B2%E5%A5%B3%E6%9C%83%E8%A8%88%E7%B4%AF%E5%87%BA%E6%85%A2%E6%80%A7%E7%96%B2%E5%8B%9E-004723329.html)
+
+周小姐常感到頭痛、心悸等問題，在醫界定義為「慢性疲勞症候群」
+
+- ### [真的來了！坐上飛天車第一視角35秒震撼](https://autos.yahoo.com.tw/news/%E5%86%8D%E7%9C%8B-%E6%AC%A1tesla-roadster%E9%A3%9B%E5%A4%A9-%E9%80%99%E6%AC%A1%E5%9D%90%E9%80%B2%E8%BB%8A%E5%AE%A4%E4%BB%A5%E7%AC%AC-%E4%BA%BA%E7%A8%B1%E8%A6%96%E9%87%8E%E7%9C%8B-031148422.html)
+
+眾人期待已久的Roadster竟然可以飛天，一秒從零加速100公里
+
+- ### [天然食材竟成奪命毒？台大醫點名10地雷](https://tw.news.yahoo.com/%E9%A4%8A%E7%94%9F%E9%A3%B2%E5%8F%8D%E6%88%90%E5%A5%AA%E5%91%BD%E6%AF%92%E7%89%A9-%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%BB%9E%E5%90%8D5%E5%A4%A7%E5%9C%B0%E9%9B%B7%E9%A3%9F%E7%89%A9-%E5%9A%B4%E9%87%8D%E6%81%90%E5%BF%83%E5%BE%8B%E4%B8%8D%E6%95%B4%E7%8C%9D%E6%AD%BB-000000988.html)
+
+吳允升教授指出，看似養生飲食可能藏有高鉀、高磷或高鈉風險
+
+- ### [仙草茶助血糖降4成！醫揭因 膽固醇也降了](https://tw.news.yahoo.com/%E4%BB%99%E8%8D%89%E8%8C%B6%E9%80%99%E6%A8%A3%E5%96%9D%E9%A3%AF%E5%BE%8C%E8%A1%80%E7%B3%96%E7%8B%82%E9%99%8D4%E6%88%90-%E9%86%AB%E6%8F%AD3%E9%97%9C%E9%8D%B5%E5%90%83%E6%B3%95-%E9%80%A3%E8%86%BD%E5%9B%BA%E9%86%87%E4%B9%9F%E9%99%8D-000000062.html)
+
+醫學證實，仙草具有抗氧化、調節血糖與血脂，及抗發炎的作用
+
+- ### [LINE已讀「誰看過」一清二楚？官方回應](https://tw.news.yahoo.com/line%E5%B7%B2%E8%AE%80%E4%B8%8D%E8%83%BD%E5%86%8D%E8%A3%9D%E6%AD%BB-%E8%AA%B0%E7%9C%8B%E9%81%8E-%E6%B8%85%E4%BA%8C%E6%A5%9A-%E7%B6%B2%E5%9A%87-%E7%9B%B4%E6%8E%A5%E9%80%80%E7%BE%A4-084112453.html)
+
+官方澄清，是企業通訊平台的功能，一般LINE目前未推出
+
+- ### [兒傳訊「以後不回家了」73歲日父知情心碎](https://tw.news.yahoo.com/%E6%AF%8F%E5%B9%B4%E6%9C%80%E6%9C%9F%E5%BE%85%E8%A6%8B%E5%AD%AB-%E5%85%92%E7%AA%81%E5%82%B3%E8%A8%8A-%E4%BB%A5%E5%BE%8C%E4%B8%8D%E5%9B%9E%E5%AE%B6%E4%BA%86-73%E6%AD%B2%E8%80%81%E7%88%B6%E8%BF%BD%E5%95%8F%E5%8E%9F%E5%9B%A0%E5%BF%83%E7%A2%8E-181513881.html)
+
+勝彥與妻子和子住在郊外透天厝，房貸已繳清，平日過著樸實生活
+
+- ![](https://s.yimg.com/zz/nn/lib/metro/g/my/anim_loading_sm.gif)
+
+- ### [「毛衣冒黃斑洗不掉」別扔！達人去污神招](https://tw.news.yahoo.com/%E6%AF%9B%E8%A1%A3%E5%86%92%E9%BB%83%E6%96%91%E6%B4%97%E4%B8%8D%E6%8E%89-%E5%88%A5%E6%89%94-%E9%81%94%E4%BA%BA%E6%8F%AD-%E7%94%A81%E7%A5%9E%E7%89%A9-%E5%8E%BB%E6%B1%99-123300570.html)
+
+陳映如分享，使用彩色衣物漂白水局部處理，記得先確認洗標
+
+- ![](https://s.yimg.com/lo/mysterio/api/A88FE6F10389CFBAF92A9F72BE40F592F40165C8475256800E4224F42FDF6F03/subgraphmysterio/resizefill_w808_h472;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F1123-12_4319.jpg)
+
+### [比婚姻更長壽！好市多神物撐32年終於退役](https://tw.news.yahoo.com/%E5%A5%BD%E5%B8%82%E5%A4%9A%E9%80%99%E7%9B%92%E5%A4%AA%E6%89%AF-%E4%BF%9D%E9%AE%AE%E8%86%9C32%E5%B9%B4%E7%B5%82%E6%96%BC%E5%A3%BD%E7%B5%82%E6%AD%A3%E5%AF%A2-%E8%80%81%E5%A9%86%E8%AE%8A%E5%89%8D%E5%A6%BB%E9%82%84%E5%9C%A8%E7%94%A8-144547690.html)
+
+- ![外籍女遊客拍照玩過頭 日本人炸鍋：別來了](https://s.yimg.com/lo/mysterio/api/C1AED05F30226494B11BD187F7ACF61FF019C31EFC1A61DB2A5C822AEE49E928/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Fac38684e4c135c44127b3583bbf3b924.jpg)
+
+### [外籍女遊客拍照玩過頭 日本人炸鍋：別來了](https://tw.news.yahoo.com/%E5%A5%B3%E9%81%8A%E5%AE%A2%E6%8B%8D%E7%85%A7%E7%8E%A9%E9%81%8E%E9%A0%AD-%E6%8A%8A700%E5%85%AC%E6%96%A4%E9%9B%B7%E9%96%80%E7%87%88%E7%B1%A0%E7%95%B6%E7%8E%A9%E5%85%B7%E6%8B%89%E6%89%AF-%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%82%B8%E9%8D%8B-%E5%88%A5%E4%BE%86%E4%BA%86-102500247.html)
+
+網瘋傳畫面，有人抓住淺草寺燈籠底部，並將身體重量懸掛在燈籠上
+
+- ![韓國藥局驚呆 台人掉錢包靠脆友12分鐘找回](https://s.yimg.com/lo/mysterio/api/B56596649E4B89709608F27C4453B5590BBE2E496EB29AFDA7A81C825978ECF4/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fctwant_com_582%2Ff776c12ade0e9715cdba546cc19cc28d.jpg_up.jpg)
+
+### [韓國藥局驚呆 台人掉錢包靠脆友12分鐘找回](https://tw.news.yahoo.com/%E9%81%8A%E9%87%9C%E5%B1%B1%E6%8E%89%E9%8C%A2%E5%8C%85-%E8%97%A5%E5%B1%80threads%E6%80%A5%E5%B0%8B%E5%8F%B0%E7%81%A3%E5%A4%B1%E4%B8%BB-12%E5%88%86%E9%90%98%E7%A5%9E%E9%80%9F%E8%AA%8D%E9%A0%98-%E7%B6%B2%E7%AC%91-%E5%8B%95%E6%A3%AE%E5%B3%B6%E6%B0%91%E7%9C%9F%E7%9A%84%E5%BE%88%E5%BC%B7-144600470.html)
+
+釜山店家撿到粉紅現金包，發文召喚網友協尋，讚歎這力量太可怕
+
+- ![簡單獲取資源！新手玩5分鐘等級破百](https://s.yimg.com/lo/mysterio/api/E192929D5535F77FE234F92E2FE302F6121B293470095096C35151D5DD08AD21/subgraphmysterio/resizefill_w180_h120;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-08%2F1c8d0ff0-7832-11f0-bbff-a0a4e3c710dc)
+
+### [簡單獲取資源！新手玩5分鐘等級破百](https://yahoo.wakool.net/game/info/2000000378)
+
+\[小遊戲\]放置也能自行練功，裝備充滿幽默設定，冒險時會笑出聲
+
+- ### [曾是全球唯一 粉絲哭了！人氣園區宣布熄燈](https://tw.news.yahoo.com/%E7%B2%89%E7%B5%B2%E5%93%AD%E4%BA%86-%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92-%E7%86%8A%E5%A4%A7%E7%9A%84%E9%BA%97%E5%AF%B6%E5%B0%8F%E9%8E%AE-%E6%9C%80%E5%BE%8C%E7%87%9F%E9%81%8B%E5%80%92%E6%95%B8-11-040600251.html)
+
+4年前在麗寶樂園風光開幕，現公告營業倒數，一票人湧入社群表達不捨
+
+- ### [護照丟洗衣機變「屍體」 網喊千萬別報遺失](https://tw.news.yahoo.com/%E8%AD%B7%E7%85%A7%E8%A2%AB%E6%B4%97%E8%A1%A3%E6%A9%9F%E6%B4%97%E7%88%9B%E5%B4%A9%E6%BD%B0-%E9%81%8E%E4%BE%86%E4%BA%BA%E6%80%A5%E5%8B%B8-%E5%8D%83%E8%90%AC%E5%88%A5%E5%A0%B1%E9%81%BA%E5%A4%B1-%E4%B8%8B%E5%A0%B4%E6%9B%9D%E5%85%89-022002624.html)
+
+找了好幾天竟只剩破爛紙張！網友笑勸帶殘骸去補辦，別亂申報以免影響效期
+
+- ### [始源衝65年火鍋老店 分享沾醬網驚：超懂吃](https://tw.news.yahoo.com/%E5%B4%94%E5%A7%8B%E6%BA%90%E8%A7%A3%E9%8E%96%E5%8F%B0%E5%8D%9765%E5%B9%B4%E7%81%AB%E9%8D%8B%E8%80%81%E5%BA%97-%E6%B2%99%E8%8C%B6%E9%86%AC%E5%8A%A0%E8%9B%8B%E9%BB%83-%E8%B6%85%E6%87%82%E5%90%83-111909923.html)
+
+進行台南美食之旅，他大讚湯頭，且拍下沙茶醬搭配生蛋黃的經典吃法
+
+- ### [遊戲評測「破百家零負評」玩家見分數傻眼](https://tw.news.yahoo.com/%E3%80%8Agta6%E3%80%8B%E5%AA%92%E9%AB%94%E8%A9%95%E6%B8%AC99%E5%88%86%E3%80%8C%E7%A0%B4%E7%99%BE%E5%AE%B6%E9%9B%B6%E8%B2%A0%E8%A9%95%E3%80%8D%EF%BC%81%E7%8E%A9%E5%AE%B6%E8%A6%8B%E5%88%86%E6%95%B8%E7%9C%8B%E5%82%BB%EF%BC%9A%E9%9B%86%E9%AB%94%E8%AB%8B%E7%97%85%E5%81%87%E5%95%A6-111710571.html)
+
+《GTA6》直接並列評分網站史上最高分，不少網友驚呼：99分真的太扯了
+
+- ### [一早搶看企鵝散步！4千人擠爆台北動物園](https://tw.news.yahoo.com/%E8%B6%85%E8%90%8C%E9%BB%91%E8%85%B3%E4%BC%81%E9%B5%9D%E6%95%A3%E6%AD%A5-4%E5%8D%83%E4%BA%BA%E6%9C%9D%E8%81%96%E5%8F%B0%E5%8C%97%E5%8B%95%E7%89%A9%E5%9C%92-%E6%8E%92%E9%9A%8A%E7%9B%9B%E6%B3%81%E5%A6%82%E5%81%B6%E5%83%8F%E7%B0%BD%E5%94%B1%E6%9C%83-090200285.html)
+
+首次舉辦「企鵝走路趣」活動，開園才一個小時，就吸引上千遊客進場
+
+- ![](https://s.yimg.com/zz/nn/lib/metro/g/my/anim_loading_sm.gif)
+
+- ### [朝聖新北排隊神店 好吃到白種元一口氣完食](https://tw.news.yahoo.com/%E9%9F%93%E5%9C%8B%E7%BE%8E%E9%A3%9F%E5%A4%A9%E7%8E%8B%E4%B9%9F%E6%B7%AA%E9%99%B7-%E7%99%BD%E7%A8%AE%E5%85%83%E4%BE%86%E5%8F%B0%E6%9C%9D%E8%81%96-%E6%96%B0%E5%8C%97%E6%8E%92%E9%9A%8A%E7%A5%9E%E5%BA%97-%E7%8B%82%E8%AE%9A1%E5%90%83%E6%B3%95%E8%B6%85%E9%AB%98%E7%B4%9A-161200905.html)
+
+驚見門口長長人龍，韓國美食天王也淪陷，對Q彈粄條讚不絕口，迅速吃光
+
+* * *
+
+* * *
+
+此問答由 AI 產生
+
+AI 隨堂考使用 AI 技術協助，問答題僅供參考。Yahoo 不針對內容及相關分析結果之準確性、完整性、合法性或可靠性做任何保證，亦不承擔任何責任。使用本服務即表示同意免責聲明。
+
+Q1
+
+台灣好市多黑五今開跑，會員入場關鍵新制為何？
+
+[題目出處（另開新視窗）](https://tw.news.yahoo.com/%E9%BB%91%E9%91%BD%E6%9C%83%E5%93%A1%E5%84%AA%E5%85%88%E5%85%A5%E5%A0%B4-%E5%A5%BD%E5%B8%82%E5%A4%9A%E9%BB%91%E4%BA%94%E9%A6%96%E6%97%A5%E5%90%B82%E7%99%BE%E4%BA%BA%E6%8E%92%E9%9A%8A-%E9%A0%AD%E9%A6%99-%E8%B3%BC%E7%89%A9%E7%84%A1%E4%B8%8A%E9%99%90-232700255.html)
+
+Q2
+
+摩根士丹利證券對聯發科最新給予何種投資評等？
+
+[題目出處（另開新視窗）](https://tw.stock.yahoo.com/news/%E5%86%8D%E5%A5%AAgoogle-tpu%E5%A4%A7%E5%96%AE-%E8%81%AF%E7%99%BC%E7%A7%91%E7%8D%B2%E5%A4%A7%E6%91%A9%E9%AB%98%E5%96%8A6188%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9-%E5%89%8D%E4%B8%89%E5%AD%A3eps%E8%A1%9D47%E5%85%83-234800689.html)
+
+Q3
+
+味全龍年營收破 8 億，丁仲緯為何仍稱虧損？
+
+[題目出處（另開新視窗）](https://tw.sports.yahoo.com/news/%E5%91%B3%E5%85%A8%E5%B9%B4%E6%94%B6%E7%A0%B48%E5%84%84-%E5%B1%85%E7%84%B6%E9%82%84%E8%99%A7%E9%8C%A2-213000393.html)
+
+Q4
+
+劉冠廷封第 63 屆金馬影帝後，對生第二胎的態度為何？
+
+[題目出處（另開新視窗）](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC63-%E5%8A%89%E5%86%A0%E5%BB%B7%E7%A8%B1%E5%B8%9D%E6%9B%BE%E6%83%B3%E5%9B%9E%E5%AE%B6%E8%B3%A3%E8%B1%86%E8%8A%B1-%E5%AE%A3%E5%B8%83%E8%A3%9C%E8%BE%A6%E5%A9%9A%E7%A6%AE-%E8%AB%87%E7%94%9F%E4%BA%8C%E8%83%8E%E5%93%BD%E5%92%BD-%E5%85%88%E4%B8%8D%E8%A6%81-231553576.html)
+
+Q5
+
+股民誤買整張 90 萬元股票，申請 T+5 的作用是？
+
+[題目出處（另開新視窗）](https://tw.news.yahoo.com/%E8%B3%A3%E8%82%A1%E8%AA%A4%E6%8C%89%E6%88%90%E8%B2%B7%E6%95%B4%E5%BC%B5-%E8%83%8C90%E8%90%AC%E4%BA%A4%E5%89%B2%E6%AC%BE-%E6%A5%AD%E5%85%A7%E4%BA%BA%E5%A3%AB%E6%95%992%E6%8B%9B%E8%A7%A3%E5%A5%97-071122313.html)
+
+成績揭曉
+
+新手村村民，快到 Yahoo 新聞多多收集情報
+
+你答對了 0 題，正確率 0%
+
+\- 題目更新時間 -
+
+每天上午11:00 更新題目
+
+明天再回來玩玩吧~
+
+A：
+
+會員卡分流入場｜排隊不亂
+
+B：
+
+改採線上抽號碼｜手機快
+
+C：
+
+黑鑽會員優先入場｜早到爽
+
+D：
+
+金星會員提早開門｜小確幸
+
+下一題
+
+Yahoo購物中心
+
+[uniopen 聯名卡送11%](https://tw.promo.yahoo.com/2025/uniopencard/)
+
+拍賣
+
+[![CASIO 卡西歐 G-SHOCK 指針 2500 系列 皇家金鷹 墨綠色 GAC-2500-3A @EASYwatches](https://img.yec.tw/cl/api/res/1.2/jOr2nZ5moAOxWAXpC7GUsg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/c47b1bc6-96e0-46b1-ada3-b642a2ac7522.jpg#400x400)\\
+\\
+CASIO 卡西歐 G-SHOCK 指針 2500 系列 皇家金鷹 墨綠色 GAC-2500-3A @EASYwatches](https://tw.bid.yahoo.com/item/101771832775?co_servername=ecm_auc_r12n_editor_261123&utm_source=yahoo&utm_medium=ecm_auc) [![EmmaShop艾購物-秋冬保暖加厚毛毛鞋 羊羔絨保暖包頭鞋 韓系加絨居家鞋 防滑紋路鞋底 圓頭休閒鞋 4色34-35~46-47有女生男生尺寸](https://img.yec.tw/cl/api/res/1.2/l6mCIVbsaThY8dWwgr7wVA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTM1OQ--/https://img.yec.tw/ob/image/49dfc13c-a25e-4650-bbe3-de7c07a2fe2b.jpg#359x400)\\
+\\
+EmmaShop艾購物-秋冬保暖加厚毛毛鞋 羊羔絨保暖包頭鞋 韓系加絨居家鞋 防滑紋路鞋底 圓頭休閒鞋 4色34-35~46-47有女生男生尺寸](https://tw.bid.yahoo.com/item/101771951762?co_servername=ecm_auc_r12n_editor_261123&utm_source=yahoo&utm_medium=ecm_auc) [![[歐閣柚木傢俱]免組裝 頂級柚木製造 穿鞋椅 80*30*42 玄關椅 鞋架 拖鞋架 鞋櫃 結構扎實 品質超優](https://img.yec.tw/cl/api/res/1.2/vXJtdvcUGr3Kggh44Gd8SA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yMjc7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/4e12d200-db9e-4720-be9d-0f2b86585294.jpg#400x227)\\
+\[歐閣柚木傢俱\]免組裝 頂級柚木製造 穿鞋椅 80\*30\*42 玄關椅 鞋架 拖鞋架 鞋櫃 結構扎實 品質超優](https://tw.bid.yahoo.com/item/101638523843?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![KAMINOWA 法之羽 黑燦 養髮液80ml](https://img.yec.tw/cl/api/res/1.2/0dZ84N_pVZM5B2EdnpA4cw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0zODA7cT04NTtyb3RhdGU9YXV0bzt3PTM4Ng--/https://img.yec.tw/ob/image/88c65131-c7b8-4a18-a36f-d5e1076efa5a.jpg#386x380)\\
+\\
+KAMINOWA 法之羽 黑燦 養髮液80ml](https://tw.bid.yahoo.com/item/101766469900?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![售：Google Nest Mini 第二代智能藍芽喇叭。灰](https://img.yec.tw/cl/api/res/1.2/tL1KXBknEOuU16HScnSrGw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTIyNQ--/https://img.yec.tw/ob/image/9bd9f7d6-ef4b-4fa5-a480-3b842b8b724b.jpg#225x400)\\
+\\
+售：Google Nest Mini 第二代智能藍芽喇叭。灰](https://tw.bid.yahoo.com/item/101744185837?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![新品7月 日本🇯🇵North object 輕薄棉質寬褲褲](https://img.yec.tw/cl/api/res/1.2/JVhBWJrVDUFDIogIHCuphg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0zMjA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/81da2f39-9429-47be-9f6e-0b62f2295347.jpg#400x320)\\
+\\
+新品7月 日本🇯🇵North object 輕薄棉質寬褲褲](https://tw.bid.yahoo.com/item/101753250824?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![現貨 牛奶燈 燈罩 復古風 懷舊風情 日式 吊燈 直徑30公分玻璃燈罩 現貨](https://img.yec.tw/cl/api/res/1.2/QhWw2K8uTquGeA_OkTex5Q--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTMwMA--/https://img.yec.tw/ob/image/6d9ab3f9-eabe-4888-8e1d-dded6e7b6368.jpg#300x400)\\
+\\
+現貨 牛奶燈 燈罩 復古風 懷舊風情 日式 吊燈 直徑30公分玻璃燈罩 現貨](https://tw.bid.yahoo.com/item/101763412819?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![鐵支路迴力車與創玩設計迴力車專用軌道 平面一批](https://img.yec.tw/cl/api/res/1.2/K9.E9zLZdnCidSIEflh8qw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0zMDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/972aea4f-c2bf-4c9b-961b-b19158c3674d.jpg#400x300)\\
+\\
+鐵支路迴力車與創玩設計迴力車專用軌道 平面一批](https://tw.bid.yahoo.com/item/101735992464?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![【kiho金紘】良值L662 SWITCH NS OLED 卡匣收納盒 遊戲片卡帶12入薩爾達傳說](https://img.yec.tw/cl/api/res/1.2/lf4AmpXMPCsZz9gPBszPGQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/4563ace2-fb03-4ba7-bd2c-ee9ff77b6a91.jpg#400x400)\\
+\\
+【kiho金紘】良值L662 SWITCH NS OLED 卡匣收納盒 遊戲片卡帶12入薩爾達傳說](https://tw.bid.yahoo.com/item/101597158841?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![所有權狀 悠遊卡 地王段 地后小段 臺北市 台北市 智慧地政事務所  紀念悠遊卡](https://img.yec.tw/cl/api/res/1.2/5sUhA5w49NtuHLv.g1PHLA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTMwMA--/https://img.yec.tw/ob/image/549e2ed0-e05a-4232-9149-b917aceb5088.jpg#300x400)\\
+\\
+所有權狀 悠遊卡 地王段 地后小段 臺北市 台北市 智慧地政事務所 紀念悠遊卡](https://tw.bid.yahoo.com/item/101415130823?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![PSV 1007 主機 +32G 全套配件+鋼彈破壞者3   保修一年  品質有保障 psvita](https://img.yec.tw/cl/api/res/1.2/4ycSDY7Wp9gmCuoyWok44A--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yMjQ7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/b5c0eeb9-e1c1-469c-a933-446ca53e1834.jpg#400x224)\\
+\\
+PSV 1007 主機 +32G 全套配件+鋼彈破壞者3 保修一年 品質有保障 psvita](https://tw.bid.yahoo.com/item/100195891210?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![日本正版 萬代 figuarts zero 海賊王 航海王 夏洛特 卡塔克利 卡塔庫栗 糯團突刺 模型 公仔 日本代購](https://img.yec.tw/cl/api/res/1.2/kyaPPleRmxMEbU0n7jPIkA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/db369dce-9b3c-4443-8f2f-9cd21fb011d7.jpg#400x400)\\
+\\
+日本正版 萬代 figuarts zero 海賊王 航海王 夏洛特 卡塔克利 卡塔庫栗 糯團突刺 模型 公仔 日本代購](https://tw.bid.yahoo.com/item/100543740268?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![台中活動鷹架出租&#92;施工架可高空作業每組3000元](https://img.yec.tw/cl/api/res/1.2/px6OR2eNgkQaCmfd1AGdag--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0zMDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/702793a8-0bd4-458b-9f79-393f0bbb0c63.jpg#400x300)\\
+\\
+台中活動鷹架出租&#92;施工架可高空作業每組3000元](https://tw.bid.yahoo.com/item/100415018246?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![【布一樣批發】倉庫機台出清｜早期金財神水果盤小瑪莉機台機殼（需自行維修整理 / 麻仔台 零件機料件）復古軟裝大容量存錢筒改裝 滿千送藍牙音箱](https://img.yec.tw/cl/api/res/1.2/yhBTp92tzmZN7vuTATBnaA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/93377268-1213-4183-8ba9-6ab5683fa48c.jpg#400x400)\\
+\\
+【布一樣批發】倉庫機台出清｜早期金財神水果盤小瑪莉機台機殼（需自行維修整理 / 麻仔台 零件機料件）復古軟裝大容量存錢筒改裝 滿千送藍牙音箱](https://tw.bid.yahoo.com/item/101756286856?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![【never too perfect 】 全新 童裝選品 kodomo Beams 肉桂色 輕量 戶外休閒帽](https://img.yec.tw/cl/api/res/1.2/kM.CboE.PSDmMExJ6YD9bw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTMwMA--/https://img.yec.tw/ob/image/d7804011-b89c-47db-87be-1491a5741c4c.jpg#300x400)\\
+\\
+【never too perfect 】 全新 童裝選品 kodomo Beams 肉桂色 輕量 戶外休閒帽](https://tw.bid.yahoo.com/item/101763876012?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![紫砂壺-H342-黃龍山4號井本山綠泥-西施壺-約260cc~純正稀有泥料](https://img.yec.tw/cl/api/res/1.2/6ialLMphrOfL3D_GnNMARw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTMwMw--/https://img.yec.tw/ob/image/e4a256fa-3412-4420-8155-8833df5cb3d9.jpg#303x400)\\
+\\
+紫砂壺-H342-黃龍山4號井本山綠泥-西施壺-約260cc~純正稀有泥料](https://tw.bid.yahoo.com/item/101715077647?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![二手【東元】 《10公斤洗衣機》W1038FW 台北 新北 桃園運送](https://img.yec.tw/cl/api/res/1.2/lAlnekrjCG2Sl84.hy4f_A--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yNTM7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/072500c6-8986-40ea-aaf7-da89fcfb15ce.jpg#400x253)\\
+\\
+二手【東元】 《10公斤洗衣機》W1038FW 台北 新北 桃園運送](https://tw.bid.yahoo.com/item/101670636458?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc)
+
+[![美製 JL Audio 全新 12IB4 庫存 12吋 超重低音 125W喇叭單體 ))) 清 倉特價](https://img.yec.tw/cl/api/res/1.2/Qi8zA0.x0hh6wjvh8FJI.g--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yOTA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/ce075885-fda6-4336-91e5-c2bab0c61c0e.jpg#400x290)\\
+\\
+美製 JL Audio 全新 12IB4 庫存 12吋 超重低音 125W喇叭單體 ))) 清 倉特價](https://tw.bid.yahoo.com/item/101765917820?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![【US3C-文心店】Acer PM161Q Jbmiuux 15.6吋 黑色 橫向電場效應顯示技術 行動隨身顯示器 二手顯示器 原廠保固至2029年06月09日](https://img.yec.tw/cl/api/res/1.2/G_AjyuWvGFI4fBAF1uZoAw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/97b6d86c-ab51-4918-ab8b-ee53023c925c.jpg#400x400)\\
+\\
+【US3C-文心店】Acer PM161Q Jbmiuux 15.6吋 黑色 橫向電場效應顯示技術 行動隨身顯示器 二手顯示器 原廠保固至2029年06月09日](https://tw.bid.yahoo.com/item/101768241761?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![♥♥☆╮泰迪學園╭☆♥♥日本正版宮崎駿【TOTORO龍貓】](https://img.yec.tw/cl/api/res/1.2/7f3n8Cd0wxGZo2QrPdMtaA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/bb825720-c329-4a0c-9d60-4ca3d6aa3004.jpg#400x400)\\
+\\
+♥♥☆╮泰迪學園╭☆♥♥日本正版宮崎駿【TOTORO龍貓】](https://tw.bid.yahoo.com/item/101670514496?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![【T.A】零碼優惠 Nike Vapor 12 PRM 女子 高階旗艦款 費德勒經典系列 網球鞋 法網 美網Boulter Sabalenka Alcaraz](https://img.yec.tw/cl/api/res/1.2/T63d6PwrlZaXhER35UZQlw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTM5Ng--/https://img.yec.tw/ob/image/b099080e-6401-49f2-8ce8-4a22a03e29d5.jpg#396x400)\\
+\\
+【T.A】零碼優惠 Nike Vapor 12 PRM 女子 高階旗艦款 費德勒經典系列 網球鞋 法網 美網Boulter Sabalenka Alcaraz](https://tw.bid.yahoo.com/item/101764508998?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![OSIM 5感養身椅 OS-8208 全新原廠保固](https://img.yec.tw/cl/api/res/1.2/zcIWL8_GJTFq1bqaNkJS3A--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTM3NQ--/https://img.yec.tw/ob/image/34f84429-ca38-45c3-a80b-73f11c890ab6.jpg#375x400)\\
+\\
+OSIM 5感養身椅 OS-8208 全新原廠保固](https://tw.bid.yahoo.com/item/101561198953?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![^_^ 全新日版NEW Nintendo 3DS LL 薩爾達傳說限定版主機](https://img.yec.tw/cl/api/res/1.2/OybV7i5RI6mxOirDdzI6tQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTMyNQ--/https://img.yec.tw/ob/image/bbcb7990-c540-41e5-96a4-6e215b7e4a99.jpg#325x400)\\
+\\
+^\_^ 全新日版NEW Nintendo 3DS LL 薩爾達傳說限定版主機](https://tw.bid.yahoo.com/item/101441857114?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![WD PC S5000S 1TB Gen4 NVMe SSD 全新 健康度 100%通電 73hrs](https://img.yec.tw/cl/api/res/1.2/ouPd0fhFq2TYuFYjz0PaPg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0xODc7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/a4a7a2e5-6586-465a-b55f-d1852a43c4b9.jpg#400x187)\\
+\\
+WD PC S5000S 1TB Gen4 NVMe SSD 全新 健康度 100%通電 73hrs](https://tw.bid.yahoo.com/item/101730108765?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![CASIO 卡西歐 G-SHOCK 指針 2500 系列 皇家金鷹 墨綠色 GAC-2500-3A @EASYwatches](https://img.yec.tw/cl/api/res/1.2/jOr2nZ5moAOxWAXpC7GUsg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/c47b1bc6-96e0-46b1-ada3-b642a2ac7522.jpg#400x400)\\
+\\
+CASIO 卡西歐 G-SHOCK 指針 2500 系列 皇家金鷹 墨綠色 GAC-2500-3A @EASYwatches](https://tw.bid.yahoo.com/item/101771832775?co_servername=ecm_auc_r12n_editor_261123&utm_source=yahoo&utm_medium=ecm_auc) [![EmmaShop艾購物-秋冬保暖加厚毛毛鞋 羊羔絨保暖包頭鞋 韓系加絨居家鞋 防滑紋路鞋底 圓頭休閒鞋 4色34-35~46-47有女生男生尺寸](https://img.yec.tw/cl/api/res/1.2/l6mCIVbsaThY8dWwgr7wVA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTM1OQ--/https://img.yec.tw/ob/image/49dfc13c-a25e-4650-bbe3-de7c07a2fe2b.jpg#359x400)\\
+\\
+EmmaShop艾購物-秋冬保暖加厚毛毛鞋 羊羔絨保暖包頭鞋 韓系加絨居家鞋 防滑紋路鞋底 圓頭休閒鞋 4色34-35~46-47有女生男生尺寸](https://tw.bid.yahoo.com/item/101771951762?co_servername=ecm_auc_r12n_editor_261123&utm_source=yahoo&utm_medium=ecm_auc) [![[歐閣柚木傢俱]免組裝 頂級柚木製造 穿鞋椅 80*30*42 玄關椅 鞋架 拖鞋架 鞋櫃 結構扎實 品質超優](https://img.yec.tw/cl/api/res/1.2/vXJtdvcUGr3Kggh44Gd8SA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0yMjc7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/4e12d200-db9e-4720-be9d-0f2b86585294.jpg#400x227)\\
+\[歐閣柚木傢俱\]免組裝 頂級柚木製造 穿鞋椅 80\*30\*42 玄關椅 鞋架 拖鞋架 鞋櫃 結構扎實 品質超優](https://tw.bid.yahoo.com/item/101638523843?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![KAMINOWA 法之羽 黑燦 養髮液80ml](https://img.yec.tw/cl/api/res/1.2/0dZ84N_pVZM5B2EdnpA4cw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0zODA7cT04NTtyb3RhdGU9YXV0bzt3PTM4Ng--/https://img.yec.tw/ob/image/88c65131-c7b8-4a18-a36f-d5e1076efa5a.jpg#386x380)\\
+\\
+KAMINOWA 法之羽 黑燦 養髮液80ml](https://tw.bid.yahoo.com/item/101766469900?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![售：Google Nest Mini 第二代智能藍芽喇叭。灰](https://img.yec.tw/cl/api/res/1.2/tL1KXBknEOuU16HScnSrGw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTIyNQ--/https://img.yec.tw/ob/image/9bd9f7d6-ef4b-4fa5-a480-3b842b8b724b.jpg#225x400)\\
+\\
+售：Google Nest Mini 第二代智能藍芽喇叭。灰](https://tw.bid.yahoo.com/item/101744185837?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![新品7月 日本🇯🇵North object 輕薄棉質寬褲褲](https://img.yec.tw/cl/api/res/1.2/JVhBWJrVDUFDIogIHCuphg--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0zMjA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/81da2f39-9429-47be-9f6e-0b62f2295347.jpg#400x320)\\
+\\
+新品7月 日本🇯🇵North object 輕薄棉質寬褲褲](https://tw.bid.yahoo.com/item/101753250824?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![現貨 牛奶燈 燈罩 復古風 懷舊風情 日式 吊燈 直徑30公分玻璃燈罩 現貨](https://img.yec.tw/cl/api/res/1.2/QhWw2K8uTquGeA_OkTex5Q--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTMwMA--/https://img.yec.tw/ob/image/6d9ab3f9-eabe-4888-8e1d-dded6e7b6368.jpg#300x400)\\
+\\
+現貨 牛奶燈 燈罩 復古風 懷舊風情 日式 吊燈 直徑30公分玻璃燈罩 現貨](https://tw.bid.yahoo.com/item/101763412819?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![鐵支路迴力車與創玩設計迴力車專用軌道 平面一批](https://img.yec.tw/cl/api/res/1.2/K9.E9zLZdnCidSIEflh8qw--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD0zMDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/972aea4f-c2bf-4c9b-961b-b19158c3674d.jpg#400x300)\\
+\\
+鐵支路迴力車與創玩設計迴力車專用軌道 平面一批](https://tw.bid.yahoo.com/item/101735992464?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![【kiho金紘】良值L662 SWITCH NS OLED 卡匣收納盒 遊戲片卡帶12入薩爾達傳說](https://img.yec.tw/cl/api/res/1.2/lf4AmpXMPCsZz9gPBszPGQ--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTQwMA--/https://img.yec.tw/ob/image/4563ace2-fb03-4ba7-bd2c-ee9ff77b6a91.jpg#400x400)\\
+\\
+【kiho金紘】良值L662 SWITCH NS OLED 卡匣收納盒 遊戲片卡帶12入薩爾達傳說](https://tw.bid.yahoo.com/item/101597158841?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc) [![所有權狀 悠遊卡 地王段 地后小段 臺北市 台北市 智慧地政事務所  紀念悠遊卡](https://img.yec.tw/cl/api/res/1.2/5sUhA5w49NtuHLv.g1PHLA--/YXBwaWQ9eXR3YXVjdGlvbnNlcnZpY2U7aD00MDA7cT04NTtyb3RhdGU9YXV0bzt3PTMwMA--/https://img.yec.tw/ob/image/549e2ed0-e05a-4232-9149-b917aceb5088.jpg#300x400)\\
+\\
+所有權狀 悠遊卡 地王段 地后小段 臺北市 台北市 智慧地政事務所 紀念悠遊卡](https://tw.bid.yahoo.com/item/101415130823?co_servername=ecm_auc_r12n_item-hotsale_261123&utm_source=yahoo&utm_medium=ecm_auc)
+
+## 熱門新聞
+
+熱門夯好物玩樂品味科技與汽車健康
+
+- ![](https://s.yimg.com/lo/mysterio/api/E6ECA54DE2AAC8CAC1478B19CB4CB5C8C1C6DBBF84AC3879E8EB025C6655856D/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fnews_ttv_com_tw_433%2Fd3b1222586d97df896eea11486942fe3.jpg_up.jpg)
+
+### [金馬獎收視出爐！最高2.44落在「這段」　官方社群吸730萬流量](https://tw.news.yahoo.com/%E9%87%91%E9%A6%AC%E7%8D%8E%E6%94%B6%E8%A6%96%E5%87%BA%E7%88%90-%E6%9C%80%E9%AB%982-44%E8%90%BD%E5%9C%A8-%E9%80%99%E6%AE%B5-%E5%AE%98%E6%96%B9%E7%A4%BE%E7%BE%A4%E5%90%B8730%E8%90%AC%E6%B5%81%E9%87%8F-075031854.html)
+
+第63屆金馬獎頒獎典禮於昨（22）日晚間圓滿落幕，而典禮在社群上掀起廣大討論，全體平均收視1.79，其中收視最高點落在頒發年度台灣傑出電影工作者知名調光師「周佳聖」，收視衝上全場最高2.44，吸引51
+
+台視新聞網・5 小時前・20則留言
+
+[AI 整理\\
+\\
+第63屆金馬獎頒獎典禮\\
+（另開新視窗）](https://tw.news.yahoo.com/news-story/228ba152-1480-4588-b8a1-a1bdecd31e1d)
+
+- ![](https://s.yimg.com/lo/mysterio/api/8C668B8D0552C8D114613B4306859F3E73682B1D30F8EEFA28D33750572E385C/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmirrordaily_390%2F45fabdb98aa66340f00e072b485ce5cd.jpg)
+
+### [主播公開驗傷單控前夫家暴！婆婆竟嗆「我兒子你選的」　遭夫家刁難：被打又怎樣](https://tw.news.yahoo.com/%E4%B8%BB%E6%92%AD%E5%85%AC%E9%96%8B%E9%A9%97%E5%82%B7%E5%96%AE%E6%8E%A7%E5%89%8D%E5%A4%AB%E5%AE%B6%E6%9A%B4-%E5%A9%86%E5%A9%86%E7%AB%9F%E5%97%86-%E6%88%91%E5%85%92%E5%AD%90%E4%BD%A0%E9%81%B8%E7%9A%84-%E9%81%AD%E5%A4%AB%E5%AE%B6%E5%88%81%E9%9B%A3-%E8%A2%AB%E6%89%93%E5%8F%88%E6%80%8E%E6%A8%A3-053500719.html)
+
+三立主播曾鈴媛今年3月與結婚近8年的前夫完成離婚手續，原以為婚姻結束後能重新展開生活，沒想到近日再度公開婚姻期間的傷痛。她22日在社群平台貼出驗傷單，指控過去多年不僅承受肢體暴力，還遭受精神折磨，甚至在提出離婚後，仍面臨前夫及夫家持續施壓、言語攻擊，連原本屬於自己的嫁妝都遲遲無法取回，讓她忍無可忍，直言：「寡廉鮮恥都快跟不上你惡毒的程度。」
+
+鏡報・7 小時前・40則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/EF54623EDA2660A0FA223EBEED4682AF5250CDFBF6DE4D447C0C5236B57F160B/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F13632ace2499ce136c393c120afa56fa.jpg_up.jpg)
+
+### [黃仁勳下台！子女「靠爸」年薪千萬　知情曝現況：處境極尷尬](https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%8B%E5%8F%B0-%E5%AD%90%E5%A5%B3-%E9%9D%A0%E7%88%B8-%E5%B9%B4%E8%96%AA%E5%8D%83%E8%90%AC-%E7%9F%A5%E6%83%85%E6%9B%9D%E7%8F%BE%E6%B3%81-093400190.html)
+
+輝達前執行長黃仁勳因婚外情醜聞請辭，其在公司擔任要職的子女黃勝斌與黃敏珊雖照常上班並出席全員大會，但對父親爭議低調不談。學者指出，兩人身處家族光環與組織忠誠的兩難，處境尷尬且面臨嚴格檢視。面對黃仁勳有意回任，輝達董事會目前暫無此打算，引發外界高度關注。
+
+三立新聞網 setn.com・2 天前・177則留言
+
+- 廣告
+
+- ![](https://s.yimg.com/lo/mysterio/api/F8E5D8A1EA76A6A1BD389248E34674ECCFEA3F6C0390A7203619B79DDE36F4DD/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2Fd4da04baeaebb3c12003e00f9b00fcab.jpg)
+
+### [八方雲集紙盒藏「隱藏功能」！13萬人全看傻：吃這麼多年才知道](https://tw.news.yahoo.com/%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86%E7%B4%99%E7%9B%92%E8%97%8F-%E9%9A%B1%E8%97%8F%E5%8A%9F%E8%83%BD-13%E8%90%AC%E4%BA%BA%E5%85%A8%E7%9C%8B%E5%82%BB-%E5%90%83%E9%80%99%E9%BA%BC%E5%A4%9A%E5%B9%B4%E6%89%8D%E7%9F%A5%E9%81%93-051200519.html)
+
+知名連鎖鍋貼店八方雲集的外帶紙盒暗藏玄機！近日有網友分享，紙盒兩側的方形孔洞除了原本的散熱功能，還能完美固定撕開的醬料包，避免醬汁沾得到處都是。這項生活智慧王的小技巧曝光後迅速引發熱議，吸引超過百萬次瀏覽，許多網友看完才恍然大悟，直呼吃這麼久現在才知道，大讚這項隱藏設計簡直太實用。
+
+三立新聞網 setn.com・1 天前・28則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/635DE064F4A2D7A8B1C0A8BEB3E75018A8582DCBE8967F959BF36141257381F6/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsetn.com.tw%2Fdd8ba4c3d03fffb6c42a1c1052cbf8e5.jpg)
+
+### [大咖歌手演唱會驚傳散布毒氣引恐慌　1.2萬人緊急逃生](https://tw.news.yahoo.com/%E5%A4%A7%E5%92%96%E6%AD%8C%E6%89%8B%E6%BC%94%E5%94%B1%E6%9C%83%E9%A9%9A%E5%82%B3%E6%95%A3%E5%B8%83%E6%AF%92%E6%B0%A3%E5%BC%95%E6%81%90%E6%85%8C-1-2%E8%90%AC%E4%BA%BA%E7%B7%8A%E6%80%A5%E9%80%83%E7%94%9F-122000415.html)
+
+美國歌手唐托利弗日前在英國曼徹斯特開唱，場內突竄大量不明煙霧引發1.2萬人恐慌疏散。至少50人因呼吸道與眼睛不適就醫，1人送醫。警方正調查物質來源，民眾也質疑現場安檢與應變疏散瑕疵。由於曾有恐怖攻擊陰影，此次意外讓當地居民倍感恐懼，主辦單位強調將全力配合調查並確保觀眾安全。
+
+三立新聞網 setn.com・56 分鐘前・1則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/CDB5D1918A747128F37DEFB7ABA7D0FB9F4ED7598A16FD7EBFBF622B1316411D/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F22ba5906bdb044ad5fd0257675f57266.jpg)
+
+### [股市血洗　「全台最難訂Buffet」訂位現況？島語發聲](https://tw.news.yahoo.com/%E8%82%A1%E5%B8%82%E8%A1%80%E6%B4%97-%E5%85%A8%E5%8F%B0%E6%9C%80%E9%9B%A3%E8%A8%82buffet-%E7%88%86%E9%80%80%E8%A8%82%E6%BD%AE-%E5%B3%B6%E8%AA%9E%E6%8F%AD%E7%8B%80%E6%B3%81-071900642.html)
+
+台股日前遭遇歷史性重挫，引發市場關注。股市崩跌也讓社群平台網友熱議，紛紛聯想人氣buffet島語的訂位變好搶，笑稱是投資人賠錢吃不下。對此，漢來美食業者表示，現有分店營收穩定，且新店點訂位在3分鐘內即被秒殺，顯示股市波動暫未對高檔餐飲的強勁來客需求造成顯著影響。
+
+三立新聞網 setn.com・4 小時前・103則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/721B07266F0D0598D88378AD8984798366FF059473725049FEBBF67AA4E16E38/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fmirrordaily_390%2Fce3acbd8f46989e600e319eca8620dc2.jpg)
+
+### [直播正妹曝光　本尊驚為天人！網喊「抖內大哥會哭死」](https://tw.news.yahoo.com/%E7%9B%B4%E6%92%AD%E6%AD%A3%E5%A6%B9%E6%9B%9D%E5%85%89-%E6%9C%AC%E5%B0%8A%E9%A9%9A%E7%82%BA%E5%A4%A9%E4%BA%BA-%E7%B6%B2%E5%96%8A-%E6%8A%96%E5%85%A7%E5%A4%A7%E5%93%A5%E6%9C%83%E5%93%AD%E6%AD%BB-080200869.html)
+
+中國近幾年發展直播經濟，尤其數年前達到「蓬勃發展」的程度，從街頭到公園，隨處可見直播主趴趴走，不過當這些主播卸下濾鏡，又是另一番風景。
+
+鏡報・5 小時前・18則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/6AF015B93B8DCCD20DB518D5881FD7B27E72E42DE03F20793229360934E88A2A/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F69d31ab03fc76f22b04be3a712dcb15b.jpg)
+
+### [直擊／好市多黑五首日「每車都有它」現場人潮曝光](https://tw.news.yahoo.com/%E7%9B%B4%E6%93%8A-%E5%A5%BD%E5%B8%82%E5%A4%9A%E9%BB%91%E4%BA%94%E9%A6%96%E6%97%A5-%E6%AF%8F%E8%BB%8A%E9%83%BD%E6%9C%89%E5%AE%83-%E5%93%A1%E5%B7%A5%E5%98%86-%E5%B9%B4%E4%B8%8D%E5%A6%82-014500624.html)
+
+好市多黑色購物節今正式登場，首度延長至14天。記者實地走訪發現首日人潮未如預期爆滿，工作人員更直言買氣一年不如一年。不過，黑鑽會員提前入場發揮分流效果，民眾購物態度轉趨保守、精打細算。家電與限時優惠的洗衣精成為搶手貨，不少消費者一次囤貨多箱；而面對黃金價格波動，紀念金條與金幣展示櫃前則以觀望為主，未見搶購熱潮。
+
+三立新聞網 setn.com・11 小時前・22則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/43278B19AD9D1090FD9C8B2E239A9A35BCF09DB1FFB9E7EDE7AE3951E05F6756/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F4c014f43d1fe8082cec4ee823e3af103.jpg)
+
+### [雙金歌手飆唱〈換一個試看覓〉！力挺沈伯洋：生在民主自由國家要珍惜](https://tw.news.yahoo.com/%E9%9B%99%E9%87%91%E6%AD%8C%E6%89%8B%E9%A3%86%E5%94%B1-%E6%8F%9B-%E5%80%8B%E8%A9%A6%E7%9C%8B%E8%A6%93-%E5%8A%9B%E6%8C%BA%E6%B2%88%E4%BC%AF%E6%B4%8B-%E7%94%9F%E5%9C%A8%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1%E5%9C%8B%E5%AE%B6%E8%A6%81%E7%8F%8D%E6%83%9C-090700816.html)
+
+2026台北市長選戰倒數，民進黨候選人沈伯洋昨舉辦「城市行動展」，金鐘歌手邵大倫登台獻唱共創金曲〈換一個試看覓〉嗨翻全場。邵大倫因認同沈伯洋理念站台相挺，事後更受副總統蕭美琴與沈伯洋熱情邀約站上中央C位合影，讓他大讚民主自由彌足珍貴。現場吸引爆滿人潮，氣氛熱烈。
+
+三立新聞網 setn.com・4 小時前・29則留言
+
+[AI 整理\\
+\\
+沈伯洋城市行動展風波\\
+（另開新視窗）](https://tw.news.yahoo.com/news-story/e39b2e57-ddee-46a4-901f-1b543c72d353)
+
+- ![](https://s.yimg.com/lo/mysterio/api/366DE46853AA0E392D4F9F50D755C4DAC7E739700E0C3247CA0DD706ADEDEC70/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-10%2F4dfb8840-9d96-11ef-be7b-b93f45ed3fb8)
+
+### [人瑞3姊妹共316歲！營養師揭「長壽3習慣」　便當多加1物就對了](https://tw.news.yahoo.com/%E4%BA%BA%E7%91%9E3%E5%A7%8A%E5%A6%B9%E5%85%B1316%E6%AD%B2-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD-%E9%95%B7%E5%A3%BD3%E7%BF%92%E6%85%A3-%E4%BE%BF%E7%95%B6%E5%A4%9A%E5%8A%A01%E7%89%A9%E5%B0%B1%E5%B0%8D%E4%BA%86-100700648.html)
+
+巴西3名人瑞親姊妹合計316歲，榮獲金氏世界紀錄認證為全球最長壽在世三姊妹。營養師高敏敏指出，長壽關鍵藏在日常習慣中，並歸納出3大健康祕訣供民眾借鏡，包含多攝取蔬菜與魚肉等原型食物、每日留時間培養個人興趣，以及維持親友互動與人際連結。透過這些簡單的生活小改變，就能逐步打造健康長壽的樂活人生。
+
+三立新聞網 setn.com・2 天前・44則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/C79DF7228B8C9FCEE3CD086DA118D7996A7CA6C31C1C6AB513238A1528014030/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnownews.com%2Ff1beda2cfccd03d08faf2e0481d7c1fd)
+
+### [紐約辦「最像黃樂」間諜大賽！網轟羞辱亞裔](https://tw.news.yahoo.com/%E7%B4%90%E7%B4%84%E8%BE%A6-%E6%9C%80%E5%83%8F%E9%BB%83%E6%A8%82-%E9%96%93%E8%AB%9C%E5%A4%A7%E8%B3%BD-%E7%B6%B2%E8%BD%9F%E7%BE%9E%E8%BE%B1%E4%BA%9E%E8%A3%94-095736526.html)
+
+\[NOWNEWS今日新聞\]輝達前執行長黃仁勳的婚外情風波，竟然被拿來當成街頭活動的題材。美國紐約21日舉辦一場「中國間諜模仿大賽」，比誰最像與黃仁勳傳出婚外情、被指控為中國間諜的女商人黃樂（Alice...
+
+今日新聞NOWNEWS・1 天前・154則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/D9BA2949440E9E8B7BA3BCAB2AF8602E55453943D5A4263B8880DB772A86175B/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgotv_ctitv_com_tw_678%2F73dcdec5b9e2f2a467f28ed7911c617d.jpg_up.jpg)
+
+### [賣股誤按成買整張！背90萬交割款　業內人士教2招解套](https://tw.news.yahoo.com/%E8%B3%A3%E8%82%A1%E8%AA%A4%E6%8C%89%E6%88%90%E8%B2%B7%E6%95%B4%E5%BC%B5-%E8%83%8C90%E8%90%AC%E4%BA%A4%E5%89%B2%E6%AC%BE-%E6%A5%AD%E5%85%A7%E4%BA%BA%E5%A3%AB%E6%95%992%E6%8B%9B%E8%A7%A3%E5%A5%97-071122313.html)
+
+一名年輕股民日前在社群平台發文求救，指出自己原本要賣股票，卻誤買一整張價值90萬元的股票，直到收到交割通知才驚覺闖禍，嚇得不敢告訴家人。竟意外釣出一票業內人士教學如何處理這種情況，最終原PO表示將於禮拜一去辦理「T+5」。
+
+中天新聞網・1 天前・20則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/1637C73CBD31E154E22EDC25BAF4F989E6EB224560B98103079B3363CDEE2B85/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fmirrormedia.mg%2F402b7c59b5b7c57b9714687c1bea52cc.jpg)
+
+### [《步步驚心》女星美國住家再遭竊！損失數千萬　她崩潰：能否從中國派警察來上課](https://tw.news.yahoo.com/%E6%AD%A5%E6%AD%A5%E9%A9%9A%E5%BF%83-%E5%A5%B3%E6%98%9F%E7%BE%8E%E5%9C%8B%E4%BD%8F%E5%AE%B6%E5%86%8D%E9%81%AD%E7%AB%8A-%E6%90%8D%E5%A4%B1%E6%95%B8%E5%8D%83%E8%90%AC-%E5%A5%B9%E5%B4%A9%E6%BD%B0-%E8%83%BD%E5%90%A6%E5%BE%9E%E4%B8%AD%E5%9C%8B%E6%B4%BE%E8%AD%A6%E5%AF%9F%E4%BE%86%E4%B8%8A%E8%AA%B2-074900476.html)
+
+曾出演過電影《花木蘭》「柔然公主」、《步步驚心》「明玉格格」的中國演員劉玥霏（原名劉雨欣），近期透露，位於美國的新住所再次被人偷竊，從2024年的首次被偷到2026年再被盜，已經損失數千萬人民幣，她也透過小紅書發文批，「這地方真的沒救了。」
+
+鏡週刊Mirror Media・5 小時前・14則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/CD129D235951AAB4CB905A0FC42079F99A0CB51A80F1E36E72C2ECBFBE7FF12A/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F617ea33e1b4a849b519ec17087bdff69.jpg)
+
+### [快訊／基隆私立中學墜樓意外！14歲少女倒臥廣場…送醫不治](https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%9F%BA%E9%9A%86%E7%A7%81%E7%AB%8B%E4%B8%AD%E5%AD%B8%E5%A2%9C%E6%A8%93%E6%84%8F%E5%A4%96-14%E6%AD%B2%E5%B0%91%E5%A5%B3%E5%80%92%E8%87%A5%E5%BB%A3%E5%A0%B4-%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB-112600052.html)
+
+基隆市某私立中學於23日下午發生墜樓意外，一名14歲國三女學生疑似自高處墜落，倒臥校內廣場。警消獲報趕抵時，少女已無生命跡象，緊急送往三軍總醫院搶救後仍宣告不治。目前警方與校方正積極調查事故原因，詳細案情仍待進一步釐清。
+
+三立新聞網 setn.com・1 小時前・發表留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/F04F60B9B02204970D35202176121DA1B4669ABC52E5FF4C3BBCC9B7C38DBAA8/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fmirrordaily_390%2Fa9dc357832c803c09e247d1d9bc5c787.jpg)
+
+### [桃園市議員候選人王妃曝「天崩開局」16字姓名原因！曾被母拿枕頭悶到昏迷、慘被師生霸凌](https://tw.news.yahoo.com/%E6%A1%83%E5%9C%92%E5%B8%82%E7%84%A1%E9%BB%A8%E7%B1%8D%E8%AD%B0%E5%93%A1%E5%80%99%E9%81%B8%E4%BA%BA%E6%9B%9D-%E5%A4%A9%E5%B4%A9%E9%96%8B%E5%B1%80-16%E5%AD%97%E5%A7%93%E5%90%8D%E5%8E%9F%E5%9B%A0-%E6%9B%BE%E8%A2%AB%E8%A6%AA%E7%94%9F%E6%AF%8D%E6%8B%BF%E6%9E%95%E9%A0%AD%E6%82%B6%E5%88%B0%E6%98%8F%E8%BF%B7-%E5%AD%B8%E7%94%9F%E6%99%82%E6%9C%9F%E6%85%98%E8%A2%AB%E5%B8%AB%E7%94%9F%E9%9C%B8%E5%87%8C-033900934.html)
+
+桃園市無黨籍候選人「王妃天崩開局穿越整頓霸凌者佀廣洋」（前JKF女郎Angela寶7）以古裝出席登記參選、拜票，甚至出席政見發表，其名字、造型與極為針對同區議員候選人佀廣洋的政見引發關注，不過外界好奇，寶7為何取名「天崩開局」？她日前接受Podcast節目《我們不是金魚腦》專訪，竟與悲慘出生有關。
+
+鏡報・2 天前・9則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/B0BE4FBDE2181D3670F4B8A2DB71A6BFF0306BA3F85C7772BF144E5844394186/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fca%2Fsetn.com.tw%2F87d9b1a66e7d1d0ce1b6e7a36183a678.jpg)
+
+### [知名女星頭痛連吞3天止痛藥仍無效　曝2舊疾纏身：這次特別難受](https://tw.news.yahoo.com/%E7%9F%A5%E5%90%8D%E5%A5%B3%E6%98%9F%E9%A0%AD%E7%97%9B%E9%80%A3%E5%90%9E3%E5%A4%A9%E6%AD%A2%E7%97%9B%E8%97%A5%E4%BB%8D%E7%84%A1%E6%95%88-%E6%9B%9D2%E8%88%8A%E7%96%BE%E7%BA%8F%E8%BA%AB-%E9%80%99%E6%AC%A1%E7%89%B9%E5%88%A5%E9%9B%A3%E5%8F%97-102400990.html)
+
+藝人米可白近日健康亮紅燈，在社群平台透露連續3天嚴重頭痛且吃止痛藥無效，令粉絲相當擔憂。她本身長年受暈眩症、內耳平衡問題及耳鳴困擾，但這次痛感異常劇烈，讓她決定就醫查明原因。雖身體不適，她仍曬出與愛犬的溫馨合照報平安，粉絲也紛紛留言為她打氣，期盼她早日恢復健康。
+
+三立新聞網 setn.com・2 小時前・3則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/E47EB4EE35C09FB70550688BB1B6AEF49C7F2D2B249467535C05BDED6F494960/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fctwant_com_582%2F54155f85ad77fbba5757e99c88b1b2d0.jpg_up.jpg)
+
+### [好市多這盒太扯！保鮮膜32年終於壽終正寢　老婆變前妻還在用](https://tw.news.yahoo.com/%E5%A5%BD%E5%B8%82%E5%A4%9A%E9%80%99%E7%9B%92%E5%A4%AA%E6%89%AF-%E4%BF%9D%E9%AE%AE%E8%86%9C32%E5%B9%B4%E7%B5%82%E6%96%BC%E5%A3%BD%E7%B5%82%E6%AD%A3%E5%AF%A2-%E8%80%81%E5%A9%86%E8%AE%8A%E5%89%8D%E5%A6%BB%E9%82%84%E5%9C%A8%E7%94%A8-144547690.html)
+
+美國生活網站《Chowhound》報導，當事人近日在Reddit分享這段不可思議的使用紀錄。他回憶，1994年和女友一起前往好市多購物時，買了這盒超大容量保鮮膜，當時恐怕沒想到它會一路跟著自己度過往後數十年的人生變化。兩人在買下保鮮膜4年後、也就是1998年步入婚姻，但到了2005...
+
+CTWANT・3 天前・6則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/E7426D52989D8BF3E936FB73EC63FCB1C43D9B9B47F84EC818DCD438A401D0A7/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F5e44a88eee2f121362ce9dc546241195.jpg)
+
+### [快訊／5檔爆違約交割　總額破1.9億！「台積電親兒子」創意也翻車](https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-5%E6%AA%94%E7%88%86%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2-%E7%B8%BD%E9%A1%8D%E7%A0%B41-9%E5%84%84-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%A6%AA%E5%85%92%E5%AD%90-110100655.html)
+
+台股投資人落難憾事連環爆！證交所與櫃買中心23日公告，上市的愛普\*、創意、景碩、金像電，以及上櫃的富喬等5檔熱門個股爆發違約交割，總金額高達1億9114萬元。其中愛普\*違約金近7千萬最高，創意、金像電與景碩也破千萬。市場人士提醒，近期台股震盪劇烈，投資人參與市場務必審慎評估自身風險與償付能力，嚴控資金水位。
+
+三立新聞網 setn.com・2 小時前・發表留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/D4C0A0153AFDB26BAFDEB94EBC17F721E064C860E0C75FD146A983F40F191C58/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmirrordaily_390%2F4629ca1334044f44add3cc10f350d6ed.jpg)
+
+### [才「神助攻」促成爸媽合體！17歲妞妞登台亭亭玉立　郭台銘、曾馨瑩帶12歲愛女現身](https://tw.news.yahoo.com/%E6%89%8D-%E7%A5%9E%E5%8A%A9%E6%94%BB-%E4%BF%83%E6%88%90%E7%88%B8%E5%AA%BD%E5%90%88%E9%AB%94-17%E6%AD%B2%E5%A6%9E%E5%A6%9E%E7%99%BB%E5%8F%B0%E4%BA%AD%E4%BA%AD%E7%8E%89%E7%AB%8B-%E9%83%AD%E5%8F%B0%E9%8A%98-114300911.html)
+
+鴻海創辦人郭台銘與妻子曾馨瑩近日難得帶著女兒同框，第四屆「永齡銘馨盃」舞蹈大賽決賽花絮曝光，17歲大女兒妞妞穿著白色短洋裝、手拿麥克風登台，亭亭玉立的模樣引起關注；曾馨瑩也換上不同造型亮相，郭台銘則坐在台下笑容滿面，12歲小女兒QQ也陪在身旁，一家人的互動畫面相當溫馨。
+
+鏡報・1 小時前・1則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/F1087607FAFED1B4186B275962500C07BA24AD2EE4662B4CEFEA421B1B882F06/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fctwant_com_582%2Fc2d078878ffc5a4ed0eba64e4dbde1d4.jpg_up.jpg)
+
+### [18歲女赴美旅遊出事！入境疑「一句話」惹禍　遭上銬、腳鐐押送遣返](https://tw.news.yahoo.com/18%E6%AD%B2%E5%A5%B3%E8%B5%B4%E7%BE%8E%E6%97%85%E9%81%8A%E5%87%BA%E4%BA%8B-%E5%85%A5%E5%A2%83%E5%9B%9E-%E5%8F%A5%E8%A9%B1-%E6%83%B9%E7%A6%8D-%E9%81%AD%E4%B8%8A%E9%8A%AC-052219617.html)
+
+根據日媒報導，現年20多歲的桃花（化名）回憶，18歲那年準備升大學時因為好友邀請，加上對夜間娛樂場所的工作抱有好奇心，便到一間女孩酒吧（Girls Bar）短期打工一個月，主要工作是穿著店家提供的服裝，隔著吧台接待男性客人。沒想到，之後桃花獨自飛往美國旅遊時，卻在機場...
+
+CTWANT・7 小時前・139則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/8294D74E8694D561F41B1B126A6B389A06CF4C093A1EC14D75CA420D6A5FD7AA/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fctwant_com_582%2F96f9cf784d1503eaa7148f2a17fa6e6e.jpg_up.jpg)
+
+### [勞工注意！2職業工會積欠保費　勞保局列入黑名單：暫拒給付](https://tw.news.yahoo.com/%E5%8B%9E%E5%B7%A5%E6%B3%A8%E6%84%8F-2%E8%81%B7%E6%A5%AD%E5%B7%A5%E6%9C%83%E7%A9%8D%E6%AC%A0%E4%BF%9D%E8%B2%BB-%E5%8B%9E%E4%BF%9D%E5%B1%80%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%96%AE-%E6%9A%AB%E6%8B%92%E7%B5%A6%E4%BB%98-092110593.html)
+
+勞保局說明，依據《勞工保險條例施行細則》第40條和《勞工職業災害保險及保護法施行細則》第36條規定，職業工會欠繳保險費累計達2個月者，不得繼續預收保險費。依上開規定，大台南宗教服務職業工會及基隆市雕刻業職業工會2家職業工會已不得繼續預收保險費，勞保局呼籲會員留...
+
+CTWANT・3 小時前・4則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/BA24245C86D2367F6EB2ED1833D101C28FA2F281753450DD76F65EAC4E5FE1EF/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsetn.com.tw%2F3d79177349a27918bf531c98aed06d41.jpg)
+
+### [曾吸7.5萬人衝全球第4！沈伯洋突預告選前做1事　網笑：8點節目要哭了](https://tw.news.yahoo.com/%E6%9B%BE%E5%90%B87-5%E8%90%AC%E4%BA%BA%E8%A1%9D%E5%85%A8%E7%90%83%E7%AC%AC4-%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%AA%81%E9%A0%90%E5%91%8A%E9%81%B8%E5%89%8D%E5%81%9A1%E4%BA%8B-%E7%B6%B2%E7%AC%91-8%E9%BB%9E%E7%AF%80%E7%9B%AE%E8%A6%81%E5%93%AD%E4%BA%86-160200059.html)
+
+2026台北市長選戰進入最後一週倒數，民進黨候選人沈伯洋昨（22）日於社群平台預告將再加開3場線上直播與市民互動。由於他日前首場直播曾創下最高同時在線人數突破7.5萬人、榮登全球熱門直播排行榜第4名的亮眼紀錄，最新預告曝光後隨即引發網友熱烈討論，不少支持者留言心疼他行程滿檔、提醒多休息，也有人笑稱同時段的政論節目收視率即將面臨嚴峻考驗。
+
+三立新聞網 setn.com・21 小時前・104則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/98107C05CBD4E7AB30E803E14291BF5371CD7CBC890FE44070ABD95CF41F58D1/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Fffdd0beca50d78528273f6548c196232.jpg)
+
+### [來台3周出外景！韓大咖主廚「突暴瘦一圈」公開現身　驚人狀態曝光](https://tw.news.yahoo.com/%E4%BE%86%E5%8F%B03%E5%91%A8%E5%87%BA%E5%A4%96%E6%99%AF-%E9%9F%93%E5%A4%A7%E5%92%96%E4%B8%BB%E5%BB%9A-%E7%AA%81%E6%9A%B4%E7%98%A6-%E5%9C%88-%E5%85%AC%E9%96%8B%E7%8F%BE%E8%BA%AB-033200516.html)
+
+實境節目今晚迎來最終對決，日韓主廚川越達也與鄭智善無規則限制比拼，分別端出秘製咖哩雞肉飯與紅燒肉蓋飯。重量級嘉賓高捷與張懷秋熱血助陣，雙方激烈攻防祭出功能卡，過程笑料不斷。歷經十七天環島拍攝，主廚們紛紛累到消瘦，感性直呼台灣人友善溫暖，留下深刻回憶。
+
+三立新聞網 setn.com・2 天前・3則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/666CEE600B9950F02DCA0E49A43BACED4A3330EBDB615C4F2299C850BB199667/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Febc__387%2F81de3b4787a715c9a1e5f2e4a146cb53.jpg_up.jpg)
+
+### [黃仁勳有望重返輝達？ 馬斯克手握「這籌碼」恐成逼宮關鍵](https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%9C%89%E6%9C%9B%E9%87%8D%E8%BF%94%E8%BC%9D%E9%81%94-%E9%A6%AC%E6%96%AF%E5%85%8B%E6%89%8B%E6%8F%A1-%E9%80%99%E7%B1%8C%E7%A2%BC-%E6%81%90%E6%88%90%E9%80%BC%E5%AE%AE%E9%97%9C%E9%8D%B5-045400146.html)
+
+黃仁勳有望重掌輝達（NVIDIA）？特斯拉執行長馬斯克公開力挺黃仁勳回鍋，手中龐大的晶片採購訂單更被分析師視為可能影響董事會決策的關鍵籌碼。根據《Benzinga》報導，海港研究合夥公司（Seaport Research Partners）分析師傑伊・戈德堡（Jay Goldberg）指出，馬斯克預計將成為輝達2027年最大客戶，若選擇取消或轉移訂單，幾乎有能力迫使局勢改變。
+
+EBC東森財經新聞・8 小時前・11則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/F0B13A453682E97F6DEA806DCDF3CC6E96153CE5977F0F6D64D11D1789511857/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F8489081e999567e2cc7b49d8a3dd9d05.jpg_up.jpg)
+
+### [愛情長跑范逸臣18年！田中千繪突拋震撼彈宣布新喜訊：對我意義重大](https://tw.news.yahoo.com/%E6%84%9B%E6%83%85%E9%95%B7%E8%B7%91%E8%8C%83%E9%80%B8%E8%87%A318%E5%B9%B4-%E7%94%B0%E4%B8%AD%E5%8D%83%E7%B9%AA%E7%AA%81%E6%8B%8B%E9%9C%87%E6%92%BC%E5%BD%88%E5%AE%A3%E5%B8%83%E6%96%B0%E5%96%9C%E8%A8%8A-%E5%B0%8D%E6%88%91%E6%84%8F%E7%BE%A9%E9%87%8D%E5%A4%A7-072100372.html)
+
+日籍女星田中千繪來台發展多年，與范逸臣因合作電影《海角七號》結緣，愛情長跑約18年。她於21日透過臉書宣布重大喜訊，透露由魏德聖導演執導、兩人合作的經典作品《海角七號》與《BIG》，將於明年初陸續在日本重映與上映。消息曝光後讓她興奮直呼期待，也吸引大批粉絲湧入留言祝賀，直呼勾起滿滿回憶，紛紛獻上祝福。
+
+三立新聞網 setn.com・2 天前・18則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/C5F4D1849BCC288D4D3DA64E7516FEF81A9D27B04A8C02DCFB05521B691B2F19/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fftnn_com_tw_939%2Fc989aff8af5ad66b5f8e6f1543ba842c.jpg_up.jpg)
+
+### [卓榮泰喊擬擴大國安基金規模！台指期夜盤翻紅漲逾500點、台積電ADR盤前飆8%](https://tw.stock.yahoo.com/news/%E5%8D%93%E6%A6%AE%E6%B3%B0%E5%96%8A%E6%93%AC%E6%93%B4%E5%A4%A7%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E8%A6%8F%E6%A8%A1-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E7%BF%BB%E7%B4%85%E6%BC%B2%E9%80%BE500%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E7%9B%A4%E5%89%8D%E9%A3%868-095200615.html)
+
+\[FTNN新聞網\]財經中心／綜合報導台股連日重挫，在國安基金護盤下，今（23）日上演V型反攻，加權指數終場大漲778.60點，收在36,811.89點，台指期夜盤也延續反...
+
+FTNN新聞網・3 小時前・8則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/9316F38818BD767BC9B75A3BC19AA52AD558EA7D5B8CFA06EAFD49F4E087F06B/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Fe1859c8d783a84e2861928bdb2e3d377.jpg_up.jpg)
+
+### [《步步驚心》女星美國豪宅遭竊損失數千萬　怒轟：能不能從中國派警察來](https://tw.news.yahoo.com/%E6%AD%A5%E6%AD%A5%E9%A9%9A%E5%BF%83-%E5%A5%B3%E6%98%9F%E7%BE%8E%E5%9C%8B%E8%B1%AA%E5%AE%85%E9%81%AD%E7%AB%8A%E6%90%8D%E5%A4%B1%E6%95%B8%E5%8D%83%E8%90%AC-%E6%80%92%E8%BD%9F-%E8%83%BD%E4%B8%8D%E8%83%BD%E5%BE%9E%E4%B8%AD%E5%9C%8B%E6%B4%BE%E8%AD%A6%E5%AF%9F%E4%BE%86-112000419.html)
+
+曾出演《步步驚心》等劇的中國女星劉玥霏（劉雨欣），近日透露搬遷美國新住所後再度遭遇竊盜，短短兩年內累計財物損失高達數千萬元人民幣。她無奈表示，新家雖設有警報設備，但報警後警方竟延遲兩小時才到場，讓她氣得在社群平台發文痛批當地治安猶如犯罪都市，諷刺美國宛如自由零元購，更直言當地環境已經讓她難以繼續待下去。
+
+三立新聞網 setn.com・1 小時前・4則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/F9F9677ECB57E741ADD3FF50B0BF75F49FCA28D36564E3FDEBBBA5965C9A178C/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fftvn.com.tw%2F16b80fc7c94327c89d2c15c62b0d8b15.jpg)
+
+### [沈伯洋選前之夜內幕被爆！他不藏了猛揭「神秘來賓震撼安排」網炸掉](https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E9%81%B8%E5%89%8D%E4%B9%8B%E5%A4%9C%E5%85%A7%E5%B9%95%E8%A2%AB%E7%88%86-%E4%BB%96%E4%B8%8D%E8%97%8F%E4%BA%86%E7%8C%9B%E6%8F%AD-%E7%A5%9E%E7%A7%98%E4%BE%86%E8%B3%93%E9%9C%87%E6%92%BC%E5%AE%89%E6%8E%92-%E7%B6%B2%E7%82%B8%E6%8E%89-102642745.html)
+
+政治中心／綜合報導2026九合一選舉進入最後倒數，民進黨台北市長候選人沈伯洋選前之夜將於27日登場，沒想到活動地點卻提前曝光！沈伯洋團隊成員周軒近日登上節目，談及原本打算再晚一、兩天才公布場地，沒想到消息卻突然傳出，索性直接公開活動規劃，不僅透露選前之夜將在台北市議會前的仁愛路舉辦，更預告當天將出現許多「大家想像不到的來賓」，甚至有過去不可能登上傳統選前之夜舞台的人物，政治人物的比例反而不會太高，讓一票網友看了大尖叫。
+
+民視・2 小時前・5則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/5D13937A2475230DECCACE0B037F68211D85064F4E79BF5915272AF444CBE199/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fgotv_ctitv_com_tw_678%2F9b187c134eb73457efa45b9a90dc6ee6.png_up.jpg)
+
+### [一週運勢出爐！4生肖爽中「上上籤」　財運相隨](https://tw.news.yahoo.com/%E9%80%B1%E9%81%8B%E5%8B%A2%E5%87%BA%E7%88%90-4%E7%94%9F%E8%82%96%E7%88%BD%E4%B8%AD-%E4%B8%8A%E4%B8%8A%E7%B1%A4-%E8%B2%A1%E9%81%8B%E7%9B%B8%E9%9A%A8-031734707.html)
+
+命理粉專《興趣使然的解籤師》公布11月22日至28日十二生肖籤詩運勢，其中虎、龍、羊、猴抽中上上籤，財運不錯。牛、兔、馬則為下下籤，文中並附上各生肖的運勢批語與本週開運提醒。
+
+中天新聞網・9 小時前・1則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/3B543C94696913B9B43F02C62A3B03409CE13E547B89A26235C224AFC49BDFFA/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Fb945e3b892036a2127ecc66ff853d5d7.jpg)
+
+### [比市場炸雞還便宜！限時5天　拿坡里小披薩搭10隻酥炸翅腿特惠價199元](https://tw.news.yahoo.com/%E6%AF%94%E5%B8%82%E5%A0%B4%E7%82%B8%E9%9B%9E%E9%82%84%E4%BE%BF%E5%AE%9C-%E9%99%90%E6%99%825%E5%A4%A9-%E6%8B%BF%E5%9D%A1%E9%87%8C%E5%B0%8F%E6%8A%AB%E8%96%A9%E6%90%AD10%E9%9A%BB%E9%85%A5%E7%82%B8%E7%BF%85%E8%85%BF%E7%89%B9%E6%83%A0%E5%83%B9199%E5%85%83-022000850.html)
+
+「柑橘起司」風味，以柑橘美乃滋搭配韓式洋蔥起司粉，鹹香中帶有酸甜果香。「香檸起司」風味，融合檸檬清香與濃郁起司，入口清爽。「原味胡椒」風味，以經典胡椒鹹香襯托雞肉鮮味。「川香椒麻」風味，則以川味香料帶出微麻尾韻，香麻唰嘴。
+
+三立新聞網 setn.com・9 小時前・發表留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/F565DC4E1B9F32562A3202DB48C6CECB3EC233D59EEEE040E0F7D1F8BABDD7D8/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fmirrordaily_390%2F860d00b4cf889f1603c7d658ccb22fc0.png)
+
+### [劉德華51歲得女吐求子艱辛！當偶像太久「忘記要下一代」　親揭寫給女兒的歌詞藏心聲](https://tw.news.yahoo.com/%E5%8A%89%E5%BE%B7%E8%8F%AF51%E6%AD%B2%E5%BE%97%E5%A5%B3%E5%90%90%E6%B1%82%E5%AD%90%E8%89%B1%E8%BE%9B-%E7%95%B6%E5%81%B6%E5%83%8F%E5%A4%AA%E4%B9%85-%E5%BF%98%E8%A8%98%E8%A6%81%E4%B8%8B-%E4%BB%A3-%E8%A6%AA%E6%8F%AD%E5%AF%AB%E7%B5%A6%E5%A5%B3%E5%85%92%E7%9A%84%E6%AD%8C%E8%A9%9E%E8%97%8F%E5%BF%83%E8%81%B2-072500519.html)
+
+天王劉德華出道多年，事業橫跨影視歌三棲，家庭生活卻始終保持低調。近日他在專訪中罕見談起51歲才迎來女兒的心路歷程，坦言當年一心投入演藝工作，直到真正想當爸爸，才發現一切並沒有想像中容易。
+
+鏡報・5 小時前・1則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/829B45323EB1AF6AABB1C4797AAB432A66FFD077497AC993BA7FA05461A9AC27/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F9a2a884b28afcbf3a66b6eea170ab6ad.jpg_up.jpg)
+
+### [交通「8微罪」不開放檢舉　併排臨停、駕駛人抽菸都上榜](https://tw.news.yahoo.com/%E4%BA%A4%E9%80%9A-8%E5%BE%AE%E7%BD%AA-%E4%B8%8D%E9%96%8B%E6%94%BE%E6%AA%A2%E8%88%89-%E4%BD%B5%E6%8E%92%E8%87%A8%E5%81%9C-%E9%A7%95%E9%A7%9B%E4%BA%BA%E6%8A%BD%E8%8F%B8%E9%83%BD%E4%B8%8A%E6%A6%9C-231400140.html)
+
+2024年交通新法上路，配合《道路交通管理處罰條例》修正，針對騎機車手持手機、抽菸、人行道違規停車與併排臨停等8大類交通微罪，取消開放民眾檢舉，但警方仍可取締開罰。不過，涉及行人及身障權益等5項違規，如未依規定戴安全帽、佔用身障停車位等，民眾仍可拍照檢舉。提醒民眾留意違規記點制度異動，共同維護道路交通安全。
+
+三立新聞網 setn.com・14 小時前・11則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/172D0488EA70C03D6FAEE710FEB4B3BBE3F3D1BBB9DBE2D2220D8B64FF4DF44A/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2Fda5ea071d04ce5122fd99462ffaec238.jpg_up.jpg)
+
+### [台股打7折跌進熊市！手握100萬怎麼買ETF？股海老牛公開進場全攻略](https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%89%937%E6%8A%98%E8%B7%8C%E9%80%B2%E7%86%8A%E5%B8%82-%E6%89%8B%E6%8F%A1100%E8%90%AC%E6%80%8E%E9%BA%BC%E8%B2%B7etf-%E8%82%A1%E6%B5%B7%E8%80%81%E7%89%9B%E5%85%AC%E9%96%8B%E9%80%B2%E5%A0%B4%E5%85%A8%E6%94%BB%E7%95%A5-105000492.html)
+
+台股上週單週暴跌7641點，從高點修正逾28%進入技術性熊市。價值投資達人股海老牛分享100萬元投資配置，建議50萬布局市值型ETF、30萬買成長型標的、20萬保留現金，並公開分批進場順序。（記者唐家興）
+
+三立新聞網 setn.com・2 小時前・發表留言
+
+[AI 整理\\
+\\
+台股暴跌與政府穩市措施\\
+（另開新視窗）](https://tw.news.yahoo.com/news-story/166016b4-5858-4e96-83f1-5580a7d5ffdf)
+
+- ![](https://s.yimg.com/lo/mysterio/api/FFF95CDE8926BE060BC00B58A5BF103DF5E7897B1990E54CA5A76AC35B5FA01A/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fmirrormedia.mg%2Fe79b9b39f765dc946f25085da6a90c27.jpg)
+
+### [明起變天！東北季風接力轉濕涼　週三、週四雨勢最不穩](https://tw.news.yahoo.com/%E6%98%8E%E8%B5%B7%E8%AE%8A%E5%A4%A9-%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E6%8E%A5%E5%8A%9B%E8%BD%89%E6%BF%95%E6%B6%BC-%E9%80%B1%E4%B8%89-%E9%80%B1%E5%9B%9B%E9%9B%A8%E5%8B%A2%E6%9C%80%E4%B8%8D%E7%A9%A9-072100182.html)
+
+明日又要變天了，把握今日好天氣！氣象粉專表示，明日隨鋒面通過，東北季風再度增強，涼冷空氣南下，各地氣溫逐漸下降，降雨機會也會增加。
+
+鏡週刊Mirror Media・5 小時前・1則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/8C58CDE8C31B1A3939FCB186AEA9FE83449C68E87E6F0559E5FAFECBCB9A6B27/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F513c5c455cb4fbf53421b59dc9dd74d9.jpg)
+
+### [蔣萬安車掃「巧遇石舫亘」放閃！網見這1幕傻眼：這也要抄沈伯洋？](https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E8%BB%8A%E6%8E%83-%E5%B7%A7%E9%81%87%E7%9F%B3%E8%88%AB%E4%BA%98-%E6%94%BE%E9%96%83-%E7%B6%B2%E8%A6%8B%E9%80%991%E5%B9%95%E5%82%BB%E7%9C%BC-%E9%80%99%E4%B9%9F%E8%A6%81%E6%8A%84%E6%B2%88%E4%BC%AF%E6%B4%8B-213100982.html)
+
+選前黃金週台北市長蔣萬安與妻子石舫亘分進合擊全力衝刺，石舫亘在水源市場發放明信片時，巧遇蔣萬安車隊經過，兩人當街大方擁抱放閃。不過，此橋段隨即被網友與醫師質疑是刻意模仿日前沈伯洋車掃巧遇結婚紀念日妻子的橋段，引發網路熱烈討論與抄襲爭議。
+
+三立新聞網 setn.com・15 小時前・140則留言
+
+[AI 整理\\
+\\
+蔣萬安選前大車掃活動\\
+（另開新視窗）](https://tw.news.yahoo.com/news-story/9cff4d9b-3276-43c7-99a9-28aa133d4c7d)
+
+- ![](https://s.yimg.com/lo/mysterio/api/798442746484EF710D20ABCEBDF4912650A2489ACE067FC5CFBFFA8173281F1D/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2F2ad471f459672a5285762a48066576ba.jpg_up.jpg)
+
+### [有錢人都知道！2027財運爆發關鍵…專家曝：年底「黃金3吉日」必拜](https://tw.news.yahoo.com/%E6%9C%89%E9%8C%A2%E4%BA%BA%E9%83%BD%E7%9F%A5%E9%81%93-2027%E8%B2%A1%E9%81%8B%E7%88%86%E7%99%BC%E9%97%9C%E9%8D%B5-%E5%B0%88%E5%AE%B6%E6%9B%9D-%E5%B9%B4%E5%BA%95-%E9%BB%83%E9%87%913%E5%90%89%E6%97%A5-073500488.html)
+
+命理專家指出，2026年尾聲至2027年逢「赤馬紅羊劫」時局動盪，卻是累積財富良機。為迎來2027年好財運，專家點名務必把握3大黃金吉日：今日下元節解厄、12月16日冬季甲子天赦日祈福，以及明年1月23日福德正神尾牙補財庫。依序完成參拜與儀式，即可除厄招財、財庫飽滿。
+
+三立新聞網 setn.com・5 小時前・發表留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/E28DF1E05C2D460D3D4D6EFA746A7661C1EB60915C11FDCA4B9282577D85EEA1/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fmirrormedia.mg%2Fc23ad113232ee36a2bfc8c7b73fde443.jpg)
+
+### [71歲布魯斯威利失智近照曝光！　32歲女兒隔天「突刪照道歉」](https://tw.news.yahoo.com/71%E6%AD%B2%E5%B8%83%E9%AD%AF%E6%96%AF%E5%A8%81%E5%88%A9%E5%A4%B1%E6%99%BA%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89-32%E6%AD%B2%E5%A5%B3%E5%85%92%E9%9A%94%E5%A4%A9-%E7%AA%81%E5%88%AA%E7%85%A7%E9%81%93%E6%AD%89-041800302.html)
+
+71歲好萊塢動作巨星布魯斯威利（Bruce Willis）罹患額顳葉型失智症（FTD）後，已淡出演藝圈多年。他與前妻黛咪摩爾（Demi Moore）所生的32歲小女兒塔露拉（Tallulah Willis），近日在社群網站分享父女牽手依偎的溫馨合照，沒想到隔天就刪除照片，她公開道歉，坦言當下太開心，沒有考慮到照片可能過於私密，表示：「我可以做得更好。」
+
+鏡週刊Mirror Media・8 小時前・7則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/50E1AFF34923DE58F0921A546A20975AA54A4AC43D3B1BCEC36461ABB7623621/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fsetn.com.tw%2Faaaae2edff0a52fb6310ca0d9bf40b2e.jpg)
+
+### [國道8車撞2死！新手媽媽出獄載乾弟遭輾亡…相驗結果出爐](https://tw.news.yahoo.com/%E5%9C%8B%E9%81%938%E8%BB%8A%E6%92%9E2%E6%AD%BB-%E6%96%B0%E6%89%8B%E5%AA%BD%E5%AA%BD%E5%87%BA%E7%8D%84%E8%BC%89%E4%B9%BE%E5%BC%9F%E9%81%AD%E8%BC%BE%E4%BA%A1-%E7%9B%B8%E9%A9%97%E7%B5%90%E6%9E%9C%E5%87%BA%E7%88%90-010900775.html)
+
+國道一號南下305.8公里處日前發生8車連環車禍，釀成2死悲劇。23歲新手媽媽黃姓女子疑操作不當自撞護欄翻覆，與19歲江姓乾弟因未繫安全帶雙雙被拋飛車外並遭後車輾斃。檢方初步相驗遺體，已排定本週進行解剖以釐清確切死因。這起重大車禍引發社會關注，詳細肇事原因仍待國道警方進一步調查釐清。
+
+三立新聞網 setn.com・12 小時前・1則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/6460111C6C3C8477A71FDEEB0DE3904FA56881A17230006CECFD87201F06A974/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fko%2Fsetn.com.tw%2F507bc56dc78eddf9d13d51a9fe9eb25f.jpg_up.jpg)
+
+### [吃下台積電大單！「這大廠」在手訂單4400億　目標價上看1000元](https://tw.news.yahoo.com/%E5%90%83%E4%B8%8B%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%A4%A7%E5%96%AE-%E9%80%99%E5%A4%A7%E5%BB%A0-%E5%9C%A8%E6%89%8B%E8%A8%82%E5%96%AE4400%E5%84%84-%E7%9B%AE%E6%A8%99%E5%83%B9%E4%B8%8A%E7%9C%8B1000%E5%85%83-183500154.html)
+
+亞翔（6139）公布前三季財報，稅後純益達97.17億元，年增近140%，每股盈餘41.25元大賺逾四個股本。受惠半導體與建廠需求熱絡，亞翔目前在手訂單突破4400億元，其中半導體佔比逾八成。法人看好其營運連三年向上，樂觀情境下全年EPS上看51元，目標價最高有望挑戰千元大關。
+
+三立新聞網 setn.com・18 小時前・6則留言
+
+- ![](https://s.yimg.com/lo/mysterio/api/C29DF9E1112EC4D29BFF8C5D8DCB015EC6D24E8EDF6F063572F2A338BBAC87B1/subgraphmysterio/smartcrop_w498_h280_faces;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fftvn.com.tw%2F3469e0a3f601a86f2e9ed1f6e2d19588.jpg)
+
+### [八方雲集鍋貼盒「2孔」藏神用法！3百萬人看過親認證](https://tw.news.yahoo.com/%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86%E9%8D%8B%E8%B2%BC%E7%9B%92-2%E5%AD%94-%E8%97%8F%E7%A5%9E%E7%94%A8%E6%B3%95-3%E7%99%BE%E8%90%AC%E4%BA%BA%E7%9C%8B%E9%81%8E%E8%A6%AA%E8%AA%8D%E8%AD%89-072629305.html)
+
+生活中心／高淑婷報導八方雲集的鍋貼、水餃是不少人外帶午晚餐的選擇，近日一名網友卻把目光放在外帶紙盒上。這名網友在Threads分享自己的小巧思，鍋貼外帶盒蓋左右各有一個方形洞孔，這個設計不只能幫助食物散熱，且也剛好能把用到一半的醬料包插進去，讓開口朝上，減少醬汁滴到桌上的機會。貼文曝光後，迅速吸引網友熱議，貼文瀏覽次數高達343萬、13萬人按讚，讓網友紛紛大讚「生活智慧王」。
+
+民視・1 天前・10則留言
+
+看下方更多熱門新聞
+
+## 全部服務及 App 下載
+
+### 全部服務
+
+[新聞](https://tw.news.yahoo.com/)
+
+[股市](https://tw.stock.yahoo.com/)
+
+[運動](https://tw.sports.yahoo.com/)
+
+[拍賣](https://tw.bid.yahoo.com/?co_servername=aME&co_servername2=aME)
+
+[購物中心](https://tw.buy.yahoo.com/?co_servername=sME&c2=sME)
+
+[汽車機車](https://autos.yahoo.com.tw/)
+
+[時時樂](https://tw.buy.yahoo.com/rushbuy/?co_servername=rushbuy_TF&c2=rushbuy_TF)
+
+[氣象](https://weather.yahoo.com/zh-hant-tw/)
+
+[字典](https://tw.dictionary.yahoo.com/)
+
+[理財](https://tw.stock.yahoo.com/fund/)
+
+[保險](https://yahoo.ebo.tmnewa.com.tw/tmnewa/portal/index)
+
+[買廣告](https://emarketing.yahoo.com.tw/ysmacq/index.html)
+
+[商家指南](https://tw.ysm.emarketing.yahoo.com/soeasy/index.php)
+
+[ATM](https://tw.stock.yahoo.com/atm)
+
+[日本代購](https://twyahoo.buyee.jp/cobrand?utm_source=twy&utm_medium=twy_toppage_pc&rc=twy_toppage_pc&mrc1=twy&mrc2=twy_toppage_pc&mrc3=link)
+
+[Yahoo TV](https://tw.tv.yahoo.com/)
+
+[娛樂影劇](https://tw.news.yahoo.com/entertainment/)
+
+[房地產](https://tw.stock.yahoo.com/real-estate/)
+
+[旅遊](https://tw.news.yahoo.com/fun/)
+
+[遊戲](https://tw.news.yahoo.com/game-3c/)
+
+[信箱](https://tw.mail.yahoo.com/)
+
+[3C科技](https://tw.news.yahoo.com/game-3c/)
+
+[搜尋](https://tw.search.yahoo.com/)
+
+[公益](https://tw.charity.yahoo.com/)
+
+[時尚美妝](https://tw.news.yahoo.com/style/)
+
+[挑戰低價](https://tw.buy.yahoo.com/bestprice/?co_servername=lowprice_TF&c2=lowprice_TF)
+
+[網路開店](https://promo.campaign.yahoo.com.tw/b2b/ecmarketing/)
+
+[網路行銷](https://promo.campaign.yahoo.com.tw/b2b/b2bmarketing/)
+
+[聯名卡](https://tw.promo.yahoo.com/2025/uniopencard/)
+
+[帳號保護](https://tw.bid.yahoo.com/help/new_auc/tns/2sv/index.html)
+
+[訂餐廳](https://table.yahoo.com.tw/)
+
+### App 下載
+
+[![Yahoo](https://s.yimg.com/cv/apiv2/twfrontpage/galaxy/icon/navigation/yahoo-app.png)\\
+\\
+Yahoo](https://promo.campaign.yahoo.com.tw/superapp-intro/#yahoo) [![Yahoo新聞](https://s.yimg.com/cv/apiv2/twfrontpage/galaxy/icon/navigation/yahoo-news-app.png)\\
+\\
+Yahoo新聞](https://promo.campaign.yahoo.com.tw/yahoo-allapp/#news) [![Yahoo股市](https://s.yimg.com/cv/apiv2/twfrontpage/galaxy/icon/navigation/yahoo-stock-app.png)\\
+\\
+Yahoo股市](https://promo.campaign.yahoo.com.tw/stockapp-intro/?utm_source=yahoo&utm_medium=fp_moreapp&utm_campaign=stock_landing#stock) [![Yahoo拍賣](https://s.yimg.com/cv/apiv2/twfrontpage/galaxy/icon/navigation/yahoo-aution-app.png)\\
+\\
+Yahoo拍賣](https://promo.campaign.yahoo.com.tw/yahoo-allapp/#auction) [![Yahoo購物中心](https://s.yimg.com/cv/apiv2/twfrontpage/galaxy/icon/navigation/yahoo-shopping-app.png)\\
+\\
+Yahoo購物中心](https://promo.campaign.yahoo.com.tw/yahoo-allapp/#shopping) [![Yahoo電子信箱](https://s.yimg.com/cv/apiv2/twfrontpage/galaxy/icon/navigation/yahoo-mail-app.png)\\
+\\
+Yahoo電子信箱](https://promo.campaign.yahoo.com.tw/yahoo-allapp/#mail) [![Yahoo氣象](https://s.yimg.com/cv/apiv2/twfrontpage/galaxy/icon/navigation/yahoo-weather-app.png)\\
+\\
+Yahoo氣象](https://promo.campaign.yahoo.com.tw/yahoo-allapp/#bottom) [![Yahoo搜尋](https://s.yimg.com/cv/apiv2/twfrontpage/galaxy/icon/navigation/yahoo-search-app.png)\\
+\\
+Yahoo搜尋](https://promo.campaign.yahoo.com.tw/yahoo-allapp/#bottom)
+
+請允許權限
+
+允許麥克風權限，以啟用語音搜尋
+
+再試一次。
+
+試著說

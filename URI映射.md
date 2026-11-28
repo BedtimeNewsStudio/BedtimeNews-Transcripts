@@ -23,7 +23,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD
 ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （日期为 UTC 换算的北京日期；同日不同 BV 依次加 -b、-c 小写后缀——2026-09-21 用户裁定）
 ```
 
-通则覆盖 1702 篇；产经日期命名 229 篇；例外 22 篇；合计 1953 篇（= 全库文稿数，脚本已校验无遗漏）。
+通则覆盖 1703 篇；产经日期命名 229 篇；例外 22 篇；合计 1954 篇（= 全库文稿数，脚本已校验无遗漏）。
 
 **文稿互链 href 规则**：正文中引用其它文稿时，链接文字保留原文措辞
 （如「第274期」「睡前消息第二期」），href 用从当前文稿目录出发的相对路径，例：
@@ -965,7 +965,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | ShuiQianXiaoXi/misc/winterbreak2023-6.md | 寒假版6 |
 | ShuiQianXiaoXi/misc/winterbreak2023-essay.md | 寒假版随笔 |
 
-## 参考信息（681 篇）
+## 参考信息（682 篇）
 
 | URI | 标准化标题 |
 | --- | --- |
@@ -1649,6 +1649,7 @@ ChanJingPoBiJi/YYYY-MM-DD.md            →   产经破壁机YYYY-MM-DD     （�
 | CanKaoXinXi/0601-0700/0676.md | 参考信息676 |
 | CanKaoXinXi/0601-0700/0677.md | 参考信息677 |
 | CanKaoXinXi/0601-0700/0678.md | 参考信息678 |
+| CanKaoXinXi/0601-0700/0679.md | 参考信息679 |
 | CanKaoXinXi/0301-0400/0396-1.md | 参考信息396-1（下架版） |
 
 ## 高见（68 篇）
